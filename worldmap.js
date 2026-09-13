@@ -1,7 +1,24 @@
-document.addEventListener("DOMContentLoaded", function () {
-    maakKaartInteractief();
-});
+async function laadWereldkaart() {
+    try {
+        const response = await fetch("world.svg");
 
+        if (!response.ok) {
+            throw new Error("SVG kon niet worden geladen");
+        }
+
+        const svgTekst = await response.text();
+
+        document.getElementById("world-map").innerHTML = svgTekst;
+
+        // Pas nadat de SVG in de pagina staat:
+        maakKaartInteractief();
+
+    } catch (error) {
+        console.error("Fout bij laden wereldkaart:", error);
+    }
+}
+
+document.addEventListener("DOMContentLoaded", laadWereldkaart);
 const continenten = {
 
 	//Europese continent
@@ -517,10 +534,6 @@ function maakKaartInteractief() {
                     }
                 });
                     			
-    			land.addEventListener("mouseleave", function () {
-        			lichtContinentOp(continentNaam, false);
-    			});
-
 				land.addEventListener("click", function () {
 				    geselecteerdeRegio = continentNaam;
 				    

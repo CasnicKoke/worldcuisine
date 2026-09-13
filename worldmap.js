@@ -636,7 +636,7 @@ function toonRecepten(regioNaam) {
     if (titelElement && regioBeschrijving[regioNaam]) {
         titelElement.style.display = "block";
         titelElement.textContent =
-            "Gerechten uit de culinaire regio " +
+            "Typische gerechten uit de culinaire regio " +
             regioBeschrijving[regioNaam].titel;
     }
 

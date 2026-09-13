@@ -2,7 +2,7 @@ const recepten = {
     rendang: {
     id: 1,
     titel: "Rendang",
-    afbeelding: "images/recepten/rendang.png",
+    afbeelding: "images/recepten/RendangAI.png",
 
     korteBeschrijving:
         "Langzaam gegaard rundvlees in kokos en specerijen.",
@@ -31,7 +31,7 @@ const recepten = {
         {
         	id: 2,
             titel: "Nasi Goreng",
-            afbeelding: "images/recepten/nasiGoreng.png",
+            afbeelding: "images/recepten/NasiGorengAI.png",
             korteBeschrijving: "Gebakken rijst met ketjap en aromatische kruiden.",
             beschrijving: "Heb ik nog niet",
             ingredienten: "geen idee",
@@ -43,7 +43,7 @@ const recepten = {
         {
         	id: 3,
             titel: "Saté Ajam",
-            afbeelding: "images/recepten/sateAjam.png",
+            afbeelding: "images/recepten/SateAjamAI.png",
             korteBeschrijving: "Kipspiesjes met pindasaus.",
             beschrijving: "Heb ik nog niet",
             ingredienten: "geen idee",
@@ -66,14 +66,14 @@ const recepten = {
     padThai: {
         titel: "Pad Thai",
         korteBeschrijving: "Roergebakken rijstnoedels met garnalen, tofu, ei, taugé en pinda's.",
-        afbeelding: "images/recepten/padThai.png",
+        afbeelding: "images/recepten/PadThaiAI.png",
         url: "recepten.html?id=padThai"
     },
 
     phoBo: {
         titel: "Phở Bò",
         korteBeschrijving: "Vietnamese noedelsoep met rundvlees, kruiden en een aromatische bouillon.",
-        afbeelding: "images/recepten/phoBo.png",
+        afbeelding: "images/recepten/PhoBoAI.png",
         url: "recepten.html?id=phoBo"
     },
 
@@ -87,14 +87,14 @@ const recepten = {
     mohinga: {
         titel: "Mohinga",
         korteBeschrijving: "Birmese noedelsoep met visbouillon, beschouwd als nationaal gerecht van Myanmar.",
-        afbeelding: "images/recepten/mohinga.png",
+        afbeelding: "images/recepten/MohingaAI.png",
         url: "recepten.html?id=mohinga"
     },
     
     pekingEend: {
         titel: "Peking Eend",
         korteBeschrijving: "Krokant geroosterde eend uit Beijing, traditioneel geserveerd met flensjes en hoisinsaus.",
-        afbeelding: "images/recepten/pekingEend.png",
+        afbeelding: "images/recepten/PekingEendAI.png",
         url: "recepten.html?id=pekingEend"
     },
 
@@ -115,35 +115,35 @@ const recepten = {
     xiaolongbao: {
         titel: "Xiaolongbao",
         korteBeschrijving: "Chinese gestoomde dumplings gevuld met vlees en rijke bouillon.",
-        afbeelding: "images/recepten/xiaolongbao.png",
+        afbeelding: "images/recepten/XiaolongbaoAI.png",
         url: "recepten.html?id=xiaolongbao"
     },
     
     sushi: {
         titel: "Sushi",
         korteBeschrijving: "Japanse rijstrolletjes met vis, groenten of andere vullingen.",
-        afbeelding: "images/recepten/sushi.png",
+        afbeelding: "images/recepten/SushiAI.png",
         url: "recepten.html?id=sushi"
     },
 
     ramen: {
         titel: "Ramen",
         korteBeschrijving: "Japanse noedelsoep met rijke bouillon en diverse toppings.",
-        afbeelding: "images/recepten/ramen.png",
+        afbeelding: "images/recepten/RamenAI.png",
         url: "recepten.html?id=ramen"
     },
 
     tonkatsu: {
         titel: "Tonkatsu",
         korteBeschrijving: "Krokant gepaneerde varkenskotelet, geserveerd met koolsalade.",
-        afbeelding: "images/recepten/tonkatsu.png",
+        afbeelding: "images/recepten/TonkatsuAI.png",
         url: "recepten.html?id=tonkatsu"
     },
 
     okonomiyaki: {
         titel: "Okonomiyaki",
         korteBeschrijving: "Hartige Japanse pannenkoek met kool en verschillende toppings.",
-        afbeelding: "images/recepten/okonomiyaki.png",
+        afbeelding: "images/recepten/OkonomiyakiAI.png",
         url: "recepten.html?id=okonomiyaki"
     },
     
@@ -157,7 +157,7 @@ const recepten = {
     sinigang: {
         titel: "Sinigang",
         korteBeschrijving: "Zure Filipijnse soep met vlees of vis en groenten, vaak op smaak gebracht met tamarinde.",
-        afbeelding: "images/recepten/sinigang.png",
+        afbeelding: "images/recepten/SinigangAI.png",
         url: "recepten.html?id=sinigang"
     },
 

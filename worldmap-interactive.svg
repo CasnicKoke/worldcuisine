@@ -1,0 +1,252 @@
+	<svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 1200 620"
+    role="img"
+    aria-labelledby="mapTitle mapDesc"
+>
+    <title id="mapTitle">Interactieve wereldkaart</title>
+
+    <desc id="mapDesc">
+        Gestileerde wereldkaart met zes klikbare continenten.
+    </desc>
+
+    <!-- Achtergrond -->
+    <rect
+        width="1200"
+        height="620"
+        rx="30"
+        fill="#dff1f3"
+    />
+
+    <style>
+        .continent {
+            stroke: #ffffff;
+            stroke-width: 5;
+            stroke-linejoin: round;
+            cursor: pointer;
+
+            transform-box: fill-box;
+            transform-origin: center;
+
+            transition:
+                filter 0.2s ease,
+                opacity 0.2s ease,
+                transform 0.2s ease;
+        }
+
+        .continent:hover,
+        .continent:focus {
+            filter:
+                brightness(1.12)
+                drop-shadow(0 8px 7px rgba(0, 0, 0, 0.25));
+
+            transform: scale(1.025);
+            outline: none;
+        }
+
+        .continent:focus-visible {
+            stroke: #ffd166;
+            stroke-width: 8;
+        }
+
+        .label {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 22px;
+            font-weight: 700;
+            fill: #24332f;
+            text-anchor: middle;
+            pointer-events: none;
+
+            paint-order: stroke;
+            stroke: rgba(255, 255, 255, 0.9);
+            stroke-width: 5px;
+            stroke-linejoin: round;
+        }
+    </style>
+
+    <!-- Noord-Amerika -->
+    <g
+        id="noord-amerika"
+        class="continent"
+        data-continent="noord-amerika"
+        tabindex="0"
+        role="button"
+        aria-label="Noord-Amerika"
+        fill="#4f8fc9"
+    >
+        <title>Noord-Amerika</title>
+
+        <path
+            d="M76 129 L123 87 L196 64 L281 78 L339 107
+               L324 145 L289 160 L271 195 L235 207 L214 248
+               L174 245 L153 212 L119 197 L93 162 Z"
+        />
+
+        <path
+            d="M233 246 L273 252 L296 279 L279 294 L250 278 Z"
+        />
+
+        <path
+            d="M126 69 L158 42 L204 45 L218 68 L181 81 Z"
+        />
+    </g>
+
+    <!-- Zuid-Amerika -->
+    <g
+        id="zuid-amerika"
+        class="continent"
+        data-continent="zuid-amerika"
+        tabindex="0"
+        role="button"
+        aria-label="Zuid-Amerika"
+        fill="#67b86e"
+    >
+        <title>Zuid-Amerika</title>
+
+        <path
+            d="M278 300 L327 286 L376 307 L403 348 L394 400
+               L367 448 L348 505 L321 566 L297 536 L292 482
+               L268 439 L257 386 L240 343 Z"
+        />
+    </g>
+
+    <!-- Europa -->
+    <g
+        id="europa"
+        class="continent"
+        data-continent="europa"
+        tabindex="0"
+        role="button"
+        aria-label="Europa"
+        fill="#f1c453"
+    >
+        <title>Europa</title>
+
+        <path
+            d="M506 127 L548 103 L602 105 L643 128 L635 158
+               L606 167 L590 197 L555 192 L537 168 L501 160 Z"
+        />
+
+        <path
+            d="M548 101 L535 77 L557 59 L576 85 Z"
+        />
+
+        <path
+            d="M485 131 L469 112 L478 91 L497 107 Z"
+        />
+    </g>
+
+    <!-- Afrika -->
+    <g
+        id="afrika"
+        class="continent"
+        data-continent="afrika"
+        tabindex="0"
+        role="button"
+        aria-label="Afrika"
+        fill="#ee9350"
+    >
+        <title>Afrika</title>
+
+        <path
+            d="M498 213 L546 187 L611 197 L656 234 L649 290
+               L622 332 L605 390 L570 439 L535 408 L521 356
+               L485 320 L468 268 Z"
+        />
+
+        <path
+            d="M648 359 L671 370 L665 414 L645 431 L638 395 Z"
+        />
+    </g>
+
+    <!-- Azië -->
+    <g
+        id="azie"
+        class="continent"
+        data-continent="azie"
+        tabindex="0"
+        role="button"
+        aria-label="Azië"
+        fill="#df6262"
+    >
+        <title>Azië</title>
+
+        <path
+            d="M643 119 L704 84 L791 73 L875 83 L955 110
+               L1022 151 L1056 196 L1031 228 L977 233
+               L942 273 L890 265 L855 296 L805 281
+               L777 244 L727 233 L698 198 L648 174 Z"
+        />
+
+        <path
+            d="M734 244 L768 270 L782 319 L755 348
+               L734 312 L712 276 Z"
+        />
+
+        <path
+            d="M831 288 L854 300 L857 348 L839 370
+               L826 329 Z"
+        />
+
+        <path
+            d="M1036 210 L1054 223 L1048 263 L1031 273
+               L1023 244 Z"
+        />
+
+        <path
+            d="M899 288 L919 296 L927 319 L909 328
+               L895 310 Z"
+        />
+    </g>
+
+    <!-- Oceanië -->
+    <g
+        id="oceanie"
+        class="continent"
+        data-continent="oceanie"
+        tabindex="0"
+        role="button"
+        aria-label="Oceanië"
+        fill="#9a72bd"
+    >
+        <title>Oceanië</title>
+
+        <path
+            d="M911 407 L960 384 L1026 396 L1063 431
+               L1047 474 L991 491 L936 472 L900 443 Z"
+        />
+
+        <path
+            d="M1082 489 L1100 500 L1094 530 L1075 521 Z"
+        />
+
+        <path
+            d="M860 372 L875 366 L885 381 L873 392 Z"
+        />
+    </g>
+
+    <!-- Namen -->
+    <text class="label" x="205" y="150">
+        Noord-Amerika
+    </text>
+
+    <text class="label" x="322" y="391">
+        Zuid-Amerika
+    </text>
+
+    <text class="label" x="565" y="145">
+        Europa
+    </text>
+
+    <text class="label" x="564" y="287">
+        Afrika
+    </text>
+
+    <text class="label" x="842" y="173">
+        Azië
+    </text>
+
+    <text class="label" x="984" y="442">
+        Oceanië
+    </text>
+</svg>

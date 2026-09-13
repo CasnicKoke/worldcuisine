@@ -1,0 +1,172 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #f5f7f2;
+}
+
+/* Bovenste deel: kaart + sidebar */
+
+.content-layout {
+    display: flex;
+    gap: 30px;
+
+    width: min(1600px, 95%);
+    margin: 20px auto;
+    align-items: stretch;
+}
+
+.wereldkaart {
+    flex: 5;
+
+    background: white;
+    border-radius: 24px;
+
+    box-shadow: 0 10px 30px rgba(0,0,0,0.12);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 20px;
+}
+
+.wereldkaart svg {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.sidebar {
+    flex: 2;
+
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+    align-self: flex-start;
+}
+
+#regioFoto {
+    height: 14em;
+    width: 100%;
+    border-radius: 16px;
+
+    object-fit: cover;
+
+    box-shadow:
+        0 4px 15px rgba(0,0,0,0.15);
+}
+
+.regio-info {
+    height: 21em;
+    background: white;
+
+    border-radius: 16px;
+    padding: 20px;
+
+    text-align: left;
+
+    min-height: 160px;
+
+    box-shadow:
+        0 4px 15px rgba(0,0,0,0.10);
+}
+
+.regio-info h2 {
+    margin-top: 0;
+}
+
+.regio-info p {
+    line-height: 1.5;
+}
+
+/* Kaart interactie */
+
+path {
+    transition:
+        transform 0.25s ease,
+        filter 0.25s ease,
+        opacity 0.25s ease;
+}
+
+.regio-highlight {
+    opacity: 0.4 !important;
+}
+
+.regio-actief {
+    filter: saturate(2);
+}
+
+/* Receptensectie */
+
+.recept-card {
+
+    display: flex;
+    gap: 24px;
+
+    align-items: center;
+  
+    cursor: pointer;
+    
+    background: white;
+    border-radius: 16px;
+
+    padding: 16px;
+
+    box-shadow:
+        0 4px 15px rgba(0,0,0,0.12);
+}
+
+.recept-card img {
+
+    width: 180px;
+    height: 120px;
+
+    object-fit: cover;
+
+    border-radius: 12px;
+
+    flex-shrink: 0;
+}
+
+.recept-grid {
+
+    width: min(1600px, 95%);
+    margin: 30px auto;
+
+    display: flex;
+    flex-direction: column;
+
+    gap: 20px;
+}
+
+/* Eén recept */
+.recept-card-content {
+
+    flex: 1;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    text-align: left;
+}
+
+.recept-card-content h3 {
+
+    margin: 0 0 8px 0;
+
+    font-size: 1.25rem;
+    font-weight: 700;
+
+    color: #333;
+}
+.recept-card-content p {
+
+    margin: 0;
+
+    font-size: 0.95rem;
+    line-height: 1.5;
+
+    color: #666;
+}

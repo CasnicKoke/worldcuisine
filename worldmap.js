@@ -135,13 +135,82 @@ const kleuren = {
     micronesie:         "#2E9580"
 };
 
+const werelddeelPerRegio = {
+
+    // Europa
+    balkan: "europa",
+    "oost-centraal-europa": "europa",
+    scandinavie: "europa",
+    "britse-eilanden": "europa",
+    germaans: "europa",
+    "midden-europa": "europa",
+    mediterraans: "europa",
+
+    // Midden-Oosten
+    anatolie: "midden-oosten",
+    levant: "midden-oosten",
+    perzie: "midden-oosten",
+    "arabisch-schiereiland": "midden-oosten",
+
+    // Azië
+    "rus-eurazie": "azie",
+    kaukasus: "azie",
+    "china-oost-azie": "azie",
+    "indo-chinees": "azie",
+    "maleis-indonesisch": "azie",
+    filipijns: "azie",
+    "zuid-aziatisch": "azie",
+    "centraal-aziatisch": "azie",
+    japan: "azie",
+
+    // Afrika
+    maghreb: "afrika",
+    nijlvallei: "afrika",
+    sahel: "afrika",
+    "west-afrika": "afrika",
+    "hoorn-van-afrika": "afrika",
+    "centraal-afrika": "afrika",
+    "oost-afrika": "afrika",
+    "zuidelijk-afrika": "afrika",
+
+    // Noord-Amerika
+    canada: "noord-amerika",
+    "verenigde-staten": "noord-amerika",
+
+    // Zuid-Amerika
+    mexicaans: "zuid-amerika",
+    "centraal-amerika": "zuid-amerika",
+    caribisch: "zuid-amerika",
+    andes: "zuid-amerika",
+    brazilie: "zuid-amerika",
+    "amazone-guyanas": "zuid-amerika",
+    pampas: "zuid-amerika",
+
+    // Oceanië
+    australie: "oceanie",
+    "nieuw-zeeland": "oceanie",
+    melanesie: "oceanie",
+    polynesie: "oceanie",
+    micronesie: "oceanie"
+};
+
+const highlightKleuren = {
+    europa: "#FF7A00",          // fel oranje
+    "midden-oosten": "#00FF38", // fel groen
+    azie: "#00A8FF",            // fel blauw
+    afrika: "#FFF200",          // fel geel
+    "noord-amerika": "#FF0000", // fel rood
+    "zuid-amerika": "#D400FF",  // fel paars
+    oceanie: "#00FFD5"          // fel turquoise
+};
+
 const regioBeschrijving = {
     balkan: {
         titel: "Balkan",
         beschrijving:
             "De Balkan vormt een culinaire ontmoetingsplaats van Ottomaanse, Midden-Europese en mediterrane invloeden. Gegrild vlees, gevulde groenten, yoghurt en hartige stoofgerechten spelen een centrale rol.",
         ingredienten:
-            "Paprika, aubergine, yoghurt, schapenkaas, lamsvlees, varkensvlees, bonen, kool, tomaten en peterselie."
+            "Paprika, aubergine, yoghurt, schapenkaas, lamsvlees, varkensvlees, bonen, kool, tomaten, peterselie"
     },
 
     "oost-centraal-europa": {
@@ -149,7 +218,7 @@ const regioBeschrijving = {
         beschrijving:
             "Deze keuken ligt op het kruispunt van Slavische, Hongaarse en Oostenrijkse tradities. Comfort food, hartige gerechten en rijke soepen kenmerken de regio.",
         ingredienten:
-            "Aardappelen, kool, paprika, uien, zure room, varkensvlees, karwijzaad, paddenstoelen, rogge en knoedels."
+            "Aardappelen, kool, paprika, uien, zure room, varkensvlees, karwijzaad, paddenstoelen, rogge, knoedels"
     },
 
     scandinavie: {
@@ -157,7 +226,7 @@ const regioBeschrijving = {
         beschrijving:
             "De Scandinavische keuken is gevormd door een koel klimaat, lange winters en een sterke traditie van conserveren. Eenvoud, seizoensproducten en pure smaken staan centraal.",
         ingredienten:
-            "Zalm, haring, kabeljauw, roggebrood, dille, aardappelen, bessen, kool, wild en zuivelproducten."
+            "Zalm, haring, kabeljauw, roggebrood, dille, aardappelen, bessen, kool, wild, zuivelproducten"
     },
 
     "britse-eilanden": {
@@ -165,7 +234,7 @@ const regioBeschrijving = {
         beschrijving:
             "De keuken van Groot-Brittannië en Ierland wordt gekenmerkt door stevige maaltijden, eenvoudige bereidingen en een sterke focus op lokale ingrediënten uit zee en landbouw.",
         ingredienten:
-            "Aardappelen, haver, rundvlees, lamsvlees, kabeljauw, zalm, boter, erwten, prei en cheddar."
+            "Aardappelen, haver, rundvlees, lamsvlees, kabeljauw, zalm, boter, erwten, prei, cheddar"
     },
 
     germaans: {
@@ -173,7 +242,7 @@ const regioBeschrijving = {
         beschrijving:
             "Deze keuken combineert Midden-Europese landbouwtradities met een rijke bier- en broodcultuur. Stevige maaltijden en regionale specialiteiten spelen een belangrijke rol.",
         ingredienten:
-            "Varkensvlees, worst, kool, aardappelen, rogge, tarwe, ui, mosterd, bier en zuurkool."
+            "Varkensvlees, worst, kool, aardappelen, rogge, tarwe, ui, mosterd, bier, zuurkool"
     },
 
     "midden-europa": {
@@ -181,7 +250,7 @@ const regioBeschrijving = {
         beschrijving:
             "De culinaire tradities van Midden-Europa zijn sterk beïnvloed door de historische Habsburgse wereld. Verfijnde gebakscultuur gaat hier samen met hartige vlees- en groentegerechten.",
         ingredienten:
-            "Kalfsvlees, boter, room, aardappelen, paddenstoelen, karwijzaad, ui, knoedels, papaverzaad en diverse kazen."
+            "Kalfsvlees, boter, room, aardappelen, paddenstoelen, karwijzaad, ui, knoedels, papaverzaad, diverse kazen"
     },
 
     mediterraans: {
@@ -189,7 +258,7 @@ const regioBeschrijving = {
         beschrijving:
             "De mediterrane keuken draait om verse ingrediënten, eenvoud en het optimaal benutten van lokale producten. Zon, zee en eeuwenlange handelscontacten hebben een rijke culinaire traditie gevormd.",
         ingredienten:
-            "Olijfolie, tomaten, knoflook, basilicum, oregano, citrusvruchten, vis, schapenkaas, peulvruchten en wijn."
+            "Olijfolie, tomaten, knoflook, basilicum, oregano, citrusvruchten, vis, schapenkaas, peulvruchten, wijn"
     },
     
     anatolie: {
@@ -197,7 +266,7 @@ const regioBeschrijving = {
     	beschrijving:
         	"De Anatolische keuken vormt de culinaire brug tussen Europa, de Kaukasus, Centraal-Azië en het Midden-Oosten. Door eeuwen van handel en culturele uitwisseling ontstond een rijke traditie van gegrild vlees, mezze, broodgerechten en groenteschotels.",
     	ingredienten:
-        	"Yoghurt, aubergine, paprika, tomaten, bulgur, kikkererwten, lamsvlees, olijfolie, munt en sumak."
+        	"Yoghurt, aubergine, paprika, tomaten, bulgur, kikkererwten, lamsvlees, olijfolie, munt, sumak"
 	},
 
 	levant: {
@@ -205,7 +274,7 @@ const regioBeschrijving = {
     	beschrijving:
         	"De Levantijnse keuken behoort tot de meest invloedrijke culinaire tradities ter wereld. Verse groenten, kruiden, peulvruchten en gedeelde maaltijden staan centraal. Gerechten worden vaak geserveerd als mezze, waarbij veel kleine schotels samen een complete maaltijd vormen.",
 	    ingredienten:
-    	    "Kikkererwten, tahin, olijfolie, peterselie, munt, sumak, citroen, granaatappel, aubergine en yoghurt."
+    	    "Kikkererwten, tahin, olijfolie, peterselie, munt, sumak, citroen, granaatappel, aubergine, yoghurt"
 	},
 
 	perzie: {
@@ -213,7 +282,7 @@ const regioBeschrijving = {
     	beschrijving:
     	    "De Perzische keuken, die zich uitstrekt van Iran tot Afghanistan, staat bekend om haar verfijning en evenwicht. Zoete, zure en hartige smaken worden zorgvuldig gecombineerd, vaak met noten, fruit en aromatische specerijen als tegenhanger van rijst- en vleesgerechten.",
     	ingredienten:
-    	    "Saffraan, pistachenoten, amandelen, granaatappel, berberis, rijst, yoghurt, kardemom, komijn en gedroogd fruit."
+    	    "Saffraan, pistachenoten, amandelen, granaatappel, berberis, rijst, yoghurt, kardemom, komijn, gedroogd fruit"
 	},
 
 	"arabisch-schiereiland": {
@@ -221,7 +290,7 @@ const regioBeschrijving = {
 		beschrijving:
 			"De keukens van het Arabisch Schiereiland zijn gevormd door woestijnculturen, handelsroutes en eeuwenoude gastvrijheidstradities. Rijstschotels, langzaam gegaard vlees en geurige kruidenmengsels vormen de kern van veel maaltijden.",
 		ingredienten:
-			"Dadels, rijst, lamsvlees, kardemom, saffraan, kaneel, gedroogde limoen, yoghurt, sesam en noten."
+			"Dadels, rijst, lamsvlees, kardemom, saffraan, kaneel, gedroogde limoen, yoghurt, sesam, noten"
 	},
 	
     "rus-eurazie": {
@@ -229,7 +298,7 @@ const regioBeschrijving = {
         beschrijving:
             "Deze keuken is gevormd door lange winters, landbouwtradities en invloeden uit de Euraziatische steppe.",
         ingredienten:
-            "Rogge, aardappelen, kool, bieten, zure room, paddestoelen, dille, boekweit, ingelegde groenten en gerookte vis."
+            "Rogge, aardappelen, kool, bieten, zure room, paddestoelen, dille, boekweit, ingelegde groenten, gerookte vis"
     },
 
     kaukasus: {
@@ -237,7 +306,7 @@ const regioBeschrijving = {
         beschrijving:
             "Een bergachtige regio op het kruispunt van Europa, Azië en het Midden-Oosten met een rijke traditie van kruiden en gegrild vlees.",
         ingredienten:
-            "Walnoten, granaatappel, koriander, dragon, aubergine, yoghurt, geitenkaas, lamsvlees en druiven."
+            "Walnoten, granaatappel, koriander, dragon, aubergine, yoghurt, geitenkaas, lamsvlees, druiven"
     },
 
     "centraal-aziatisch": {
@@ -245,7 +314,7 @@ const regioBeschrijving = {
         beschrijving:
             "Een keuken met sterke nomadische wortels waarin vlees, zuivel en graanproducten centraal staan.",
         ingredienten:
-            "Lamsvlees, paardenvlees, rundvlees, yoghurt, kefir, rijst, uien, wortelen, komijn en platbrood."
+            "Lamsvlees, paardenvlees, rundvlees, yoghurt, kefir, rijst, uien, wortelen, komijn, platbrood"
     },
 
     "china-oost-azie": {
@@ -253,7 +322,7 @@ const regioBeschrijving = {
         beschrijving:
             "Een veelzijdige culinaire traditie waarin balans tussen smaak, textuur en bereidingswijze centraal staat.",
         ingredienten:
-            "Rijst, noedels, soja, tofu, gember, lente-ui, sesamolie, knoflook, Chinese kool en gefermenteerde groenten."
+            "Rijst, noedels, soja, tofu, gember, lente-ui, sesamolie, knoflook, Chinese kool, gefermenteerde groenten"
     },
 
     japan: {
@@ -261,7 +330,7 @@ const regioBeschrijving = {
         beschrijving:
             "Een verfijnde keuken met veel aandacht voor seizoensproducten, eenvoud en presentatie.",
         ingredienten:
-            "Rijst, zeewier, soja, miso, dashi, vis, shiitake, daikon, sesam en yuzu."
+            "Rijst, zeewier, soja, miso, dashi, vis, shiitake, daikon, sesam, yuzu"
     },
 
     "indo-chinees": {
@@ -269,7 +338,7 @@ const regioBeschrijving = {
         beschrijving:
             "Een aromatische keuken waarin zoet, zuur, zout en pittig vaak in balans worden gebracht.",
         ingredienten:
-            "Vissaus, limoen, koriander, munt, citroengras, galanga, chilipepers, kokosmelk en rijst."
+            "Vissaus, limoen, koriander, munt, citroengras, galanga, chilipepers, kokosmelk, rijst"
     },
 
     "maleis-indonesisch": {
@@ -277,7 +346,7 @@ const regioBeschrijving = {
         beschrijving:
             "Een specerijenrijke eilandkeuken die gevormd is door eeuwen van handel en maritieme verbindingen.",
         ingredienten:
-            "Kokosmelk, sambal, kurkuma, gember, kemirinoten, tamarinde, pandan, citroengras en rijst."
+            "Kokosmelk, sambal, kurkuma, gember, kemirinoten, tamarinde, pandan, citroengras, rijst"
     },
 
     filipijns: {
@@ -285,7 +354,7 @@ const regioBeschrijving = {
         beschrijving:
             "Een unieke mengeling van Austronesische, Chinese, Spaanse en Amerikaanse invloeden.",
         ingredienten:
-            "Azijn, knoflook, sojasaus, kokos, calamansi, varkensvlees, banaan, suiker en zwarte peper."
+            "Azijn, knoflook, sojasaus, kokos, calamansi, varkensvlees, banaan, suiker, zwarte peper"
     },
 
     "zuid-aziatisch": {
@@ -293,14 +362,14 @@ const regioBeschrijving = {
         beschrijving:
             "Een van de meest kruidenrijke culinaire tradities ter wereld, met grote regionale verschillen.",
         ingredienten:
-            "Kardemom, komijn, korianderzaad, kurkuma, chilipepers, ghee, linzen, kikkererwten, rijst en naan."
+            "Kardemom, komijn, korianderzaad, kurkuma, chilipepers, ghee, linzen, kikkererwten, rijst, naan"
     },   
     maghreb: {
     titel: "Maghreb",
     beschrijving:
         "De Maghreb vormt de culinaire brug tussen de Middellandse Zee, de Arabische wereld en de Sahara. Berberse, Arabische en Andalusische invloeden hebben geleid tot een keuken vol specerijen, stoofgerechten en graanproducten.",
     ingredienten:
-        "Couscous, olijfolie, kikkererwten, lamsvlees, dadels, citroen, komijn, kaneel, amandelen en harissa."     
+        "Couscous, olijfolie, kikkererwten, lamsvlees, dadels, citroen, komijn, kaneel, amandelen,  harissa"     
     },
 
     nijlvallei: {
@@ -308,7 +377,7 @@ const regioBeschrijving = {
         beschrijving:
             "De keukens van Egypte en Soedan behoren tot de oudste landbouwtradities ter wereld. Granen, peulvruchten en groenten vormen al duizenden jaren de basis van dagelijkse maaltijden.",
         ingredienten:
-            "Favabonen, linzen, rijst, tarwe, sesam, koriander, komijn, okra, ui en knoflook."
+            "Favabonen, linzen, rijst, tarwe, sesam, koriander, komijn, okra, ui, knoflook"
     },
 
     sahel: {
@@ -316,7 +385,7 @@ const regioBeschrijving = {
         beschrijving:
             "De Sahel vormt de overgang tussen de Sahara en tropisch Afrika. Hier draait de keuken om droogtebestendige gewassen, eenvoudige bereidingen en krachtige smaken die passen bij het woestijn- en savanneklimaat.",
         ingredienten:
-            "Gierst, sorghum, pinda's, rijst, geitenvlees, lamsvlees, gedroogde vis, okra, tomaten en chilipepers."
+            "Gierst, sorghum, pinda's, rijst, geitenvlees, lamsvlees, gedroogde vis, okra, tomaten, chilipepers"
     },
 
     "west-afrika": {
@@ -324,7 +393,7 @@ const regioBeschrijving = {
         beschrijving:
             "West-Afrika kent een van de meest uitgesproken culinaire tradities van het continent. Rijke sauzen, pittige kruiden en zetmeelrijke basisproducten zorgen voor krachtige en complexe smaken.",
         ingredienten:
-            "Pinda's, cassave, yam, bakbananen, palmolie, chilipepers, bonen, rijst, okra en vis."
+            "Pinda's, cassave, yam, bakbananen, palmolie, chilipepers, bonen, rijst, okra, vis"
     },
 
     "hoorn-van-afrika": {
@@ -332,7 +401,7 @@ const regioBeschrijving = {
         beschrijving:
             "De keuken van de Hoorn van Afrika combineert Afrikaanse en Midden-Oosterse invloeden. Kruidige stoofgerechten, zuurdesembrood en eeuwenoude handelscontacten geven deze regio een uniek karakter.",
         ingredienten:
-            "Teff, berbere, linzen, kikkererwten, kardemom, kaneel, geitenvlees, rundvlees, boter en koffie."
+            "Teff, berbere, linzen, kikkererwten, kardemom, kaneel, geitenvlees, rundvlees, boter, koffie"
     },
 
     "centraal-afrika": {
@@ -340,7 +409,7 @@ const regioBeschrijving = {
         beschrijving:
             "Het Congobekken en de omliggende tropische gebieden vormen de basis van deze keuken. Lokale groenten, knollen, rivierproducten en bosproducten spelen een belangrijke rol in het dagelijks voedsel.",
         ingredienten:
-            "Cassave, bakbananen, palmolie, pinda's, vis, rivierkreeftjes, yam, kokos, bladgroenten en pepers."
+            "Cassave, bakbananen, palmolie, pinda's, vis, rivierkreeftjes, yam, kokos, bladgroenten, pepers"
     },
 
     "oost-afrika": {
@@ -348,14 +417,14 @@ const regioBeschrijving = {
         beschrijving:
             "De Oost-Afrikaanse keuken weerspiegelt eeuwen van handel langs de Indische Oceaan. Arabische, Indiase en Afrikaanse tradities komen hier samen in geurige en vaak mild gekruide gerechten.",
         ingredienten:
-            "Kokosmelk, rijst, kardemom, kruidnagel, cassave, bakbananen, rundvlees, linzen, mango en kokos."
+            "Kokosmelk, rijst, kardemom, kruidnagel, cassave, bakbananen, rundvlees, linzen, mango, kokos"
     },
 
     "zuidelijk-afrika": {
         titel: "Zuidelijk Afrika",
         beschrijving:
             "De keuken van Zuidelijk Afrika combineert inheemse tradities met invloeden uit Europa en Azië. Gegrild vlees, maïsgerechten en robuuste ingrediënten vormen de basis van veel maaltijden.",
-        ingredienten: "Maïs, rundvlees, wild."
+        ingredienten: "Maïs, rundvlees, wild"
     },
     
     canada: {
@@ -363,7 +432,7 @@ const regioBeschrijving = {
         beschrijving:
             "De Canadese keuken weerspiegelt de enorme natuurlijke rijkdom en uitgestrektheid van het land. Inheemse tradities, Franse invloeden uit Québec en Britse invloeden uit de rest van Canada komen samen in een keuken die sterk verbonden is met seizoenen, visvangst en lokale producten.",
         ingredienten:
-            "Ahornsiroop, zalm, kreeft, wild, bosbessen, veenbessen, aardappelen, pompoen, granen en paddenstoelen."
+            "Ahornsiroop, zalm, kreeft, wild, bosbessen, veenbessen, aardappelen, pompoen, granen, paddenstoelen"
     },
 
     "verenigde-staten": {
@@ -371,14 +440,14 @@ const regioBeschrijving = {
         beschrijving:
             "De Amerikaanse keuken is een van de meest diverse culinaire tradities ter wereld. Invloeden van inheemse volkeren, Europese immigranten, Afrikaanse gemeenschappen en latere migratiegolven hebben geleid tot een enorme variatie aan regionale keukens.",
         ingredienten:
-            "Rundvlees, maïs, bonen, aardappelen, kalkoen, pinda's, pompoen, barbecuekruiden, zeevruchten en ahornsiroop."},
+            "Rundvlees, maïs, bonen, aardappelen, kalkoen, pinda's, pompoen, barbecuekruiden, zeevruchten, ahornsiroop"},
 
     mexicaans: {
         titel: "Mexico",
         beschrijving:
             "De Mexicaanse keuken behoort tot de oudste culinaire tradities van Amerika. Inheemse ingrediënten uit Meso-Amerika vormen nog altijd de basis van veel gerechten en worden gecombineerd met Spaanse invloeden die sinds de zestiende eeuw deel uitmaken van de cultuur.",
         ingredienten:
-            "Maïs, chilipepers, bonen, avocado, tomaten, cacao, limoen, koriander, pompoen en queso fresco."
+            "Maïs, chilipepers, bonen, avocado, tomaten, cacao, limoen, koriander, pompoen, queso fresco"
     },
 
     "centraal-amerika": {
@@ -386,7 +455,7 @@ const regioBeschrijving = {
         beschrijving:
             "De keukens van Midden-Amerika combineren inheemse tradities met Spaanse en Caribische invloeden. Eenvoudige, smaakvolle gerechten op basis van maïs, bonen en tropische ingrediënten vormen de kern van de regionale eetcultuur.",
         ingredienten:
-            "Maïs, bonen, rijst, bakbananen, avocado, kokos, yucca, koriander, chilipepers en tropisch fruit."
+            "Maïs, bonen, rijst, bakbananen, avocado, kokos, yucca, koriander, chilipepers, tropisch fruit"
     },
 
     caribisch: {
@@ -394,7 +463,7 @@ const regioBeschrijving = {
         beschrijving:
             "De Caribische keuken is ontstaan uit een levendige mix van Afrikaanse, Europese, inheemse en Aziatische invloeden. Kruiden, tropische producten en zeevruchten spelen een centrale rol in de kleurrijke gerechten van de eilanden.",
         ingredienten:
-            "Bakbananen, kokos, rum, cassave, rijst, bonen, zeevruchten, allspice, chilipepers en tropisch fruit."
+            "Bakbananen, kokos, rum, cassave, rijst, bonen, zeevruchten, allspice, chilipepers, tropisch fruit"
     },
 
     andes: {
@@ -402,7 +471,7 @@ const regioBeschrijving = {
         beschrijving:
             "De Andeskeuken is gevormd door duizenden jaren landbouw in hooggelegen berggebieden. Inheemse tradities spelen nog steeds een belangrijke rol en zorgen voor een uitzonderlijke rijkdom aan granen, knollen en lokale producten.",
         ingredienten:
-            "Aardappelen, maïs, quinoa, bonen, avocado, chilipepers, tomaten, lama, alpaca en koriander."
+            "Aardappelen, maïs, quinoa, bonen, avocado, chilipepers, tomaten, lama, alpaca, koriander"
     },
 
     brazilie: {
@@ -410,7 +479,7 @@ const regioBeschrijving = {
         beschrijving:
             "De Braziliaanse keuken combineert Portugese, Afrikaanse en inheemse invloeden. Door de enorme omvang van het land bestaan grote regionale verschillen, maar tropische ingrediënten en rijke smaken keren overal terug.",
         ingredienten: 
-            "Cassave, zwarte bonen, rijst, kokos, palmolie, rundvlees, limoen, pinda's, tropisch fruit en zeevruchten."
+            "Cassave, zwarte bonen, rijst, kokos, palmolie, rundvlees, limoen, pinda's, tropisch fruit, zeevruchten"
     },
 
     "amazone-guyanas": {
@@ -418,14 +487,14 @@ const regioBeschrijving = {
         beschrijving:
             "Deze regio vormt een overgangsgebied tussen het Caribisch gebied, het Amazonebekken en Zuid-Amerika. Inheemse tradities worden gecombineerd met Afrikaanse, Indiase en Europese invloeden.",
         ingredienten: 
-            "Cassave, rijst, kokos, peper, bakbananen, bonen, zeevruchten, okra, tropisch fruit en kerriekruiden."
+            "Cassave, rijst, kokos, peper, bakbananen, bonen, zeevruchten, okra, tropisch fruit, kerriekruiden"
     },
 
     pampas: {
         titel: "Pampas",
         beschrijving: 
             "De Pampas-keuken wordt gekenmerkt door uitgestrekte graslanden, een sterke veeteelttraditie en Europese invloeden. Rundvlees, wijn en eenvoudige bereidingen vormen het hart van deze culinaire regio.",
-        ingredienten: "Rundvlees, wijn, maïs, aardappelen, bonen, tarwe, ui, paprika, pompoen en chimichurri."
+        ingredienten: "Rundvlees, wijn, maïs, aardappelen, bonen, tarwe, ui, paprika, pompoen, chimichurri"
     },
 
     australie: {
@@ -433,7 +502,7 @@ const regioBeschrijving = {
         beschrijving:
             "De Australische keuken combineert Britse invloeden met ingrediënten uit Azië en de Stille Oceaan. Moderne Australische gerechten leggen veel nadruk op verse producten, zeevruchten en barbecuecultuur.",
         ingredienten:
-            "Rundvlees, lamsvlees, garnalen, barramundi, avocado, macadamianoten, citrusvruchten, pompoen, kruiden en tropisch fruit."
+            "Rundvlees, lamsvlees, garnalen, barramundi, avocado, macadamianoten, citrusvruchten, pompoen, kruiden, tropisch fruit"
     },
 
     "nieuw-zeeland": {
@@ -441,7 +510,7 @@ const regioBeschrijving = {
         beschrijving:
             "De Nieuw-Zeelandse keuken combineert Māori-tradities met Europese invloeden. Vis, lamsvlees en producten uit de oceaan spelen een belangrijke rol, terwijl verse lokale ingrediënten centraal staan.",
         ingredienten:
-            "Lamsvlees, mosselen, zalm, zoete aardappel, pompoen, honing, bessen, kruiden, kiwi en zeevruchten."
+            "Lamsvlees, mosselen, zalm, zoete aardappel, pompoen, honing, bessen, kruiden, kiwi, zeevruchten"
     },
 
     melanesie: {
@@ -449,7 +518,7 @@ const regioBeschrijving = {
         beschrijving:
             "De keukens van Melanesië zijn sterk verbonden met tropische landbouw, visserij en traditionele bereidingswijzen. In alle Melanesische eilanden vormen lokale gewassen en producten uit zee de basis van de dagelijkse keuken.",
         ingredienten:
-            "Taro, yam, cassave, kokos, bakbananen, vis, varkensvlees, zoete aardappel, broodvrucht en tropisch fruit."
+            "Taro, yam, cassave, kokos, bakbananen, vis, varkensvlees, zoete aardappel, broodvrucht, tropisch fruit"
     },
 
     polynesie: {
@@ -457,7 +526,7 @@ const regioBeschrijving = {
         beschrijving:
             "De Polynesische keuken weerspiegelt eeuwen van zeevaart en eilandculturen. Van Samoa en Tonga tot Frans-Polynesië draait de keuken om verse producten uit zee, kokos en tropische gewassen.",
         ingredienten:
-            "Kokosmelk, vis, taro, broodvrucht, zoete aardappel, banaan, limoen, zeevruchten, varkensvlees en tropisch fruit."
+            "Kokosmelk, vis, taro, broodvrucht, zoete aardappel, banaan, limoen, zeevruchten, varkensvlees, tropisch fruit"
     },
 
     micronesie: {
@@ -465,7 +534,7 @@ const regioBeschrijving = {
         beschrijving:
             "De keukens van Micronesië zijn nauw verbonden met de oceaan en het tropische eilandleven. Lokale producten worden vaak gecombineerd met invloeden uit Azië en de Verenigde Staten.",
         ingredienten:
-            "Vis, tonijn, kokos, rijst, broodvrucht, taro, pandan, zeevruchten, banaan en tropisch fruit."
+            "Vis, tonijn, kokos, rijst, broodvrucht, taro, pandan, zeevruchten, banaan, tropisch fruit"
     }
 };
 
@@ -513,10 +582,12 @@ function maakKaartInteractief() {
 
 			landen.forEach(function (land) {
 
-    			land.dataset.continent = continentNaam;
-    			land.dataset.origineleKleur =
-				    kleuren[continentNaam];
-    			land.style.fill = kleuren[continentNaam];
+                land.dataset.continent = continentNaam;
+                land.dataset.werelddeel = werelddeelPerRegio[continentNaam];
+
+                land.dataset.origineleKleur =
+                    kleuren[continentNaam];    			
+                land.style.fill = kleuren[continentNaam];
     			land.style.cursor = "pointer";
     			land.style.transition = "filter 0.2s ease, opacity 0.2s ease";
 
@@ -527,25 +598,37 @@ function maakKaartInteractief() {
 				});
 
                 land.addEventListener("mouseleave", function () {
-                    lichtContinentOp(continentNaam, false);
+                    if (continentNaam !== geselecteerdeRegio) {
+                        lichtContinentOp(continentNaam, false);
+                    }
 
                     if (geselecteerdeRegio) {
                         toonRegioInfo(geselecteerdeRegio);
                     }
-                });
-                    			
-				land.addEventListener("click", function () {
-				    geselecteerdeRegio = continentNaam;
-				    
-				    toonRegioInfo(continentNaam);
-				    toonRecepten(continentNaam);
-				});			
-				
+                });                    			
+
+                land.addEventListener("click", function () {
+
+                    const vorigeRegio = geselecteerdeRegio;
+
+                    geselecteerdeRegio = continentNaam;
+
+                    if (
+                        vorigeRegio &&
+                        vorigeRegio !== geselecteerdeRegio
+                    ) {
+                        lichtContinentOp(vorigeRegio, false);
+                    }
+
+                    lichtContinentOp(geselecteerdeRegio, true);
+
+                    toonRegioInfo(continentNaam);
+                    toonRecepten(continentNaam);
+                });				
 			});
 		});
 	});
 }
-
 
 function donkereKleur(hex, percentage) {
 
@@ -593,11 +676,7 @@ function lichtereKleur(hex, percentage) {
     return `rgb(${r},${g},${b})`;
 }
 
-
 function lichtContinentOp(continentNaam, actief) {
-
-    const alleLanden =
-        document.querySelectorAll("[data-continent]");
 
     const regioLanden =
         document.querySelectorAll(
@@ -605,19 +684,23 @@ function lichtContinentOp(continentNaam, actief) {
         );
 
     regioLanden.forEach(land => {
+
         if (actief) {
-            const origineleKleur =
-                kleuren[continentNaam];
+
+            const werelddeel =
+                land.dataset.werelddeel;
 
             land.style.fill =
-                fellereKleur(origineleKleur, 8);
+                highlightKleuren[werelddeel];
+
         } else {
+
             land.style.fill =
                 kleuren[continentNaam];
+
         }
 
     });
-
 }
 
 function toonRegioInfo(continentNaam) {
@@ -626,18 +709,37 @@ function toonRegioInfo(continentNaam) {
 
     if (!info) return;
 
+    const ingredienten = info.ingredienten
+        .split(",")
+        .map(item => item.trim())
+        .filter(Boolean);
+
+    const ingredientTags = ingredienten
+        .map(item => `<span>${item}</span>`)
+        .join("");
+
     document.getElementById("regioInfo").innerHTML = `
         <h2>${info.titel}</h2>
 
-        <p>
-            <strong>Kenmerken:</strong><br>
-            ${info.beschrijving}
-        </p>
+        <div class="regio-beschrijving">
+            <div class="regio-label">
+                Kenmerken
+            </div>
 
-        <p>
-            <strong>Kenmerkende ingrediënten:</strong><br>
-            ${info.ingredienten}
-        </p>
+            <p>
+                ${info.beschrijving}
+            </p>
+        </div>
+
+        <div class="ingredienten-blok">
+            <div class="regio-label">
+                Kenmerkende ingrediënten
+            </div>
+
+            <div class="ingredienten-tags">
+                ${ingredientTags}
+            </div>
+        </div>
     `;
 }
 
@@ -647,7 +749,7 @@ function toonRecepten(regioNaam) {
         document.getElementById("receptTitel");
 
     if (titelElement && regioBeschrijving[regioNaam]) {
-        titelElement.style.display = "block";
+        titelElement.style.display = "grid";
         titelElement.textContent =
             "Typische gerechten uit de culinaire regio " +
             regioBeschrijving[regioNaam].titel;
@@ -687,12 +789,12 @@ function toonRecepten(regioNaam) {
         receptNamen.length === 0 ||
         html.trim() === ""
     ) {
-        container.style.display = "block";
+        container.style.display = "grid";
         container.innerHTML =
             "<p>Recepten volgen nog.</p>";
         return;
     }
 
-    container.style.display = "block";
+    container.style.display = "grid";
     container.innerHTML = html;
 }

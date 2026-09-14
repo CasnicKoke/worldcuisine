@@ -1,193 +1,1303 @@
-body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-    background: #f5f7f2;
+/* =========================================================
+   WORLD CUISINE
+   Stijl: Mediterrane Warmte
+   Past bij de huidige worldmap.html + worldmap.js
+   ========================================================= */
+
+
+/* =========================================================
+   1. KLEUREN EN BASISINSTELLINGEN
+   ========================================================= */
+
+:root {
+    --achtergrond: #f3e3cc;
+    --achtergrond-licht: #faf0e2;
+
+    --papier: #fff8ed;
+    --papier-warm: #f8ead6;
+
+    --tekst: #3a2419;
+    --tekst-zacht: #705847;
+
+    --terracotta: #b9502e;
+    --terracotta-donker: #8e351f;
+
+    --olijf: #6d7543;
+    --goud: #c99b45;
+
+    --rand: #dfc5a4;
+
+    --schaduw:
+        0 8px 24px rgba(76, 43, 24, 0.12);
+
+    --schaduw-hover:
+        0 14px 32px rgba(76, 43, 24, 0.20);
+
+    --radius-groot: 24px;
+    --radius: 18px;
+    --radius-klein: 12px;
 }
 
-/* Bovenste deel: kaart + sidebar */
+
+/* =========================================================
+   2. ALGEMEEN
+   ========================================================= */
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    padding: 35px 0 60px;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    color: var(--tekst);
+
+    background-color: #f3dfbf;
+
+    background-image:
+        linear-gradient(
+            rgba(243, 223, 191, 0.72),
+            rgba(243, 223, 191, 0.72)
+        ),
+        url("images/parchment-texture.png");
+
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+    min-height: 100vh;
+}
+
+/* =========================================================
+   DECORATIEVE SPECERIJEN
+   ========================================================= */
+
+.decor-spices {
+    position: absolute;
+    pointer-events: none;
+    user-select: none;
+    z-index: 0;
+}
+
+.decor-spices-left {
+    top: -50px;
+    left: -50px;
+    width: 600px;
+    height: auto;
+}
+
+/* =========================================================
+   3. BOVENSTE PAGINATITELS
+   Dit zijn de directe h1, h2 en p uit worldmap.html
+   ========================================================= */
+
+   /* =========================================================
+   3. HERO
+   ========================================================= */
+
+.hero {
+    position: relative;
+    z-index: 1;
+
+    max-width: 1180px;
+    margin: 0 auto 40px;
+    padding: 70px 40px 45px;
+
+    background: transparent;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+
+    display: block;
+}
+
+/* ---------- Tekstgedeelte ---------- */
+
+.hero-content {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 20px 40px 10px;
+
+    text-align: left;
+    position: relative;
+}
+
+/* subtiele warme gloed */
+
+.hero-content::before {
+    content: "";
+
+    position: absolute;
+
+    width: 320px;
+    height: 320px;
+
+    top: -140px;
+    left: -120px;
+
+    border-radius: 50%;
+
+    background:
+        rgba(185, 80, 46, 0.07);
+
+    pointer-events: none;
+}
+
+
+/* kleine bovenregel */
+
+.hero-kicker {
+    margin:
+        0
+        0
+        18px;
+
+    font-size: 0.85rem;
+
+    font-weight: 700;
+
+    letter-spacing: 0.16em;
+
+    text-transform: uppercase;
+
+    color:
+        var(--terracotta);
+}
+
+
+/* grote titel */
+
+.hero h1 {
+    margin: 0;
+
+    font-family:
+        Georgia,
+        "Times New Roman",
+        serif;
+
+    font-size: clamp(3.4rem, 6vw, 6.2rem);
+
+    line-height: 0.96;
+
+    font-weight: 700;
+
+    letter-spacing: -0.04em;
+
+    color: var(--tekst);
+}
+
+.hero h1 span {
+    color: var(--terracotta-donker);
+
+    font-style: italic;
+
+    font-weight: 500;
+}
+
+/* introductie */
+
+.hero-intro {
+    max-width: 620px;
+
+    margin: 26px 0 0;
+
+    font-size: 1.12rem;
+
+    line-height: 1.7;
+
+    color: var(--tekst-zacht);
+}
+
+/* ---------- CTA-knop ---------- */
+
+.hero-button {
+    display: inline-block;
+
+    margin-top: 30px;
+
+    padding:
+        14px
+        24px;
+
+    background:
+        var(--terracotta);
+
+    color: #ffffff;
+
+    border-radius: 999px;
+
+    text-decoration: none;
+
+    font-size: 0.95rem;
+
+    font-weight: 700;
+
+    box-shadow:
+        0 5px 14px
+        rgba(142, 53, 31, 0.23);
+
+    transition:
+        background 0.2s ease,
+        transform 0.2s ease,
+        box-shadow 0.2s ease;
+}
+
+
+.hero-button:hover {
+    background:
+        var(--terracotta-donker);
+
+    color: #ffffff;
+
+    transform:
+        translateY(-2px);
+
+    box-shadow:
+        0 8px 18px
+        rgba(142, 53, 31, 0.28);
+}
+
+
+/* =========================================================
+   HERO FOTO
+   ========================================================= */
+
+.hero-image {
+    position: relative;
+
+    min-height: 480px;
+
+    overflow: hidden;
+}
+
+
+.hero-image img {
+    display: block;
+
+    width: 100%;
+    height: 100%;
+
+    object-fit: cover;
+
+    position: absolute;
+
+    inset: 0;
+
+    transition:
+        transform 0.8s ease;
+}
+
+
+/* heel subtiel effect */
+
+.hero:hover .hero-image img {
+    transform:
+        scale(1.025);
+}
+
+
+/* warme laag over foto */
+
+.hero-image::after {
+    content: "";
+
+    position: absolute;
+
+    inset: 0;
+
+    background:
+        linear-gradient(
+            90deg,
+            rgba(78, 39, 20, 0.12),
+            transparent 35%,
+            rgba(59, 31, 17, 0.08)
+        );
+
+    pointer-events: none;
+}
+
+
+/* tekstlabel over foto */
+
+.hero-image-caption {
+    position: absolute;
+
+    right: 24px;
+    bottom: 22px;
+
+    z-index: 2;
+
+    padding:
+        10px
+        16px;
+
+    background:
+        rgba(255, 248, 237, 0.90);
+
+    backdrop-filter:
+        blur(5px);
+
+    border:
+        1px solid
+        rgba(255, 255, 255, 0.45);
+
+    border-radius:
+        999px;
+
+    font-family:
+        Georgia,
+        "Times New Roman",
+        serif;
+
+    font-size: 0.9rem;
+
+    font-style: italic;
+
+    color:
+        var(--tekst);
+}
+
+/* =========================================================
+   4. KAART + ZIJBALK
+   ========================================================= */
 
 .content-layout {
     display: flex;
-    gap: 30px;
 
-    width: min(1600px, 95%);
-    margin: 20px auto;
-    align-items: flex-start;
+    align-items: stretch;
+
+    gap: 28px;
+
+    width: min(1450px, 92%);
+
+    margin:
+        25px auto
+        45px;
 }
+
+
+/* =========================================================
+   5. WERELDKAART
+   #world-map wordt door worldmap.js gevuld met world.svg
+   ========================================================= */
 
 .wereldkaart {
     flex: 5;
 
-    box-sizing: border-box;
-    background: white;
-    border-radius: 24px;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.12);
+    min-width: 0;
 
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    padding: 24px;
 
-    width: 100%;
-    margin: 0;
-    padding: 8px;
+    background:
+        linear-gradient(
+            145deg,
+            var(--papier),
+            #f7e4c9
+        );
+
+    border:
+        1px solid
+        var(--rand);
+
+    border-radius:
+        var(--radius-groot);
+
+    box-shadow:
+        var(--schaduw);
+
+    position: relative;
+
+    overflow: hidden;
 }
 
-.wereldkaart svg {
+
+/* subtiele warme achtergrond in de kaartcontainer */
+
+.wereldkaart::before {
+    content: "";
+
+    position: absolute;
+
+    inset: 0;
+
+    background:
+        radial-gradient(
+            circle at 15% 10%,
+            rgba(185, 80, 46, 0.08),
+            transparent 45%
+        );
+
+    pointer-events: none;
+}
+
+
+/*
+   De SVG wordt door worldmap.js in #world-map geladen.
+   Daarom selecteren we de SVG ná het laden.
+*/
+
+#world-map svg {
     display: block;
+
+    position: relative;
+
+    z-index: 1;
+
     width: 100%;
+
     height: auto;
+
+    max-height: 690px;
+
+    margin: auto;
 }
+
+
+/*
+   worldmap.js zet zelf:
+   fill
+   cursor
+   transition
+   op de landen.
+
+   Daarom veranderen we hier NIET de fill-kleur.
+*/
+
+#world-map [data-continent] {
+    outline: none;
+}
+
+/* =========================================================
+   6. SIDEBAR
+   ========================================================= */
 
 .sidebar {
     flex: 2;
 
+    min-width: 300px;
+
     display: flex;
+
     flex-direction: column;
+
     gap: 20px;
-    justify-content: flex-start;
-    align-self: flex-start;
 }
 
-#regioFoto {
-    height: 14em;
-    width: 100%;
-    border-radius: 16px;
 
-    object-fit: cover;
-
-    box-shadow:
-        0 4px 15px rgba(0,0,0,0.15);
-}
+/* =========================================================
+   7. REGIO-INFORMATIE
+   worldmap.js vult #regioInfo dynamisch met:
+   h2
+   p
+   strong
+   ========================================================= */
 
 .regio-info {
-    height: 21em;
-    background: white;
+    flex: 1;
 
-    border-radius: 16px;
-    padding: 20px;
+    min-height: 330px;
+
+    padding:
+        28px
+        26px;
 
     text-align: left;
 
-    min-height: 160px;
+    background:
+        linear-gradient(
+            145deg,
+            var(--papier),
+            var(--papier-warm)
+        );
+
+    border:
+        1px solid
+        var(--rand);
+
+    border-radius:
+        var(--radius);
 
     box-shadow:
-        0 4px 15px rgba(0,0,0,0.10);
+        var(--schaduw);
+
+    position: relative;
+
+    overflow: hidden;
 }
+
+
+/* terracotta accent bovenaan */
+
+.regio-info::before {
+    content: "";
+
+    position: absolute;
+
+    top: 0;
+    left: 0;
+
+    width: 100%;
+    height: 5px;
+
+    background:
+        linear-gradient(
+            90deg,
+            var(--terracotta),
+            var(--goud)
+        );
+}
+
 
 .regio-info h2 {
-    margin-top: 0;
+    margin:
+        4px
+        0
+        18px;
+
+    font-family:
+        Georgia,
+        "Times New Roman",
+        serif;
+
+    font-size: 2rem;
+
+    line-height: 1.15;
+
+    color: var(--tekst);
 }
+
+
+/* kort decoratief lijntje onder regioti­tel */
+
+.regio-info h2::after {
+    content: "";
+
+    display: block;
+
+    width: 48px;
+    height: 3px;
+
+    margin-top: 12px;
+
+    background:
+        var(--terracotta);
+
+    border-radius: 10px;
+}
+
 
 .regio-info p {
-    line-height: 1.5;
+    margin:
+        0
+        0
+        18px;
+
+    font-size: 1rem;
+
+    line-height: 1.65;
+
+    color:
+        var(--tekst-zacht);
 }
 
-/* Kaart interactie */
 
-path {
-    transition:
-        transform 0.25s ease,
-        filter 0.25s ease,
-        opacity 0.25s ease;
+.regio-info p:last-child {
+    margin-bottom: 0;
 }
 
-.regio-highlight {
-    opacity: 0.4 !important;
+
+.regio-info strong {
+    color:
+        var(--terracotta-donker);
+
+    font-weight: 700;
 }
 
-.regio-actief {
-    filter: saturate(2);
+/* =========================================================
+   REGIO-INFORMATIE: LABELS EN INGREDIËNTTAGS
+   ========================================================= */
+
+.regio-beschrijving {
+    margin-top: 4px;
+    margin-bottom: 24px;
 }
 
-/* Receptensectie */
+.regio-label {
+    margin-bottom: 9px;
 
-.recept-card {
+    font-size: 0.78rem;
+    font-weight: 700;
 
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: var(--terracotta);
+}
+
+.regio-beschrijving p {
+    margin: 0;
+
+    font-size: 1rem;
+    line-height: 1.7;
+
+    color: var(--tekst-zacht);
+}
+
+.ingredienten-blok {
+    padding-top: 20px;
+
+    border-top:
+        1px solid
+        rgba(112, 88, 71, 0.16);
+}
+
+.ingredienten-tags {
     display: flex;
-    gap: 24px;
+
+    flex-wrap: wrap;
+
+    gap: 9px;
+}
+
+.ingredienten-tags span {
+    display: inline-flex;
 
     align-items: center;
-  
-    cursor: pointer;
-    
-    background: white;
-    border-radius: 16px;
 
-    padding: 16px;
+    padding:
+        8px
+        12px;
 
-    box-shadow:
-        0 4px 15px rgba(0,0,0,0.12);
+    background:
+        rgba(185, 80, 46, 0.09);
+
+    border:
+        1px solid
+        rgba(185, 80, 46, 0.20);
+
+    border-radius: 999px;
+
+    font-size: 0.88rem;
+
+    line-height: 1;
+
+    color: var(--terracotta-donker);
 }
 
-.recept-card img {
+/* =========================================================
+   8. REGIOFOTO
+   ========================================================= */
 
-    width: 180px;
-    height: 120px;
+#regioFoto {
+    display: block;
+
+    width: 100%;
+
+    height: 235px;
 
     object-fit: cover;
 
-    border-radius: 12px;
+    border:
+        1px solid
+        var(--rand);
 
-    flex-shrink: 0;
+    border-radius:
+        var(--radius);
+
+    box-shadow:
+        var(--schaduw);
 }
 
-.recept-grid {
 
-    width: min(1600px, 95%);
-    margin: 30px auto;
+/* =========================================================
+   9. RECEPTENGEDEELTE
+   ========================================================= */
 
-    display: flex;
-    flex-direction: column;
+#receptenDeel {
+    width: min(1450px, 92%);
 
-    gap: 20px;
+    margin:
+        0 auto
+        50px;
 }
 
-/* Eén recept */
-.recept-card-content {
 
-    flex: 1;
+/* =========================================================
+   10. RECEPTENTITEL
+   JavaScript verandert de tekst hiervan
+   ========================================================= */
 
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+#receptTitel {
+    margin:
+        0
+        0
+        24px;
+
+    font-family:
+        Georgia,
+        "Times New Roman",
+        serif;
+
+    font-size:
+        clamp(
+            1.8rem,
+            3vw,
+            2.6rem
+        );
+
+    line-height: 1.2;
+
+    color:
+        var(--tekst);
 
     text-align: left;
 }
 
-.recept-card-content h3 {
 
-    margin: 0 0 8px 0;
+#receptTitel::after {
+    content: "";
 
-    font-size: 1.25rem;
-    font-weight: 700;
+    display: block;
 
-    color: #333;
+    width: 65px;
+    height: 4px;
+
+    margin-top: 12px;
+
+    background:
+        var(--terracotta);
+
+    border-radius: 10px;
 }
-.recept-card-content p {
+
+
+/* =========================================================
+   11 t/m 14. RECEPTENTILES
+   ========================================================= */
+
+.recept-grid {
+    width: 100%;
+
+    display: grid;
+
+    grid-template-columns:
+        repeat(3, minmax(0, 1fr));
+
+    gap: 24px;
+
+    align-items: stretch;
+}
+
+
+/*
+   Voor het geval er voor een regio nog geen recepten zijn
+*/
+
+.recept-grid > p {
+    grid-column: 1 / -1;
 
     margin: 0;
 
-    font-size: 0.95rem;
-    line-height: 1.5;
+    padding: 28px;
 
-    color: #666;
+    background: var(--papier);
+
+    border:
+        1px solid
+        var(--rand);
+
+    border-radius: var(--radius);
+
+    color: var(--tekst-zacht);
+
+    text-align: left;
 }
 
-@media (max-width: 800px) {
+
+/* ---------- individuele recepttile ---------- */
+
+.recept-card {
+    display: flex;
+
+    flex-direction: column;
+
+    min-width: 0;
+
+    background: var(--papier);
+
+    border:
+        1px solid
+        var(--rand);
+
+    border-radius: 18px;
+
+    overflow: hidden;
+
+    box-shadow:
+        0 6px 18px
+        rgba(76, 43, 24, 0.10);
+
+    cursor: pointer;
+
+    transition:
+        transform 0.22s ease,
+        box-shadow 0.22s ease,
+        border-color 0.22s ease;
+}
+
+
+.recept-card:hover {
+    transform:
+        translateY(-5px);
+
+    box-shadow:
+        0 12px 28px
+        rgba(76, 43, 24, 0.18);
+
+    border-color:
+        rgba(185, 80, 46, 0.42);
+}
+
+
+/* ---------- afbeelding ---------- */
+
+.recept-card > img {
+    display: block;
+
+    width: 100%;
+
+    height: 200px;
+
+    object-fit: cover;
+
+    flex-shrink: 0;
+
+    transition:
+        transform 0.35s ease;
+}
+
+
+.recept-card:hover > img {
+    transform:
+        scale(1.025);
+}
+
+
+/* ---------- tekst ---------- */
+
+.recept-card-content {
+    display: flex;
+
+    flex-direction: column;
+
+    flex: 1;
+
+    padding:
+        18px
+        18px
+        20px;
+
+    text-align: left;
+}
+
+
+.recept-card-content h3 {
+    margin:
+        0
+        0
+        10px;
+
+    font-family:
+        Georgia,
+        "Times New Roman",
+        serif;
+
+    font-size: 1.3rem;
+
+    line-height: 1.25;
+
+    color: var(--tekst);
+}
+
+
+.recept-card-content p {
+    margin: 0;
+
+    font-size: 0.95rem;
+
+    line-height: 1.55;
+
+    color: var(--tekst-zacht);
+}
+
+/* =========================================================
+   15. TABLET
+   ========================================================= */
+
+@media (max-width: 1050px) {
+
     .content-layout {
-        flex-direction: column;
-        width: 95%;
-        gap: 16px;
+        width: 94%;
+
+        gap: 20px;
     }
 
-    .wereldkaart,
-    .sidebar {
-        flex: 1 1 auto;
-        width: 100%;
+
+    .wereldkaart {
+        flex: 3;
+
+        padding: 16px;
     }
+
+
+    .sidebar {
+        flex: 2;
+
+        min-width: 270px;
+    }
+
 
     .regio-info {
-        max-width: 100%;
-        height: auto;
+        min-height: 0;
+
+        padding: 22px;
+    }
+
+
+    .regio-info h2 {
+        font-size: 1.7rem;
+    }
+
+
+    #regioFoto {
+        height: 200px;
+    }
+
+
+    #receptenDeel {
+        width: 94%;
+    }
+
+
+    .recept-grid {
+        grid-template-columns:
+            repeat(
+                2,
+                minmax(0, 1fr)
+            );
+    }
+
+    .hero {
+    grid-template-columns:
+        1.1fr
+        0.9fr;
+    min-height: 420px;
+}
+
+    .hero-content {
+        padding:
+            45px
+            40px;
+    }
+
+
+    .hero h1 {
+        font-size:
+            clamp(
+                2.8rem,
+                5vw,
+                4rem
+            );
+    }
+
+
+    .hero-image {
+        min-height: 420px;
+    }
+}
+
+
+/* =========================================================
+   16. MOBIEL
+   ========================================================= */
+
+@media (max-width: 800px) {
+
+        body {
+            padding-top: 24px;
+        }
+
+
+    .hero {
+        width: 94%;
+
+        grid-template-columns: 1fr;
+
+        margin:
+            0 auto
+            30px;
+
+        min-height: 0;
+
+        border-radius: 22px;
+    }
+
+
+    .hero-content {
+        padding:
+            38px
+            28px
+            40px;
+    }
+
+
+    .hero h1 {
+        font-size:
+            clamp(
+                2.7rem,
+                12vw,
+                4rem
+            );
+
+        line-height: 1;
+    }
+
+
+    .hero-intro {
+        font-size: 1rem;
+
+        line-height: 1.65;
+    }
+
+
+    .hero-image {
+        min-height: 310px;
+    }
+
+
+    .hero-image img {
+        position: absolute;
+    }
+
+
+    .hero-image-caption {
+        right: 16px;
+        bottom: 16px;
+    }
+
+    .content-layout {
+        flex-direction: column;
+
+        width: 94%;
+
+        gap: 20px;
+
+        margin-top: 15px;
+    }
+
+
+    .wereldkaart {
+        width: 100%;
+
+        flex: none;
+
+        padding: 10px;
+
+        border-radius: 18px;
+    }
+
+
+    .sidebar {
+        width: 100%;
+
+        min-width: 0;
+
+        flex: none;
+    }
+
+
+    /*
+       Op mobiel eerst regio-informatie,
+       daarna de foto, overeenkomstig de HTML-volgorde.
+    */
+
+    .regio-info {
+        width: 100%;
+
+        min-height: 0;
+
+        padding:
+            22px
+            20px;
+    }
+
+
+    .regio-info h2 {
+        font-size: 1.8rem;
+    }
+
+
+    #regioFoto {
+        height: 230px;
+    }
+
+
+    #receptenDeel {
+        width: 94%;
+
+        margin-top: 38px;
+    }
+
+
+    #receptTitel {
+        font-size: 1.9rem;
+    }
+
+
+    .recept-grid {
+        grid-template-columns: 1fr;
+
+        gap: 18px;
+    }
+
+
+    .recept-card > img {
+        height: 230px;
+    }
+
+
+
+}
+
+
+/* =========================================================
+   17. KLEINE TELEFOONS
+   ========================================================= */
+
+@media (max-width: 480px) {
+
+    .hero {
+        width: 94%;
+
+        border-radius: 18px;
+    }
+
+
+    .hero-content {
+        padding:
+            32px
+            22px
+            34px;
+    }
+
+
+    .hero-kicker {
+        font-size: 0.75rem;
+
+        margin-bottom: 14px;
+    }
+
+
+    .hero h1 {
+        font-size: 2.65rem;
+    }
+
+
+    .hero-image {
+        min-height: 250px;
+    }
+
+
+    .hero-button {
+        padding:
+            13px
+            20px;
+    }
+    body > h1 {
+        font-size: 2.35rem;
+    }
+
+
+    body > h2 {
+        font-size: 1.55rem;
+    }
+
+
+    body > p {
+        font-size: 0.98rem;
+    }
+
+
+    .content-layout {
+        width: 94%;
+    }
+
+
+    .wereldkaart {
+        padding: 6px;
+
+        border-radius: 14px;
+    }
+
+
+    .regio-info {
+        padding:
+            20px
+            18px;
+
+        border-radius: 14px;
+    }
+
+
+    .regio-info h2 {
+        font-size: 1.6rem;
+    }
+
+
+    .regio-info p {
+        font-size: 0.95rem;
+    }
+
+
+    #regioFoto {
+        height: 190px;
+
+        border-radius: 14px;
+    }
+
+
+    #receptenDeel {
+        width: 90%;
+    }
+
+
+    #receptTitel {
+        font-size: 1.65rem;
+    }
+
+
+    .recept-card {
+        border-radius: 14px;
+    }
+
+
+    .recept-card > img {
+        height: 195px;
+    }
+
+
+    .recept-card-content {
+        padding: 18px;
+    }
+
+
+    .recept-card-content h3 {
+        font-size: 1.25rem;
     }
 }

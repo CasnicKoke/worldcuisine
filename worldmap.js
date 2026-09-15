@@ -9,10 +9,9 @@ async function laadWereldkaart() {
         const svgTekst = await response.text();
 
         document.getElementById("world-map").innerHTML = svgTekst;
-
-        // Pas nadat de SVG in de pagina staat:
         maakKaartInteractief();
-
+        pasSidebarHoogteAan();
+    
     } catch (error) {
         console.error("Fout bij laden wereldkaart:", error);
     }
@@ -64,7 +63,8 @@ const continenten = {
     //Latijns-Amerikaanse continent
     mexicaans: ["MX"],
     "centraal-amerika": ["BZ", "GT", "HN", "SV", "NI", "CR", "PA"],
-    caribisch: ["CU", "DO", "HT", "JM"],
+    caribisch: ["CU", "DO", "HT", "JM", "Aruba", "AI", "BL", "BM", "BB", "CW", "DM", "GD", "LC", "Saint-Martin",
+    "MS", "SX", "VC", "VG", "BQSE", "Martinique"],
     andes: ["CO", "EC", "PE", "BO"],
     brazilie: ["BR"],
     "amazone-guyanas": ["GF", "GY", "SR", "VE"],
@@ -784,17 +784,35 @@ function toonRecepten(regioNaam) {
         })
         .join("");
 
-    if (
-        !Array.isArray(receptNamen) ||
-        receptNamen.length === 0 ||
-        html.trim() === ""
-    ) {
-        container.style.display = "grid";
-        container.innerHTML =
-            "<p>Recepten volgen nog.</p>";
-        return;
-    }
+        if (
+            !Array.isArray(receptNamen) ||
+            receptNamen.length === 0 ||
+            html.trim() === ""
+        ) {
+            container.style.display = "none";
+            container.innerHTML = "";
 
+            if (titelElement) {
+                titelElement.style.display = "none";
+            }
+
+            return;
+        }
     container.style.display = "grid";
     container.innerHTML = html;
 }
+
+function pasSidebarHoogteAan() {
+    const kaart = document.getElementById("world-map");
+    const sidebar = document.querySelector(".sidebar");
+
+    if (!kaart || !sidebar) return;
+
+    if (window.innerWidth > 800) {
+        sidebar.style.height = `${kaart.offsetHeight}px`;
+    } else {
+        sidebar.style.height = "";
+    }
+}
+
+window.addEventListener("resize", pasSidebarHoogteAan);

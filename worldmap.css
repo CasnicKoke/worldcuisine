@@ -126,6 +126,7 @@ body {
 
     text-align: left;
     position: relative;
+    z-index: 1;
 }
 
 /* subtiele warme gloed */
@@ -361,6 +362,33 @@ body {
 
     color:
         var(--tekst);
+}
+
+/* ---------- Kompas als achtergrondillustratie ---------- */
+
+.hero::after {
+    content: "";
+
+    position: absolute;
+
+    top: 45px;
+    right: -70px;
+
+    width: 480px;
+    height: 480px;
+
+    background-image: url("images/kompas.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+
+    opacity: 0.13;
+    mix-blend-mode: multiply;
+
+    pointer-events: none;
+    user-select: none;
+
+    z-index: 0;
 }
 
 /* =========================================================
@@ -862,10 +890,10 @@ body {
 
     .regio-info {
         min-height: 0;
-
+        position: relative;
         padding: 22px;
+        max-width: calc(100% - 110px);
     }
-
 
     .regio-info h2 {
         font-size: 1.7rem;
@@ -1190,5 +1218,35 @@ body {
 
     .recept-card-content h3 {
         font-size: 1.25rem;
+    }
+}
+
+@media (max-width: 1050px) {
+    .hero::after {
+        width: 380px;
+        height: 380px;
+        top: 55px;
+        right: -70px;
+        opacity: 0.11;
+    }
+}
+
+@media (max-width: 800px) {
+    .hero::after {
+        width: 250px;
+        height: 250px;
+        top: 95px;
+        right: -45px;
+        opacity: 0.09;
+    }
+}
+
+@media (max-width: 480px) {
+    .hero::after {
+        width: 210px;
+        height: 210px;
+        top: 105px;
+        right: -55px;
+        opacity: 0.08;
     }
 }

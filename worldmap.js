@@ -73,7 +73,7 @@ const continenten = {
     //Oceanie
     australie: ["Australia"],
     "nieuw-zeeland": ["New Zealand"],
-    melanesie: ["Papua New Guinea", "Fiji", "Vanuatu", "TL", "Solomon Islands", "New Caledonia"],
+    melanesie: ["Papua New Guinea", "Fiji", "Vanuatu", "Solomon Islands", "New Caledonia"],
     polynesie: ["Samoa","Tonga","TV", "French Polynesia"],
     micronesie: ["GU", "MH", "NR", "PW", "Northern Mariana Islands"]
 };

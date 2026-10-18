@@ -2,58 +2,468 @@
 <html lang="nl">
 
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>World Cuisine</title>
-	<link rel="stylesheet" href="worldmap.css">
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>World Cuisine</title>
+
+    <link rel="stylesheet" href="worldmap.css">
 </head>
 
+
 <body>
-	<img
-    class="decor-spices decor-spices-left"
-    src="images/decor-spices-left.png"
-    alt=""
-    aria-hidden="true">
-<header class="hero">
 
-    <div class="hero-content">
+    <div class="atlas-shell">
 
-        <p class="hero-kicker">
-            Culinaire wereldatlas
-        </p>
+        <!-- =====================================================
+             BUITENSTE CULINAIRE DECORATIE
+             ===================================================== -->
 
-        <h1>
-            Ontdek de wereld <br>
-            <span>— een culinaire atlas</span>
-        </h1>
-        <p class="hero-intro">
-            Reis langs culinaire regio's, ontdek hun typische
-            ingrediënten en leer de gerechten kennen die iedere
-            keuken haar eigen karakter geven.
-        </p>
-        <a class="hero-button" href="#world-map">
-            Verken de wereldkaart
-        </a>
+        <div class="page-decor" aria-hidden="true">
+            <img class="corner-illustration corner-tl" src="images/corner-top-left.png" alt="">
+            <img class="corner-illustration corner-tr" src="images/corner-top-right.png" alt="">
+            <img class="corner-illustration corner-bl" src="images/corner-bottom-left.png" alt="">
+            <img class="corner-illustration corner-br" src="images/corner-bottom-right.png" alt="">
+
+            <!-- optioneel: 1 of 2 subtiele tussenaccenten -->
+            <img class="side-accent side-accent-left" src="images/side-accent-left.png" alt="">
+            <img class="side-accent side-accent-right" src="images/side-accent-right.png" alt="">
+        </div>
+
+        <main class="atlas-page">
+
+            <!-- =================================================
+                 1. NAVIGATIE
+                 ================================================= -->
+
+            <header class="atlas-topbar">
+
+                <a class="site-brand" href="#" aria-label="World Cuisine home">
+
+                    <span class="brand-mark" aria-hidden="true">
+                        ◉
+                    </span>
+
+                    <span class="brand-name">
+                        World<br>
+                        Cuisine
+                    </span>
+
+                </a>
+
+
+                <nav class="atlas-nav" aria-label="Hoofdnavigatie">
+
+                    <a href="#" class="active">
+                        Home
+                    </a>
+
+                    <a href="#world-map">
+                        Wereldkaart
+                    </a>
+
+                    <a href="#receptenDeel">
+                        Recepten
+                    </a>
+
+                    <a href="#about">
+                        Over
+                    </a>
+
+                </nav>
+
+
+                <div class="atlas-search">
+
+                    <input type="search" placeholder="Zoek recepten, landen..." aria-label="Zoek recepten of landen">
+
+                </div>
+
+            </header>
+
+
+
+            <!-- =================================================
+                 2. HERO + INTERACTIEVE WERELDKAART
+                 ================================================= -->
+
+            <section class="hero-atlas">
+
+
+                <!-- HERO-TEKST -->
+
+                <div class="hero-copy">
+
+                    <p class="hero-kicker">
+                        Explore · Taste · Discover
+                    </p>
+
+
+                    <h1>
+                        Culinaire reizen<br>
+                        <span>over de hele wereld</span>
+                    </h1>
+
+
+                    <p class="hero-intro">
+                        Ontdek lokale smaken, ingrediënten en gerechten
+                        uit alle hoeken van de wereld. Laat je inspireren
+                        en breng de wereldkeuken naar jouw eigen tafel.
+                    </p>
+
+                </div>
+
+
+
+                <!-- KAART -->
+
+                <div class="hero-map-stage">
+
+                    <div class="map-wrap">
+
+
+                        <!--
+                            Deze ID absoluut behouden:
+                            worldmap.js injecteert hier world.svg
+                        -->
+
+                        <div id="world-map" class="wereldkaart map-panel">
+                        </div>
+
+                        <!-- NIEUW: route van Magelhaen -->
+                        <svg class="map-route-layer" viewBox="0 0 1000 520" preserveAspectRatio="none"
+                            aria-hidden="true">
+                            <!-- 1. Zuid-Spanje -> Canarische Eilanden -> Kaapverdië -> Brazilië -->
+                            <path class="map-route" d="
+        M 478 160
+
+        C 462 176, 447 188, 434 202
+        C 425 214, 417 227, 411 240
+
+        C 407 255, 404 270, 400 284
+        C 396 300, 393 315, 391 325
+    " />
+                            <!-- 2. Brazilië -> langs de oostkust zuidwaarts -> Straat Magellaan -->
+                            <path class="map-route" d="
+        M 391 325
+
+        C 401 329, 406 350, 404 361
+        C 401 372, 396 382, 392 391
+        C 389 398, 387 403, 374 386
+    " />
+                            <path class="map-route" d="
+        M 374 386
+
+        C 388 398, 394 413, 393 429
+        C 391 447, 383 463, 370 477
+        C 357 490, 342 498, 328 500
+    " />
+                            <!-- 3. Straat Magellaan -> westwaarts de kaart uit -->
+                            <path class="map-route" d="
+        M 328 500
+
+        C 300 496, 270 488, 238 476
+        C 205 463, 175 448, 148 432
+        C 126 419, 110 408, 98 399
+    " />
+                            <!-- 4. Pacific komt rechts weer binnen -> richting Filipijnen -->
+                            <path class="map-route" d="
+        M 972 274
+
+        C 950 267, 928 262, 906 260
+        C 886 258, 870 256, 860 255
+        C 856 254, 854 254, 852 254
+    " />
+                            <path class="map-route" d="
+        M 852 254
+        C 848 255, 844 257, 841 259
+        C 840 260, 839 260, 838 260
+    " />
+                            <!-- 5. Filipijnen -> Indische Oceaan -> Kaap -> terug naar Spanje -->
+                            <path class="map-route" d="
+        M 838 260
+
+        C 831 268, 826 277, 824 286
+        C 829 294, 839 301, 849 306
+        C 856 310, 862 312, 866 312
+    " />
+                            <path class="map-route" d="
+        M 866 312
+
+        C 855 322, 844 333, 836 344
+        C 829 354, 824 363, 822 371
+
+        C 800 379, 776 387, 750 397
+        C 716 410, 680 422, 646 432
+        C 614 440, 586 444, 565 441
+        C 557 439, 551 435, 548 440
+    " />
+                            <path class="map-route" d="
+        M 548 440
+
+        C 528 432, 507 420, 488 405
+        C 466 387, 449 365, 440 340
+        C 431 315, 427 288, 428 260
+
+        C 429 232, 437 208, 449 191
+        C 458 180, 468 172, 478 160
+    " />
+
+                            <!-- Route van Cartier naar Canada -->
+                            <path class="map-route map-route-cartier" d="
+        M 484 120
+
+        C 453 103, 421 98, 391 101
+        C 362 104, 342 114, 328 130
+    " />
+
+                            <path class="map-route" d="
+        M 628 360
+
+        C 624 354, 620 347, 616 340
+        C 626 320, 640 296, 654 273
+        C 666 253, 677 235, 686 218
+    " />
+
+
+                            <!-- alleen enkele subtiele ankerpunten -->
+                            <!-- grote punten -->
+                            <circle class="map-route-point" cx="478" cy="160" r="3" />
+                            <circle class="map-route-point" cx="328" cy="500" r="3" />
+                            <circle class="map-route-point" cx="838" cy="260" r="3" />
+                            <circle class="map-route-point" cx="548" cy="440" r="3" />
+
+                            <!-- kleinere punten -->
+                            <circle class="map-route-point" cx="390" cy="329" r="3" />
+                            <circle class="map-route-point" cx="378" cy="388" r="3" />
+                            <circle class="map-route-point" cx="852" cy="254" r="3" />
+
+                            <circle class="map-route-point" cx="484" cy="120" r="3" />
+                            <circle class="map-route-point" cx="328" cy="130" r="3" />
+
+                            <!-- Indian Ocean trade route -->
+
+                            <!-- Madagascar -->
+                            <circle class="map-route-point" cx="628" cy="360" r="3" />
+
+                            <!-- Comoren -->
+                            <circle class="map-route-point" cx="616" cy="345" r="3" />
+
+                            <!-- Surat / westkust India -->
+                            <circle class="map-route-point" cx="686" cy="218" r="3" />
+
+                        </svg>
+
+                        <!-- CARTOGRAFISCHE DECORATIES -->
+
+                        <img class="map-compass" src="images/KompasAI.png" alt="" aria-hidden="true">
+
+
+                        <img class="map-dragon" src="images/SeaDragon2AI.png" alt="" aria-hidden="true">
+
+
+                        <img class="map-ship map-ship-1" src="images/DriemasterAI.png" alt="" aria-hidden="true">
+
+
+                        <img class="map-ship map-ship-2" src="images/Driemaster2AI.png" alt="" aria-hidden="true">
+
+
+
+                        <!--
+                            Deze worden later gebruikt voor
+                            route-/atlasannotaties.
+                        -->
+
+                        <div class="map-route-layer" aria-hidden="true">
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </section>
+
+            <!-- Decoratief agrarisch landschap -->
+            <div class="landscape-divider" aria-hidden="true">
+                <img src="images/landscape-divider.png" alt="">
+            </div>
+
+            <!-- =================================================
+                 3. UITGELICHTE CULINAIRE REGIO
+                 ================================================= -->
+
+            <section class="featured-region">
+
+                <!-- Herhalende oude perkamentrand -->
+                <span class="paper-edge paper-edge-top" aria-hidden="true"></span>
+                <span class="paper-edge paper-edge-right" aria-hidden="true"></span>
+                <span class="paper-edge paper-edge-bottom" aria-hidden="true"></span>
+                <span class="paper-edge paper-edge-left" aria-hidden="true"></span>
+
+                <!--
+                    Later dynamisch mee laten veranderen
+                    met de geselecteerde regio.
+                -->
+
+
+                <!-- Introductie totdat de bezoeker een regio verkent -->
+                <div class="region-intro" aria-label="Begin je culinaire wereldreis">
+                    <div class="region-intro-decor region-intro-decor-buffalo" aria-hidden="true">
+                        <img src="images/intro-buffalo-paddy.png" alt="">
+                    </div>
+                    <div class="region-intro-art">
+                        <img src="images/intro-worldmap-spices.png" alt="Historische wereldkaart met specerijen en oude scheepsroutes">
+                    </div>
+                    <div class="region-intro-copy">
+                        <p class="region-kicker">DE SMAKEN VAN DE WERELD</p>
+                        <h2>Elke regio vertelt een verhaal</h2>
+                        <p>Van eeuwenoude specerijenroutes tot gerechten die van generatie op generatie worden doorgegeven. Ontdek de culinaire tradities achter de wereldkaart.</p>
+                        <p class="intro-instruction"><span aria-hidden="true">✦</span> Beweeg over de kaart om een regio te ontdekken. Klik voor bijbehorende gerechten.</p>
+                    </div>
+                </div>
+
+                <div ID="regionVisual" class="region-visual" hidden>
+
+                    <div class="region-image-frame">
+
+                        <img id="regionImage" src="images/region-placeholder.jpg" alt="">
+
+                    </div>
+
+                    <span id="regionImageLabel" class="region-image-label">
+                        Culinaire regio
+                    </span>
+
+                </div>
+
+
+
+                <!--
+                    Bestaande JavaScript-ID behouden.
+                    worldmap.js kan dit blok blijven vullen.
+                -->
+
+                <div id="regioInfo" class="regio-info">
+
+                    <p class="region-kicker">
+                        Culinaire regio
+                    </p>
+                    <h2>
+                        Verken de culinaire wereld
+                    </h2>
+
+                    <p>
+                        Beweeg met de muis over een regio om meer te lezen
+                        over de keuken en haar karakteristieke ingrediënten.
+                    </p>
+
+                </div>
+
+
+
+                <!--
+                    In v2 kunnen we dit later vullen met
+                    ingrediënten-iconen of een botanische illustratie.
+                -->
+
+                <aside class="region-detail" aria-label="Kenmerkende ingrediënten">
+
+                    <div id="regionIngredientsVisual" class="region-ingredients-visual">
+                    </div>
+
+                </aside>
+
+            </section>
+
+
+
+            <!-- =================================================
+                 4. RECEPTENSHOWCASE
+                 ================================================= -->
+
+            <section id="receptenDeel" class="recipes-showcase">
+                <div class="recipes-decor-cookbook" aria-hidden="true">
+                    <img src="images/cookbook-watermark.png" alt="">
+                </div>
+
+                <div class="recipes-heading">
+
+                    <div>
+
+                        <p class="recipes-kicker">
+                            Proef de wereld
+                        </p>
+
+
+                        <!--
+                            ID behouden:
+                            JavaScript verandert deze titel.
+                        -->
+
+                        <h2 id="receptTitel" style="display:none;">
+                            Populaire recepten
+                        </h2>
+
+                    </div>
+
+
+                    <a class="all-recipes-link" href="#" style="display:none;">
+                        Alle recepten →
+                    </a>
+
+                </div>
+
+
+
+                <!--
+                    ID + class behouden:
+                    recepten.js / worldmap.js gebruiken dit.
+                -->
+
+                <div id="receptenContainer" class="recept-grid" style="display:none;">
+
+                    <p>
+                        Recepten komen hier
+                    </p>
+
+                </div>
+
+            </section>
+
+            <!-- Decoratieve keukenillustratie -->
+            <div class="kitchen-divider" aria-hidden="true">
+                <img src="images/kitchen-divider.png" alt="">
+            </div>
+
+            <!-- =================================================
+                 5. KLEINE ATLAS-FOOTER
+                 ================================================= -->
+
+            <footer id="about" class="atlas-footer">
+
+                <p>
+                    World Cuisine · Explore · Taste · Discover
+                </p>
+
+            </footer>
+
+
+        </main>
+
     </div>
-</header><div class="content-layout">
-	<div class="wereldkaart" id="world-map">
-	</div>
-    <div class="sidebar">
-	    <div id="regioInfo" class="regio-info">
-    		<h2> Verken de culinaire wereld </h2>
-    		<p>Beweeg met de muis over een regio om meer te lezen over de keuken en haar ingrediënten. </p>
-    	</div>
-    </div>
-</div>
-<div id="receptenDeel">
-	<div>    
-    	<h2 id="receptTitel" style="display:none;"> Gerechten uit deze regio </h2>
-	</div>
-	<div id="receptenContainer" style="display:none;" class="recept-grid">
-    </div>
-</div>
-    
-<script src="recepten.js"></script>
-<script src="worldmap.js"></script>
+
+
+
+    <!-- =========================================================
+         JAVASCRIPT
+         VOLGORDE VOORLOPIG BEHOUDEN
+         ========================================================= -->
+
+    <script src="recepten.js"></script>
+    <script src="worldmap.js"></script>
+
+
 </body>
+
 </html>

@@ -541,6 +541,412 @@ const regioBeschrijving = {
     }
 };
 
+const regioIngredientIconen = {
+
+    // Europa
+    balkan: [
+        { naam: "Gegrild vlees", bestand: "icon-meat.png" },
+        { naam: "Paprika", bestand: "icon-chili.png" },
+        { naam: "Yoghurt", bestand: "icon-yogurt.png" },
+        { naam: "Witte kaas", bestand: "icon-cheese.png" },
+        { naam: "Platbrood", bestand: "icon-bread.png" }
+    ],
+
+    "oost-centraal-europa": [
+        { naam: "Paprika", bestand: "icon-chili.png" },
+        { naam: "Aardappelen", bestand: "icon-potato.png" },
+        { naam: "Paddenstoelen", bestand: "icon-mushroom.png" },
+        { naam: "Zure room", bestand: "icon-yogurt.png" },
+        { naam: "Granen", bestand: "icon-grain.png" }
+    ],
+
+    scandinavie: [
+        { naam: "Zalm", bestand: "icon-fish.png" },
+        { naam: "Rogge", bestand: "icon-bread.png" },
+        { naam: "Bessen", bestand: "icon-avocado.png" },
+        { naam: "Aardappelen", bestand: "icon-potato.png" },
+        { naam: "Dille", bestand: "icon-herbs.png" }
+    ],
+
+    "britse-eilanden": [
+        { naam: "Aardappelen", bestand: "icon-potato.png" },
+        { naam: "Cheddar", bestand: "icon-cheese.png" },
+        { naam: "Prei", bestand: "icon-leaf.png" },
+        { naam: "Boter", bestand: "icon-oil.png" },
+        { naam: "Brood", bestand: "icon-bread.png" }
+    ],
+
+    germaans: [
+        { naam: "Worst", bestand: "icon-meat.png" },
+        { naam: "Aardappelen", bestand: "icon-potato.png" },
+        { naam: "Mosterd", bestand: "icon-bowl.png" },
+        { naam: "Rogge", bestand: "icon-grain.png" },
+        { naam: "Zuurkool", bestand: "icon-leaf.png" }
+    ],
+
+    "midden-europa": [
+        { naam: "Kaas", bestand: "icon-cheese.png" },
+        { naam: "Aardappelen", bestand: "icon-potato.png" },
+        { naam: "Paddenstoelen", bestand: "icon-mushroom.png" },
+        { naam: "Room", bestand: "icon-yogurt.png" },
+        { naam: "Brood", bestand: "icon-bread.png" }
+    ],
+
+    mediterraans: [
+        { naam: "Olijfolie", bestand: "icon-oil.png" },
+        { naam: "Tomaat", bestand: "icon-tomato.png" },
+        { naam: "Knoflook", bestand: "icon-garlic.png" },
+        { naam: "Citrus", bestand: "icon-citrus.png" },
+        { naam: "Vis", bestand: "icon-fish.png" }
+    ],
+
+    // Midden-Oosten
+    anatolie: [
+        { naam: "Yoghurt", bestand: "icon-yogurt.png" },
+        { naam: "Bulgur", bestand: "icon-grain.png" },
+        { naam: "Aubergine", bestand: "icon-eggplant.png" },
+        { naam: "Kikkererwten", bestand: "icon-beans.png" },
+        { naam: "Peper", bestand: "icon-chili.png" }
+    ],
+
+    levant: [
+        { naam: "Kikkererwten", bestand: "icon-beans.png" },
+        { naam: "Tahin", bestand: "icon-bowl.png" },
+        { naam: "Pita", bestand: "icon-bread.png" },
+        { naam: "Olijven", bestand: "icon-oil.png" },
+        { naam: "Granaatappel", bestand: "icon-avocado.png" }
+    ],
+
+    perzie: [
+        { naam: "Rijst", bestand: "icon-rice.png" },
+        { naam: "Saffraan", bestand: "icon-herbs.png" },
+        { naam: "Pistache", bestand: "icon-beans.png" },
+        { naam: "Yoghurt", bestand: "icon-yogurt.png" },
+        { naam: "Gedroogd fruit", bestand: "icon-dates.png" }
+    ],
+
+    "arabisch-schiereiland": [
+        { naam: "Lamsvlees", bestand: "icon-meat.png" },
+        { naam: "Rijst", bestand: "icon-rice.png" },
+        { naam: "Dadels", bestand: "icon-dates.png" },
+        { naam: "Kardemom", bestand: "icon-herbs.png" },
+        { naam: "Yoghurt", bestand: "icon-yogurt.png" }
+    ],
+
+    // Azië
+    "rus-eurazie": [
+        { naam: "Rogge", bestand: "icon-bread.png" },
+        { naam: "Biet", bestand: "icon-root.png" },
+        { naam: "Aardappelen", bestand: "icon-potato.png" },
+        { naam: "Paddenstoelen", bestand: "icon-mushroom.png" },
+        { naam: "Dille", bestand: "icon-herbs.png" }
+    ],
+
+    kaukasus: [
+        { naam: "Walnoten", bestand: "icon-beans.png" },
+        { naam: "Granaatappel", bestand: "icon-avocado.png" },
+        { naam: "Aubergine", bestand: "icon-eggplant.png" },
+        { naam: "Kaas", bestand: "icon-cheese.png" },
+        { naam: "Brood", bestand: "icon-bread.png" }
+    ],
+
+    "centraal-aziatisch": [
+        { naam: "Rijst", bestand: "icon-rice.png" },
+        { naam: "Lamsvlees", bestand: "icon-meat.png" },
+        { naam: "Wortel", bestand: "icon-root.png" },
+        { naam: "Ui", bestand: "icon-leaf.png" },
+        { naam: "Platbrood", bestand: "icon-bread.png" }
+    ],
+
+    "china-oost-azie": [
+        { naam: "Noedels", bestand: "icon-noodles.png" },
+        { naam: "Rijst", bestand: "icon-rice.png" },
+        { naam: "Tofu", bestand: "icon-bowl.png" },
+        { naam: "Soja", bestand: "icon-beans.png" },
+        { naam: "Gember", bestand: "icon-root.png" }
+    ],
+
+    japan: [
+        { naam: "Rijst", bestand: "icon-rice.png" },
+        { naam: "Zeewier", bestand: "icon-seaweed.png" },
+        { naam: "Soja", bestand: "icon-beans.png" },
+        { naam: "Miso", bestand: "icon-bowl.png" },
+        { naam: "Vis", bestand: "icon-fish.png" }
+    ],
+
+    "indo-chinees": [
+        { naam: "Limoen", bestand: "icon-citrus.png" },
+        { naam: "Koriander", bestand: "icon-herbs.png" },
+        { naam: "Citroengras", bestand: "icon-leaf.png" },
+        { naam: "Chili", bestand: "icon-chili.png" },
+        { naam: "Kokos", bestand: "icon-coconut.png" }
+    ],
+
+    "maleis-indonesisch": [
+        { naam: "Kokosmelk", bestand: "icon-coconut.png" },
+        { naam: "Sambal", bestand: "icon-chili.png" },
+        { naam: "Tamarinde", bestand: "icon-bowl.png" },
+        { naam: "Rijst", bestand: "icon-rice.png" },
+        { naam: "Gember", bestand: "icon-root.png" }
+    ],
+
+    filipijns: [
+        { naam: "Knoflook", bestand: "icon-garlic.png" },
+        { naam: "Azijn", bestand: "icon-bowl.png" },
+        { naam: "Soja", bestand: "icon-beans.png" },
+        { naam: "Calamansi", bestand: "icon-citrus.png" },
+        { naam: "Kokos", bestand: "icon-coconut.png" }
+    ],
+
+    "zuid-aziatisch": [
+        { naam: "Rijst", bestand: "icon-rice.png" },
+        { naam: "Linzen", bestand: "icon-beans.png" },
+        { naam: "Kardemom", bestand: "icon-herbs.png" },
+        { naam: "Komijn", bestand: "icon-herbs.png" },
+        { naam: "Naan", bestand: "icon-bread.png" }
+    ],
+
+    // Afrika
+    maghreb: [
+        { naam: "Couscous", bestand: "icon-bowl.png" },
+        { naam: "Olijfolie", bestand: "icon-oil.png" },
+        { naam: "Kikkererwten", bestand: "icon-beans.png" },
+        { naam: "Dadels", bestand: "icon-dates.png" },
+        { naam: "Citroen", bestand: "icon-citrus.png" }
+    ],
+
+    nijlvallei: [
+        { naam: "Linzen", bestand: "icon-beans.png" },
+        { naam: "Rijst", bestand: "icon-rice.png" },
+        { naam: "Sesam", bestand: "icon-grain.png" },
+        { naam: "Okra", bestand: "icon-leaf.png" },
+        { naam: "Tarwebrood", bestand: "icon-bread.png" }
+    ],
+
+    sahel: [
+        { naam: "Gierst", bestand: "icon-grain.png" },
+        { naam: "Pinda's", bestand: "icon-beans.png" },
+        { naam: "Rijst", bestand: "icon-rice.png" },
+        { naam: "Geit", bestand: "icon-meat.png" },
+        { naam: "Chili", bestand: "icon-chili.png" }
+    ],
+
+    "west-afrika": [
+        { naam: "Cassave", bestand: "icon-root.png" },
+        { naam: "Yam", bestand: "icon-root.png" },
+        { naam: "Plantain", bestand: "icon-banana.png" },
+        { naam: "Pinda's", bestand: "icon-beans.png" },
+        { naam: "Rijst", bestand: "icon-rice.png" }
+    ],
+
+    "hoorn-van-afrika": [
+        { naam: "Injera", bestand: "icon-bread.png" },
+        { naam: "Linzen", bestand: "icon-beans.png" },
+        { naam: "Berbere", bestand: "icon-chili.png" },
+        { naam: "Kikkererwten", bestand: "icon-beans.png" },
+        { naam: "Koffie", bestand: "icon-bowl.png" }
+    ],
+
+    "centraal-afrika": [
+        { naam: "Cassave", bestand: "icon-root.png" },
+        { naam: "Plantain", bestand: "icon-banana.png" },
+        { naam: "Pinda's", bestand: "icon-beans.png" },
+        { naam: "Palmolie", bestand: "icon-oil.png" },
+        { naam: "Vis", bestand: "icon-fish.png" }
+    ],
+
+    "oost-afrika": [
+        { naam: "Kokosmelk", bestand: "icon-coconut.png" },
+        { naam: "Cassave", bestand: "icon-root.png" },
+        { naam: "Mango", bestand: "icon-avocado.png" },
+        { naam: "Linz­en", bestand: "icon-beans.png" },
+        { naam: "Kardemom", bestand: "icon-herbs.png" }
+    ],
+
+    "zuidelijk-afrika": [
+        { naam: "Maïs", bestand: "icon-corn.png" },
+        { naam: "Gegrild vlees", bestand: "icon-meat.png" },
+        { naam: "Bonen", bestand: "icon-beans.png" },
+        { naam: "Pompoen", bestand: "icon-bowl.png" },
+        { naam: "Kruiden", bestand: "icon-herbs.png" }
+    ],
+
+    // Noord-Amerika
+    canada: [
+        { naam: "Zalm", bestand: "icon-fish.png" },
+        { naam: "Esdoornsiroop", bestand: "icon-bowl.png" },
+        { naam: "Wilde bessen", bestand: "icon-avocado.png" },
+        { naam: "Paddenstoelen", bestand: "icon-mushroom.png" },
+        { naam: "Wortelgroenten", bestand: "icon-root.png" }
+    ],
+
+    "verenigde-staten": [
+        { naam: "Maïs", bestand: "icon-corn.png" },
+        { naam: "Bonen", bestand: "icon-beans.png" },
+        { naam: "Pompoen", bestand: "icon-bowl.png" },
+        { naam: "Barbecuevlees", bestand: "icon-meat.png" },
+        { naam: "Zeevruchten", bestand: "icon-fish.png" }
+    ],
+
+    // Latijns-Amerika
+    mexicaans: [
+        { naam: "Maïs", bestand: "icon-corn.png" },
+        { naam: "Chilipeper", bestand: "icon-chili.png" },
+        { naam: "Bonen", bestand: "icon-beans.png" },
+        { naam: "Avocado", bestand: "icon-avocado.png" },
+        { naam: "Limoen", bestand: "icon-citrus.png" }
+    ],
+
+    "centraal-amerika": [
+        { naam: "Maïs", bestand: "icon-corn.png" },
+        { naam: "Bonen", bestand: "icon-beans.png" },
+        { naam: "Rijst", bestand: "icon-rice.png" },
+        { naam: "Plantain", bestand: "icon-banana.png" },
+        { naam: "Yuca", bestand: "icon-root.png" }
+    ],
+
+    caribisch: [
+        { naam: "Rijst", bestand: "icon-rice.png" },
+        { naam: "Bonen", bestand: "icon-beans.png" },
+        { naam: "Kokos", bestand: "icon-coconut.png" },
+        { naam: "Plantain", bestand: "icon-banana.png" },
+        { naam: "Vis", bestand: "icon-fish.png" }
+    ],
+
+    andes: [
+        { naam: "Aardappelen", bestand: "icon-potato.png" },
+        { naam: "Quinoa", bestand: "icon-grain.png" },
+        { naam: "Maïs", bestand: "icon-corn.png" },
+        { naam: "Bonen", bestand: "icon-beans.png" },
+        { naam: "Chili", bestand: "icon-chili.png" }
+    ],
+
+    brazilie: [
+        { naam: "Cassave", bestand: "icon-cassava.png" },
+        { naam: "Zwarte bonen", bestand: "icon-black-beans.png" },
+        { naam: "Rijst", bestand: "icon-rice.png" },
+        { naam: "Kokos", bestand: "icon-coconut.png" },
+        { naam: "Palmolie", bestand: "icon-palm-oil.png" }
+    ],
+
+    "amazone-guyanas": [
+        { naam: "Cassave", bestand: "icon-root.png" },
+        { naam: "Rijst", bestand: "icon-rice.png" },
+        { naam: "Kokos", bestand: "icon-coconut.png" },
+        { naam: "Plantain", bestand: "icon-banana.png" },
+        { naam: "Tropisch fruit", bestand: "icon-avocado.png" }
+    ],
+
+    pampas: [
+        { naam: "Rundvlees", bestand: "icon-meat.png" },
+        { naam: "Aardappelen", bestand: "icon-potato.png" },
+        { naam: "Maïs", bestand: "icon-corn.png" },
+        { naam: "Wijn", bestand: "icon-bowl.png" },
+        { naam: "Chimichurri", bestand: "icon-herbs.png" }
+    ],
+
+    // Oceanië
+    australie: [
+        { naam: "Zeevruchten", bestand: "icon-fish.png" },
+        { naam: "Lamsvlees", bestand: "icon-meat.png" },
+        { naam: "Avocado", bestand: "icon-avocado.png" },
+        { naam: "Citrus", bestand: "icon-citrus.png" },
+        { naam: "Macadamia", bestand: "icon-beans.png" }
+    ],
+
+    "nieuw-zeeland": [
+        { naam: "Lamsvlees", bestand: "icon-meat.png" },
+        { naam: "Zalm", bestand: "icon-fish.png" },
+        { naam: "Mosselen", bestand: "icon-fish.png" },
+        { naam: "Kūmara", bestand: "icon-root.png" },
+        { naam: "Bessen", bestand: "icon-avocado.png" }
+    ],
+
+    melanesie: [
+        { naam: "Taro", bestand: "icon-root.png" },
+        { naam: "Cassave", bestand: "icon-root.png" },
+        { naam: "Kokos", bestand: "icon-coconut.png" },
+        { naam: "Banaan", bestand: "icon-banana.png" },
+        { naam: "Vis", bestand: "icon-fish.png" }
+    ],
+
+    polynesie: [
+        { naam: "Vis", bestand: "icon-fish.png" },
+        { naam: "Kokosmelk", bestand: "icon-coconut.png" },
+        { naam: "Taro", bestand: "icon-root.png" },
+        { naam: "Broodvrucht", bestand: "icon-bread.png" },
+        { naam: "Limoen", bestand: "icon-citrus.png" }
+    ],
+
+    micronesie: [
+        { naam: "Tonijn", bestand: "icon-fish.png" },
+        { naam: "Kokos", bestand: "icon-coconut.png" },
+        { naam: "Rijst", bestand: "icon-rice.png" },
+        { naam: "Taro", bestand: "icon-root.png" },
+        { naam: "Pandan", bestand: "icon-leaf.png" }
+    ]
+
+};
+
+const regioFotos = {
+
+    // Europa
+    balkan: "feature-balkanAI.jpg",
+    "oost-centraal-europa": "feature-oost-centraal-europaAI.jpg",
+    scandinavie: "feature-scandinavieAI.jpg",
+    "britse-eilanden": "feature-groot-brittannie-ierlandAI.jpg",
+    germaans: "feature-duitsland-beneluxAI.jpg",
+    "midden-europa": "feature-frankrijk-alpenlandenAI.jpg",
+    mediterraans: "feature-mediterraansAI.jpg",
+
+    // Midden-Oosten
+    anatolie: "feature-anatolieAI.jpg",
+    levant: "feature-levantAI.jpg",
+    perzie: "feature-perzieAI.jpg",
+    "arabisch-schiereiland": "feature-arabisch-schiereilandAI.jpg",
+
+    // Azië
+    "rus-eurazie": "feature-noord-eurazieAI.jpg",
+    kaukasus: "feature-kaukasusAI.jpg",
+    "centraal-aziatisch": "feature-centraal-azieAI.jpg",
+    "china-oost-azie": "feature-china-oost-azieAI.jpg",
+    japan: "feature-japanAI.jpg",
+    "indo-chinees": "feature-vasteland-zuidoost-azieAI.jpg",
+    "maleis-indonesisch": "feature-maleis-indonesischAI.jpg",
+    filipijns: "feature-filipijnenAI.jpg",
+    "zuid-aziatisch": "feature-zuid-aziatischAI.jpg",
+
+    // Afrika
+    maghreb: "feature-maghrebAI.jpg",
+    nijlvallei: "feature-nijlvalleiAI.jpg",
+    sahel: "feature-sahelAI.jpg",
+    "west-afrika": "feature-west-afrikaAI.jpg",
+    "hoorn-van-afrika": "feature-hoorn-van-afrikaAI.jpg",
+    "centraal-afrika": "feature-centraal-afrikaAI.jpg",
+    "oost-afrika": "feature-oost-afrikaAI.jpg",
+    "zuidelijk-afrika": "feature-zuidelijk-afrikaAI.jpg",
+
+    // Noord-Amerika
+    canada: "feature-canadaAI.jpg",
+    "verenigde-staten": "feature-verenigde-statenAI.jpg",
+
+    // Latijns-Amerika
+    mexicaans: "feature-mexicaansAI.jpg",
+    "centraal-amerika": "feature-centraal-amerikaAI.jpg",
+    caribisch: "feature-caribischAI.jpg",
+    andes: "feature-andesAI.jpg",
+    brazilie: "feature-brazilieAI.jpg",
+    "amazone-guyanas": "feature-amazone-guyanasAI.jpg",
+    pampas: "feature-pampasAI.jpg",
+
+    // Oceanië
+    australie: "feature-australieAI.jpg",
+    "nieuw-zeeland": "feature-nieuw-zeelandAI.jpg",
+    melanesie: "feature-melanesieAI.jpg",
+    polynesie: "feature-polynesieAI.jpg",
+    micronesie: "feature-micronesieAI.jpg"
+};
+
 let geselecteerdeRegio = null;
 
 function vindLanden(landcode) {
@@ -706,104 +1112,190 @@ function lichtContinentOp(continentNaam, actief) {
     });
 }
 
+function toonRegioFoto(regioNaam) {
+
+    const afbeelding =
+        document.getElementById("regionImage");
+
+    const label =
+        document.getElementById("regionImageLabel");
+
+    const visual =
+        document.getElementById("regionVisual");
+
+    const info =
+        regioBeschrijving[regioNaam];
+
+    const foto =
+        regioFotos[regioNaam];
+
+    if (!afbeelding || !info || !foto) {
+        return;
+    }
+
+    afbeelding.src =
+        `images/features/${foto}`;
+
+    afbeelding.alt =
+        `Culinaire sfeerimpressie van ${info.titel}`;
+
+    if (label) {
+        label.textContent = info.titel;
+    }
+
+    if (visual) {
+        visual.hidden = false;
+    }
+}
+
 function toonRegioInfo(continentNaam) {
 
-    const info = regioBeschrijving[continentNaam];
+    const info =
+        regioBeschrijving[continentNaam];
 
     if (!info) return;
 
-    const ingredienten = info.ingredienten
-        .split(",")
-        .map(item => item.trim())
-        .filter(Boolean);
+    const iconen =
+        regioIngredientIconen[continentNaam];
 
-    const ingredientTags = ingredienten
-        .map(item => `<span>${item}</span>`)
-        .join("");
+    let ingredientenHtml = "";
+
+    if (iconen && iconen.length > 0) {
+
+        ingredientenHtml = `
+            <div class="ingredienten-blok">
+
+                <div class="regio-label">
+                    Kenmerkende ingrediënten
+                </div>
+
+                <ul class="ingredienten-lijst">
+
+                    ${iconen.map(item => `
+                        <li>
+                            <img
+                                src="images/icons/${item.bestand}"
+                                alt=""
+                                aria-hidden="true"
+                            >
+                            <span>${item.naam}</span>
+                        </li>
+                    `).join("")}
+
+                </ul>
+
+            </div>
+        `;
+
+    } else {
+
+        ingredientenHtml = `
+            <div class="ingredienten-blok">
+
+                <div class="regio-label">
+                    Kenmerkende ingrediënten
+                </div>
+
+                <p>${info.ingredienten}</p>
+
+            </div>
+        `;
+    }
+
+    // Schakel introductie uit zodra een regio op de kaart wordt verkend.
+    document.querySelector(".featured-region")?.classList.add("has-region");
 
     document.getElementById("regioInfo").innerHTML = `
+
         <h2>${info.titel}</h2>
 
         <div class="regio-beschrijving">
+
             <div class="regio-label">
                 Kenmerken
             </div>
 
-            <p>
-                ${info.beschrijving}
-            </p>
+            <p>${info.beschrijving}</p>
+
         </div>
 
-        <div class="ingredienten-blok">
-            <div class="regio-label">
-                Kenmerkende ingrediënten
-            </div>
+        ${ingredientenHtml}
+    `;
 
-            <div class="ingredienten-tags">
-                ${ingredientTags}
+    toonRegioFoto(continentNaam);
+}
+
+/* Receptkaarten: zowel selectie van een regio als een gevarieerde startpagina. */
+function maakReceptkaart(sleutel, regioLabel = "") {
+    const recept = recepten[sleutel];
+    if (!recept) return "";
+
+    const label = regioLabel
+        ? `<span class="recept-card-region">${regioLabel}</span>`
+        : "";
+
+    return `
+        <a class="recept-card" href="${recept.url}">
+            <div class="recept-card-photo">
+                <img src="${recept.afbeelding}" alt="${recept.titel}" loading="lazy">
             </div>
-        </div>
+            <div class="recept-card-content">
+                ${label}
+                <h3>${recept.titel}</h3>
+                <p>${recept.korteBeschrijving}</p>
+            </div>
+        </a>
     `;
 }
 
-function toonRecepten(regioNaam) {
+function toonReceptKaarten(sleutels, titel, regioLabels = {}) {
+    const titelElement = document.getElementById("receptTitel");
+    const container = document.getElementById("receptenContainer");
+    if (!container) return;
 
-    const titelElement =
-        document.getElementById("receptTitel");
+    const html = sleutels
+        .map(sleutel => maakReceptkaart(sleutel, regioLabels[sleutel] || ""))
+        .join("");
 
-    if (titelElement && regioBeschrijving[regioNaam]) {
-        titelElement.style.display = "grid";
-        titelElement.textContent =
-            "Typische gerechten uit de culinaire regio " +
-            regioBeschrijving[regioNaam].titel;
-    }
-
-    const receptNamen = regioRecepten[regioNaam] || [];
-    const container =
-        document.getElementById("receptenContainer");
-
-    if (!container) {
+    if (!html.trim()) {
+        container.style.display = "none";
+        container.innerHTML = "";
+        if (titelElement) titelElement.style.display = "none";
         return;
     }
 
-    const html = receptNamen
-        .map(naam => {
-            const recept = recepten[naam];
-
-            if (!recept) {
-                return "";
-            }
-
-            return `
-                <div class="recept-card"
-                     onclick="window.location.href='${recept.url}'">
-                    <img src="${recept.afbeelding}" alt="${recept.titel}">
-                    <div class="recept-card-content">
-                        <h3>${recept.titel}</h3>
-                        <p>${recept.korteBeschrijving}</p>
-                    </div>
-                </div>
-            `;
-        })
-        .join("");
-
-        if (
-            !Array.isArray(receptNamen) ||
-            receptNamen.length === 0 ||
-            html.trim() === ""
-        ) {
-            container.style.display = "none";
-            container.innerHTML = "";
-
-            if (titelElement) {
-                titelElement.style.display = "none";
-            }
-
-            return;
-        }
-    container.style.display = "grid";
+    if (titelElement) {
+        titelElement.textContent = titel;
+        titelElement.style.display = "block";
+    }
     container.innerHTML = html;
+    container.style.display = "grid";
 }
+
+function toonRecepten(regioNaam) {
+    const regio = regioBeschrijving[regioNaam];
+    const namen = regioRecepten[regioNaam] || [];
+    toonReceptKaarten(
+        namen,
+        regio ? `Gerechten uit ${regio.titel}` : "Gerechten uit de wereld"
+    );
+}
+
+function toonWereldRecepten() {
+    // Vier bestaande recepten, elk uit een andere culinaire regio.
+    toonReceptKaarten(
+        ["rendang", "paella", "jollofRice", "ceviche"],
+        "Vier smaken uit de wereld",
+        {
+            rendang: "Maleis-Indonesisch",
+            paella: "Zuid-Europa",
+            jollofRice: "West-Afrika",
+            ceviche: "Andes"
+        }
+    );
+}
+
+document.addEventListener("DOMContentLoaded", toonWereldRecepten);
 
 function pasSidebarHoogteAan() {
     const kaart = document.getElementById("world-map");

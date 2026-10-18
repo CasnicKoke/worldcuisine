@@ -1,0 +1,79 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2870
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 <svg\
+    xmlns="http://www.w3.org/2000/svg"\
+    width="420"\
+    height="18"\
+    viewBox="0 0 420 18"\
+>\
+    <path\
+        d="\
+            M 0 13\
+            L 43 13\
+            L 51 11\
+            L 58 13\
+            L 64 8\
+            L 71 12\
+            L 79 13\
+\
+            L 151 13\
+            L 159 10\
+            L 166 13\
+\
+            L 245 13\
+            L 252 9\
+            L 259 12\
+            L 267 13\
+\
+            L 346 13\
+            L 353 10\
+            L 361 13\
+\
+            L 420 13\
+        "\
+        fill="none"\
+        stroke="#5c3a20"\
+        stroke-opacity="0.18"\
+        stroke-width="3"\
+        stroke-linecap="round"\
+        stroke-linejoin="round"\
+    />\
+\
+    <path\
+        d="\
+            M 0 14\
+            L 43 14\
+            L 51 12\
+            L 58 14\
+            L 64 9\
+            L 71 13\
+            L 79 14\
+\
+            L 151 14\
+            L 159 11\
+            L 166 14\
+\
+            L 245 14\
+            L 252 10\
+            L 259 13\
+            L 267 14\
+\
+            L 346 14\
+            L 353 11\
+            L 361 14\
+\
+            L 420 14\
+        "\
+        fill="none"\
+        stroke="#654126"\
+        stroke-opacity="0.62"\
+        stroke-width="1.25"\
+        stroke-linecap="round"\
+        stroke-linejoin="round"\
+    />\
+</svg>}

@@ -2582,3 +2582,11 @@ body {
     position: relative;
     z-index: 1;
 }
+
+/* Agrarisch landschap alleen op desktop tonen */
+
+@media (max-width: 1024px) {
+    .landscape-divider {
+        display: none !important;
+    }
+}

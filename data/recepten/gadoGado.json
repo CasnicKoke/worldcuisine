@@ -1,0 +1,18 @@
+{
+  "sleutel": "gadoGado",
+  "regios": [
+    "maleis-indonesisch"
+  ],
+  "id": 4,
+  "titel": "Gado Gado",
+  "afbeelding": "images/recepten/GadoGadoAI.png",
+  "korteBeschrijving": "Groentesalade met pindadressing.",
+  "beschrijving": "Heb ik nog niet",
+  "ingredienten": "geen idee",
+  "bereiding": "doe maar wat",
+  "url": "recepten.html?id=gadoGado",
+  "volgorde": 3,
+  "regioVolgorde": {
+    "maleis-indonesisch": 2
+  }
+}

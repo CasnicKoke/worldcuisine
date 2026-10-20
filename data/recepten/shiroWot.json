@@ -1,0 +1,14 @@
+{
+  "sleutel": "shiroWot",
+  "regios": [
+    "hoorn-van-afrika"
+  ],
+  "titel": "Shiro Wot",
+  "korteBeschrijving": "Romige Ethiopische stoof van kikkererwtenmeel, gekruid met ui, knoflook en specerijen.",
+  "afbeelding": "images/recepten/ShiroWotAI.png",
+  "url": "recepten.html?id=shiro",
+  "volgorde": 105,
+  "regioVolgorde": {
+    "hoorn-van-afrika": 2
+  }
+}

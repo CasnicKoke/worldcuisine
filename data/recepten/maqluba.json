@@ -1,0 +1,14 @@
+{
+  "sleutel": "maqluba",
+  "regios": [
+    "levant"
+  ],
+  "titel": "Maqluba",
+  "korteBeschrijving": "Gelaagde rijstschotel met groenten en vlees, omgekeerd geserveerd als feestelijk geheel.",
+  "afbeelding": "images/recepten/MaqlubaAI.png",
+  "url": "recepten.html?id=maqluba",
+  "volgorde": 43,
+  "regioVolgorde": {
+    "levant": 3
+  }
+}

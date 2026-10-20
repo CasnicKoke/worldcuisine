@@ -1,0 +1,18 @@
+{
+  "sleutel": "nasiGoreng",
+  "regios": [
+    "maleis-indonesisch"
+  ],
+  "id": 2,
+  "titel": "Nasi Goreng",
+  "afbeelding": "images/recepten/NasiGorengAI.png",
+  "korteBeschrijving": "Gebakken rijst met ketjap en aromatische kruiden.",
+  "beschrijving": "Heb ik nog niet",
+  "ingredienten": "geen idee",
+  "bereiding": "doe maar wat",
+  "url": "recepten.html?id=nasiGoreng",
+  "volgorde": 1,
+  "regioVolgorde": {
+    "maleis-indonesisch": 0
+  }
+}

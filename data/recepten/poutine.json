@@ -1,0 +1,14 @@
+{
+  "sleutel": "poutine",
+  "regios": [
+    "canada"
+  ],
+  "titel": "Poutine",
+  "korteBeschrijving": "Canadese friet met cheese curds en warme, hartige jus.",
+  "afbeelding": "images/recepten/PoutineAI.png",
+  "url": "recepten.html?id=poutine",
+  "volgorde": 80,
+  "regioVolgorde": {
+    "canada": 0
+  }
+}

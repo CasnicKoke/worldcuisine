@@ -1,0 +1,14 @@
+{
+  "sleutel": "wienerSchnitzel",
+  "regios": [
+    "midden-europa"
+  ],
+  "titel": "Wiener Schnitzel",
+  "korteBeschrijving": "Oostenrijks kalfsschnitzel, dun gepaneerd en goudbruin gebakken.",
+  "afbeelding": "images/recepten/WienerSchnitzelAI.png",
+  "url": "recepten.html?id=wienerSchnitzel",
+  "volgorde": 75,
+  "regioVolgorde": {
+    "midden-europa": 3
+  }
+}

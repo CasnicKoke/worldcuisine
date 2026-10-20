@@ -1,0 +1,14 @@
+{
+  "sleutel": "fulMedames",
+  "regios": [
+    "nijlvallei"
+  ],
+  "titel": "Ful Medames",
+  "korteBeschrijving": "Langzaam gegaarde tuinbonen met olijfolie, citroen en kruiden, populair als ontbijt.",
+  "afbeelding": "images/recepten/FulMedamesAI.png",
+  "url": "recepten.html?id=fulMedames",
+  "volgorde": 93,
+  "regioVolgorde": {
+    "nijlvallei": 1
+  }
+}

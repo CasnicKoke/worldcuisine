@@ -1,0 +1,14 @@
+{
+  "sleutel": "biryaniZanzibar",
+  "regios": [
+    "oost-afrika"
+  ],
+  "titel": "Zanzibar Biryani",
+  "korteBeschrijving": "Aromatische Swahili-rijstschotel met specerijen, vlees en duidelijke Indiase en Arabische invloeden.",
+  "afbeelding": "images/recepten/BiryaniZanzibarAI.png",
+  "url": "recepten.html?id=biryaniZanzibar",
+  "volgorde": 114,
+  "regioVolgorde": {
+    "oost-afrika": 3
+  }
+}

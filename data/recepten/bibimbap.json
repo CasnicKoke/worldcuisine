@@ -1,0 +1,14 @@
+{
+  "sleutel": "bibimbap",
+  "regios": [
+    "china-oost-azie"
+  ],
+  "titel": "Bibimbap",
+  "korteBeschrijving": "Koreaanse rijstschotel met groenten, vlees, ei en pittige gochujangsaus.",
+  "afbeelding": "images/recepten/BibimbapAI.png",
+  "url": "recepten.html?id=bibimbap",
+  "volgorde": 10,
+  "regioVolgorde": {
+    "china-oost-azie": 2
+  }
+}

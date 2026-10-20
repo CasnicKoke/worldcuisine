@@ -1,0 +1,14 @@
+{
+  "sleutel": "pondu",
+  "regios": [
+    "centraal-afrika"
+  ],
+  "titel": "Pondu",
+  "korteBeschrijving": "Stoof van cassavebladeren, vaak bereid met vis, vlees of pinda.",
+  "afbeelding": "images/recepten/PonduAI.png",
+  "url": "recepten.html?id=pondu",
+  "volgorde": 109,
+  "regioVolgorde": {
+    "centraal-afrika": 2
+  }
+}

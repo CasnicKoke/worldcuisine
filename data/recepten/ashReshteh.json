@@ -1,0 +1,14 @@
+{
+  "sleutel": "ashReshteh",
+  "regios": [
+    "perzie"
+  ],
+  "titel": "Ash Reshteh",
+  "korteBeschrijving": "Stevige Perzische kruidensoep met peulvruchten, noedels en een topping van yoghurt of ui.",
+  "afbeelding": "images/recepten/AshReshtehAI.png",
+  "url": "recepten.html?id=ashReshteh",
+  "volgorde": 47,
+  "regioVolgorde": {
+    "perzie": 3
+  }
+}

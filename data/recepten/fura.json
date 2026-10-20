@@ -1,0 +1,14 @@
+{
+  "sleutel": "fura",
+  "regios": [
+    "sahel"
+  ],
+  "titel": "Fura",
+  "korteBeschrijving": "Pittige gierstballetjes of -drank, vaak gecombineerd met gefermenteerde melk.",
+  "afbeelding": "images/recepten/FuraAI.png",
+  "url": "recepten.html?id=fura",
+  "volgorde": 99,
+  "regioVolgorde": {
+    "sahel": 3
+  }
+}

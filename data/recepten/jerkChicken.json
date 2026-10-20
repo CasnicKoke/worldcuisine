@@ -1,0 +1,14 @@
+{
+  "sleutel": "jerkChicken",
+  "regios": [
+    "caribisch"
+  ],
+  "titel": "Jerk Chicken",
+  "korteBeschrijving": "Pittig Jamaicaans gegrild kipgerecht, gemarineerd met kruiden, pepers en specerijen.",
+  "afbeelding": "images/recepten/JerkChickenAI.png",
+  "url": "recepten.html?id=jerkChicken",
+  "volgorde": 127,
+  "regioVolgorde": {
+    "caribisch": 0
+  }
+}

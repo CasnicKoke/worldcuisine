@@ -1,0 +1,14 @@
+{
+  "sleutel": "paoDeQueijo",
+  "regios": [
+    "brazilie"
+  ],
+  "titel": "Pão de Queijo",
+  "korteBeschrijving": "Kleine Braziliaanse kaasbroodjes van cassavezetmeel, krokant van buiten en zacht van binnen.",
+  "afbeelding": "images/recepten/PaoDeQueijoAI.png",
+  "url": "recepten.html?id=paoDeQueijo",
+  "volgorde": 137,
+  "regioVolgorde": {
+    "brazilie": 2
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "sleutel": "momo",
+  "regios": [
+    "zuid-aziatisch"
+  ],
+  "titel": "Momo",
+  "korteBeschrijving": "Gestoomde Himalaya-dumplings, gevuld met gekruid vlees of groenten en geserveerd met saus.",
+  "afbeelding": "images/recepten/MomoAI.png",
+  "url": "recepten.html?id=momo",
+  "volgorde": 30,
+  "regioVolgorde": {
+    "zuid-aziatisch": 2
+  }
+}

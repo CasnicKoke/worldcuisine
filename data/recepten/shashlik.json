@@ -1,0 +1,14 @@
+{
+  "sleutel": "shashlik",
+  "regios": [
+    "centraal-aziatisch"
+  ],
+  "titel": "Shashlik",
+  "korteBeschrijving": "Gegrilde vleesspiesjes, gemarineerd met ui en kruiden en geroosterd boven open vuur.",
+  "afbeelding": "images/recepten/ShashlikAI.png",
+  "url": "recepten.html?id=shashlik",
+  "volgorde": 27,
+  "regioVolgorde": {
+    "centraal-aziatisch": 3
+  }
+}

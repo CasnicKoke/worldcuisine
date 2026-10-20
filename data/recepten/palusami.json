@@ -1,0 +1,14 @@
+{
+  "sleutel": "palusami",
+  "regios": [
+    "melanesie"
+  ],
+  "titel": "Palusami",
+  "korteBeschrijving": "Taro-bladeren gevuld met kokosroom en vaak ui of vlees, langzaam gebakken tot een romig geheel.",
+  "afbeelding": "images/recepten/PalusamiAI.png",
+  "url": "recepten.html?id=palusami",
+  "volgorde": 157,
+  "regioVolgorde": {
+    "melanesie": 3
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "sleutel": "okonomiyaki",
+  "regios": [
+    "japan"
+  ],
+  "titel": "Okonomiyaki",
+  "korteBeschrijving": "Hartige Japanse pannenkoek met kool en verschillende toppings.",
+  "afbeelding": "images/recepten/OkonomiyakiAI.png",
+  "url": "recepten.html?id=okonomiyaki",
+  "volgorde": 15,
+  "regioVolgorde": {
+    "japan": 3
+  }
+}

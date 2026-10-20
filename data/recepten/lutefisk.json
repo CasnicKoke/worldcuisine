@@ -1,0 +1,14 @@
+{
+  "sleutel": "lutefisk",
+  "regios": [
+    "scandinavie"
+  ],
+  "titel": "Lutefisk",
+  "korteBeschrijving": "Traditioneel Scandinavisch gerecht van gedroogde vis, geweekt en bereid tot een zachte structuur.",
+  "afbeelding": "images/recepten/LutefiskAI.png",
+  "url": "recepten.html?id=lutefisk",
+  "volgorde": 63,
+  "regioVolgorde": {
+    "scandinavie": 3
+  }
+}

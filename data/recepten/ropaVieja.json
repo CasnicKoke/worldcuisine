@@ -1,0 +1,14 @@
+{
+  "sleutel": "ropaVieja",
+  "regios": [
+    "caribisch"
+  ],
+  "titel": "Ropa Vieja",
+  "korteBeschrijving": "Cubaanse stoofschotel van draadjesvlees in een rijke saus met tomaat, paprika en ui.",
+  "afbeelding": "images/recepten/RopaViejaAI.png",
+  "url": "recepten.html?id=ropaVieja",
+  "volgorde": 128,
+  "regioVolgorde": {
+    "caribisch": 1
+  }
+}

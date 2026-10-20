@@ -1,0 +1,14 @@
+{
+  "sleutel": "biryani",
+  "regios": [
+    "zuid-aziatisch"
+  ],
+  "titel": "Biryani",
+  "korteBeschrijving": "Aromatische rijstschotel met specerijen, saffraan en mals vlees of groenten.",
+  "afbeelding": "images/recepten/BiryaniAI.png",
+  "url": "recepten.html?id=biryani",
+  "volgorde": 28,
+  "regioVolgorde": {
+    "zuid-aziatisch": 0
+  }
+}

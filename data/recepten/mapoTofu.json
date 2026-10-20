@@ -1,0 +1,14 @@
+{
+  "sleutel": "mapoTofu",
+  "regios": [
+    "china-oost-azie"
+  ],
+  "titel": "Mapo Tofu",
+  "korteBeschrijving": "Pittig Sichuaans gerecht met tofu, gehakt en gefermenteerde bonenpasta.",
+  "afbeelding": "images/recepten/MapoTofuAI.png",
+  "url": "recepten.html?id=mapoTofu",
+  "volgorde": 9,
+  "regioVolgorde": {
+    "china-oost-azie": 1
+  }
+}

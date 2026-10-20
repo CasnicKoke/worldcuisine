@@ -1,0 +1,14 @@
+{
+  "sleutel": "paella",
+  "regios": [
+    "mediterraans"
+  ],
+  "titel": "Paella",
+  "korteBeschrijving": "Spaanse rijstschotel met saffraan, groenten, zeevruchten of vlees.",
+  "afbeelding": "images/recepten/PaellaAI.png",
+  "url": "recepten.html?id=paella",
+  "volgorde": 76,
+  "regioVolgorde": {
+    "mediterraans": 0
+  }
+}

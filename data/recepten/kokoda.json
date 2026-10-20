@@ -1,0 +1,14 @@
+{
+  "sleutel": "kokoda",
+  "regios": [
+    "melanesie"
+  ],
+  "titel": "Kokoda",
+  "korteBeschrijving": "Fijiaans gerecht van rauwe vis gemarineerd in citrus en kokosmelk, met groenten en chili.",
+  "afbeelding": "images/recepten/KokodaAI.png",
+  "url": "recepten.html?id=kokoda",
+  "volgorde": 154,
+  "regioVolgorde": {
+    "melanesie": 0
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "sleutel": "lagman",
+  "regios": [
+    "centraal-aziatisch"
+  ],
+  "titel": "Lagman",
+  "korteBeschrijving": "Stevige noedelschotel met vlees, paprika, tomaat en groenten in een kruidige saus.",
+  "afbeelding": "images/recepten/LagmanAI.png",
+  "url": "recepten.html?id=lagman",
+  "volgorde": 25,
+  "regioVolgorde": {
+    "centraal-aziatisch": 1
+  }
+}

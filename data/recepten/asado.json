@@ -1,0 +1,14 @@
+{
+  "sleutel": "asado",
+  "regios": [
+    "pampas"
+  ],
+  "titel": "Asado",
+  "korteBeschrijving": "Argentijnse en Uruguayaanse barbecue van verschillende stukken vlees, langzaam boven vuur gegrild.",
+  "afbeelding": "images/recepten/AsadoAI.png",
+  "url": "recepten.html?id=asado",
+  "volgorde": 143,
+  "regioVolgorde": {
+    "pampas": 0
+  }
+}

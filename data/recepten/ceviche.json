@@ -1,0 +1,14 @@
+{
+  "sleutel": "ceviche",
+  "regios": [
+    "andes"
+  ],
+  "titel": "Ceviche",
+  "korteBeschrijving": "Verse vis gemarineerd in limoensap met rode ui, chili en koriander, een klassieker van de Andes-kust.",
+  "afbeelding": "images/recepten/CevicheAI.png",
+  "url": "recepten.html?id=ceviche",
+  "volgorde": 131,
+  "regioVolgorde": {
+    "andes": 0
+  }
+}

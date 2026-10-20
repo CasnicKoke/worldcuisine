@@ -1,0 +1,14 @@
+{
+  "sleutel": "waakye",
+  "regios": [
+    "west-afrika"
+  ],
+  "titel": "Waakye",
+  "korteBeschrijving": "Ghanees gerecht van rijst en bonen, vaak geserveerd met pittige bijgerechten.",
+  "afbeelding": "images/recepten/WaakyeAI.png",
+  "url": "recepten.html?id=waakye",
+  "volgorde": 102,
+  "regioVolgorde": {
+    "west-afrika": 3
+  }
+}

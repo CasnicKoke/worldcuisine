@@ -1,0 +1,14 @@
+{
+  "sleutel": "poke",
+  "regios": [
+    "polynesie"
+  ],
+  "titel": "Poke",
+  "korteBeschrijving": "Hawaïaans gerecht van blokjes rauwe vis, op smaak gebracht met soja, sesam en andere toppings.",
+  "afbeelding": "images/recepten/PokeAI.png",
+  "url": "recepten.html?id=poke",
+  "volgorde": 160,
+  "regioVolgorde": {
+    "polynesie": 2
+  }
+}

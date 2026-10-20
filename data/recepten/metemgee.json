@@ -1,0 +1,14 @@
+{
+  "sleutel": "metemgee",
+  "regios": [
+    "amazone-guyanas"
+  ],
+  "titel": "Metemgee",
+  "korteBeschrijving": "Guyanees stoofgerecht met knolgewassen, bakbanaan en dumplings in een rijke kokossaus.",
+  "afbeelding": "images/recepten/MetemgeeAI.png",
+  "url": "recepten.html?id=metemgee",
+  "volgorde": 141,
+  "regioVolgorde": {
+    "amazone-guyanas": 2
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "sleutel": "greenLippedMussels",
+  "regios": [
+    "nieuw-zeeland"
+  ],
+  "titel": "Green-Lipped Mussels",
+  "korteBeschrijving": "Grote Nieuw-Zeelandse groenlipmosselen, vaak gestoomd met kruiden, knoflook en wijn.",
+  "afbeelding": "images/recepten/GreenLippedMusselsAI.png",
+  "url": "recepten.html?id=greenLippedMussels",
+  "volgorde": 152,
+  "regioVolgorde": {
+    "nieuw-zeeland": 1
+  }
+}

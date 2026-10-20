@@ -1,0 +1,14 @@
+{
+  "sleutel": "svickova",
+  "regios": [
+    "oost-centraal-europa"
+  ],
+  "titel": "Svíčková",
+  "korteBeschrijving": "Tsjechisch rundvlees in romige groentesaus, traditioneel geserveerd met knoedels.",
+  "afbeelding": "images/recepten/SvickovaAI.png",
+  "url": "recepten.html?id=svickova",
+  "volgorde": 58,
+  "regioVolgorde": {
+    "oost-centraal-europa": 2
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "sleutel": "coconutCrab",
+  "regios": [
+    "micronesie"
+  ],
+  "titel": "Coconut Crab",
+  "korteBeschrijving": "Grote Pacifische landkrab, traditioneel bereid met kokos en eenvoudige eilandkruiden.",
+  "afbeelding": "images/recepten/CoconutCrabAI.png",
+  "url": "recepten.html?id=coconutCrab",
+  "volgorde": 164,
+  "regioVolgorde": {
+    "micronesie": 2
+  }
+}

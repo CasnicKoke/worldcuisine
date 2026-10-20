@@ -1,0 +1,14 @@
+{
+  "sleutel": "blini",
+  "regios": [
+    "rus-eurazie"
+  ],
+  "titel": "Blini",
+  "korteBeschrijving": "Dunne Oost-Slavische pannenkoekjes met hartige of zoete toppings.",
+  "afbeelding": "images/recepten/BliniAI.png",
+  "url": "recepten.html?id=blini",
+  "volgorde": 22,
+  "regioVolgorde": {
+    "rus-eurazie": 2
+  }
+}

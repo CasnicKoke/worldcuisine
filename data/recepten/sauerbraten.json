@@ -1,0 +1,14 @@
+{
+  "sleutel": "sauerbraten",
+  "regios": [
+    "germaans"
+  ],
+  "titel": "Sauerbraten",
+  "korteBeschrijving": "Gemarineerd en langzaam gegaard rundvlees in een rijke zoetzure saus.",
+  "afbeelding": "images/recepten/SauerbratenAI.png",
+  "url": "recepten.html?id=sauerbraten",
+  "volgorde": 71,
+  "regioVolgorde": {
+    "germaans": 3
+  }
+}

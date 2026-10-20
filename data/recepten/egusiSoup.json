@@ -1,0 +1,14 @@
+{
+  "sleutel": "egusiSoup",
+  "regios": [
+    "west-afrika"
+  ],
+  "titel": "Egusi Soup",
+  "korteBeschrijving": "Dikke soep van gemalen meloenpitten, bladgroenten en vaak vlees of vis.",
+  "afbeelding": "images/recepten/EgusiSoupAI.png",
+  "url": "recepten.html?id=egusiSoup",
+  "volgorde": 100,
+  "regioVolgorde": {
+    "west-afrika": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "sleutel": "tonkatsu",
+  "regios": [
+    "japan"
+  ],
+  "titel": "Tonkatsu",
+  "korteBeschrijving": "Krokant gepaneerde varkenskotelet, geserveerd met koolsalade.",
+  "afbeelding": "images/recepten/TonkatsuAI.png",
+  "url": "recepten.html?id=tonkatsu",
+  "volgorde": 14,
+  "regioVolgorde": {
+    "japan": 2
+  }
+}

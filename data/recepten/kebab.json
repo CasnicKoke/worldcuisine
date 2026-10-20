@@ -1,0 +1,14 @@
+{
+  "sleutel": "kebab",
+  "regios": [
+    "anatolie"
+  ],
+  "titel": "Kebab",
+  "korteBeschrijving": "Gegrild vlees, kruidig gemarineerd en geserveerd met brood, rijst of gegrilde groenten.",
+  "afbeelding": "images/recepten/KebabAI.png",
+  "url": "recepten.html?id=kebab",
+  "volgorde": 36,
+  "regioVolgorde": {
+    "anatolie": 0
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "sleutel": "sinigang",
+  "regios": [
+    "filipijns"
+  ],
+  "titel": "Sinigang",
+  "korteBeschrijving": "Zure Filipijnse soep met vlees of vis en groenten, vaak op smaak gebracht met tamarinde.",
+  "afbeelding": "images/recepten/SinigangAI.png",
+  "url": "recepten.html?id=sinigang",
+  "volgorde": 17,
+  "regioVolgorde": {
+    "filipijns": 1
+  }
+}

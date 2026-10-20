@@ -1,0 +1,14 @@
+{
+  "sleutel": "maafe",
+  "regios": [
+    "sahel"
+  ],
+  "titel": "Maafe",
+  "korteBeschrijving": "West-Afrikaanse pindastoof met vlees of groenten in een romige, kruidige saus.",
+  "afbeelding": "images/recepten/MaafeAI.png",
+  "url": "recepten.html?id=maafe",
+  "volgorde": 97,
+  "regioVolgorde": {
+    "sahel": 1
+  }
+}

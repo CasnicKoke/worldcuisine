@@ -1,0 +1,14 @@
+{
+  "sleutel": "menemen",
+  "regios": [
+    "anatolie"
+  ],
+  "titel": "Menemen",
+  "korteBeschrijving": "Turks eiergerecht met tomaat, paprika en kruiden, zacht en sappig bereid.",
+  "afbeelding": "images/recepten/MenemenAI.png",
+  "url": "recepten.html?id=menemen",
+  "volgorde": 39,
+  "regioVolgorde": {
+    "anatolie": 3
+  }
+}

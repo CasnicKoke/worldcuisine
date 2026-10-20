@@ -1,0 +1,14 @@
+{
+  "sleutel": "pozole",
+  "regios": [
+    "mexicaans"
+  ],
+  "titel": "Pozole",
+  "korteBeschrijving": "Traditionele Mexicaanse soep met hominy, vlees en frisse garnituren zoals sla en radijs.",
+  "afbeelding": "images/recepten/PozoleAI.png",
+  "url": "recepten.html?id=pozole",
+  "volgorde": 121,
+  "regioVolgorde": {
+    "mexicaans": 2
+  }
+}

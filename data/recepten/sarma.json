@@ -1,0 +1,14 @@
+{
+  "sleutel": "sarma",
+  "regios": [
+    "balkan"
+  ],
+  "titel": "Sarma",
+  "korteBeschrijving": "Rolletjes van kool- of wijnblad gevuld met rijst, kruiden en vaak gehakt.",
+  "afbeelding": "images/recepten/SarmaAI.png",
+  "url": "recepten.html?id=sarma",
+  "volgorde": 54,
+  "regioVolgorde": {
+    "balkan": 2
+  }
+}

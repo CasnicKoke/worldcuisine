@@ -1,0 +1,14 @@
+{
+  "sleutel": "tarteFlambee",
+  "regios": [
+    "midden-europa"
+  ],
+  "titel": "Tarte Flambée",
+  "korteBeschrijving": "Dunne Elzasser deegbodem belegd met room, ui en spek.",
+  "afbeelding": "images/recepten/TarteFlambeeAI.png",
+  "url": "recepten.html?id=tarteFlambee",
+  "volgorde": 74,
+  "regioVolgorde": {
+    "midden-europa": 2
+  }
+}

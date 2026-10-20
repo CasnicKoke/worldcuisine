@@ -1,0 +1,14 @@
+{
+  "sleutel": "lamington",
+  "regios": [
+    "australie"
+  ],
+  "titel": "Lamington",
+  "korteBeschrijving": "Australisch cakegebak met chocoladeglazuur en kokos, soms gevuld met room of jam.",
+  "afbeelding": "images/recepten/LamingtonAI.png",
+  "url": "recepten.html?id=lamington",
+  "volgorde": 149,
+  "regioVolgorde": {
+    "australie": 2
+  }
+}

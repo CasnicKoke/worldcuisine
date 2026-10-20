@@ -1,0 +1,14 @@
+{
+  "sleutel": "molokhia",
+  "regios": [
+    "nijlvallei"
+  ],
+  "titel": "Molokhia",
+  "korteBeschrijving": "Fluweelzachte soep van jute-bladeren, vaak geserveerd met rijst en kip of konijn.",
+  "afbeelding": "images/recepten/MolokhiaAI.png",
+  "url": "recepten.html?id=molokhia",
+  "volgorde": 94,
+  "regioVolgorde": {
+    "nijlvallei": 2
+  }
+}

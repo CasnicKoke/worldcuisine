@@ -1,0 +1,16 @@
+{
+  "sleutel": "pavlova",
+  "regios": [
+    "australie",
+    "nieuw-zeeland"
+  ],
+  "titel": "Pavlova",
+  "korteBeschrijving": "Luchtig meringuedessert met een krokante buitenkant, zachte kern, slagroom en vers fruit.",
+  "afbeelding": "images/recepten/PavlovaAI.png",
+  "url": "recepten.html?id=pavlova",
+  "volgorde": 150,
+  "regioVolgorde": {
+    "australie": 3,
+    "nieuw-zeeland": 3
+  }
+}

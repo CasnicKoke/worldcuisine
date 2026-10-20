@@ -1,0 +1,14 @@
+{
+  "sleutel": "kabsa",
+  "regios": [
+    "arabisch-schiereiland"
+  ],
+  "titel": "Kabsa",
+  "korteBeschrijving": "Aromatische rijstschotel met specerijen, vlees en vaak noten of rozijnen.",
+  "afbeelding": "images/recepten/KabsaAI.png",
+  "url": "recepten.html?id=kabsa",
+  "volgorde": 48,
+  "regioVolgorde": {
+    "arabisch-schiereiland": 0
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "sleutel": "lahmacun",
+  "regios": [
+    "anatolie"
+  ],
+  "titel": "Lahmacun",
+  "korteBeschrijving": "Dunne knapperige deegbodem belegd met gekruid gehakt, tomaat, ui en kruiden.",
+  "afbeelding": "images/recepten/LahmacunAI.png",
+  "url": "recepten.html?id=lahmacun",
+  "volgorde": 38,
+  "regioVolgorde": {
+    "anatolie": 2
+  }
+}

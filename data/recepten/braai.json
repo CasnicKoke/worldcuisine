@@ -1,0 +1,14 @@
+{
+  "sleutel": "braai",
+  "regios": [
+    "zuidelijk-afrika"
+  ],
+  "titel": "Braai",
+  "korteBeschrijving": "Zuid-Afrikaanse barbecue met gegrild vlees, worst en diverse hartige bijgerechten.",
+  "afbeelding": "images/recepten/BraaiAI.png",
+  "url": "recepten.html?id=braai",
+  "volgorde": 115,
+  "regioVolgorde": {
+    "zuidelijk-afrika": 0
+  }
+}

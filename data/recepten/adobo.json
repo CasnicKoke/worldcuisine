@@ -1,0 +1,14 @@
+{
+  "sleutel": "adobo",
+  "regios": [
+    "filipijns"
+  ],
+  "titel": "Adobo",
+  "korteBeschrijving": "Filipijns stoofgerecht van kippenvlees gemarineerd in azijn, sojasaus en knoflook.",
+  "afbeelding": "images/recepten/AdoboAI.png",
+  "url": "recepten.html?id=adobo",
+  "volgorde": 16,
+  "regioVolgorde": {
+    "filipijns": 0
+  }
+}

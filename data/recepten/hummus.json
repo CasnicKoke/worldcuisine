@@ -1,0 +1,14 @@
+{
+  "sleutel": "hummus",
+  "regios": [
+    "levant"
+  ],
+  "titel": "Hummus",
+  "korteBeschrijving": "Romige puree van kikkererwten, tahin, citroen en knoflook, vaak gegeten met platbrood.",
+  "afbeelding": "images/recepten/HummusAI.png",
+  "url": "recepten.html?id=hummus",
+  "volgorde": 42,
+  "regioVolgorde": {
+    "levant": 2
+  }
+}

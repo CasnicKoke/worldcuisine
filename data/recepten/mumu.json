@@ -1,0 +1,14 @@
+{
+  "sleutel": "mumu",
+  "regios": [
+    "melanesie"
+  ],
+  "titel": "Mumu",
+  "korteBeschrijving": "Papoea-Nieuw-Guinees feestgerecht van vlees, groenten en knolgewassen, langzaam ondergronds gegaard.",
+  "afbeelding": "images/recepten/MumuAI.png",
+  "url": "recepten.html?id=mumu",
+  "volgorde": 155,
+  "regioVolgorde": {
+    "melanesie": 1
+  }
+}

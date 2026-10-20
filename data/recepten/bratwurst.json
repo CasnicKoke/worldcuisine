@@ -1,0 +1,14 @@
+{
+  "sleutel": "bratwurst",
+  "regios": [
+    "germaans"
+  ],
+  "titel": "Bratwurst",
+  "korteBeschrijving": "Duitse braadworst, vaak geserveerd met mosterd, brood of zuurkool.",
+  "afbeelding": "images/recepten/BratwurstAI.png",
+  "url": "recepten.html?id=bratwurst",
+  "volgorde": 69,
+  "regioVolgorde": {
+    "germaans": 1
+  }
+}

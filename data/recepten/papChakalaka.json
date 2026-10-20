@@ -1,0 +1,14 @@
+{
+  "sleutel": "papChakalaka",
+  "regios": [
+    "zuidelijk-afrika"
+  ],
+  "titel": "Pap met Chakalaka",
+  "korteBeschrijving": "Stevige maïspap geserveerd met pittige chakalaka van groenten, bonen en specerijen.",
+  "afbeelding": "images/recepten/PapChakalakaAI.png",
+  "url": "recepten.html?id=papChakalaka",
+  "volgorde": 118,
+  "regioVolgorde": {
+    "zuidelijk-afrika": 3
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "sleutel": "sakaSaka",
+  "regios": [
+    "centraal-afrika"
+  ],
+  "titel": "Saka-Saka",
+  "korteBeschrijving": "Gestoofde cassavebladeren met olie en kruiden, geliefd in meerdere Centraal-Afrikaanse keukens.",
+  "afbeelding": "images/recepten/SakaSakaAI.png",
+  "url": "recepten.html?id=sakaSaka",
+  "volgorde": 110,
+  "regioVolgorde": {
+    "centraal-afrika": 3
+  }
+}

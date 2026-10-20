@@ -1,0 +1,254 @@
+{
+  "maleis-indonesisch": [
+    "nasiGoreng",
+    "sateAjam",
+    "gadoGado",
+    "rendang"
+  ],
+  "indo-chinees": [
+    "padThai",
+    "phoBo",
+    "amok",
+    "mohinga"
+  ],
+  "china-oost-azie": [
+    "pekingEend",
+    "mapoTofu",
+    "bibimbap",
+    "xiaolongbao"
+  ],
+  "japan": [
+    "sushi",
+    "ramen",
+    "tonkatsu",
+    "okonomiyaki"
+  ],
+  "filipijns": [
+    "adobo",
+    "sinigang",
+    "kareKare",
+    "lumpia"
+  ],
+  "rus-eurazie": [
+    "borsjtsj",
+    "pelmeni",
+    "blini",
+    "khorkhog"
+  ],
+  "centraal-aziatisch": [
+    "plov",
+    "lagman",
+    "manty",
+    "shashlik"
+  ],
+  "zuid-aziatisch": [
+    "biryani",
+    "masalaDosa",
+    "momo",
+    "kottuRoti"
+  ],
+  "kaukasus": [
+    "khachapuri",
+    "khinkali",
+    "dolma",
+    "mtsvadi"
+  ],
+  "anatolie": [
+    "kebab",
+    "manti",
+    "lahmacun",
+    "menemen"
+  ],
+  "levant": [
+    "shawarma",
+    "falafel",
+    "hummus",
+    "maqluba"
+  ],
+  "perzie": [
+    "chelowKebab",
+    "fesenjan",
+    "ghormehSabzi",
+    "ashReshteh"
+  ],
+  "arabisch-schiereiland": [
+    "kabsa",
+    "mandi",
+    "harees",
+    "machboos"
+  ],
+  "balkan": [
+    "cevapi",
+    "burek",
+    "sarma",
+    "ajvar"
+  ],
+  "oost-centraal-europa": [
+    "goulash",
+    "pierogi",
+    "svickova",
+    "halusky"
+  ],
+  "scandinavie": [
+    "gravadLax",
+    "kottbullar",
+    "smorrebrod",
+    "lutefisk"
+  ],
+  "britse-eilanden": [
+    "fishAndChips",
+    "shepherdsPie",
+    "fullEnglish",
+    "irishStew"
+  ],
+  "germaans": [
+    "schnitzel",
+    "bratwurst",
+    "stamppot",
+    "sauerbraten"
+  ],
+  "midden-europa": [
+    "coqAuVin",
+    "fondue",
+    "tarteFlambee",
+    "wienerSchnitzel"
+  ],
+  "mediterraans": [
+    "paella",
+    "moussaka",
+    "lasagne",
+    "bacalhau"
+  ],
+  "canada": [
+    "poutine",
+    "tourtiere",
+    "mapleSalmon",
+    "butterTart"
+  ],
+  "verenigde-staten": [
+    "barbecueRibs",
+    "gumbo",
+    "clamChowder",
+    "hamburger"
+  ],
+  "maghreb": [
+    "couscous",
+    "tajine",
+    "harira",
+    "pastilla"
+  ],
+  "nijlvallei": [
+    "koshari",
+    "fulMedames",
+    "molokhia",
+    "taamia"
+  ],
+  "sahel": [
+    "thieboudienne",
+    "maafe",
+    "jollofRice",
+    "fura"
+  ],
+  "west-afrika": [
+    "jollofRice",
+    "egusiSoup",
+    "suya",
+    "waakye"
+  ],
+  "hoorn-van-afrika": [
+    "injera",
+    "doroWat",
+    "shiroWot",
+    "kitfo"
+  ],
+  "centraal-afrika": [
+    "moambe",
+    "fufu",
+    "pondu",
+    "sakaSaka"
+  ],
+  "oost-afrika": [
+    "pilau",
+    "nyamaChoma",
+    "ugali",
+    "biryaniZanzibar"
+  ],
+  "zuidelijk-afrika": [
+    "braai",
+    "bunnyChow",
+    "umngqusho",
+    "papChakalaka"
+  ],
+  "mexicaans": [
+    "tacos",
+    "molePoblano",
+    "pozole",
+    "enchiladas"
+  ],
+  "centraal-amerika": [
+    "galloPinto",
+    "pupusas",
+    "vigoron",
+    "tamales"
+  ],
+  "caribisch": [
+    "jerkChicken",
+    "ropaVieja",
+    "ackeeSaltfish",
+    "mofongo"
+  ],
+  "andes": [
+    "ceviche",
+    "ajiDeGallina",
+    "llapingachos",
+    "saltenas"
+  ],
+  "brazilie": [
+    "feijoada",
+    "moqueca",
+    "paoDeQueijo",
+    "acaraje"
+  ],
+  "amazone-guyanas": [
+    "pepperpot",
+    "cassavaBread",
+    "metemgee",
+    "caldeirada"
+  ],
+  "pampas": [
+    "asado",
+    "choripan",
+    "milanesa",
+    "empanadas"
+  ],
+  "australie": [
+    "meatPie",
+    "barramundi",
+    "lamington",
+    "pavlova"
+  ],
+  "nieuw-zeeland": [
+    "hangi",
+    "greenLippedMussels",
+    "roastLamb",
+    "pavlova"
+  ],
+  "melanesie": [
+    "kokoda",
+    "mumu",
+    "laplap",
+    "palusami"
+  ],
+  "polynesie": [
+    "poissonCru",
+    "umu",
+    "poke",
+    "luau"
+  ],
+  "micronesie": [
+    "tinaktak",
+    "kelaguen",
+    "coconutCrab",
+    "breadfruitChips"
+  ]
+}

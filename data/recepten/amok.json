@@ -1,0 +1,14 @@
+{
+  "sleutel": "amok",
+  "regios": [
+    "indo-chinees"
+  ],
+  "titel": "Amok",
+  "korteBeschrijving": "Cambodjaanse viscurry gestoomd in bananenblad met kokosmelk en kruiden.",
+  "afbeelding": "images/recepten/AmokAI.png",
+  "url": "recepten.html?id=amok",
+  "volgorde": 6,
+  "regioVolgorde": {
+    "indo-chinees": 2
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "sleutel": "ugali",
+  "regios": [
+    "oost-afrika"
+  ],
+  "titel": "Ugali",
+  "korteBeschrijving": "Stevige maïspap, vaak gegeten als basis bij groenten, saus of gegrild vlees.",
+  "afbeelding": "images/recepten/UgaliAI.png",
+  "url": "recepten.html?id=ugali",
+  "volgorde": 113,
+  "regioVolgorde": {
+    "oost-afrika": 2
+  }
+}

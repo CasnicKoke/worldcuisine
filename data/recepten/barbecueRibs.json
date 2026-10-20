@@ -1,0 +1,14 @@
+{
+  "sleutel": "barbecueRibs",
+  "regios": [
+    "verenigde-staten"
+  ],
+  "titel": "Barbecue Ribs",
+  "korteBeschrijving": "Langzaam gegaarde spareribs met een rokerige, zoet-kruidige barbecuesaus.",
+  "afbeelding": "images/recepten/BarbecueRibsAI.png",
+  "url": "recepten.html?id=barbecueRibs",
+  "volgorde": 84,
+  "regioVolgorde": {
+    "verenigde-staten": 0
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "sleutel": "manti",
+  "regios": [
+    "anatolie"
+  ],
+  "titel": "Mantı",
+  "korteBeschrijving": "Kleine Turkse deegkussentjes gevuld met vlees, geserveerd met yoghurt en gekruide boter.",
+  "afbeelding": "images/recepten/MantiAI.png",
+  "url": "recepten.html?id=manti",
+  "volgorde": 37,
+  "regioVolgorde": {
+    "anatolie": 1
+  }
+}

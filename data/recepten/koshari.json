@@ -1,0 +1,14 @@
+{
+  "sleutel": "koshari",
+  "regios": [
+    "nijlvallei"
+  ],
+  "titel": "Koshari",
+  "korteBeschrijving": "Egyptisch gerecht van rijst, pasta en linzen, afgemaakt met tomatensaus en krokante ui.",
+  "afbeelding": "images/recepten/KoshariAI.png",
+  "url": "recepten.html?id=koshari",
+  "volgorde": 92,
+  "regioVolgorde": {
+    "nijlvallei": 0
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sleutel": "jollofRice",
+  "regios": [
+    "sahel",
+    "west-afrika"
+  ],
+  "titel": "Jollof Rice",
+  "korteBeschrijving": "Populaire West-Afrikaanse rijstschotel gekookt in een kruidige tomaten- en pepersaus.",
+  "afbeelding": "images/recepten/JollofRiceAI.png",
+  "url": "recepten.html?id=jollofRice",
+  "volgorde": 98,
+  "regioVolgorde": {
+    "sahel": 2,
+    "west-afrika": 0
+  }
+}

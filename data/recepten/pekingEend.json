@@ -1,0 +1,14 @@
+{
+  "sleutel": "pekingEend",
+  "regios": [
+    "china-oost-azie"
+  ],
+  "titel": "Peking Eend",
+  "korteBeschrijving": "Krokant geroosterde eend uit Beijing, traditioneel geserveerd met flensjes en hoisinsaus.",
+  "afbeelding": "images/recepten/PekingEendAI.png",
+  "url": "recepten.html?id=pekingEend",
+  "volgorde": 8,
+  "regioVolgorde": {
+    "china-oost-azie": 0
+  }
+}

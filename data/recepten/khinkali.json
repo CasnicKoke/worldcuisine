@@ -1,0 +1,14 @@
+{
+  "sleutel": "khinkali",
+  "regios": [
+    "kaukasus"
+  ],
+  "titel": "Khinkali",
+  "korteBeschrijving": "Georgische dumplings gevuld met gekruid vlees en aromatische bouillon.",
+  "afbeelding": "images/recepten/KhinkaliAI.png",
+  "url": "recepten.html?id=khinkali",
+  "volgorde": 33,
+  "regioVolgorde": {
+    "kaukasus": 1
+  }
+}

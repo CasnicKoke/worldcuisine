@@ -1,0 +1,14 @@
+{
+  "sleutel": "kareKare",
+  "regios": [
+    "filipijns"
+  ],
+  "titel": "Kare-Kare",
+  "korteBeschrijving": "Rijke Filipijnse stoofpot met pindasaus, groenten en vlees.",
+  "afbeelding": "images/recepten/KareKareAI.png",
+  "url": "recepten.html?id=kareKare",
+  "volgorde": 18,
+  "regioVolgorde": {
+    "filipijns": 2
+  }
+}

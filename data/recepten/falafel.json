@@ -1,0 +1,14 @@
+{
+  "sleutel": "falafel",
+  "regios": [
+    "levant"
+  ],
+  "titel": "Falafel",
+  "korteBeschrijving": "Krokante balletjes van kikkererwten of tuinbonen, gekruid met verse kruiden en specerijen.",
+  "afbeelding": "images/recepten/FalafelAI.png",
+  "url": "recepten.html?id=falafel",
+  "volgorde": 41,
+  "regioVolgorde": {
+    "levant": 1
+  }
+}

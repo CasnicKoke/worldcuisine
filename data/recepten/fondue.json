@@ -1,0 +1,14 @@
+{
+  "sleutel": "fondue",
+  "regios": [
+    "midden-europa"
+  ],
+  "titel": "Fondue",
+  "korteBeschrijving": "Gesmolten kaasgerecht uit de Alpenregio, gegeten door stukjes brood in de kaas te dippen.",
+  "afbeelding": "images/recepten/FondueAI.png",
+  "url": "recepten.html?id=fondue",
+  "volgorde": 73,
+  "regioVolgorde": {
+    "midden-europa": 1
+  }
+}

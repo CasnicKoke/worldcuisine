@@ -1,0 +1,14 @@
+{
+  "sleutel": "hamburger",
+  "regios": [
+    "verenigde-staten"
+  ],
+  "titel": "Hamburger",
+  "korteBeschrijving": "Klassieke Amerikaanse burger met een gegrilde runderpatty, broodje en rijke toppings.",
+  "afbeelding": "images/recepten/HamburgerAI.png",
+  "url": "recepten.html?id=hamburger",
+  "volgorde": 87,
+  "regioVolgorde": {
+    "verenigde-staten": 3
+  }
+}

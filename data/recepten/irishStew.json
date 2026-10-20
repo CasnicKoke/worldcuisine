@@ -1,0 +1,14 @@
+{
+  "sleutel": "irishStew",
+  "regios": [
+    "britse-eilanden"
+  ],
+  "titel": "Irish Stew",
+  "korteBeschrijving": "Ierse stoofpot met lamsvlees of rundvlees, aardappel, ui en wortel.",
+  "afbeelding": "images/recepten/IrishStewAI.png",
+  "url": "recepten.html?id=irishStew",
+  "volgorde": 67,
+  "regioVolgorde": {
+    "britse-eilanden": 3
+  }
+}

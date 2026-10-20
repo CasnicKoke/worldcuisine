@@ -1,0 +1,14 @@
+{
+  "sleutel": "moqueca",
+  "regios": [
+    "brazilie"
+  ],
+  "titel": "Moqueca",
+  "korteBeschrijving": "Braziliaanse visstoof met kokosmelk, tomaat, paprika, koriander en palmolie.",
+  "afbeelding": "images/recepten/MoquecaAI.png",
+  "url": "recepten.html?id=moqueca",
+  "volgorde": 136,
+  "regioVolgorde": {
+    "brazilie": 1
+  }
+}

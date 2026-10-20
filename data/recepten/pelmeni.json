@@ -1,0 +1,14 @@
+{
+  "sleutel": "pelmeni",
+  "regios": [
+    "rus-eurazie"
+  ],
+  "titel": "Pelmeni",
+  "korteBeschrijving": "Siberische deegkussentjes gevuld met gekruid vlees, traditioneel geserveerd met zure room.",
+  "afbeelding": "images/recepten/PelmeniAI.png",
+  "url": "recepten.html?id=pelmeni",
+  "volgorde": 21,
+  "regioVolgorde": {
+    "rus-eurazie": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "sleutel": "taamia",
+  "regios": [
+    "nijlvallei"
+  ],
+  "titel": "Taamia",
+  "korteBeschrijving": "Egyptische falafel van tuinbonen, krokant van buiten en zacht kruidig van binnen.",
+  "afbeelding": "images/recepten/TaamiaAI.png",
+  "url": "recepten.html?id=taamia",
+  "volgorde": 95,
+  "regioVolgorde": {
+    "nijlvallei": 3
+  }
+}

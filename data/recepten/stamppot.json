@@ -1,0 +1,14 @@
+{
+  "sleutel": "stamppot",
+  "regios": [
+    "germaans"
+  ],
+  "titel": "Stamppot",
+  "korteBeschrijving": "Nederlands gerecht van aardappelpuree gemengd met groenten, vaak met rookworst.",
+  "afbeelding": "images/recepten/StamppotAI.png",
+  "url": "recepten.html?id=stamppot",
+  "volgorde": 70,
+  "regioVolgorde": {
+    "germaans": 2
+  }
+}

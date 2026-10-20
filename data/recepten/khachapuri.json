@@ -1,0 +1,14 @@
+{
+  "sleutel": "khachapuri",
+  "regios": [
+    "kaukasus"
+  ],
+  "titel": "Khachapuri",
+  "korteBeschrijving": "Georgisch brood gevuld met gesmolten kaas, vaak geserveerd met boter of ei.",
+  "afbeelding": "images/recepten/KhachapuriAI.png",
+  "url": "recepten.html?id=khachapuri",
+  "volgorde": 32,
+  "regioVolgorde": {
+    "kaukasus": 0
+  }
+}

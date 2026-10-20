@@ -1,0 +1,14 @@
+{
+  "sleutel": "mofongo",
+  "regios": [
+    "caribisch"
+  ],
+  "titel": "Mofongo",
+  "korteBeschrijving": "Puerto Ricaans gerecht van gestampte bakbanaan, vaak geserveerd met knoflook, vlees of zeevruchten.",
+  "afbeelding": "images/recepten/MofongoAI.png",
+  "url": "recepten.html?id=mofongo",
+  "volgorde": 130,
+  "regioVolgorde": {
+    "caribisch": 3
+  }
+}

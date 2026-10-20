@@ -1,0 +1,14 @@
+{
+  "sleutel": "bacalhau",
+  "regios": [
+    "mediterraans"
+  ],
+  "titel": "Bacalhau",
+  "korteBeschrijving": "Portugees gerecht van gezouten kabeljauw, vaak gecombineerd met aardappel, ui en olijfolie.",
+  "afbeelding": "images/recepten/BacalhauAI.png",
+  "url": "recepten.html?id=bacalhau",
+  "volgorde": 79,
+  "regioVolgorde": {
+    "mediterraans": 3
+  }
+}

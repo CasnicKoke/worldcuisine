@@ -1,0 +1,14 @@
+{
+  "sleutel": "machboos",
+  "regios": [
+    "arabisch-schiereiland"
+  ],
+  "titel": "Machboos",
+  "korteBeschrijving": "Kruidige rijstschotel uit de Golfregio met vlees of vis, gedroogde limoen en specerijen.",
+  "afbeelding": "images/recepten/MachboosAI.png",
+  "url": "recepten.html?id=machboos",
+  "volgorde": 51,
+  "regioVolgorde": {
+    "arabisch-schiereiland": 3
+  }
+}

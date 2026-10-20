@@ -1,0 +1,14 @@
+{
+  "sleutel": "ajvar",
+  "regios": [
+    "balkan"
+  ],
+  "titel": "Ajvar",
+  "korteBeschrijving": "Smeuïge paprikaspread van geroosterde rode pepers, vaak gegeten als dip of bijgerecht.",
+  "afbeelding": "images/recepten/AjvarAI.png",
+  "url": "recepten.html?id=ajvar",
+  "volgorde": 55,
+  "regioVolgorde": {
+    "balkan": 3
+  }
+}

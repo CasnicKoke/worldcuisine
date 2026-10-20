@@ -1,0 +1,14 @@
+{
+  "sleutel": "mohinga",
+  "regios": [
+    "indo-chinees"
+  ],
+  "titel": "Mohinga",
+  "korteBeschrijving": "Birmese noedelsoep met visbouillon, beschouwd als nationaal gerecht van Myanmar.",
+  "afbeelding": "images/recepten/MohingaAI.png",
+  "url": "recepten.html?id=mohinga",
+  "volgorde": 7,
+  "regioVolgorde": {
+    "indo-chinees": 3
+  }
+}

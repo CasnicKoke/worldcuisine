@@ -1,0 +1,14 @@
+{
+  "sleutel": "laplap",
+  "regios": [
+    "melanesie"
+  ],
+  "titel": "Laplap",
+  "korteBeschrijving": "Gerecht uit Vanuatu van geraspte wortelgewassen met kokosmelk, vaak bereid met vlees of vis.",
+  "afbeelding": "images/recepten/LaplapAI.png",
+  "url": "recepten.html?id=laplap",
+  "volgorde": 156,
+  "regioVolgorde": {
+    "melanesie": 2
+  }
+}

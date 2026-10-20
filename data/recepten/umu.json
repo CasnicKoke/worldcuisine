@@ -1,0 +1,14 @@
+{
+  "sleutel": "umu",
+  "regios": [
+    "polynesie"
+  ],
+  "titel": "Umu",
+  "korteBeschrijving": "Polynesische maaltijd van vlees, vis en groenten, langzaam gegaard in een ondergrondse steenoven.",
+  "afbeelding": "images/recepten/UmuAI.png",
+  "url": "recepten.html?id=umu",
+  "volgorde": 159,
+  "regioVolgorde": {
+    "polynesie": 1
+  }
+}

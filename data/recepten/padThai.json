@@ -1,0 +1,14 @@
+{
+  "sleutel": "padThai",
+  "regios": [
+    "indo-chinees"
+  ],
+  "titel": "Pad Thai",
+  "korteBeschrijving": "Roergebakken rijstnoedels met garnalen, tofu, ei, taugé en pinda's.",
+  "afbeelding": "images/recepten/PadThaiAI.png",
+  "url": "recepten.html?id=padThai",
+  "volgorde": 4,
+  "regioVolgorde": {
+    "indo-chinees": 0
+  }
+}

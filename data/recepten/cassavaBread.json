@@ -1,0 +1,14 @@
+{
+  "sleutel": "cassavaBread",
+  "regios": [
+    "amazone-guyanas"
+  ],
+  "titel": "Cassava Bread",
+  "korteBeschrijving": "Dun traditioneel brood van geraspte cassave, knapperig gebakken en veel gegeten in de Guyana’s.",
+  "afbeelding": "images/recepten/CassavaBreadAI.png",
+  "url": "recepten.html?id=cassavaBread",
+  "volgorde": 140,
+  "regioVolgorde": {
+    "amazone-guyanas": 1
+  }
+}

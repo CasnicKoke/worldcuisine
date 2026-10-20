@@ -1,0 +1,14 @@
+{
+  "sleutel": "ajiDeGallina",
+  "regios": [
+    "andes"
+  ],
+  "titel": "Ají de Gallina",
+  "korteBeschrijving": "Peruaans gerecht van kip in een romige, licht pittige saus van ají-peper, brood en noten.",
+  "afbeelding": "images/recepten/AjiDeGallinaAI.png",
+  "url": "recepten.html?id=ajiDeGallina",
+  "volgorde": 132,
+  "regioVolgorde": {
+    "andes": 1
+  }
+}

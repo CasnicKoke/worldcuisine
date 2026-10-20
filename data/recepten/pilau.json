@@ -1,0 +1,14 @@
+{
+  "sleutel": "pilau",
+  "regios": [
+    "oost-afrika"
+  ],
+  "titel": "Pilau",
+  "korteBeschrijving": "Oost-Afrikaanse kruidige rijstschotel met specerijen, vaak geserveerd met vlees.",
+  "afbeelding": "images/recepten/PilauAI.png",
+  "url": "recepten.html?id=pilau",
+  "volgorde": 111,
+  "regioVolgorde": {
+    "oost-afrika": 0
+  }
+}

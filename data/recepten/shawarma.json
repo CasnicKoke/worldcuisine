@@ -1,0 +1,14 @@
+{
+  "sleutel": "shawarma",
+  "regios": [
+    "levant"
+  ],
+  "titel": "Shawarma",
+  "korteBeschrijving": "Dun gesneden gekruid vlees, vaak geserveerd in platbrood met saus en groenten.",
+  "afbeelding": "images/recepten/ShawarmaAI.png",
+  "url": "recepten.html?id=shawarma",
+  "volgorde": 40,
+  "regioVolgorde": {
+    "levant": 0
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "sleutel": "chelowKebab",
+  "regios": [
+    "perzie"
+  ],
+  "titel": "Chelow Kebab",
+  "korteBeschrijving": "Perzische kebab geserveerd met geurige saffraanrijst, boter en gegrilde tomaat.",
+  "afbeelding": "images/recepten/ChelowKebabAI.png",
+  "url": "recepten.html?id=chelowKebab",
+  "volgorde": 44,
+  "regioVolgorde": {
+    "perzie": 0
+  }
+}

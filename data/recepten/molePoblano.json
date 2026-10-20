@@ -1,0 +1,14 @@
+{
+  "sleutel": "molePoblano",
+  "regios": [
+    "mexicaans"
+  ],
+  "titel": "Mole Poblano",
+  "korteBeschrijving": "Rijke Mexicaanse saus met chili, specerijen en chocolade, vaak geserveerd met kip.",
+  "afbeelding": "images/recepten/MolePoblanoAI.png",
+  "url": "recepten.html?id=molePoblano",
+  "volgorde": 120,
+  "regioVolgorde": {
+    "mexicaans": 1
+  }
+}

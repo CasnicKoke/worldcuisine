@@ -1,0 +1,14 @@
+{
+  "sleutel": "harira",
+  "regios": [
+    "maghreb"
+  ],
+  "titel": "Harira",
+  "korteBeschrijving": "Hartige Noord-Afrikaanse soep met tomaat, peulvruchten, kruiden en vaak stukjes vlees.",
+  "afbeelding": "images/recepten/HariraAI.png",
+  "url": "recepten.html?id=harira",
+  "volgorde": 90,
+  "regioVolgorde": {
+    "maghreb": 2
+  }
+}

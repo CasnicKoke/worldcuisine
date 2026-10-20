@@ -1,0 +1,14 @@
+{
+  "sleutel": "ghormehSabzi",
+  "regios": [
+    "perzie"
+  ],
+  "titel": "Ghormeh Sabzi",
+  "korteBeschrijving": "Kruidige Perzische stoofpot met verse kruiden, bonen en langzaam gegaard vlees.",
+  "afbeelding": "images/recepten/GhormehSabziAI.png",
+  "url": "recepten.html?id=ghormehSabzi",
+  "volgorde": 46,
+  "regioVolgorde": {
+    "perzie": 2
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "sleutel": "fufu",
+  "regios": [
+    "centraal-afrika"
+  ],
+  "titel": "Fufu",
+  "korteBeschrijving": "Elastische puree van cassave, yam of bakbanaan, gegeten als basis bij soepen en stoofschotels.",
+  "afbeelding": "images/recepten/FufuAI.png",
+  "url": "recepten.html?id=fufu",
+  "volgorde": 108,
+  "regioVolgorde": {
+    "centraal-afrika": 1
+  }
+}

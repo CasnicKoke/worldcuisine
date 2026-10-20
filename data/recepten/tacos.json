@@ -1,0 +1,14 @@
+{
+  "sleutel": "tacos",
+  "regios": [
+    "mexicaans"
+  ],
+  "titel": "Tacos",
+  "korteBeschrijving": "Zachte maïstortilla’s gevuld met vlees, groenten, salsa en frisse toppings.",
+  "afbeelding": "images/recepten/TacosAI.png",
+  "url": "recepten.html?id=tacos",
+  "volgorde": 119,
+  "regioVolgorde": {
+    "mexicaans": 0
+  }
+}

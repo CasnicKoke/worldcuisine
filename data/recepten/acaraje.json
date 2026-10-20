@@ -1,0 +1,14 @@
+{
+  "sleutel": "acaraje",
+  "regios": [
+    "brazilie"
+  ],
+  "titel": "Acarajé",
+  "korteBeschrijving": "Bahiaans gerecht van gefrituurde bonenballetjes, gevuld met pittige garnalen en smaakvolle sauzen.",
+  "afbeelding": "images/recepten/AcarajeAI.png",
+  "url": "recepten.html?id=acaraje",
+  "volgorde": 138,
+  "regioVolgorde": {
+    "brazilie": 3
+  }
+}

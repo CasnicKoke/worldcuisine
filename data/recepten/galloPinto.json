@@ -1,0 +1,14 @@
+{
+  "sleutel": "galloPinto",
+  "regios": [
+    "centraal-amerika"
+  ],
+  "titel": "Gallo Pinto",
+  "korteBeschrijving": "Klassiek Centraal-Amerikaans gerecht van rijst en bonen, vaak gegeten als ontbijt of bijgerecht.",
+  "afbeelding": "images/recepten/GalloPintoAI.png",
+  "url": "recepten.html?id=galloPinto",
+  "volgorde": 123,
+  "regioVolgorde": {
+    "centraal-amerika": 0
+  }
+}

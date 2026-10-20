@@ -1,0 +1,14 @@
+{
+  "sleutel": "borsjtsj",
+  "regios": [
+    "rus-eurazie"
+  ],
+  "titel": "Borsjtsj",
+  "korteBeschrijving": "Dieprode bietensoep met groenten, vaak geserveerd met zure room en verse kruiden.",
+  "afbeelding": "images/recepten/BorsjtsjAI.png",
+  "url": "recepten.html?id=borsjtsj",
+  "volgorde": 20,
+  "regioVolgorde": {
+    "rus-eurazie": 0
+  }
+}

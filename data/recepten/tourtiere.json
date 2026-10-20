@@ -1,0 +1,14 @@
+{
+  "sleutel": "tourtiere",
+  "regios": [
+    "canada"
+  ],
+  "titel": "Tourtière",
+  "korteBeschrijving": "Hartige Québecse vleespastei met gekruid gehakt in een goudbruine deegkorst.",
+  "afbeelding": "images/recepten/TourtiereAI.png",
+  "url": "recepten.html?id=tourtiere",
+  "volgorde": 81,
+  "regioVolgorde": {
+    "canada": 1
+  }
+}

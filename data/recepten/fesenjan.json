@@ -1,0 +1,14 @@
+{
+  "sleutel": "fesenjan",
+  "regios": [
+    "perzie"
+  ],
+  "titel": "Fesenjan",
+  "korteBeschrijving": "Rijke stoofschotel met walnoten en granaatappel, vaak bereid met kip of eend.",
+  "afbeelding": "images/recepten/FesenjanAI.png",
+  "url": "recepten.html?id=fesenjan",
+  "volgorde": 45,
+  "regioVolgorde": {
+    "perzie": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "sleutel": "xiaolongbao",
+  "regios": [
+    "china-oost-azie"
+  ],
+  "titel": "Xiaolongbao",
+  "korteBeschrijving": "Chinese gestoomde dumplings gevuld met vlees en rijke bouillon.",
+  "afbeelding": "images/recepten/XiaolongbaoAI.png",
+  "url": "recepten.html?id=xiaolongbao",
+  "volgorde": 11,
+  "regioVolgorde": {
+    "china-oost-azie": 3
+  }
+}

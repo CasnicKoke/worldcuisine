@@ -1,0 +1,14 @@
+{
+  "sleutel": "harees",
+  "regios": [
+    "arabisch-schiereiland"
+  ],
+  "titel": "Harees",
+  "korteBeschrijving": "Romig hartig gerecht van tarwe en vlees, langzaam gekookt tot een zachte papachtige structuur.",
+  "afbeelding": "images/recepten/HareesAI.png",
+  "url": "recepten.html?id=harees",
+  "volgorde": 50,
+  "regioVolgorde": {
+    "arabisch-schiereiland": 2
+  }
+}

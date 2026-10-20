@@ -1,0 +1,14 @@
+{
+  "sleutel": "luau",
+  "regios": [
+    "polynesie"
+  ],
+  "titel": "Lūʻau",
+  "korteBeschrijving": "Hawaïaans gerecht van taro-bladeren, traditioneel langzaam gegaard met vlees en kokos.",
+  "afbeelding": "images/recepten/LuauAI.png",
+  "url": "recepten.html?id=luau",
+  "volgorde": 161,
+  "regioVolgorde": {
+    "polynesie": 3
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "sleutel": "tamales",
+  "regios": [
+    "centraal-amerika"
+  ],
+  "titel": "Tamales",
+  "korteBeschrijving": "Maïsdeeg met hartige vulling, gestoomd in een blad, geliefd in heel Centraal-Amerika.",
+  "afbeelding": "images/recepten/TamalesAI.png",
+  "url": "recepten.html?id=tamales",
+  "volgorde": 126,
+  "regioVolgorde": {
+    "centraal-amerika": 3
+  }
+}

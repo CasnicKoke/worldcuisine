@@ -1,0 +1,14 @@
+{
+  "sleutel": "coqAuVin",
+  "regios": [
+    "midden-europa"
+  ],
+  "titel": "Coq au Vin",
+  "korteBeschrijving": "Franse stoofschotel van kip, langzaam gegaard in wijn met spek, ui en paddenstoelen.",
+  "afbeelding": "images/recepten/CoqAuVinAI.png",
+  "url": "recepten.html?id=coqAuVin",
+  "volgorde": 72,
+  "regioVolgorde": {
+    "midden-europa": 0
+  }
+}

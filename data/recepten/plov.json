@@ -1,0 +1,14 @@
+{
+  "sleutel": "plov",
+  "regios": [
+    "centraal-aziatisch"
+  ],
+  "titel": "Plov",
+  "korteBeschrijving": "Centraal-Aziatisch rijstgerecht met mals vlees, wortel, ui en aromatische specerijen.",
+  "afbeelding": "images/recepten/PlovAI.png",
+  "url": "recepten.html?id=plov",
+  "volgorde": 24,
+  "regioVolgorde": {
+    "centraal-aziatisch": 0
+  }
+}

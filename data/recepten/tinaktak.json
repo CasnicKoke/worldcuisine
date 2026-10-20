@@ -1,0 +1,14 @@
+{
+  "sleutel": "tinaktak",
+  "regios": [
+    "micronesie"
+  ],
+  "titel": "Tinaktak",
+  "korteBeschrijving": "Guamees gerecht van rundvlees, groenten en kokosmelk, vaak gegeten met rijst.",
+  "afbeelding": "images/recepten/TinaktakAI.png",
+  "url": "recepten.html?id=tinaktak",
+  "volgorde": 162,
+  "regioVolgorde": {
+    "micronesie": 0
+  }
+}

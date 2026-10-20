@@ -1,0 +1,14 @@
+{
+  "sleutel": "clamChowder",
+  "regios": [
+    "verenigde-staten"
+  ],
+  "titel": "Clam Chowder",
+  "korteBeschrijving": "Romige soep uit New England met venusschelpen, aardappel en vaak spek.",
+  "afbeelding": "images/recepten/ClamChowderAI.png",
+  "url": "recepten.html?id=clamChowder",
+  "volgorde": 86,
+  "regioVolgorde": {
+    "verenigde-staten": 2
+  }
+}

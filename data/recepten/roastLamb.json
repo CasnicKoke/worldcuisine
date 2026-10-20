@@ -1,0 +1,14 @@
+{
+  "sleutel": "roastLamb",
+  "regios": [
+    "nieuw-zeeland"
+  ],
+  "titel": "Roast Lamb",
+  "korteBeschrijving": "Langzaam geroosterd Nieuw-Zeelands lamsvlees met kruiden, groenten en rijke jus.",
+  "afbeelding": "images/recepten/RoastLambAI.png",
+  "url": "recepten.html?id=roastLamb",
+  "volgorde": 153,
+  "regioVolgorde": {
+    "nieuw-zeeland": 2
+  }
+}

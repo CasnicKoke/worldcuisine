@@ -1,0 +1,14 @@
+{
+  "sleutel": "moambe",
+  "regios": [
+    "centraal-afrika"
+  ],
+  "titel": "Moambe",
+  "korteBeschrijving": "Centraal-Afrikaanse stoofschotel, vaak met kip, bereid in een rijke saus van palmnoten.",
+  "afbeelding": "images/recepten/MoambeAI.png",
+  "url": "recepten.html?id=moambe",
+  "volgorde": 107,
+  "regioVolgorde": {
+    "centraal-afrika": 0
+  }
+}

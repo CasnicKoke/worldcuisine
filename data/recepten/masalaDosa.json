@@ -1,0 +1,14 @@
+{
+  "sleutel": "masalaDosa",
+  "regios": [
+    "zuid-aziatisch"
+  ],
+  "titel": "Masala Dosa",
+  "korteBeschrijving": "Knapperige Zuid-Indiase pannenkoek van rijst en linzen, gevuld met gekruide aardappel.",
+  "afbeelding": "images/recepten/MasalaDosaAI.png",
+  "url": "recepten.html?id=masalaDosa",
+  "volgorde": 29,
+  "regioVolgorde": {
+    "zuid-aziatisch": 1
+  }
+}

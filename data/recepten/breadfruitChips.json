@@ -1,0 +1,14 @@
+{
+  "sleutel": "breadfruitChips",
+  "regios": [
+    "micronesie"
+  ],
+  "titel": "Breadfruit Chips",
+  "korteBeschrijving": "Dunne krokante plakjes broodvrucht, goudbruin gefrituurd en licht gezouten.",
+  "afbeelding": "images/recepten/BreadfruitChipsAI.png",
+  "url": "recepten.html?id=breadfruitChips",
+  "volgorde": 165,
+  "regioVolgorde": {
+    "micronesie": 3
+  }
+}

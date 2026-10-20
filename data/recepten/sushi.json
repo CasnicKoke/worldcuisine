@@ -1,0 +1,14 @@
+{
+  "sleutel": "sushi",
+  "regios": [
+    "japan"
+  ],
+  "titel": "Sushi",
+  "korteBeschrijving": "Japanse rijstrolletjes met vis, groenten of andere vullingen.",
+  "afbeelding": "images/recepten/SushiAI.png",
+  "url": "recepten.html?id=sushi",
+  "volgorde": 12,
+  "regioVolgorde": {
+    "japan": 0
+  }
+}

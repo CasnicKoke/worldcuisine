@@ -1,0 +1,14 @@
+{
+  "sleutel": "burek",
+  "regios": [
+    "balkan"
+  ],
+  "titel": "Burek",
+  "korteBeschrijving": "Bladerdeeggebak gevuld met vlees, kaas, aardappel of spinazie, populair op de Balkan.",
+  "afbeelding": "images/recepten/BurekAI.png",
+  "url": "recepten.html?id=burek",
+  "volgorde": 53,
+  "regioVolgorde": {
+    "balkan": 1
+  }
+}

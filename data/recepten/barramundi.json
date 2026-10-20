@@ -1,0 +1,14 @@
+{
+  "sleutel": "barramundi",
+  "regios": [
+    "australie"
+  ],
+  "titel": "Barramundi",
+  "korteBeschrijving": "Australische vis met stevig wit vlees, vaak gegrild en eenvoudig geserveerd met citroen en kruiden.",
+  "afbeelding": "images/recepten/BarramundiAI.png",
+  "url": "recepten.html?id=barramundi",
+  "volgorde": 148,
+  "regioVolgorde": {
+    "australie": 1
+  }
+}

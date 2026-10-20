@@ -1,0 +1,14 @@
+{
+  "sleutel": "fullEnglish",
+  "regios": [
+    "britse-eilanden"
+  ],
+  "titel": "Full English",
+  "korteBeschrijving": "Uitgebreid Engels ontbijt met eieren, worst, spek, bonen, tomaat en toast.",
+  "afbeelding": "images/recepten/FullEnglishAI.png",
+  "url": "recepten.html?id=fullEnglish",
+  "volgorde": 66,
+  "regioVolgorde": {
+    "britse-eilanden": 2
+  }
+}

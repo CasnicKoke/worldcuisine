@@ -1,0 +1,14 @@
+{
+  "sleutel": "manty",
+  "regios": [
+    "centraal-aziatisch"
+  ],
+  "titel": "Manty",
+  "korteBeschrijving": "Gestoomde deegpakketjes gevuld met gekruid vlees en ui, vaak geserveerd met yoghurt.",
+  "afbeelding": "images/recepten/MantyAI.png",
+  "url": "recepten.html?id=manty",
+  "volgorde": 26,
+  "regioVolgorde": {
+    "centraal-aziatisch": 2
+  }
+}

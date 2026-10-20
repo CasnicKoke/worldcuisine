@@ -1,0 +1,14 @@
+{
+  "sleutel": "kitfo",
+  "regios": [
+    "hoorn-van-afrika"
+  ],
+  "titel": "Kitfo",
+  "korteBeschrijving": "Ethiopisch fijngehakt rundvlees, gekruid met boter en specerijen, vaak warm geserveerd.",
+  "afbeelding": "images/recepten/KitfoAI.png",
+  "url": "recepten.html?id=kitfo",
+  "volgorde": 106,
+  "regioVolgorde": {
+    "hoorn-van-afrika": 3
+  }
+}

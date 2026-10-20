@@ -1,0 +1,14 @@
+{
+  "sleutel": "pastilla",
+  "regios": [
+    "maghreb"
+  ],
+  "titel": "Pastilla",
+  "korteBeschrijving": "Marokkaanse hartig-zoete pastei met dun deeg, vaak gevuld met gevogelte en specerijen.",
+  "afbeelding": "images/recepten/PastillaAI.png",
+  "url": "recepten.html?id=pastilla",
+  "volgorde": 91,
+  "regioVolgorde": {
+    "maghreb": 3
+  }
+}

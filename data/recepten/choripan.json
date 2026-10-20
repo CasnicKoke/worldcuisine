@@ -1,0 +1,14 @@
+{
+  "sleutel": "choripan",
+  "regios": [
+    "pampas"
+  ],
+  "titel": "Choripán",
+  "korteBeschrijving": "Gegrilde chorizo in knapperig brood, vaak geserveerd met frisse chimichurri.",
+  "afbeelding": "images/recepten/ChoripanAI.png",
+  "url": "recepten.html?id=choripan",
+  "volgorde": 144,
+  "regioVolgorde": {
+    "pampas": 1
+  }
+}

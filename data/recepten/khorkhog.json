@@ -1,0 +1,14 @@
+{
+  "sleutel": "khorkhog",
+  "regios": [
+    "rus-eurazie"
+  ],
+  "titel": "Khorkhog",
+  "korteBeschrijving": "Mongoolse vleesschotel met groenten, traditioneel gegaard met gloeiendhete stenen.",
+  "afbeelding": "images/recepten/KhorkhogAI.png",
+  "url": "recepten.html?id=khorkhog",
+  "volgorde": 23,
+  "regioVolgorde": {
+    "rus-eurazie": 3
+  }
+}

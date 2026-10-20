@@ -1,0 +1,14 @@
+{
+  "sleutel": "mandi",
+  "regios": [
+    "arabisch-schiereiland"
+  ],
+  "titel": "Mandi",
+  "korteBeschrijving": "Rijstgerecht met mals langzaam gegaard vlees, bekend om zijn rokerige geurige smaak.",
+  "afbeelding": "images/recepten/MandiAI.png",
+  "url": "recepten.html?id=mandi",
+  "volgorde": 49,
+  "regioVolgorde": {
+    "arabisch-schiereiland": 1
+  }
+}

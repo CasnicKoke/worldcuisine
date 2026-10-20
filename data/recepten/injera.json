@@ -1,0 +1,14 @@
+{
+  "sleutel": "injera",
+  "regios": [
+    "hoorn-van-afrika"
+  ],
+  "titel": "Injera",
+  "korteBeschrijving": "Zuurdesem flatbread van teff, gebruikt als basis en eetgerei in Ethiopische maaltijden.",
+  "afbeelding": "images/recepten/InjeraAI.png",
+  "url": "recepten.html?id=injera",
+  "volgorde": 103,
+  "regioVolgorde": {
+    "hoorn-van-afrika": 0
+  }
+}

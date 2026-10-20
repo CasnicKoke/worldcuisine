@@ -1,0 +1,14 @@
+{
+  "sleutel": "kelaguen",
+  "regios": [
+    "micronesie"
+  ],
+  "titel": "Kelaguen",
+  "korteBeschrijving": "Guamees gerecht van fijngehakt vlees of vis met citroen, kokos, chili en lente-ui.",
+  "afbeelding": "images/recepten/KelaguenAI.png",
+  "url": "recepten.html?id=kelaguen",
+  "volgorde": 163,
+  "regioVolgorde": {
+    "micronesie": 1
+  }
+}

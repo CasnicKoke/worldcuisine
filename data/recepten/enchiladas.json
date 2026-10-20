@@ -1,0 +1,14 @@
+{
+  "sleutel": "enchiladas",
+  "regios": [
+    "mexicaans"
+  ],
+  "titel": "Enchiladas",
+  "korteBeschrijving": "Opgerolde tortilla’s gevuld met vlees, kaas of bonen, overgoten met saus en gebakken.",
+  "afbeelding": "images/recepten/EnchiladasAI.png",
+  "url": "recepten.html?id=enchiladas",
+  "volgorde": 122,
+  "regioVolgorde": {
+    "mexicaans": 3
+  }
+}

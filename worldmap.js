@@ -1273,12 +1273,11 @@ function toonReceptKaarten(sleutels, titel, regioLabels = {}) {
 }
 
 function toonRecepten(regioNaam) {
-    const regio = regioBeschrijving[regioNaam];
-    const namen = regioRecepten[regioNaam] || [];
-    toonReceptKaarten(
-        namen,
-        regio ? `Gerechten uit ${regio.titel}` : "Gerechten uit de wereld"
-    );
+    receptenGereed.then(() => {
+        const regio = regioBeschrijving[regioNaam];
+        const namen = regioRecepten[regioNaam] || [];
+        toonReceptKaarten(namen, regio ? `Gerechten uit ${regio.titel}` : "Gerechten uit de wereld");
+    }).catch(() => {});
 }
 
 function toonWereldRecepten() {
@@ -1295,7 +1294,9 @@ function toonWereldRecepten() {
     );
 }
 
-document.addEventListener("DOMContentLoaded", toonWereldRecepten);
+document.addEventListener("DOMContentLoaded", () => {
+    receptenGereed.then(toonWereldRecepten).catch(() => {});
+});
 
 function pasSidebarHoogteAan() {
     const kaart = document.getElementById("world-map");

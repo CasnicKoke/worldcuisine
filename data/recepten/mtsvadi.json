@@ -1,0 +1,14 @@
+{
+  "sleutel": "mtsvadi",
+  "regios": [
+    "kaukasus"
+  ],
+  "titel": "Mtsvadi",
+  "korteBeschrijving": "Georgische vleesspiesjes, gegrild boven houtskool en geserveerd met ui en kruiden.",
+  "afbeelding": "images/recepten/MtsvadiAI.png",
+  "url": "recepten.html?id=mtsvadi",
+  "volgorde": 35,
+  "regioVolgorde": {
+    "kaukasus": 3
+  }
+}

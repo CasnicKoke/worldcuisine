@@ -1,0 +1,14 @@
+{
+  "sleutel": "feijoada",
+  "regios": [
+    "brazilie"
+  ],
+  "titel": "Feijoada",
+  "korteBeschrijving": "Rijke Braziliaanse stoofpot van zwarte bonen en verschillende soorten varkens- en rundvlees.",
+  "afbeelding": "images/recepten/FeijoadaAI.png",
+  "url": "recepten.html?id=feijoada",
+  "volgorde": 135,
+  "regioVolgorde": {
+    "brazilie": 0
+  }
+}

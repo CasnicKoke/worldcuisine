@@ -1,0 +1,14 @@
+{
+  "sleutel": "caldeirada",
+  "regios": [
+    "amazone-guyanas"
+  ],
+  "titel": "Caldeirada",
+  "korteBeschrijving": "Rijke visstoof uit het Amazonegebied met verse vis, groenten, kruiden en een geurige bouillon.",
+  "afbeelding": "images/recepten/CaldeiradaAI.png",
+  "url": "recepten.html?id=caldeirada",
+  "volgorde": 142,
+  "regioVolgorde": {
+    "amazone-guyanas": 3
+  }
+}

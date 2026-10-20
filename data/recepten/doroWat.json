@@ -1,0 +1,14 @@
+{
+  "sleutel": "doroWat",
+  "regios": [
+    "hoorn-van-afrika"
+  ],
+  "titel": "Doro Wat",
+  "korteBeschrijving": "Ethiopische pittige kipstoof met berbere-specerijen en vaak gekookt ei.",
+  "afbeelding": "images/recepten/DoroWatAI.png",
+  "url": "recepten.html?id=doroWat",
+  "volgorde": 104,
+  "regioVolgorde": {
+    "hoorn-van-afrika": 1
+  }
+}

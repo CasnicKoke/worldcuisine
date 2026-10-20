@@ -1,0 +1,14 @@
+{
+  "sleutel": "mapleSalmon",
+  "regios": [
+    "canada"
+  ],
+  "titel": "Maple-Glazed Salmon",
+  "korteBeschrijving": "Gebakken zalm met een glanzend zoet-hartig glazuur van Canadese ahornsiroop.",
+  "afbeelding": "images/recepten/MapleSalmonAI.png",
+  "url": "recepten.html?id=mapleSalmon",
+  "volgorde": 82,
+  "regioVolgorde": {
+    "canada": 2
+  }
+}

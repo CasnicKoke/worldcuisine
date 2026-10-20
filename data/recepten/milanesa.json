@@ -1,0 +1,14 @@
+{
+  "sleutel": "milanesa",
+  "regios": [
+    "pampas"
+  ],
+  "titel": "Milanesa",
+  "korteBeschrijving": "Dun stuk vlees, gepaneerd en goudbruin gebakken, een geliefde klassieker in de Río de la Plata.",
+  "afbeelding": "images/recepten/MilanesaAI.png",
+  "url": "recepten.html?id=milanesa",
+  "volgorde": 145,
+  "regioVolgorde": {
+    "pampas": 2
+  }
+}

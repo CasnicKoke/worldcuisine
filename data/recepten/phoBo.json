@@ -1,0 +1,14 @@
+{
+  "sleutel": "phoBo",
+  "regios": [
+    "indo-chinees"
+  ],
+  "titel": "Phở Bò",
+  "korteBeschrijving": "Vietnamese noedelsoep met rundvlees, kruiden en een aromatische bouillon.",
+  "afbeelding": "images/recepten/PhoBoAI.png",
+  "url": "recepten.html?id=phoBo",
+  "volgorde": 5,
+  "regioVolgorde": {
+    "indo-chinees": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "sleutel": "suya",
+  "regios": [
+    "west-afrika"
+  ],
+  "titel": "Suya",
+  "korteBeschrijving": "Pikant gekruide vleesspiesjes, gegrild boven open vuur en vaak geserveerd met ui.",
+  "afbeelding": "images/recepten/SuyaAI.png",
+  "url": "recepten.html?id=suya",
+  "volgorde": 101,
+  "regioVolgorde": {
+    "west-afrika": 2
+  }
+}

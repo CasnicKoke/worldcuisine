@@ -1,0 +1,14 @@
+{
+  "sleutel": "schnitzel",
+  "regios": [
+    "germaans"
+  ],
+  "titel": "Schnitzel",
+  "korteBeschrijving": "Dun uitgeklopt vlees, gepaneerd en goudbruin gebakken, populair in Duitstalige keukens.",
+  "afbeelding": "images/recepten/SchnitzelAI.png",
+  "url": "recepten.html?id=schnitzel",
+  "volgorde": 68,
+  "regioVolgorde": {
+    "germaans": 0
+  }
+}

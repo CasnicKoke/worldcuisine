@@ -1,0 +1,14 @@
+{
+  "sleutel": "saltenas",
+  "regios": [
+    "andes"
+  ],
+  "titel": "Salteñas",
+  "korteBeschrijving": "Boliviaanse pasteitjes met een sappige, kruidige vulling van vlees, groenten en saus.",
+  "afbeelding": "images/recepten/SaltenasAI.png",
+  "url": "recepten.html?id=saltenas",
+  "volgorde": 134,
+  "regioVolgorde": {
+    "andes": 3
+  }
+}

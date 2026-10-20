@@ -1,0 +1,14 @@
+{
+  "sleutel": "moussaka",
+  "regios": [
+    "mediterraans"
+  ],
+  "titel": "Moussaka",
+  "korteBeschrijving": "Ovenschotel met aubergine, gehakt en romige bechamelsaus, geliefd in Griekenland.",
+  "afbeelding": "images/recepten/MoussakaAI.png",
+  "url": "recepten.html?id=moussaka",
+  "volgorde": 77,
+  "regioVolgorde": {
+    "mediterraans": 1
+  }
+}

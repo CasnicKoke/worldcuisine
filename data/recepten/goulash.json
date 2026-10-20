@@ -1,0 +1,14 @@
+{
+  "sleutel": "goulash",
+  "regios": [
+    "oost-centraal-europa"
+  ],
+  "titel": "Goulash",
+  "korteBeschrijving": "Stevige stoofschotel met rundvlees, paprika, ui en specerijen uit Midden- en Oost-Europa.",
+  "afbeelding": "images/recepten/GoulashAI.png",
+  "url": "recepten.html?id=goulash",
+  "volgorde": 56,
+  "regioVolgorde": {
+    "oost-centraal-europa": 0
+  }
+}

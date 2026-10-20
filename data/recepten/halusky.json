@@ -1,0 +1,14 @@
+{
+  "sleutel": "halusky",
+  "regios": [
+    "oost-centraal-europa"
+  ],
+  "titel": "Halušky",
+  "korteBeschrijving": "Zachte Slowaakse deeggnocchi, vaak geserveerd met schapenkaas en spek.",
+  "afbeelding": "images/recepten/HaluskyAI.png",
+  "url": "recepten.html?id=halusky",
+  "volgorde": 59,
+  "regioVolgorde": {
+    "oost-centraal-europa": 3
+  }
+}

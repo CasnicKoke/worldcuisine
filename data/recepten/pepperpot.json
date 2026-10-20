@@ -1,0 +1,14 @@
+{
+  "sleutel": "pepperpot",
+  "regios": [
+    "amazone-guyanas"
+  ],
+  "titel": "Pepperpot",
+  "korteBeschrijving": "Guyanees vleesgerecht, langzaam gestoofd met cassareep, specerijen en warme aromatische smaken.",
+  "afbeelding": "images/recepten/PepperpotAI.png",
+  "url": "recepten.html?id=pepperpot",
+  "volgorde": 139,
+  "regioVolgorde": {
+    "amazone-guyanas": 0
+  }
+}

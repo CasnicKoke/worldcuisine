@@ -1,0 +1,14 @@
+{
+  "sleutel": "llapingachos",
+  "regios": [
+    "andes"
+  ],
+  "titel": "Llapingachos",
+  "korteBeschrijving": "Ecuadoriaanse aardappelkoekjes gevuld met kaas en goudbruin gebakken.",
+  "afbeelding": "images/recepten/LlapingachosAI.png",
+  "url": "recepten.html?id=llapingachos",
+  "volgorde": 133,
+  "regioVolgorde": {
+    "andes": 2
+  }
+}

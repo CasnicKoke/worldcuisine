@@ -1,0 +1,14 @@
+{
+  "sleutel": "smorrebrod",
+  "regios": [
+    "scandinavie"
+  ],
+  "titel": "Smørrebrød",
+  "korteBeschrijving": "Deens open roggebrood, rijk belegd met vis, vlees, ei of groenten.",
+  "afbeelding": "images/recepten/SmorrebrodAI.png",
+  "url": "recepten.html?id=smorrebrod",
+  "volgorde": 62,
+  "regioVolgorde": {
+    "scandinavie": 2
+  }
+}

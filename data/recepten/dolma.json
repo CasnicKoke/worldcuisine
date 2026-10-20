@@ -1,0 +1,14 @@
+{
+  "sleutel": "dolma",
+  "regios": [
+    "kaukasus"
+  ],
+  "titel": "Dolma",
+  "korteBeschrijving": "Gevulde wijnbladeren of groenten met rijst, kruiden en soms vlees.",
+  "afbeelding": "images/recepten/DolmaAI.png",
+  "url": "recepten.html?id=dolma",
+  "volgorde": 34,
+  "regioVolgorde": {
+    "kaukasus": 2
+  }
+}

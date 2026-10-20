@@ -1,0 +1,14 @@
+{
+  "sleutel": "bunnyChow",
+  "regios": [
+    "zuidelijk-afrika"
+  ],
+  "titel": "Bunny Chow",
+  "korteBeschrijving": "Uitgehold brood gevuld met kruidige curry, ontstaan in de Zuid-Afrikaanse Indiase gemeenschap.",
+  "afbeelding": "images/recepten/BunnyChowAI.png",
+  "url": "recepten.html?id=bunnyChow",
+  "volgorde": 116,
+  "regioVolgorde": {
+    "zuidelijk-afrika": 1
+  }
+}

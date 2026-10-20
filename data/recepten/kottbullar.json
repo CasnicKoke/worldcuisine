@@ -1,0 +1,14 @@
+{
+  "sleutel": "kottbullar",
+  "regios": [
+    "scandinavie"
+  ],
+  "titel": "Köttbullar",
+  "korteBeschrijving": "Zweedse gehaktballetjes, traditioneel geserveerd met jus, aardappelpuree en vossenbessen.",
+  "afbeelding": "images/recepten/KottbullarAI.png",
+  "url": "recepten.html?id=kottbullar",
+  "volgorde": 61,
+  "regioVolgorde": {
+    "scandinavie": 1
+  }
+}

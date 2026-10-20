@@ -1,0 +1,14 @@
+{
+  "sleutel": "poissonCru",
+  "regios": [
+    "polynesie"
+  ],
+  "titel": "Poisson Cru",
+  "korteBeschrijving": "Tahitiaans gerecht van rauwe vis gemarineerd met limoen en kokosmelk, met frisse groenten.",
+  "afbeelding": "images/recepten/PoissonCruAI.png",
+  "url": "recepten.html?id=poissonCru",
+  "volgorde": 158,
+  "regioVolgorde": {
+    "polynesie": 0
+  }
+}

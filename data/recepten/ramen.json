@@ -1,0 +1,14 @@
+{
+  "sleutel": "ramen",
+  "regios": [
+    "japan"
+  ],
+  "titel": "Ramen",
+  "korteBeschrijving": "Japanse noedelsoep met rijke bouillon en diverse toppings.",
+  "afbeelding": "images/recepten/RamenAI.png",
+  "url": "recepten.html?id=ramen",
+  "volgorde": 13,
+  "regioVolgorde": {
+    "japan": 1
+  }
+}

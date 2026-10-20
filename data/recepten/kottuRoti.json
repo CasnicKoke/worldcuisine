@@ -1,0 +1,14 @@
+{
+  "sleutel": "kottuRoti",
+  "regios": [
+    "zuid-aziatisch"
+  ],
+  "titel": "Kottu Roti",
+  "korteBeschrijving": "Sri Lankaanse roerbakschotel van fijngehakte roti, groenten, ei en kruidige smaakmakers.",
+  "afbeelding": "images/recepten/KottuRotiAI.png",
+  "url": "recepten.html?id=kottuRoti",
+  "volgorde": 31,
+  "regioVolgorde": {
+    "zuid-aziatisch": 3
+  }
+}

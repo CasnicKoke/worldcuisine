@@ -1,0 +1,14 @@
+{
+  "sleutel": "nyamaChoma",
+  "regios": [
+    "oost-afrika"
+  ],
+  "titel": "Nyama Choma",
+  "korteBeschrijving": "Gegrild vlees, vooral geit of rund, simpel gekruid en populair in Oost-Afrika.",
+  "afbeelding": "images/recepten/NyamaChomaAI.png",
+  "url": "recepten.html?id=nyamaChoma",
+  "volgorde": 112,
+  "regioVolgorde": {
+    "oost-afrika": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "sleutel": "tajine",
+  "regios": [
+    "maghreb"
+  ],
+  "titel": "Tajine",
+  "korteBeschrijving": "Langzaam gegaarde stoofschotel met vlees of groenten, bereid met geurige specerijen.",
+  "afbeelding": "images/recepten/TajineAI.png",
+  "url": "recepten.html?id=tajine",
+  "volgorde": 89,
+  "regioVolgorde": {
+    "maghreb": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "sleutel": "ackeeSaltfish",
+  "regios": [
+    "caribisch"
+  ],
+  "titel": "Ackee and Saltfish",
+  "korteBeschrijving": "Nationaal Jamaicaans gerecht van ackeevrucht en gezouten kabeljauw, vaak met ui en paprika.",
+  "afbeelding": "images/recepten/AckeeSaltfishAI.png",
+  "url": "recepten.html?id=ackeeSaltfish",
+  "volgorde": 129,
+  "regioVolgorde": {
+    "caribisch": 2
+  }
+}

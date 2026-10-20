@@ -1,0 +1,14 @@
+{
+  "sleutel": "pierogi",
+  "regios": [
+    "oost-centraal-europa"
+  ],
+  "titel": "Pierogi",
+  "korteBeschrijving": "Gevulde deegkussentjes uit Polen, vaak met aardappel, kaas, vlees of zuurkool.",
+  "afbeelding": "images/recepten/PierogiAI.png",
+  "url": "recepten.html?id=pierogi",
+  "volgorde": 57,
+  "regioVolgorde": {
+    "oost-centraal-europa": 1
+  }
+}

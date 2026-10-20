@@ -1,0 +1,14 @@
+{
+  "sleutel": "lasagne",
+  "regios": [
+    "mediterraans"
+  ],
+  "titel": "Lasagne",
+  "korteBeschrijving": "Gelaagde pastaschotel met saus, kaas en vaak ragù of groenten.",
+  "afbeelding": "images/recepten/LasagneAI.png",
+  "url": "recepten.html?id=lasagne",
+  "volgorde": 78,
+  "regioVolgorde": {
+    "mediterraans": 2
+  }
+}

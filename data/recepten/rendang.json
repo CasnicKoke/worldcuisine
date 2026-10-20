@@ -1,0 +1,28 @@
+{
+  "sleutel": "rendang",
+  "regios": [
+    "maleis-indonesisch"
+  ],
+  "id": 1,
+  "titel": "Rendang",
+  "afbeelding": "images/recepten/RendangAI.png",
+  "korteBeschrijving": "Langzaam gegaard rundvlees in kokos en specerijen.",
+  "beschrijving": "Rendang is een traditioneel gerecht uit West-Sumatra dat urenlang wordt gestoofd in kokosmelk en specerijen.",
+  "ingredienten": [
+    "1 kg rundvlees",
+    "400 ml kokosmelk",
+    "3 sjalotten",
+    "2 tenen knoflook"
+  ],
+  "bereiding": [
+    "Snijd het rundvlees in blokjes.",
+    "Maak een kruidenpasta.",
+    "Voeg kokosmelk toe.",
+    "Laat 3 uur sudderen."
+  ],
+  "url": "recepten.html?id=rendang",
+  "volgorde": 0,
+  "regioVolgorde": {
+    "maleis-indonesisch": 3
+  }
+}

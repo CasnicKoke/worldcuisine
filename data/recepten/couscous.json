@@ -1,0 +1,14 @@
+{
+  "sleutel": "couscous",
+  "regios": [
+    "maghreb"
+  ],
+  "titel": "Couscous",
+  "korteBeschrijving": "Gestoomde grieskorrels, traditioneel geserveerd met groenten, kikkererwten en vlees.",
+  "afbeelding": "images/recepten/CouscousAI.png",
+  "url": "recepten.html?id=couscous",
+  "volgorde": 88,
+  "regioVolgorde": {
+    "maghreb": 0
+  }
+}

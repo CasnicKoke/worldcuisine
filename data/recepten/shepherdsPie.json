@@ -1,0 +1,14 @@
+{
+  "sleutel": "shepherdsPie",
+  "regios": [
+    "britse-eilanden"
+  ],
+  "titel": "Shepherd’s Pie",
+  "korteBeschrijving": "Ovenschotel met gehakt en groenten, afgedekt met een laag romige aardappelpuree.",
+  "afbeelding": "images/recepten/ShepherdsPieAI.png",
+  "url": "recepten.html?id=shepherdsPie",
+  "volgorde": 65,
+  "regioVolgorde": {
+    "britse-eilanden": 1
+  }
+}

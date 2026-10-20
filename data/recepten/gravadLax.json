@@ -1,0 +1,14 @@
+{
+  "sleutel": "gravadLax",
+  "regios": [
+    "scandinavie"
+  ],
+  "titel": "Gravad Lax",
+  "korteBeschrijving": "Dun gesneden zalm, gepekeld met zout, suiker en dille, vaak geserveerd met mosterdsaus.",
+  "afbeelding": "images/recepten/GravadLaxAI.png",
+  "url": "recepten.html?id=gravadLax",
+  "volgorde": 60,
+  "regioVolgorde": {
+    "scandinavie": 0
+  }
+}

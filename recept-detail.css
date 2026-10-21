@@ -1,53 +1,690 @@
-/* WorldCuisine — individuele recepten, zelfstandig naast worldmap.css */
-:root { --ink:#3a2419; --soft:#705847; --terracotta:#8e351f; --edge:#aa8251; }
-* { box-sizing:border-box; }
-html { scroll-behavior:smooth; }
+/* ==========================================================
+   WORLD CUISINE — RECEPTPAGINA
+   Gelijke perkamentbasis als worldmap.css.
+   Botanische zijaccenten blijven behouden.
+   ========================================================== */
+
+/* WORLD CUISINE — Receptpagina | editorial atlas ontwerp
+   De CSS staat los van worldmap.css en verandert de interactieve kaart niet. */
+
+:root {
+    --ink: #352015;
+    --soft: #604431;
+    --rust: #913a24;
+    --rule: rgba(110,68,38,.34);
+    --paper: #f1d4a1;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* ==========================================================
+   PERKAMENT — dezelfde opbouw als de atlas-homepage
+   1. Warme verlooplaag uit .atlas-page
+   2. Extra textuur uit .atlas-page::after
+   De originele botanische body::before/::after blijven vrij.
+   ========================================================== */
+
 body {
-  margin:0; color:var(--ink); font-family:Arial,Helvetica,sans-serif;
-  background-color:#e9cf9f;
-  background-image:linear-gradient(rgba(242,220,179,.55),rgba(242,220,179,.55)),url('images/parchment-texture.png');
-  background-size:auto, 1100px auto;
+    margin: 0;
+    min-height: 100vh;
+    color: var(--ink);
+    font-family: Georgia, "Times New Roman", serif;
+    background-color: #eed6aa;
+    background-image: linear-gradient(
+        110deg,
+        #f2deb8 0%,
+        #eace9e 53%,
+        #f0d9ac 100%
+    );
+    background-position: center;
+    background-repeat: no-repeat;
 }
-.recipe-page { min-height:100vh; max-width:1180px; margin:auto; padding:0 clamp(18px,5vw,66px) 24px; }
-.recipe-topbar { display:flex; align-items:center; justify-content:space-between; gap:18px; border-bottom:1px solid rgba(98,66,39,.28); padding:22px 0; }
-.brand { display:flex; align-items:center; gap:10px; font:700 14px/.96 Georgia,serif; letter-spacing:.07em; text-decoration:none; color:var(--ink); }
-.brand-symbol { display:grid;place-items:center;border:1px solid rgba(142,53,31,.48);border-radius:50%;width:39px;height:39px;font-size:23px;color:var(--terracotta); }
-.back-link { font-size:.9rem; color:var(--terracotta); text-decoration:none; font-weight:700; }
-.back-link:hover { text-decoration:underline; }
-.recipe-main { max-width:920px; margin:42px auto 60px; }
-.recipe-article { padding:0; }
-.recipe-hero-image { display:block;width:100%;height:clamp(240px,39vw,445px);object-fit:cover;border:7px solid rgba(252,239,214,.8);box-shadow:0 14px 34px rgba(67,40,20,.16); }
-.recipe-intro { max-width:730px; margin:32px 0 22px; }
-.recipe-kicker { color:var(--terracotta);font-size:.76rem;font-weight:700;letter-spacing:.17em;margin:0 0 12px; }
-.recipe-title { font:600 clamp(2.6rem,5vw,4.2rem)/1.04 Georgia,'Times New Roman',serif;margin:0 0 14px; }
-.recipe-description { font-size:1.075rem;line-height:1.72;color:var(--soft);margin:0; }
-.recipe-meta { display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;border-top:1px solid rgba(94,61,35,.22);border-bottom:1px solid rgba(94,61,35,.22);margin:28px 0 39px;padding:18px 0; }
-.recipe-meta-item { display:flex;flex-direction:column;gap:7px; }
-.recipe-meta-label { font-size:.76rem;text-transform:uppercase;letter-spacing:.1em;color:var(--soft); }
-.recipe-meta-value { font:600 1.2rem Georgia,serif; }
-.recipe-section { max-width:790px;margin:0 0 38px; }
-.recipe-section h2 { font:600 clamp(1.7rem,3vw,2.1rem) Georgia,serif;margin:0 0 18px; }
-.ingredients-list { list-style:none;margin:0;padding:0;columns:2;column-gap:45px; }
-.ingredients-list li { break-inside:avoid;padding:9px 0;border-bottom:1px solid rgba(109,79,53,.16);line-height:1.5; }
-.steps-list { margin:0;padding-left:1.7rem; }
-.steps-list li { padding:0 0 17px 10px;line-height:1.7; }
-.steps-list li::marker { font-family:Georgia,serif;font-weight:bold;color:var(--terracotta); }
-.missing-data { color:var(--soft);font-style:italic; }
-.recipe-source { max-width:790px;border-top:1px solid rgba(94,61,35,.25);margin:50px 0 0;padding:20px 0;color:var(--soft);font:italic .91rem/1.6 Georgia,serif; }
-.recipe-source a { color:var(--terracotta); }
-.recipe-footer { border-top:1px solid rgba(94,61,35,.2);padding:20px 0 6px;text-align:center;font:italic .85rem Georgia,serif;color:var(--soft); }
-.error-title { font:600 2.3rem Georgia,serif; }
-.error-body,.loading { color:var(--soft);line-height:1.7; }
-@media (max-width:700px) {
-  .recipe-main { margin:25px auto 45px; }
-  .recipe-hero-image { height:250px;border-width:5px; }
-  .recipe-meta { gap:8px; }
-  .recipe-meta-value { font-size:1.06rem; }
-  .ingredients-list { columns:1; }
+
+/* ==========================================================
+   BOTANISCHE HOEKILLUSTRATIES
+   ========================================================== */
+
+body::before,
+body::after {
+    content: "";
+    position: absolute;
+    width: clamp(220px, 23vw, 390px);
+    height: 440px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    opacity: 1;
+    filter: sepia(0.15) contrast(1.20) saturate(0.95);
+    pointer-events: none;
+    z-index: 5;
 }
-@media (max-width:440px) {
-  .recipe-topbar { align-items:flex-start; }
-  .back-link { font-size:.8rem;max-width:145px;text-align:right; }
-  .recipe-meta-label { font-size:.65rem; }
-  .recipe-meta-value { font-size:.92rem; }
+
+body::before {
+    top: -30px;
+    left: -25px;
+    background-image: url("images/corner-top-left.png");
+}
+
+body::after {
+    top: -30px;
+    right: -25px;
+    background-image: url("images/corner-top-right.png");
+}
+
+/* Op kleine schermen minder decoratie */
+
+@media (max-width: 760px) {
+    body::before,
+    body::after {
+        display: none;
+    }
+}
+
+.recipe-page {
+    position: relative;
+    z-index: 1;
+    min-height: 100vh;
+    width: min(1100px,100%);
+    padding: 0 clamp(20px,3vw,38px) 30px;
+    margin: auto;
+}
+
+/* Extra perkamenttextuur over de hele viewport, achter de inhoud. */
+
+.recipe-page::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    pointer-events: none;
+    background-image: linear-gradient(
+            rgba(239, 214, 170, 0.16),
+            rgba(220, 184, 128, 0.10)
+        ),
+        url("images/parchment-texture.png");
+    background-size: auto, 1100px auto;
+    background-position: center, center;
+    background-repeat: no-repeat, repeat;
+    opacity: 0.34;
+    mix-blend-mode: multiply;
+    box-shadow: inset 0 0 85px rgba(91, 54, 24, 0.10);
+}
+
+.recipe-topbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 18px;
+    padding: 14px 0 13px;
+    border-bottom: 1px solid var(--rule);
+}
+
+.brand {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    color: var(--ink);
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: .94;
+    letter-spacing: .07em;
+}
+
+.brand-symbol {
+    display: grid;
+    place-items: center;
+    border: 1px solid #9f6445;
+    color: var(--rust);
+    border-radius: 50%;
+    height: 37px;
+    width: 37px;
+    font-size: 23px;
+}
+
+.back-link {
+    font-family: Arial,Helvetica,sans-serif;
+    color: var(--rust);
+    font-size: .85rem;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.back-link:hover {
+    text-decoration: underline;
+}
+
+.recipe-main {
+    margin: 18px auto 40px;
+    max-width: 970px;
+}
+
+.recipe-article {
+    min-width: 0;
+}
+
+.recipe-hero-image {
+    display: block;
+    width: 100%;
+    height: clamp(190px,22vw,255px);
+    object-fit: cover;
+    object-position: center 50%;
+    border: 7px solid rgba(255,244,221,.86);
+    box-shadow: 0 5px 22px rgba(100,58,27,.18);
+}
+
+.recipe-intro {
+    max-width: 900px;
+    margin: 20px 8px 18px;
+}
+
+.recipe-kicker {
+    font-family: Arial,Helvetica,sans-serif;
+    color: var(--rust);
+    font-size: .75rem;
+    font-weight: 700;
+    letter-spacing: .13em;
+    text-transform: uppercase;
+    margin: 0 0 5px;
+}
+
+.recipe-title {
+    font-size: clamp(2.9rem,5.7vw,4.5rem);
+    font-weight: 700;
+    line-height: 1.01;
+    letter-spacing: -.035em;
+    margin: 0 0 8px;
+}
+
+.recipe-description {
+    font-size: 1.03rem;
+    line-height: 1.5;
+    margin: 0;
+    max-width: 810px;
+    color: #432b20;
+}
+
+.recipe-meta {
+    display: grid;
+    grid-template-columns: repeat(3,minmax(0,1fr));
+    margin: 18px 0 24px;
+    padding: 14px 0 17px;
+    border-bottom: 1px solid var(--rule);
+    border-top: 1px solid var(--rule);
+    gap: 0;
+}
+
+.recipe-meta-item {
+    display: flex;
+    align-items: center;
+    gap: 13px;
+    min-width: 0;
+    padding: 0 18px;
+    border-right: 1px solid var(--rule);
+}
+
+.recipe-meta-item:first-child {
+    padding-left: 8px;
+}
+
+.recipe-meta-item:last-child {
+    border-right: 0;
+}
+
+.recipe-meta-icon {
+    font-family: Arial,Helvetica,sans-serif;
+    color: var(--rust);
+    font-size: 28px;
+    flex: none;
+    line-height: 1;
+}
+
+.recipe-meta-copy {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+
+.recipe-meta-label {
+    font-weight: 700;
+    font-size: .94rem;
+    line-height: 1.2;
+}
+
+.recipe-meta-value {
+    font-size: .9rem;
+    font-weight: 400;
+    color: var(--soft);
+    line-height: 1.2;
+}
+
+/* Vaste twee kolommen, met de bereidingswijze nadrukkelijk breder */
+
+.recipe-columns {
+    display: grid;
+    grid-template-columns: minmax(0,0.88fr) minmax(0,1.25fr);
+    align-items: start;
+    gap: 34px;
+    margin: 0 0 22px;
+}
+
+.recipe-section {
+    min-width: 0;
+    margin: 0;
+}
+
+.recipe-section h2 {
+    font-size: clamp(1.5rem,2.35vw,2rem);
+    margin: 0 0 9px;
+    line-height: 1.18;
+}
+
+.recipe-ingredients {
+    padding: 16px 20px 24px;
+    background: rgba(255,246,225,.47);
+    box-shadow: 0 5px 22px rgba(108,69,31,.11),inset 0 0 22px rgba(255,242,212,.18);
+    border: 1px solid rgba(113,74,43,.23);
+    position: relative;
+}
+
+/* ----------------------------------------------------------
+   Gravure: vijzel met kruiden
+   ---------------------------------------------------------- */
+
+.recipe-ingredients {
+    position: relative;
+    isolation: isolate;
+    z-index: 2;
+}
+
+.recipe-ingredients::after {
+    content: "";
+    position: absolute;
+    right: 8px;
+    bottom: 8px;
+    width: 165px;
+    height: 165px;
+    background-image: url("images/gravure-vijzel-kruiden.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    opacity: 0.18;
+    mix-blend-mode: multiply;
+    pointer-events: none;
+    z-index: -1;
+}
+
+.recipe-serving-note {
+    margin: 0 0 12px;
+    color: var(--rust);
+    font-size: .89rem;
+}
+
+.ingredients-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    columns: 1;
+    font-size: .93rem;
+}
+
+.ingredients-list li {
+    break-inside: avoid;
+    padding: 5px 0;
+    border-bottom: 1px dotted rgba(111,77,47,.33);
+    line-height: 1.4;
+}
+
+.recipe-method {
+    padding: 16px 0 0;
+}
+
+/* ----------------------------------------------------------
+   Gravure: botanische kruidentak
+   ---------------------------------------------------------- */
+
+.recipe-method {
+    position: relative;
+}
+
+/* ----------------------------------------------------------
+   Gravure: botanische kruidentak
+   ---------------------------------------------------------- */
+
+.recipe-method {
+    position: relative;
+    isolation: isolate;
+}
+
+.recipe-method::after {
+    content: "";
+    position: absolute;
+    right: -150px;
+    top: 150px;
+    width: 175px;
+    height: 260px;
+    background-image: url("images/gravure-kruidentak.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    opacity: 0.28;
+    filter: sepia(0.5) saturate(0.7) contrast(1.35);
+    mix-blend-mode: multiply;
+    pointer-events: none;
+    z-index: -1;
+}
+
+.steps-list {
+    counter-reset: steps;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.steps-list li {
+    counter-increment: steps;
+    display: grid;
+    grid-template-columns: 26px minmax(0,1fr);
+    gap: 10px;
+    align-items: start;
+    padding: 0 0 13px;
+    font-size: .94rem;
+    line-height: 1.42;
+}
+
+.steps-list li::before {
+    content: counter(steps);
+    display: grid;
+    place-items: center;
+    background: var(--rust);
+    color: #fff5dc;
+    border-radius: 50%;
+    width: 23px;
+    height: 23px;
+    font: bold 13px Georgia,serif;
+    line-height: 1;
+}
+
+.missing-data {
+    font-style: italic;
+    color: var(--soft);
+    line-height: 1.6;
+}
+
+.recipe-source {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    margin: 12px 0 0;
+    padding: 17px 0 0;
+    border-top: 1px solid var(--rule);
+    font: italic .9rem/1.5 Georgia,serif;
+    color: #69452f;
+}
+
+.recipe-source::before {
+    content: "✧";
+    font-size: 24px;
+    line-height: 1;
+    color: var(--rust);
+    flex: none;
+}
+
+.recipe-source a {
+    color: var(--rust);
+}
+
+.recipe-footer {
+    text-align: center;
+    border-top: 1px solid var(--rule);
+    padding: 16px 0 6px;
+    font: italic .83rem Georgia,serif;
+    color: #6c4a36;
+}
+
+/* ----------------------------------------------------------
+   Gravure: specerijenkom linksonder
+   ---------------------------------------------------------- */
+
+.recipe-footer {
+    position: relative;
+}
+
+.recipe-footer::after {
+    content: "";
+    position: absolute;
+    left: -210px;
+    right: auto;
+    bottom: -75px;
+    width: 185px;
+    height: 185px;
+    background-image: url("images/gravure-specerijenkom.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    opacity: 0.42;
+    /*    filter: sepia(0.15) saturate(0.85) contrast(1.45);
+*/
+    mix-blend-mode: multiply;
+    pointer-events: none;
+    z-index: 1;
+}
+
+.error-title {
+    font-size: 2rem;
+}
+
+.error-body,
+.loading {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: var(--soft);
+}
+
+@media (max-width:760px) {
+    body::before,
+    body::after {
+        display: none;
+    }
+
+    .recipe-page {
+        padding-inline: 18px;
+    }
+
+    .recipe-main {
+        margin-top: 17px;
+    }
+
+    .recipe-hero-image {
+        height: clamp(200px,36vw,275px);
+    }
+
+    .recipe-columns {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+
+    .recipe-ingredients {
+        padding: 18px 22px;
+    }
+
+    .recipe-method {
+        padding: 4px 4px 0;
+    }
+
+    .recipe-meta-item {
+        padding: 0 10px;
+        gap: 7px;
+    }
+
+    .recipe-meta-icon {
+        font-size: 23px;
+    }
+
+    .recipe-meta-label {
+        font-size: .82rem;
+    }
+
+    .recipe-meta-value {
+        font-size: .78rem;
+    }
+}
+
+@media (max-width:480px) {
+    .recipe-topbar {
+        align-items: center;
+    }
+
+    .back-link {
+        font-size: .73rem;
+    }
+
+    .recipe-title {
+        font-size: 2.8rem;
+    }
+
+    .recipe-meta {
+        gap: 8px;
+    }
+
+    .recipe-meta-item {
+        flex-direction: column;
+        text-align: center;
+        padding: 0 4px;
+        gap: 3px;
+    }
+
+    .recipe-meta-label {
+        font-size: .72rem;
+    }
+
+    .recipe-meta-value {
+        font-size: .73rem;
+    }
+
+    .recipe-hero-image {
+        height: 210px;
+        border-width: 5px;
+    }
+
+    .recipe-description {
+        font-size: .98rem;
+    }
+}
+
+/* ==========================================================
+   DECORATIEVE PAGINARAND
+   ========================================================== */
+
+.recipe-page {
+    border-left: 1px solid rgba(100, 65, 38, 0.30);
+    border-right: 1px solid rgba(100, 65, 38, 0.30);
+    box-shadow: inset 12px 0 0 -11px rgba(100, 65, 38, 0.18),
+        inset -12px 0 0 -11px rgba(100, 65, 38, 0.18);
+}
+
+@media (max-width: 760px) {
+    .recipe-page {
+        border-left: none;
+        border-right: none;
+        box-shadow: none;
+    }
+}
+
+/* ==========================================================
+   ATLASDECORATIES — SCHEPEN EN KOMPASROOS
+   Aparte HTML-elementen, zodat .recipe-page::before gereserveerd
+   blijft voor het perkament.
+   De schepen hebben hun oorspronkelijke zijden verwisseld.
+   ========================================================== */
+
+.recipe-atlas-decor {
+    position: absolute;
+    display: block;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    mix-blend-mode: multiply;
+    pointer-events: none;
+    user-select: none;
+    z-index: 1;
+}
+
+/* Links: het eerder rechts geplaatste, gespiegelde schip. */
+
+.recipe-ship-left {
+    left: -220px;
+    top: 270px;
+    width: 190px;
+    height: 190px;
+    background-image: url("images/gravure-zeilschip.png");
+    transform: scaleX(-1);
+    opacity: 0.28;
+}
+
+/* Rechts: het eerder links geplaatste, ongespiegelde schip. */
+
+.recipe-ship-right {
+    right: -280px;
+    top: 270px;
+    width: 275px;
+    height: 275px;
+    background-image: url("images/gravure-zeilschip.png");
+    opacity: 0.32;
+}
+
+/* ==========================================================
+   ATLASDECORATIE — KOMPASROOS
+   ========================================================== */
+
+.recipe-compass {
+    position: absolute;
+    left: -200px;
+    top: 650px;
+    width: 410px;
+    height: 410px;
+    background: url("images/gravure-kompas.png")
+        center / contain no-repeat;
+    opacity: 0.23;
+    transform: rotate(20deg);
+    transform-origin: center;
+    mix-blend-mode: multiply;
+    pointer-events: none;
+    z-index: 0;
+}
+
+/* ----------------------------------------------------------
+   Geen gravures op tablet en mobiel
+   ---------------------------------------------------------- */
+
+@media (max-width: 900px) {
+    .recipe-method::after,
+    .recipe-footer::after {
+        display: none;
+    }
+
+    .recipe-ingredients::after {
+        width: 125px;
+        height: 125px;
+        opacity: 0.12;
+    }
+}
+
+@media (max-width: 1100px) {
+    .recipe-atlas-decor {
+        display: none;
+    }
+}
+
+/* Overbodige decoraties verbergen */
+
+.recipe-ship-left,
+.recipe-footer::after,
+.recipe-method::after {
+    display: none;
 }

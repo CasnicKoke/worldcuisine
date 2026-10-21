@@ -1,0 +1,15 @@
+WORLD CUISINE — receptpagina V2
+
+Vervang in de hoofdmap van WorldCuisine:
+- recepten.html
+- recept.js
+- recept-detail.css
+
+De bestaande data/recepten/*.json, afbeeldingen, worldmap.html en de overige code blijven ongewijzigd.
+
+Test via Live Server, bijvoorbeeld /recepten.html?id=rendang.
+
+De bron, bereidingstijd en moeilijkheid verschijnen pas als ze in het JSON-bestand zijn ingevuld.
+Er is geen verzonnen bron en er zijn geen nieuwe recepten toegevoegd.
+
+De afbeelding-impressie is een ontwerpdoel, geen exacte browserrendering; controleer na installatie de responsieve lay-out.

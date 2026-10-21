@@ -2,8 +2,8 @@
   "schemaVersie": 1,
   "recepten": {
     "rendang": {
-      "titel": "Rendang",
-      "korteBeschrijving": "Langzaam gegaard rundvlees in kokos en specerijen.",
+      "titel": "Rendang daging sapi",
+      "korteBeschrijving": "Langzaam gestoofde sukadelappen met geroosterde kokos, kemirinoten en specerijen.",
       "afbeelding": "images/recepten/RendangAI.png",
       "url": "recepten.html?id=rendang",
       "regios": [

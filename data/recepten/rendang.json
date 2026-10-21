@@ -4,21 +4,37 @@
     "maleis-indonesisch"
   ],
   "id": 1,
-  "titel": "Rendang",
+  "titel": "Rendang daging sapi",
   "afbeelding": "images/recepten/RendangAI.png",
-  "korteBeschrijving": "Langzaam gegaard rundvlees in kokos en specerijen.",
-  "beschrijving": "Rendang is een traditioneel gerecht uit West-Sumatra dat urenlang wordt gestoofd in kokosmelk en specerijen.",
+  "korteBeschrijving": "Langzaam gestoofde sukadelappen met geroosterde kokos, kemirinoten en specerijen.",
+  "beschrijving": "Een rijk gekruid Indonesisch stoofgerecht met sukadelappen, geroosterde kokos, kemirinoten en aromatische kruiden. Door het vlees langzaam te laten garen ontstaat een volle, geconcentreerde saus.",
   "ingredienten": [
-    "1 kg rundvlees",
-    "400 ml kokosmelk",
-    "3 sjalotten",
-    "2 tenen knoflook"
+    "600 g sukadelappen, in blokjes van 2–3 cm",
+    "3 el ongezoete geraspte kokos",
+    "2–3 kemirinoten",
+    "2 el sambal oelek",
+    "1 grote ui, fijngesneden",
+    "2 tenen knoflook",
+    "1 tl gemalen koriander",
+    "2 el zonnebloemolie",
+    "2 cm verse laoswortel, in plakjes",
+    "2 Indonesische laurierbladeren",
+    "2 stengels citroengras, gekneusd",
+    "2 cm verse gemberwortel, in plakjes",
+    "3 kaffirlimoenblaadjes",
+    "30 g santen (geconcentreerde kokos)",
+    "zout, naar smaak",
+    "lauwwarm water, naar behoefte",
+    "Voor erbij: gestoomde rijst, komkommer, atjar en cassavekroepoek"
   ],
   "bereiding": [
-    "Snijd het rundvlees in blokjes.",
-    "Maak een kruidenpasta.",
-    "Voeg kokosmelk toe.",
-    "Laat 3 uur sudderen."
+    "Rooster de geraspte kokos en de kemirinoten in een droge koekenpan op middelhoog vuur tot ze lichtbruin kleuren en geuren. Laat afkoelen en maal ze fijn in de keukenmachine. Zet apart.",
+    "Maal de ui, knoflook, sambal oelek en koriander in de keukenmachine tot een samenhangende kruidenpasta.",
+    "Verhit de zonnebloemolie in een braadpan en fruit de kruidenpasta enkele minuten. Voeg de laos, Indonesische laurierbladeren, het gekneusde citroengras, de gember en kaffirlimoenblaadjes toe. Roer het geroosterde kokos-kemirimengsel erdoor.",
+    "Voeg de blokjes sukadelap toe en schep ze door de kruidenpasta. Bak het vlees al omscheppend even aan. Schenk er zoveel lauwwarm water bij dat het vlees net onderstaat.",
+    "Roer de santen door het vocht en breng op smaak met zout. Leg de deksel op de pan en laat het vlees op laag vuur 2–3 uur zachtjes stoven tot het mals is. Controleer af en toe het vocht en voeg zo nodig een beetje water toe.",
+    "Haal aan het einde de deksel van de pan en laat de saus rustig inkoken tot hij dik is en goed aan het vlees hecht. Roer regelmatig zodat de saus niet aanbrandt.",
+    "Verwijder de grote stukken citroengras en de bladeren. Serveer met gestoomde rijst, komkommer, atjar en cassavekroepoek."
   ],
   "url": "recepten.html?id=rendang",
   "volgorde": 0,
@@ -26,12 +42,13 @@
     "maleis-indonesisch": 3
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
+  "bereidingstijdMinuten": 210,
+  "moeilijkheid": "Moeilijk",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
+    "receptTitel": "Rendang daging sapi",
+    "auteur": "Francis Cuijk",
+    "kookboek": "Basisboek Indonesisch (2019)",
+    "jaar": 2019,
     "url": null
   }
 }

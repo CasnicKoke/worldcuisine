@@ -79,13 +79,19 @@ function toonRecept(data) {
   gegevens.forEach(([label, waarde]) => {
     if (!isAanwezig(waarde)) return;
     const blok = element('div', 'recipe-meta-item');
-    blok.append(element('span', 'recipe-meta-label', label), element('strong', 'recipe-meta-value', waarde));
+    const iconen = {'Bereidingstijd':'◷', 'Porties':'♟', 'Moeilijkheid':'♧'};
+    blok.append(element('span', 'recipe-meta-icon', iconen[label] || '✧'));
+    const tekst = element('div', 'recipe-meta-copy');
+    tekst.append(element('strong', 'recipe-meta-label', label), element('span', 'recipe-meta-value', waarde));
+    blok.append(tekst);
     meta.append(blok);
   });
   if (meta.children.length) artikel.append(meta);
 
-  const ingredientenSectie = element('section', 'recipe-section');
+  const kolommen = element('div', 'recipe-columns');
+  const ingredientenSectie = element('section', 'recipe-section recipe-ingredients');
   ingredientenSectie.append(element('h2', '', 'Ingrediënten'));
+  ingredientenSectie.append(element('p', 'recipe-serving-note', `Voor ${Number.isFinite(data.porties) && data.porties > 0 ? data.porties : 4} personen`));
   const ingredienten = Array.isArray(data.ingredienten) ? data.ingredienten : [];
   if (ingredienten.length) {
     const lijst = element('ul', 'ingredients-list');
@@ -101,9 +107,9 @@ function toonRecept(data) {
   } else {
     ingredientenSectie.append(element('p', 'missing-data', 'De ingrediënten worden nog aangevuld.'));
   }
-  artikel.append(ingredientenSectie);
+  kolommen.append(ingredientenSectie);
 
-  const stappenSectie = element('section', 'recipe-section');
+  const stappenSectie = element('section', 'recipe-section recipe-method');
   stappenSectie.append(element('h2', '', 'Bereidingswijze'));
   const stappen = Array.isArray(data.bereiding) ? data.bereiding : [];
   if (stappen.length) {
@@ -116,7 +122,8 @@ function toonRecept(data) {
   } else {
     stappenSectie.append(element('p', 'missing-data', 'De bereidingsstappen worden nog aangevuld.'));
   }
-  artikel.append(stappenSectie);
+  kolommen.append(stappenSectie);
+  artikel.append(kolommen);
 
   const bron = bronVermelding(data.bron);
   if (bron) artikel.append(bron);

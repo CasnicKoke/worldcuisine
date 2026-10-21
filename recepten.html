@@ -1,23 +1,39 @@
 <!doctype html>
 <html lang="nl">
+
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#e9cd9d">
-  <title>Recept | World Cuisine</title>
-  <link rel="stylesheet" href="recept-detail.css">
-  <script defer src="recept.js"></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#e9cd9d">
+    <title>Recept | World Cuisine</title>
+
+    <link rel="stylesheet" href="recept-detail.css">
+    <script defer src="recept.js"></script>
 </head>
+
 <body>
-  <div class="recipe-page">
-    <header class="recipe-topbar">
-      <a class="brand" href="worldmap.html"><span class="brand-symbol" aria-hidden="true">✦</span><span>WORLD<br>CUISINE</span></a>
-      <a class="back-link" href="worldmap.html" id="backAtlas">← Terug naar de atlas</a>
-    </header>
-    <main id="recept" class="recipe-main" aria-live="polite">
-      <p class="loading">Recept wordt geladen…</p>
-    </main>
-    <footer class="recipe-footer">World Cuisine · Explore · Taste · Discover</footer>
-  </div>
+    <div class="recipe-page">
+        <!-- Atlasgravures: decoratief, niet interactief -->
+        <div class="recipe-atlas-decor recipe-ship-left" aria-hidden="true"></div>
+        <div class="recipe-atlas-decor recipe-ship-right" aria-hidden="true"></div>
+        <div class="recipe-atlas-decor recipe-compass" aria-hidden="true"></div>
+
+        <header class="recipe-topbar">
+            <a class="brand" href="worldmap.html">
+                <span class="brand-symbol" aria-hidden="true">✦</span>
+                <span>WORLD<br>CUISINE</span>
+            </a>
+            <a class="back-link" href="worldmap.html" id="backAtlas">← Terug naar de atlas</a>
+        </header>
+
+        <main id="recept" class="recipe-main" aria-live="polite">
+            <p class="loading">Recept wordt geladen…</p>
+        </main>
+
+        <footer class="recipe-footer">
+            World Cuisine · Explore · Taste · Discover
+        </footer>
+    </div>
 </body>
+
 </html>

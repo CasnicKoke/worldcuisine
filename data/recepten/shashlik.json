@@ -10,5 +10,16 @@
   "volgorde": 27,
   "regioVolgorde": {
     "centraal-aziatisch": 3
+  },
+  "porties": 4,
+  "bereidingstijdMinuten": null,
+  "moeilijkheid": null,
+  "ingredienten": [],
+  "bereiding": [],
+  "bron": {
+    "receptTitel": null,
+    "auteur": null,
+    "kookboek": null,
+    "url": null
   }
 }

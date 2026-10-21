@@ -10,5 +10,16 @@
   "volgorde": 48,
   "regioVolgorde": {
     "arabisch-schiereiland": 0
+  },
+  "porties": 4,
+  "bereidingstijdMinuten": null,
+  "moeilijkheid": null,
+  "ingredienten": [],
+  "bereiding": [],
+  "bron": {
+    "receptTitel": null,
+    "auteur": null,
+    "kookboek": null,
+    "url": null
   }
 }

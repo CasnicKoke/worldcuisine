@@ -10,5 +10,16 @@
   "volgorde": 39,
   "regioVolgorde": {
     "anatolie": 3
+  },
+  "porties": 4,
+  "bereidingstijdMinuten": null,
+  "moeilijkheid": null,
+  "ingredienten": [],
+  "bereiding": [],
+  "bron": {
+    "receptTitel": null,
+    "auteur": null,
+    "kookboek": null,
+    "url": null
   }
 }

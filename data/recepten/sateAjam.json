@@ -14,5 +14,14 @@
   "volgorde": 2,
   "regioVolgorde": {
     "maleis-indonesisch": 1
+  },
+  "porties": 4,
+  "bereidingstijdMinuten": null,
+  "moeilijkheid": null,
+  "bron": {
+    "receptTitel": null,
+    "auteur": null,
+    "kookboek": null,
+    "url": null
   }
 }

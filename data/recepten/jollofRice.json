@@ -12,5 +12,16 @@
   "regioVolgorde": {
     "sahel": 2,
     "west-afrika": 0
+  },
+  "porties": 4,
+  "bereidingstijdMinuten": null,
+  "moeilijkheid": null,
+  "ingredienten": [],
+  "bereiding": [],
+  "bron": {
+    "receptTitel": null,
+    "auteur": null,
+    "kookboek": null,
+    "url": null
   }
 }

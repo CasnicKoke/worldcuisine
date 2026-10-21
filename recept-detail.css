@@ -1,0 +1,53 @@
+/* WorldCuisine — individuele recepten, zelfstandig naast worldmap.css */
+:root { --ink:#3a2419; --soft:#705847; --terracotta:#8e351f; --edge:#aa8251; }
+* { box-sizing:border-box; }
+html { scroll-behavior:smooth; }
+body {
+  margin:0; color:var(--ink); font-family:Arial,Helvetica,sans-serif;
+  background-color:#e9cf9f;
+  background-image:linear-gradient(rgba(242,220,179,.55),rgba(242,220,179,.55)),url('images/parchment-texture.png');
+  background-size:auto, 1100px auto;
+}
+.recipe-page { min-height:100vh; max-width:1180px; margin:auto; padding:0 clamp(18px,5vw,66px) 24px; }
+.recipe-topbar { display:flex; align-items:center; justify-content:space-between; gap:18px; border-bottom:1px solid rgba(98,66,39,.28); padding:22px 0; }
+.brand { display:flex; align-items:center; gap:10px; font:700 14px/.96 Georgia,serif; letter-spacing:.07em; text-decoration:none; color:var(--ink); }
+.brand-symbol { display:grid;place-items:center;border:1px solid rgba(142,53,31,.48);border-radius:50%;width:39px;height:39px;font-size:23px;color:var(--terracotta); }
+.back-link { font-size:.9rem; color:var(--terracotta); text-decoration:none; font-weight:700; }
+.back-link:hover { text-decoration:underline; }
+.recipe-main { max-width:920px; margin:42px auto 60px; }
+.recipe-article { padding:0; }
+.recipe-hero-image { display:block;width:100%;height:clamp(240px,39vw,445px);object-fit:cover;border:7px solid rgba(252,239,214,.8);box-shadow:0 14px 34px rgba(67,40,20,.16); }
+.recipe-intro { max-width:730px; margin:32px 0 22px; }
+.recipe-kicker { color:var(--terracotta);font-size:.76rem;font-weight:700;letter-spacing:.17em;margin:0 0 12px; }
+.recipe-title { font:600 clamp(2.6rem,5vw,4.2rem)/1.04 Georgia,'Times New Roman',serif;margin:0 0 14px; }
+.recipe-description { font-size:1.075rem;line-height:1.72;color:var(--soft);margin:0; }
+.recipe-meta { display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;border-top:1px solid rgba(94,61,35,.22);border-bottom:1px solid rgba(94,61,35,.22);margin:28px 0 39px;padding:18px 0; }
+.recipe-meta-item { display:flex;flex-direction:column;gap:7px; }
+.recipe-meta-label { font-size:.76rem;text-transform:uppercase;letter-spacing:.1em;color:var(--soft); }
+.recipe-meta-value { font:600 1.2rem Georgia,serif; }
+.recipe-section { max-width:790px;margin:0 0 38px; }
+.recipe-section h2 { font:600 clamp(1.7rem,3vw,2.1rem) Georgia,serif;margin:0 0 18px; }
+.ingredients-list { list-style:none;margin:0;padding:0;columns:2;column-gap:45px; }
+.ingredients-list li { break-inside:avoid;padding:9px 0;border-bottom:1px solid rgba(109,79,53,.16);line-height:1.5; }
+.steps-list { margin:0;padding-left:1.7rem; }
+.steps-list li { padding:0 0 17px 10px;line-height:1.7; }
+.steps-list li::marker { font-family:Georgia,serif;font-weight:bold;color:var(--terracotta); }
+.missing-data { color:var(--soft);font-style:italic; }
+.recipe-source { max-width:790px;border-top:1px solid rgba(94,61,35,.25);margin:50px 0 0;padding:20px 0;color:var(--soft);font:italic .91rem/1.6 Georgia,serif; }
+.recipe-source a { color:var(--terracotta); }
+.recipe-footer { border-top:1px solid rgba(94,61,35,.2);padding:20px 0 6px;text-align:center;font:italic .85rem Georgia,serif;color:var(--soft); }
+.error-title { font:600 2.3rem Georgia,serif; }
+.error-body,.loading { color:var(--soft);line-height:1.7; }
+@media (max-width:700px) {
+  .recipe-main { margin:25px auto 45px; }
+  .recipe-hero-image { height:250px;border-width:5px; }
+  .recipe-meta { gap:8px; }
+  .recipe-meta-value { font-size:1.06rem; }
+  .ingredients-list { columns:1; }
+}
+@media (max-width:440px) {
+  .recipe-topbar { align-items:flex-start; }
+  .back-link { font-size:.8rem;max-width:145px;text-align:right; }
+  .recipe-meta-label { font-size:.65rem; }
+  .recipe-meta-value { font-size:.92rem; }
+}

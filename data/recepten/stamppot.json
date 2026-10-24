@@ -3,8 +3,9 @@
   "regios": [
     "germaans"
   ],
-  "titel": "Stamppot",
-  "korteBeschrijving": "Nederlands gerecht van aardappelpuree gemengd met groenten, vaak met rookworst.",
+  "titel": "Hutspot met rookworst",
+  "korteBeschrijving": "Traditionele Nederlandse hutspot met winterpeen, aardappelen, gebakken uien en rookworst.",
+  "beschrijving": "Hutspot is een van de bekendste Nederlandse stamppotten. In deze variant worden aardappelen en winterpeen samen gekookt en met boter, melk, mosterd en nootmuskaat grof gestampt. De uien worden apart goudbruin gebakken en over de hutspot verdeeld. Serveer met rookworst voor een heerlijke, traditionele wintermaaltijd.",
   "afbeelding": "images/recepten/StamppotAI.png",
   "url": "recepten.html?id=stamppot",
   "volgorde": 70,
@@ -12,14 +13,47 @@
     "germaans": 2
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 45,
+  "moeilijkheid": "Makkelijk",
+  "ingredienten": [
+    "1 kg kruimige aardappelen",
+    "750 g winterpeen",
+    "250 g uien",
+    "1 rookworst (ca. 275 g)",
+    "30 g roomboter",
+    "100 ml melk",
+    "2 el mosterd",
+    "½ tl gemalen nootmuskaat",
+    "zout en zwarte peper, naar smaak"
+  ],
+  "bereiding": [
+    "Schil de aardappelen en winterpeen. Snijd de aardappelen en winterpeen in grove stukken en de uien in ringen.",
+    "Doe de aardappelen en winterpeen samen in een grote pan. Voeg water toe tot ze net onderstaan en breng aan de kook. Laat ongeveer 20–25 minuten zachtjes koken, totdat de aardappelen en winterpeen gaar zijn.",
+    "Verwarm ondertussen de rookworst volgens de aanwijzingen op de verpakking.",
+    "Verhit een deel van de roomboter in een koekenpan en bak de uiringen op middelhoog vuur tot ze zacht en goudbruin zijn.",
+    "Giet de aardappelen en winterpeen af en laat even uitdampen. Voeg de mosterd, nootmuskaat, de resterende roomboter en melk toe en stamp alles met een pureestamper tot een grove stamppot. Breng op smaak met zout en zwarte peper.",
+    "Verdeel de hutspot over vier borden. Schep de gebakken uiringen erover en serveer met de warme rookworst."
+  ],
+  "weetje": "De hutspot die we tegenwoordig kennen, met aardappelen, wortelen en uien, verschilt sterk van de hutspot uit de zestiende eeuw. Volgens de overlevering werd bij het Ontzet van Leiden in 1574 een pot hutspot gevonden in het verlaten Spaanse legerkamp. In de middeleeuwen waren aardappelen in Europa nog onbekend. Ze werden pas in de tweede helft van de zestiende eeuw vanuit Zuid-Amerika geïntroduceerd. Het duurde daarna nog bijna twee eeuwen voordat aardappelen in Nederland een algemeen voedingsmiddel werden. In de tijd van het Ontzet van Leiden (1574) en het hutspotrecept uit 1601 waren aardappelen dus nog geen gebruikelijk onderdeel van de Nederlandse keuken. In Van Soeter Cokene bespreekt historica Johanna Maria van Winter de Keulschen Huspot uit een kookboek van 1601: een gerecht van rundvlees, uien, dille, gember, foelie en peper, zonder aardappelen en wortelen. Dit historische gerecht is niet bewezen hetzelfde als de hutspot uit de overlevering van 1574.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
+    "receptTitel": "Hutspot (historische toelichting)",
+    "auteur": "Johanna Maria van Winter",
+    "kookboek": "Van Soeter Cokene, hoofdstuk 49, pp. 126–128",
+    "jaar": 1976,
     "url": null
-  }
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Keulschen Huspot (1601), besproken in Van Soeter Cokene",
+      "auteur": "Johanna Maria van Winter",
+      "kookboek": "Van Soeter Cokene",
+      "jaar": 1976,
+      "url": null
+    },
+    {
+      "receptTitel": "Kookboeken in de zestiende eeuw (historische context aardappel)",
+      "auteur": "Koninklijke Bibliotheek",
+      "url": "https://collecties.kb.nl/themas/koken/kookboeken-de-zestiende-eeuw"
+    }
+  ]
 }

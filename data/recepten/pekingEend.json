@@ -3,8 +3,9 @@
   "regios": [
     "china-oost-azie"
   ],
-  "titel": "Peking Eend",
-  "korteBeschrijving": "Krokant geroosterde eend uit Beijing, traditioneel geserveerd met flensjes en hoisinsaus.",
+  "titel": "Peking-eend met Chinese pannenkoekjes",
+  "korteBeschrijving": "Krokant geroosterde Chinese eend met zelfgemaakte pannenkoekjes, komkommer, lente-ui en hoisinsaus.",
+  "beschrijving": "Peking-eend is een klassiek Chinees gerecht dat bekendstaat om zijn krokante huid en malse vlees. In deze versie wordt de eend eerst geglaceerd en een nacht in de koelkast gedroogd, waarna hij in de oven wordt geroosterd. Het vlees wordt samen met de krokante huid geserveerd in dunne, zelfgemaakte Chinese pannenkoekjes, met komkommer, lente-ui en hoisinsaus.",
   "afbeelding": "images/recepten/PekingEendAI.png",
   "url": "recepten.html?id=pekingEend",
   "volgorde": 8,
@@ -14,12 +15,68 @@
   "porties": 4,
   "bereidingstijdMinuten": null,
   "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "ingredienten": [
+    "De eend:",
+    "1 hele eend (ca. 2 kg), schoongemaakt en zonder ingewanden",
+    "1 tl zout",
+    "2 cm verse gember",
+    "2 lente-uitjes",
+    "1 tl Chinees vijfkruidenpoeder",
+    "Glazuur:",
+    "3 el honing",
+    "2 el rijstazijn",
+    "1 el lichte sojasaus",
+    "kokend water, naar behoefte",
+    "Chinese pannenkoekjes (16–20 stuks):",
+    "250 g tarwebloem",
+    "150 ml heet water",
+    "1 el zonnebloemolie, voor het bestrijken van het deeg",
+    "Voor het serveren:",
+    "1 komkommer",
+    "4 lente-uitjes",
+    "100 ml hoisinsaus",
+    "ca. 150 ml water voor de braadslede"
+  ],
+  "bereiding": [
+    "Dep de eend aan de buitenkant goed droog met keukenpapier. Snijd overtollig vet rond de buikholte weg.",
+    "Maak voorzichtig de huid los van het vlees bij de borst, zonder de huid te beschadigen. Dit kan met je vingers of met de bolle kant van een lepel. Hierdoor kan tijdens het roosteren een deel van het vet gemakkelijker uit de huid verdwijnen.",
+    "Breng een ruime hoeveelheid water aan de kook. Plaats de eend op een rooster boven een braadslede in de gootsteen en giet voorzichtig kokend water over de huid, zodat deze strakker wordt. Dep de eend daarna opnieuw droog.",
+    "Meng de honing, rijstazijn en lichte sojasaus tot een glazuur. Bestrijk de eend rondom met een dunne laag. Leg de eend op een rooster boven een schaal en zet hem onafgedekt 12–24 uur in de koelkast. Hierdoor droogt de huid verder uit.",
+    "Haal de eend uit de koelkast. Snijd de gember in plakjes en de twee lente-uitjes in grove stukken. Stop ze samen met het zout en het vijfkruidenpoeder losjes in de buikholte van de eend.",
+    "Verwarm de oven voor op 220 °C (boven- en onderwarmte). Plaats de eend met de borst omhoog op een rooster boven een braadslede. Schenk ongeveer 150 ml water in de braadslede om te voorkomen dat het afdruipende vet gaat spatten. Rooster de eend 15 minuten op deze temperatuur.",
+    "Verlaag de oventemperatuur naar 180 °C en rooster de eend verder tot hij gaar is. Reken voor een eend van ongeveer 2 kg op een totale roostertijd van 1 uur en 45 minuten tot 2 uur en 15 minuten. Controleer met een vleesthermometer of de dikste delen van borst en dij minimaal 74 °C hebben bereikt. Houd de huid in de gaten; als deze te donker wordt, dek je de betreffende delen losjes af met aluminiumfolie.",
+    "Haal de eend uit de oven en laat hem ongeveer 15 minuten rusten. Verwijder de gember en lente-ui uit de buikholte. Snijd het vlees met de krokante huid in dunne plakken.",
+    "Doe de bloem in een kom en voeg geleidelijk het hete water toe. Roer eerst met een lepel en kneed het deeg zodra het voldoende is afgekoeld tot een soepele bal. Dek af en laat 20–30 minuten rusten.",
+    "Verdeel het deeg in 16–20 gelijke balletjes. Druk twee balletjes plat tot kleine ronde schijfjes en bestrijk één ervan heel dun met zonnebloemolie. Leg het andere schijfje erbovenop.",
+    "Rol beide schijfjes samen uit tot een zo dun mogelijke ronde pannenkoek van ongeveer 15 cm doorsnee. Herhaal dit met de overige deegballetjes.",
+    "Verwarm een droge koekenpan op middelhoog vuur. Bak elk dubbel deegpakketje ongeveer 30–60 seconden per kant, totdat er enkele lichtbruine plekjes ontstaan en het deeg gaar is.",
+    "Haal de pannenkoekjes uit de pan en trek de twee laagjes voorzichtig uit elkaar terwijl ze nog warm zijn. Stapel ze op een bord en dek af met een schone theedoek, zodat ze zacht blijven.",
+    "Snijd de komkommer en de vier lente-uitjes in dunne reepjes van ongeveer 5 cm lang. Verwarm de hoisinsaus eventueel kort en zet alles in aparte schaaltjes op tafel.",
+    "Leg wat eend met krokante huid op een warm pannenkoekje. Voeg komkommer, lente-ui en een beetje hoisinsaus toe. Rol het pannenkoekje op en serveer."
+  ],
+  "weetje": "In een editie uit 1956 van How to Cook and Eat in Chinese beschrijft Buwei Yang Chao een bijzondere manier om geroosterde eend te bereiden. Met een luchtpomp wordt lucht tussen de huid en het vlees gebracht om de huid los te maken. De eend wordt vervolgens ingewreven met zout en suiker, gevuld met sjalotten en water en in slechts 50 minuten geroosterd. In moderne recepten wordt de huid vaak eerst geglaceerd en langdurig gedroogd om een krokant resultaat te krijgen.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Peking Duck",
+    "auteur": "Ken Hom",
+    "kookboek": "BBC Good Food",
+    "jaar": null,
+    "url": "https://www.bbcgoodfoodme.com/recipes/peking-duck/"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Easy Peking Duck with Mandarin Pancakes",
+      "auteur": "The Woks of Life",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://thewoksoflife.com/easy-peking-duck-mandarin-pancakes/"
+    },
+    {
+      "receptTitel": "Roast Duck (Chinese Style)",
+      "auteur": "Buwei Yang Chao",
+      "kookboek": "How to Cook and Eat in Chinese",
+      "jaar": 1956,
+      "pagina": "135–136",
+      "url": null
+    }
+  ]
 }

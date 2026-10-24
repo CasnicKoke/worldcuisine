@@ -1,25 +1,52 @@
 {
-  "sleutel": "coqAuVin",
-  "regios": [
-    "midden-europa"
-  ],
-  "titel": "Coq au Vin",
-  "korteBeschrijving": "Franse stoofschotel van kip, langzaam gegaard in wijn met spek, ui en paddenstoelen.",
-  "afbeelding": "images/recepten/CoqAuVinAI.png",
-  "url": "recepten.html?id=coqAuVin",
-  "volgorde": 72,
-  "regioVolgorde": {
-    "midden-europa": 0
-  },
-  "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
-  "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "sleutel": "coqAuVin",
+    "regios": [
+        "midden-europa"
+    ],
+    "titel": "Coq au vin",
+    "korteBeschrijving": "Kip gestoofd in rode wijn met spekblokjes, champignons en groenten.",
+    "beschrijving": "Coq au vin is een klassieke Franse stoofschotel waarin kip langzaam gaart in rode wijn. In deze versie worden spekblokjes, ui, winterpeen, bleekselderij, champignons en tijm toegevoegd, waardoor een volle, hartige saus ontstaat. Serveer met aardappelpuree en een frisse groene salade.",
+    "afbeelding": "images/recepten/CoqAuVinAI.png",
+    "ingredienten": [
+        "4 kippenbouten of kippendijfilets",
+        "25 g boter",
+        "1 el olie",
+        "100 g spekblokjes",
+        "1 grote ui",
+        "2 stengels bleekselderij",
+        "1 winterpeen",
+        "1 teen knoflook",
+        "25 g bloem",
+        "300 ml rode wijn",
+        "300 ml kippenbouillon",
+        "250 g champignons",
+        "2 takjes verse tijm",
+        "zout en zwarte peper, naar smaak",
+        "Voor erbij: aardappelpuree en een groene salade"
+    ],
+    "bereiding": [
+        "Dep de kip droog met keukenpapier. Verhit de boter en olie in een grote braadpan en bak de kip aan alle kanten goudbruin. Haal de kip uit de pan en zet apart.",
+        "Snipper de ui en snijd de bleekselderij en winterpeen in stukjes. Bak de spekblokjes in dezelfde pan waarin de kip is aangebraden. Voeg de ui, bleekselderij en winterpeen toe en bak enkele minuten totdat de ui zacht begint te worden.",
+        "Hak de knoflook fijn en voeg deze toe aan de groenten. Bak kort mee. Strooi vervolgens de bloem erover, roer goed en laat ongeveer een minuut meebakken.",
+        "Schenk de rode wijn geleidelijk in de pan en roer de aanbaksels los. Voeg daarna de kippenbouillon toe en roer tot een gladde saus ontstaat.",
+        "Leg de kip terug in de pan en voeg de tijm toe. Breng het geheel zachtjes aan de kook. Doe het deksel op de pan en laat op laag vuur stoven: ongeveer 45–60 minuten voor kippenbouten, of 25–35 minuten voor kippendijfilets, afhankelijk van de dikte.",
+        "Maak de champignons schoon en snijd ze in vieren. Voeg ze de laatste 15 minuten van de stooftijd toe. Roer af en toe voorzichtig door en controleer of de kip volledig gaar is (minimaal 74 °C in de kern).",
+        "Haal de takjes tijm uit de pan. Proef de saus en voeg naar smaak zout en zwarte peper toe. Laat de saus eventueel nog enkele minuten zonder deksel inkoken als deze te dun is.",
+        "Serveer de Coq au vin met aardappelpuree en een groene salade."
+    ],
+    "url": "recepten.html?id=coqAuVin",
+    "volgorde": 72,
+    "regioVolgorde": {
+        "midden-europa": 0
+    },
+    "porties": 4,
+    "bereidingstijdMinuten": 90,
+    "moeilijkheid": "Gemiddeld",
+    "bron": {
+        "receptTitel": "Coq au vin",
+        "auteur": "Mary Berry",
+        "kookboek": "Schotels om in te vriezen: kokkerellen als u tijd hebt (1980)",
+        "jaar": 1980,
+        "url": null
+    }
 }

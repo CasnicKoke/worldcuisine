@@ -72,8 +72,8 @@
       "bestand": "data/recepten/mohinga.json"
     },
     "pekingEend": {
-      "titel": "Peking Eend",
-      "korteBeschrijving": "Krokant geroosterde eend uit Beijing, traditioneel geserveerd met flensjes en hoisinsaus.",
+      "titel": "Peking-eend met Chinese pannenkoekjes",
+      "korteBeschrijving": "Krokant geroosterde Chinese eend met zelfgemaakte pannenkoekjes, komkommer, lente-ui en hoisinsaus.",
       "afbeelding": "images/recepten/PekingEendAI.png",
       "url": "recepten.html?id=pekingEend",
       "regios": [
@@ -692,8 +692,8 @@
       "bestand": "data/recepten/bratwurst.json"
     },
     "stamppot": {
-      "titel": "Stamppot",
-      "korteBeschrijving": "Nederlands gerecht van aardappelpuree gemengd met groenten, vaak met rookworst.",
+      "titel": "Hutspot met rookworst",
+      "korteBeschrijving": "Traditionele Nederlandse hutspot met winterpeen, aardappelen, gebakken uien en rookworst.",
       "afbeelding": "images/recepten/StamppotAI.png",
       "url": "recepten.html?id=stamppot",
       "regios": [
@@ -712,8 +712,8 @@
       "bestand": "data/recepten/sauerbraten.json"
     },
     "coqAuVin": {
-      "titel": "Coq au Vin",
-      "korteBeschrijving": "Franse stoofschotel van kip, langzaam gegaard in wijn met spek, ui en paddenstoelen.",
+      "titel": "Coq au vin",
+      "korteBeschrijving": "Kip gestoofd in rode wijn met spekblokjes, champignons en groenten.",
       "afbeelding": "images/recepten/CoqAuVinAI.png",
       "url": "recepten.html?id=coqAuVin",
       "regios": [

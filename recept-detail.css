@@ -688,3 +688,28 @@ body::after {
 .recipe-method::after {
     display: none;
 }
+
+/* Historisch weetje bij een recept */
+.recipe-history-note {
+    margin: 24px 0 16px;
+    padding: 18px 22px;
+    border-top: 1px solid var(--rule);
+    border-bottom: 1px solid var(--rule);
+    background: rgba(255, 246, 225, 0.28);
+}
+
+.recipe-history-note h2 {
+    margin: 0 0 10px;
+    font-size: 1.35rem;
+}
+
+.recipe-history-note p {
+    margin: 0;
+    line-height: 1.6;
+}
+
+.recipe-source-extra {
+    margin-top: 7px;
+    padding-top: 7px;
+    border-top: none;
+}

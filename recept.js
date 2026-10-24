@@ -125,8 +125,25 @@ function toonRecept(data) {
   kolommen.append(stappenSectie);
   artikel.append(kolommen);
 
+  // Historisch weetje, alleen voor recepten die dit veld hebben.
+  if (isAanwezig(data.weetje)) {
+    const kader = element('aside', 'recipe-history-note');
+    kader.append(element('h2', '', 'Wist je dat?'));
+    kader.append(element('p', '', data.weetje));
+    artikel.append(kader);
+  }
   const bron = bronVermelding(data.bron);
   if (bron) artikel.append(bron);
+  // Aanvullende bronnen, naast de bestaande hoofdbron.
+  if (Array.isArray(data.extraBronnen)) {
+    data.extraBronnen.forEach(bronData => {
+      const extra = bronVermelding(bronData);
+      if (extra) {
+        extra.classList.add('recipe-source-extra');
+        artikel.append(extra);
+      }
+    });
+  }
   receptElement.append(artikel);
 }
 

@@ -1,0 +1,67 @@
+{
+  "sleutel": "sate-ayam",
+  "regios": [
+    "maleis-indonesisch"
+  ],
+  "titel": "Saté ayam",
+  "afbeelding": "images/recepten/SateAjamAI.png",
+  "korteBeschrijving": "Gegrilde kipspiesjes met ketjapmarinade en satésaus.",
+  "beschrijving": "Ayam is Maleisisch voor kip. Deze kipsaté wordt gemaakt met gemarineerd kippendijvlees, aan een spies geregen. Tijdens het grillen worden de spiesjes bestreken met ketjap en sambal, waardoor ze een heerlijk gekaramelliseerd laagje krijgen. Serveer met een zelfgemaakte satésaus op basis van Surinaamse pindakaas en kokosmelk. Heerlijk!",
+  "ingredienten": [
+    "Saté ayam:",
+    "500 g kippendijfilet",
+    "12 satéprikkers",
+    "Eerste marinade:",
+    "50 ml ketjap manis",
+    "2 tl suiker",
+    "4 tenen knoflook",
+    "een scheutje citroensap",
+    "peper en zout, naar smaak",
+    "Tweede marinade:",
+    "25 ml ketjap manis",
+    "1 el sambal oelek",
+    "15 ml zonnebloemolie",
+    "15 ml warm water",
+    "een scheutje citroensap",
+    "peper en zout, naar smaak",
+    "Zelfgemaakte satésaus:",
+    "½ pot Surinaamse pindakaas",
+    "1 ui",
+    "3 cm verse gember",
+    "1 rode peper",
+    "1 teen knoflook",
+    "1 blik kokosmelk",
+    "een scheut ketjap manis",
+    "1 el sambal oelek",
+    "een beetje zonnebloemolie, om de kruidenpasta te bakken",
+    "eventueel wat water, om de saus te verdunnen"
+  ],
+  "bereiding": [
+    "Saté ayam — Maak de eerste marinade. Meng de ketjap manis met de suiker, vier fijngehakte tenen knoflook, een scheutje citroensap en wat peper en zout.",
+    "Snijd het kippendijvlees in blokjes van ongeveer 2 × 3 cm. Meng de kip goed met de eerste marinade, dek af en laat minimaal 8 uur in de koelkast staan, bij voorkeur een hele nacht.",
+    "Leg de satéprikkers minstens 30 minuten in water. Rijg de gemarineerde kip aan 12 prikkers.",
+    "Maak de tweede marinade. Meng de ketjap manis met sambal oelek, zonnebloemolie, warm water en een scheutje citroensap. Voeg naar smaak peper en zout toe.",
+    "Verhit de barbecue of grill. Leg de spiesjes op het rooster en draai ze regelmatig. Bestrijk de kip tijdens het grillen met de tweede marinade, zodat de ketjap een mooie donkere, licht gekaramelliseerde buitenkant vormt. Als je geen grill hebt, kun je dit ook in de koekenpan maken. Bak de spiesjes dan aan in wat zonnebloemolie en keer ze regelmatig, terwijl je ze met de tweede marinade bestrijkt.",
+    "Gril of bak totdat de kip volledig gaar is, bij voorkeur tot een kerntemperatuur van 75 °C. Serveer de saté direct met de warme zelfgemaakte satésaus.",
+    "Satésaus — Maal de ui, knoflook, gember en rode peper in een keukenmachine tot een kruidenpasta.",
+    "Verhit een beetje zonnebloemolie in een steelpan en bak de kruidenpasta enkele minuten tot de geuren vrijkomen.",
+    "Voeg de Surinaamse pindakaas en kokosmelk toe. Roer goed tot een egale saus.",
+    "Voeg de sambal oelek en ketjap manis toe voor de gewenste smaak en kleur. Roer goed door.",
+    "Verwarm de saus nog enkele minuten op laag vuur en roer regelmatig. Voeg eventueel een scheutje water toe als de saus te dik wordt."
+  ],
+  "url": "recepten.html?id=sate-ayam",
+  "porties": 4,
+  "bereidingstijdMinuten": 540,
+  "volgorde": 166,
+  "regioVolgorde": {
+    "maleis-indonesisch": 4
+  },
+  "moeilijkheid": "Gemiddeld",
+  "bron": {
+    "receptTitel": "Saté ayam (kipsaté)",
+    "auteur": "Francis Cuijk",
+    "kookboek": "Basisboek Indonesisch (2019)",
+    "jaar": 2019,
+    "url": null
+  }
+}

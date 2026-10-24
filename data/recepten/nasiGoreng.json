@@ -3,25 +3,45 @@
   "regios": [
     "maleis-indonesisch"
   ],
-  "id": 2,
-  "titel": "Nasi Goreng",
+  "titel": "Nasi goreng bacon",
   "afbeelding": "images/recepten/NasiGorengAI.png",
-  "korteBeschrijving": "Gebakken rijst met ketjap en aromatische kruiden.",
-  "beschrijving": "Heb ik nog niet",
-  "ingredienten": "geen idee",
-  "bereiding": "doe maar wat",
+  "korteBeschrijving": "Nasi met spek, paprika en lente-ui.",
+  "beschrijving": "Nasi goreng bacon is de beste nasi-variant die ik ken. Door te beginnen met uitgebakken spekjes, krijg je een heerlijk zoute basis voor de rest van de smaken. Een mooie variant op de traditionele nasi goreng.",
+  "ingredienten": [
+    "300 g rijst",
+    "250 g spekblokjes",
+    "1 ui",
+    "1 teen knoflook",
+    "2 rode paprika’s",
+    "3 lente-uitjes",
+    "1 el sambal oelek",
+    "25 ml vissaus",
+    "1 el ketjap asin",
+    "peper, naar smaak",
+    "Voor erbij: gebakken uitjes, een gebakken ei en kroepoek"
+  ],
+  "bereiding": [
+    "Kook de rijst.",
+    "Bak de spekblokjes in een grote wok of koekenpan op middelhoog vuur tot ze mooi bruin beginnen te worden.",
+    "Snipper de ui en hak de knoflook fijn. Snijd de paprika’s in kleine stukjes en de lente-uitjes in ringen. Voeg eerst de ui en knoflook toe aan de spekblokjes en bak kort mee. Voeg vervolgens de paprika’s en lente-uitjes toe en roerbak enkele minuten tot de groenten wat zachter worden.",
+    "Voeg de sambal oelek, vissaus en ketjap asin toe. Roer alles goed door elkaar, zodat de groenten en spekblokjes de smaken opnemen.",
+    "Schep de rijst in gedeelten door het mengsel. Bak alles op middelhoog tot hoog vuur en blijf omscheppen, totdat de rijst goed heet is en de smaken gelijkmatig verdeeld zijn.",
+    "Proef de nasi en voeg eventueel wat peper toe. Serveer met gebakken uitjes, een gebakken ei en kroepoek."
+  ],
   "url": "recepten.html?id=nasiGoreng",
+  "porties": 4,
+  "bereidingstijdMinuten": 50,
   "volgorde": 1,
   "regioVolgorde": {
     "maleis-indonesisch": 0
   },
-  "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
+  "moeilijkheid": "Makkelijk",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
+    "receptTitel": "Nasi goreng bacon",
+    "auteur": "Francis Cuijk",
+    "kookboek": "Basisboek Indonesisch (2019)",
+    "jaar": 2019,
     "url": null
-  }
+  },
+  "id": 2
 }

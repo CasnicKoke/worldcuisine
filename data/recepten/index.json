@@ -12,8 +12,8 @@
       "bestand": "data/recepten/rendang.json"
     },
     "nasiGoreng": {
-      "titel": "Nasi Goreng",
-      "korteBeschrijving": "Gebakken rijst met ketjap en aromatische kruiden.",
+      "titel": "Nasi goreng bacon",
+      "korteBeschrijving": "Nasi met spek, paprika en lente-ui.",
       "afbeelding": "images/recepten/NasiGorengAI.png",
       "url": "recepten.html?id=nasiGoreng",
       "regios": [
@@ -21,19 +21,9 @@
       ],
       "bestand": "data/recepten/nasiGoreng.json"
     },
-    "sateAjam": {
-      "titel": "Saté Ajam",
-      "korteBeschrijving": "Kipspiesjes met pindasaus.",
-      "afbeelding": "images/recepten/SateAjamAI.png",
-      "url": "recepten.html?id=sateAjam",
-      "regios": [
-        "maleis-indonesisch"
-      ],
-      "bestand": "data/recepten/sateAjam.json"
-    },
     "gadoGado": {
       "titel": "Gado Gado",
-      "korteBeschrijving": "Groentesalade met pindadressing.",
+      "korteBeschrijving": "Een vegetarisch Indonesisch gerecht met groenten, tofu, ei en zelfgemaakte satésaus.",
       "afbeelding": "images/recepten/GadoGadoAI.png",
       "url": "recepten.html?id=gadoGado",
       "regios": [
@@ -1662,6 +1652,16 @@
         "micronesie"
       ],
       "bestand": "data/recepten/breadfruitChips.json"
+    },
+    "sate-ayam": {
+      "titel": "Saté ayam",
+      "korteBeschrijving": "Gegrilde kipspiesjes met ketjapmarinade en satésaus.",
+      "afbeelding": "images/recepten/SateAjamAI.png",
+      "url": "recepten.html?id=sate-ayam",
+      "regios": [
+        "maleis-indonesisch"
+      ],
+      "bestand": "data/recepten/sate-ayam.json"
     }
   }
 }

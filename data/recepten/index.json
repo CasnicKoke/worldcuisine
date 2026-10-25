@@ -712,8 +712,8 @@
       "bestand": "data/recepten/coqAuVin.json"
     },
     "fondue": {
-      "titel": "Fondue",
-      "korteBeschrijving": "Gesmolten kaasgerecht uit de Alpenregio, gegeten door stukjes brood in de kaas te dippen.",
+      "titel": "Zwitserse kaasfondue",
+      "korteBeschrijving": "Traditionele Zwitserse kaasfondue met Gruyère en Emmentaler, geserveerd met brood, krieltjes, broccoli en champignons.",
       "afbeelding": "images/recepten/FondueAI.png",
       "url": "recepten.html?id=fondue",
       "regios": [
@@ -722,8 +722,8 @@
       "bestand": "data/recepten/fondue.json"
     },
     "tarteFlambee": {
-      "titel": "Tarte Flambée",
-      "korteBeschrijving": "Dunne Elzasser deegbodem belegd met room, ui en spek.",
+      "titel": "Tarte flambée met spek en gerookte zalm",
+      "korteBeschrijving": "Dunne, krokante Elzasser flammkuchen met twee belegvarianten: spek met ui en gerookte zalm met rode ui en kappertjes.",
       "afbeelding": "images/recepten/TarteFlambeeAI.png",
       "url": "recepten.html?id=tarteFlambee",
       "regios": [
@@ -732,8 +732,8 @@
       "bestand": "data/recepten/tarteFlambee.json"
     },
     "wienerSchnitzel": {
-      "titel": "Wiener Schnitzel",
-      "korteBeschrijving": "Oostenrijks kalfsschnitzel, dun gepaneerd en goudbruin gebakken.",
+      "titel": "Wiener schnitzel",
+      "korteBeschrijving": "Klassieke Oostenrijkse kalfsschnitzel met een luchtige, goudbruine paneerlaag, geserveerd met peterselieaardappelen en citroen.",
       "afbeelding": "images/recepten/WienerSchnitzelAI.png",
       "url": "recepten.html?id=wienerSchnitzel",
       "regios": [

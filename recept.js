@@ -39,14 +39,41 @@ function toonFout(bericht) {
   receptElement.append(a);
 }
 
-function bronVermelding(bron) {
+function bronVermelding(bron, type = 'recept') {
   if (!bron || !Object.values(bron).some(isAanwezig)) return null;
+
+  const label = type === 'recept'
+    ? 'Receptbron'
+    : 'Aanvullende bron';
+
   const delen = [];
-  if (isAanwezig(bron.receptTitel)) delen.push(`het recept ‘${bron.receptTitel}’`);
-  else delen.push('een recept');
-  if (isAanwezig(bron.kookboek)) delen.push(`uit ‘${bron.kookboek}’`);
-  if (isAanwezig(bron.auteur)) delen.push(`van ${bron.auteur}`);
-  const p = element('p', 'recipe-source', `Bron: geïnspireerd op ${delen.join(' ')}.`);
+
+  if (isAanwezig(bron.auteur)) {
+    delen.push(bron.auteur);
+  }
+
+  if (isAanwezig(bron.receptTitel)) {
+    delen.push(`‘${bron.receptTitel}’`);
+  }
+
+  if (isAanwezig(bron.kookboek)) {
+    delen.push(`uit ${bron.kookboek}`);
+  }
+
+  if (isAanwezig(bron.jaar)) {
+    delen.push(`(${bron.jaar})`);
+  }
+
+  if (isAanwezig(bron.pagina)) {
+    delen.push(`p. ${bron.pagina}`);
+  }
+
+  const tekst = delen.length
+    ? `${label}: ${delen.join(', ')}.`
+    : `${label}:`;
+
+  const p = element('p', 'recipe-source', tekst);
+
   if (isAanwezig(bron.url) && /^https?:\/\//i.test(bron.url)) {
     const a = element('a', '', ' Bekijk bron ↗');
     a.href = bron.url;
@@ -54,6 +81,7 @@ function bronVermelding(bron) {
     a.rel = 'noopener noreferrer';
     p.append(a);
   }
+
   return p;
 }
 
@@ -140,12 +168,13 @@ function toonRecept(data) {
     kader.append(element('p', '', data.weetje));
     artikel.append(kader);
   }
-  const bron = bronVermelding(data.bron);
+  
+  const bron = bronVermelding(data.bron, 'recept');
   if (bron) artikel.append(bron);
   // Aanvullende bronnen, naast de bestaande hoofdbron.
   if (Array.isArray(data.extraBronnen)) {
     data.extraBronnen.forEach(bronData => {
-      const extra = bronVermelding(bronData);
+      const extra = bronVermelding(bronData, 'aanvullend');
       if (extra) {
         extra.classList.add('recipe-source-extra');
         artikel.append(extra);

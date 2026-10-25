@@ -3,8 +3,9 @@
   "regios": [
     "midden-europa"
   ],
-  "titel": "Wiener Schnitzel",
-  "korteBeschrijving": "Oostenrijks kalfsschnitzel, dun gepaneerd en goudbruin gebakken.",
+  "titel": "Wiener schnitzel",
+  "korteBeschrijving": "Klassieke Oostenrijkse kalfsschnitzel met een luchtige, goudbruine paneerlaag, geserveerd met peterselieaardappelen en citroen.",
+  "beschrijving": "Wiener schnitzel is een van de bekendste gerechten uit de Oostenrijkse keuken. De dunne kalfsschnitzels worden achtereenvolgens door bloem, ei en paneermeel gehaald en vervolgens goudbruin gebakken in roomboter. Door het paneermeel niet aan te drukken en de pan tijdens het bakken voorzichtig te bewegen, ontstaat de kenmerkende luchtige, golvende korst.\n\nWe serveren de schnitzels met peterselieaardappelen, een partje citroen en Preiselbeerencompote (vossenbessencompote). Cranberrycompote kan als alternatief worden gebruikt.",
   "afbeelding": "images/recepten/WienerSchnitzelAI.png",
   "url": "recepten.html?id=wienerSchnitzel",
   "volgorde": 75,
@@ -12,14 +13,58 @@
     "midden-europa": 3
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 40,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Schnitzels:",
+    "4 kalfsschnitzels (ca. 150 g per stuk)",
+    "100 g tarwebloem",
+    "2 eieren",
+    "150 g fijn paneermeel",
+    "150 g roomboter, voor het bakken",
+    "zout, naar smaak",
+    "1 citroen, in partjes",
+    "Peterselieaardappelen:",
+    "800 g vastkokende aardappelen",
+    "30 g roomboter",
+    "1 bosje verse platte peterselie",
+    "zout, naar smaak",
+    "Voor het serveren:",
+    "4 el Preiselbeerencompote (vossenbessencompote; cranberrycompote als alternatief)"
+  ],
+  "bereiding": [
+    "Verwarm de oven voor op 70 °C om de gebakken schnitzels kort warm te houden.",
+    "Schil de aardappelen en snijd ze in ongeveer gelijke stukken. Kook ze in licht gezouten water in 15–20 minuten gaar.",
+    "Leg de kalfsschnitzels één voor één tussen twee vellen vershoudfolie en klop ze met een vleeshamer of de onderkant van een steelpan voorzichtig plat tot ongeveer 4 mm dikte. Bestrooi beide kanten licht met zout.",
+    "Zet drie diepe borden klaar: één met bloem, één met losgeklopte eieren en één met paneermeel. Haal iedere schnitzel eerst door de bloem en schud het teveel af. Haal hem vervolgens door het ei en ten slotte door het paneermeel. Druk het paneermeel niet aan, zodat de korst tijdens het bakken luchtig kan worden.",
+    "Smelt een ruime hoeveelheid roomboter in een grote koekenpan op middelhoog vuur. Leg één of twee schnitzels in de pan, afhankelijk van de grootte. Zorg dat ze voldoende ruimte hebben om vrij te bewegen zonder elkaar te raken. De boter moet heet zijn en schuimen, maar mag niet verbranden.",
+    "Bak de schnitzels ongeveer 2–3 minuten per kant, totdat ze goudbruin en gaar zijn. Beweeg de pan tijdens het bakken voorzichtig heen en weer, zodat de hete boter over de paneerlaag spoelt. Bak de overige schnitzels op dezelfde manier en voeg zo nodig verse boter toe.",
+    "Haal de schnitzels uit de pan en laat ze kort uitlekken op keukenpapier. Leg ze vervolgens naast elkaar op een rooster boven een bakplaat in de voorverwarmde oven, terwijl je de overige schnitzels bakt. Houd ze zo kort mogelijk warm.",
+    "Giet de aardappelen af en laat ze even uitdampen. Smelt 30 g roomboter over de warme aardappelen, hak de peterselie fijn en schep deze erdoor. Breng eventueel op smaak met wat zout.",
+    "Serveer de Wiener schnitzels direct met de peterselieaardappelen, een partje citroen en Preiselbeerencompote. Cranberrycompote kan als alternatief worden gebruikt."
+  ],
+  "weetje": "De naam Wiener schnitzel betekent letterlijk 'Weense schnitzel'. Hoewel er talloze soorten schnitzel bestaan, heeft de echte Wiener schnitzel een specifieke betekenis: het is een dunne kalfsschnitzel die achtereenvolgens door bloem, ei en paneermeel wordt gehaald en goudbruin wordt gebakken. Een vergelijkbare schnitzel van varkensvlees wordt in Oostenrijk doorgaans Schnitzel Wiener Art ('schnitzel op Weense wijze') genoemd.\n\nGepaneerde schnitzels werden in Oostenrijk al in de achttiende eeuw bereid. De benaming Wiener schnitzel duikt in de negentiende eeuw in kookboeken op, maar raakte pas rond het begin van de twintigste eeuw algemeen ingeburgerd.\n\nVolgens een bekende legende bracht veldmaarschalk Joseph Radetzky von Radetz het gerecht vanuit Milaan naar Wenen, geïnspireerd door de Italiaanse cotoletta alla milanese. Historisch onderzoek heeft dit verhaal echter ontkracht: gepaneerde schnitzels waren in Oostenrijk al bekend voordat Radetzky uit Italië terugkeerde. Dit is dezelfde veldmaarschalk ter ere van wie Johann Strauss senior in 1848 de beroemde Radetzkymars componeerde.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
+    "receptTitel": "Wiener schnitzel",
+    "auteur": "Eigen bewerking",
     "kookboek": null,
+    "jaar": null,
     "url": null
-  }
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Wiener Schnitzel",
+      "auteur": "Oostenrijks ministerie",
+      "kookboek": "Register der Traditionellen Lebensmittel",
+      "jaar": null,
+      "url": "https://www.bmluk.gv.at/themen/lebensmittel/trad-lebensmittel/speisen/wiener_schnitzel.html"
+    },
+    {
+      "receptTitel": "Bezeichnung von Schnitzeln",
+      "auteur": "Österreichisches Lebensmittelbuch",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.lebensmittelbuch.at/lebensmittelbuch/b-14-fleisch-und-fleischerzeugnisse/a-fleisch/a-4-schnitzel-steak-und-weitere-fleischteile/a-4-1-schnitzel/a-4-1-3-bezeichnung"
+    }
+  ]
 }

@@ -3,8 +3,9 @@
   "regios": [
     "midden-europa"
   ],
-  "titel": "Tarte Flambée",
-  "korteBeschrijving": "Dunne Elzasser deegbodem belegd met room, ui en spek.",
+  "titel": "Tarte flambée met spek en gerookte zalm",
+  "korteBeschrijving": "Dunne, krokante Elzasser flammkuchen met twee belegvarianten: spek met ui en gerookte zalm met rode ui en kappertjes.",
+  "beschrijving": "Tarte flambée, of flammekueche, is een klassieke specialiteit uit de Elzas. In deze versie maken we één grote, dunne plaattaart op bakplaatformaat, met een romige basis van crème fraîche en volle kwark. De ene helft wordt belegd met spek en ui, de andere helft met gerookte zalm, rode ui, kappertjes en dille. Zo krijg je een mooie combinatie van een traditionele en een frisse, modernere variant.",
   "afbeelding": "images/recepten/TarteFlambeeAI.png",
   "url": "recepten.html?id=tarteFlambee",
   "volgorde": 74,
@@ -12,14 +13,63 @@
     "midden-europa": 2
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 40,
+  "moeilijkheid": "Makkelijk",
+  "ingredienten": [
+    "Deeg:",
+    "250 g tarwebloem",
+    "125 ml lauwwarm water",
+    "2 el zonnebloemolie",
+    "½ tl zout",
+    "Romige basis:",
+    "200 g crème fraîche",
+    "100 g volle kwark",
+    "¼ tl gemalen nootmuskaat",
+    "Spekhelft:",
+    "100 g gerookte spekblokjes",
+    "1 grote ui",
+    "een flinke snuf versgemalen zwarte peper",
+    "Zalmhelft:",
+    "150 g gerookte zalmfilet, in plakjes",
+    "1 rode ui",
+    "1–2 el kappertjes",
+    "een paar takjes verse dille",
+    "½ citroen, in partjes"
+  ],
+  "bereiding": [
+    "Verwarm de oven voor op 240–250 °C (of de hoogste temperatuur die je oven aankan).",
+    "Meng de bloem, het lauwwarme water, de zonnebloemolie en het zout tot een soepel deeg. Kneed kort door en laat 10–15 minuten rusten.",
+    "Meng de crème fraîche, de volle kwark en de nootmuskaat tot een romige basis.",
+    "Snijd de gewone ui in dunne halve ringen en de rode ui in dunne ringen. Laat de kappertjes uitlekken en pluk de dille van de takjes.",
+    "Rol het deeg zo dun mogelijk uit tot één grote rechthoek ter grootte van de bakplaat en leg het op bakpapier.",
+    "Bestrijk de gehele deegbodem gelijkmatig met de romige basis.",
+    "Verdeel over de ene helft de gewone ui en de spekblokjes. Bestrooi deze helft royaal met versgemalen zwarte peper.",
+    "Verdeel over de andere helft de rode ui en kappertjes. Laat de twee soorten beleg direct aan elkaar grenzen.",
+    "Bak de tarte flambée ongeveer 10–15 minuten, totdat de bodem krokant is en de randen goudbruin kleuren. Houd de baktijd in de gaten: die hangt af van de oven en de dikte van het deeg.",
+    "Haal de tarte flambée uit de oven en verdeel de plakjes gerookte zalmfilet en de verse dille over de zalmhelft. Serveer meteen, met citroenpartjes om boven de zalm uit te knijpen."
+  ],
+  "weetje": "Tarte flambée is een gerecht uit de Elzas, een streek in het oosten van Frankrijk met een bijzondere Frans-Duitse geschiedenis. De Elzas maakte eeuwenlang deel uit van het Duitse taalgebied en wisselde verschillende keren van staatkundige verbondenheid. In 1871 werd de streek onderdeel van het Duitse Keizerrijk; na de Eerste Wereldoorlog keerde ze terug naar Frankrijk. Tijdens de Tweede Wereldoorlog werd de Elzas opnieuw door Duitsland ingelijfd, totdat de streek in 1945 weer Frans werd.\n\nDie dubbele culturele achtergrond zie je terug in de naam van dit gerecht. In het Frans heet het tarte flambée, in het Duits Flammkuchen en in het Elzassische dialect Flammekueche. De namen verwijzen naar de vlammen van de houtoven waarin het gerecht oorspronkelijk werd gebakken.\n\nVroeger werd het dunne deeg gebruikt om de temperatuur van de houtoven te testen voordat het brood erin ging. Was de oven heet genoeg, dan bakte de flammekueche in slechts enkele minuten krokant. Anders dan de Franse naam misschien doet vermoeden, wordt tarte flambée dus niet geflambeerd met alcohol.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
+    "receptTitel": "Tarte flambée met spek en gerookte zalm",
+    "auteur": "Eigen bewerking",
     "kookboek": null,
+    "jaar": null,
     "url": null
-  }
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Flammekueche",
+      "auteur": "Wikipedia",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://en.wikipedia.org/wiki/Flammekueche"
+    },
+    {
+      "receptTitel": "Elsass",
+      "auteur": "Wikipedia",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://de.wikipedia.org/wiki/Elsass"
+    }
+  ]
 }

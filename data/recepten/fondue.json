@@ -3,8 +3,9 @@
   "regios": [
     "midden-europa"
   ],
-  "titel": "Fondue",
-  "korteBeschrijving": "Gesmolten kaasgerecht uit de Alpenregio, gegeten door stukjes brood in de kaas te dippen.",
+  "titel": "Zwitserse kaasfondue",
+  "korteBeschrijving": "Traditionele Zwitserse kaasfondue met Gruyère en Emmentaler, geserveerd met brood, krieltjes, broccoli en champignons.",
+  "beschrijving": "Kaasfondue is een van de bekendste gerechten uit de Zwitserse keuken. In deze klassieke versie worden Gruyère en Emmentaler langzaam gesmolten met droge witte wijn en een scheutje Kirsch. Knoflook, zwarte peper en nootmuskaat geven de fondue extra smaak. De gesmolten kaas wordt warm gehouden in een caquelon op een spiritusbrander. Naast stukjes stevig brood serveren we gekookte krieltjes, kort geblancheerde broccoli en champignons om in de kaas te dippen. Een gezellig gerecht om samen aan tafel van te genieten.",
   "afbeelding": "images/recepten/FondueAI.png",
   "url": "recepten.html?id=fondue",
   "volgorde": 73,
@@ -12,14 +13,59 @@
     "midden-europa": 1
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 40,
+  "moeilijkheid": "Makkelijk",
+  "ingredienten": [
+    "Kaasfondue:",
+    "300 g Gruyère, geraspt",
+    "300 g Emmentaler, geraspt",
+    "1 teen knoflook",
+    "300 ml droge witte wijn",
+    "3 tl maïzena",
+    "30 ml Kirsch (1 borrelglaasje)",
+    "versgemalen zwarte peper, naar smaak",
+    "nootmuskaat, naar smaak",
+    "Om te dippen:",
+    "400 g stevig brood",
+    "400 g kleine krieltjes",
+    "250 g broccoli",
+    "250 g champignons"
+  ],
+  "bereiding": [
+    "Snijd de knoflookteen doormidden en wrijf de binnenkant van een caquelon ermee in.",
+    "Roer de maïzena glad met de Kirsch.",
+    "Breng de witte wijn in de caquelon aan de kook. Zet het vuur iets lager en voeg de geraspte kaas in kleine porties toe. Blijf voortdurend roeren en wacht telkens tot de toegevoegde kaas volledig gesmolten is voordat je de volgende portie toevoegt. Ga zo door totdat alle kaas is opgenomen en een gladde, romige fondue is ontstaan.",
+    "Voeg de Kirsch met maïzena toe en blijf roeren totdat de kaasfondue licht gebonden en glad is.",
+    "Breng de fondue op smaak met versgemalen zwarte peper en nootmuskaat.",
+    "Kook de krieltjes in licht gezouten water gaar. Giet ze af en laat kort uitdampen.",
+    "Snijd de broccoli in kleine roosjes en blancheer ongeveer 3 minuten in kokend water, totdat ze beetgaar zijn. Giet af en laat goed uitlekken.",
+    "Maak de champignons schoon, halveer de grotere exemplaren en blancheer ze 1–2 minuten in kokend water. Laat goed uitlekken.",
+    "Snijd het brood in blokjes en verdeel het brood, de krieltjes, broccoli en champignons over schaaltjes.",
+    "Plaats de caquelon op een spiritusbrander op laag vuur. Houd de fondue warm zonder hem hard te laten koken en roer regelmatig. Dip het brood en de groenten met lange fonduevorken in de warme kaas. Vul een spiritusbrander nooit bij zolang deze brandt of nog heet is."
+  ],
+  "weetje": "Kaasfondue heeft een lange geschiedenis. Al in 1699 verscheen in Zürich een recept waarin kaas met wijn werd verwarmd en brood in de gesmolten kaas werd gedoopt. Toch werd fondue pas in de twintigste eeuw een bekend Zwitsers nationaal gerecht, mede dankzij de promotie door de Zwitserse Kaasunie.\n\nDe bereiding verschilt per streek. In Fribourg maakt men bijvoorbeeld fondue moitié-moitié met gelijke delen Gruyère en Vacherin Fribourgeois, terwijl in Genève soms drie verschillende kaassoorten worden gebruikt.\n\nOok de lange fonduevorken horen bij de traditie. Ze maken het mogelijk om brood veilig in de hete kaas te dopen. De gekleurde uiteinden helpen om de vorken uit elkaar te houden.\n\nBij kaasfondue horen bovendien allerlei tafelgewoonten. In Cooking in Switzerland beschrijft Marianne Kaltenbach dat degene die zijn brood in de kaas verliest, de anderen op een drankje moet trakteren. Bij ons geldt een andere regel: wie zijn brood verliest, moet de afwas doen!",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
+    "receptTitel": "Cheese Fondue",
+    "auteur": "Marianne Kaltenbach",
+    "kookboek": "Cooking in Switzerland",
+    "jaar": null,
+    "pagina": "84",
     "url": null
-  }
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Fondue: the convivial Swiss dish par excellence",
+      "auteur": "Zwitserse overheid",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.aboutswitzerland.eda.admin.ch/en/fondue-the-convivial-swiss-dish-par-excellence"
+    },
+    {
+      "receptTitel": "Fondue as a social event",
+      "auteur": "Living Traditions of Switzerland",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.lebendige-traditionen.ch/en/fondue-as-a-social-event"
+    }
+  ]
 }

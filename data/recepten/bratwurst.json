@@ -3,8 +3,9 @@
   "regios": [
     "germaans"
   ],
-  "titel": "Bratwurst",
-  "korteBeschrijving": "Duitse braadworst, vaak geserveerd met mosterd, brood of zuurkool.",
+  "titel": "Sauerkraut mit Bratwurst",
+  "korteBeschrijving": "Duitse braadworst met kruidig gestoofde zuurkool, romige aardappelpuree en mierikswortel.",
+  "beschrijving": "Sauerkraut mit Bratwurst is een klassiek gerecht uit de Duitse keuken. De zuurkool wordt langzaam gestoofd met appel, ui, jeneverbessen, laurier en karwij- of komijnzaad. Daardoor krijgt de zuurkool een kruidige smaak met een lichtzoete toets. De braadworsten worden goudbruin gebakken in roomboter en geserveerd met een smeuïge aardappelpuree. Mierikswortel zorgt voor een pittig accent dat mooi contrasteert met de zachte smaken van het gerecht.",
   "afbeelding": "images/recepten/BratwurstAI.png",
   "url": "recepten.html?id=bratwurst",
   "volgorde": 69,
@@ -12,14 +13,38 @@
     "germaans": 1
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 45,
+  "moeilijkheid": "Makkelijk",
+  "ingredienten": [
+    "800 g zuurkool, naturel",
+    "4 Duitse braadworsten (Bratwurst)",
+    "800 g kruimige aardappelen",
+    "1 grote ui",
+    "1 appel, bijvoorbeeld Elstar",
+    "150 ml groentebouillon",
+    "5 jeneverbessen",
+    "2 laurierblaadjes",
+    "2 tl karwijzaad of komijnzaad",
+    "65 g roomboter",
+    "100 ml melk",
+    "zout en zwarte peper, naar smaak",
+    "mierikswortel uit een potje, naar smaak"
+  ],
+  "bereiding": [
+    "Schil de aardappelen en snijd ze in grove stukken. Kook ze in licht gezouten water in ongeveer 20 minuten gaar.",
+    "Snipper de ui en schil de appel. Verwijder het klokhuis en snijd de appel in kleine stukjes.",
+    "Smelt 10 g roomboter in een braadpan en fruit de ui enkele minuten. Voeg de appel toe en bak kort mee.",
+    "Voeg de zuurkool, groentebouillon, licht gekneusde jeneverbessen, laurierblaadjes en het karwijzaad of komijnzaad toe. Laat de zuurkool met het deksel op de pan ongeveer 25–30 minuten zachtjes stoven.",
+    "Smelt 20 g roomboter in een koekenpan en bak de braadworsten op middelhoog vuur rondom goudbruin en gaar. Keer ze regelmatig.",
+    "Giet de aardappelen af en laat ze kort uitdampen. Voeg 35 g roomboter en 100 ml melk toe en stamp tot een smeuïge aardappelpuree. Breng op smaak met zout en zwarte peper.",
+    "Verwijder de jeneverbessen en laurierblaadjes uit de zuurkool. Proef en breng eventueel op smaak met peper en zout.",
+    "Verdeel de aardappelpuree, gestoofde zuurkool en braadworsten over vier borden. Serveer met mierikswortel uit een potje naar smaak."
+  ],
   "bron": {
-    "receptTitel": null,
+    "receptTitel": "Sauerkraut mit Bratwurst, uit huiselijke kring",
     "auteur": null,
     "kookboek": null,
+    "jaar": null,
     "url": null
   }
 }

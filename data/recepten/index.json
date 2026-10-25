@@ -671,19 +671,9 @@
       ],
       "bestand": "data/recepten/irishStew.json"
     },
-    "schnitzel": {
-      "titel": "Schnitzel",
-      "korteBeschrijving": "Dun uitgeklopt vlees, gepaneerd en goudbruin gebakken, populair in Duitstalige keukens.",
-      "afbeelding": "images/recepten/SchnitzelAI.png",
-      "url": "recepten.html?id=schnitzel",
-      "regios": [
-        "germaans"
-      ],
-      "bestand": "data/recepten/schnitzel.json"
-    },
     "bratwurst": {
-      "titel": "Bratwurst",
-      "korteBeschrijving": "Duitse braadworst, vaak geserveerd met mosterd, brood of zuurkool.",
+      "titel": "Sauerkraut mit Bratwurst",
+      "korteBeschrijving": "Duitse braadworst met kruidig gestoofde zuurkool, romige aardappelpuree en mierikswortel.",
       "afbeelding": "images/recepten/BratwurstAI.png",
       "url": "recepten.html?id=bratwurst",
       "regios": [
@@ -702,8 +692,8 @@
       "bestand": "data/recepten/stamppot.json"
     },
     "sauerbraten": {
-      "titel": "Sauerbraten",
-      "korteBeschrijving": "Gemarineerd en langzaam gegaard rundvlees in een rijke zoetzure saus.",
+      "titel": "Limburgs zuurvlees (zoervleisj)",
+      "korteBeschrijving": "Traditioneel Limburgs zuurvlees met een rijke zoetzure saus, geserveerd met rode kool en krokante hertoginnenaardappeltjes.",
       "afbeelding": "images/recepten/SauerbratenAI.png",
       "url": "recepten.html?id=sauerbraten",
       "regios": [
@@ -1662,6 +1652,16 @@
         "maleis-indonesisch"
       ],
       "bestand": "data/recepten/sate-ayam.json"
+    },
+    "bloteBilletjes": {
+      "titel": "Blote billetjes in het gras",
+      "korteBeschrijving": "Traditionele stamppot uit de Lage Landen met snijbonen, witte bonen en krokant gebakken spekreepjes.",
+      "afbeelding": "images/recepten/BloteBilletjesAI.png",
+      "url": "recepten.html?id=bloteBilletjes",
+      "regios": [
+        "germaans"
+      ],
+      "bestand": "data/recepten/bloteBilletjes.json"
     }
   }
 }

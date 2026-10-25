@@ -3,23 +3,89 @@
   "regios": [
     "germaans"
   ],
-  "titel": "Sauerbraten",
-  "korteBeschrijving": "Gemarineerd en langzaam gegaard rundvlees in een rijke zoetzure saus.",
+  "titel": "Limburgs zuurvlees (zoervleisj)",
+  "korteBeschrijving": "Traditioneel Limburgs zuurvlees met een rijke zoetzure saus, geserveerd met rode kool en krokante hertoginnenaardappeltjes.",
+  "beschrijving": "Limburgs zuurvlees, ook wel zoervleisj genoemd, is een traditionele stoofschotel uit Limburg. Oorspronkelijk werd het gerecht vaak met paardenvlees bereid, maar tegenwoordig wordt meestal rundvlees gebruikt. In deze versie gebruiken we sukadelappen, die samen met uien een nacht marineren in azijn, laurier en kruidnagel. Vervolgens wordt het vlees langzaam gestoofd, waarna appelstroop en ontbijtkoek de saus zijn kenmerkende zoetzure smaak en volle structuur geven.\n\nWe serveren het zuurvlees met zacht gestoofde rode kool met appel en krokante hertoginnenaardappeltjes uit de airfryer. Eventueel kan er wat appelmoes bij worden geserveerd.\n\nLet op de planning: laat het zuurvlees de hele nacht marineren. Reken de volgende dag op 2,5–3 uur stoven voor het vlees en 45–60 minuten voor de rode kool. Maak de hertoginnenaardappeltjes vlak voor het serveren.",
   "afbeelding": "images/recepten/SauerbratenAI.png",
   "url": "recepten.html?id=sauerbraten",
   "volgorde": 71,
   "regioVolgorde": {
-    "germaans": 3
+    "germaans": 2
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 210,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Zuurvlees:",
+    "750 g sukadelappen (paardenvlees als traditioneel alternatief)",
+    "3 grote uien",
+    "200 ml natuurazijn",
+    "200 ml water",
+    "3 laurierblaadjes",
+    "4 kruidnagels",
+    "50 g roomboter",
+    "3 el Limburgse appelstroop",
+    "2 plakken ontbijtkoek",
+    "zout en zwarte peper, naar smaak",
+    "Rode kool:",
+    "600 g rode kool",
+    "1 appel (bijvoorbeeld Elstar)",
+    "100 ml appelsap",
+    "1 kaneelstokje",
+    "15 g roomboter",
+    "1 el appelazijn",
+    "zout, naar smaak",
+    "Hertoginnenaardappeltjes:",
+    "600–800 g diepvries-pommes duchesse (hertoginnenaardappeltjes)",
+    "Voor erbij:",
+    "appelmoes, naar smaak (optioneel)"
+  ],
+  "bereiding": [
+    "Snijd de sukadelappen in grove stukken en de uien in halve ringen.",
+    "Doe het vlees en de uien samen in een ruime kom. Voeg de natuurazijn, het water, de laurierblaadjes en de kruidnagels toe.",
+    "Dek de kom af en laat het vlees, de uien en de kruiden de hele nacht marineren in de koelkast.",
+    "Haal het vlees en de uien uit de marinade en laat uitlekken. Bewaar het marinadevocht, want dat gebruiken we later bij het stoven.",
+    "Smelt 50 g roomboter in een braadpan en bak het vlees rondom aan. Voeg vervolgens de gemarineerde uien toe en laat ze even meebakken.",
+    "Voeg het bewaarde marinadevocht toe aan het aangebraden vlees en de uien. Breng het geheel rustig aan de kook en laat het vervolgens met het deksel op de pan 2,5–3 uur op laag vuur zachtjes stoven, totdat het vlees goed mals is. Roer af en toe en voeg eventueel een scheutje water toe als er te weinig vocht overblijft.",
+    "Voeg tijdens de laatste 30 minuten 3 eetlepels Limburgse appelstroop en 2 verkruimelde plakken ontbijtkoek toe. Roer goed door en laat de ontbijtkoek oplossen, zodat de saus bindt. Laat indien nodig nog even zonder deksel inkoken tot een mooie, dikke saus ontstaat.",
+    "Proef het zuurvlees en breng op smaak met zout en zwarte peper. Voeg eventueel wat extra appelstroop toe als het gerecht te zuur is, of een klein scheutje azijn als het juist te zoet is. De uiteindelijke smaak moet een mooie balans tussen zoet en zuur hebben.",
+    "Verwijder de buitenste bladeren van de rode kool en snijd de kool in vieren. Verwijder de harde stronk en snijd de kool in fijne reepjes. Schil de appel, verwijder het klokhuis en snijd hem in kleine stukjes.",
+    "Smelt 15 g roomboter in een ruime pan. Voeg de rode kool, appel, 100 ml appelsap, 1 eetlepel appelazijn en het kaneelstokje toe. Schep alles goed om en breng zachtjes aan de kook.",
+    "Laat de rode kool met het deksel op de pan ongeveer 45–60 minuten zachtjes stoven, totdat de kool gaar is maar nog enige structuur heeft. Roer af en toe en voeg zo nodig een scheutje water toe om aanbranden te voorkomen.",
+    "Verwijder het kaneelstokje en breng de rode kool op smaak met zout. Voeg eventueel nog een klein scheutje appelazijn toe als je een frissere smaak wilt.",
+    "Verwarm de airfryer voor volgens de aanwijzingen op de verpakking van de diepvries-hertoginnenaardappeltjes.",
+    "Verdeel de bevroren hertoginnenaardappeltjes over het mandje van de airfryer. Bereid ze volgens de aanwijzingen op de verpakking tot ze goudbruin en krokant zijn. Bak indien nodig in twee porties.",
+    "Verdeel het Limburgse zuurvlees, de rode kool en de hertoginnenaardappeltjes over vier borden. Serveer eventueel met wat appelmoes erbij."
+  ],
+  "weetje": "Limburgs zuurvlees, of zoervleisj, wordt vaak geassocieerd met paardenvlees. Toch werd het gerecht vroeger ook met rundvlees gemaakt. In Kermis. Eene Limburgsche schets (1922) beschrijft Mathieu Kessels hoe zuurvlees rond 1870 een van de hoogtepunten was van het Limburgse kermismaal. Hij noemt het een geliefd gerecht waarvoor rundvlees meerdere dagen in azijn en kruiden werd gelegd.\n\nDe azijn heeft daarbij twee functies. Het zuur helpt de structuur van spiereiwitten te veranderen en kan bindweefsel zachter maken, vooral aan het oppervlak van het vlees. Tijdens het langdurige stoven wordt het bindweefsel verder afgebroken. Daarnaast geeft azijn het gerecht zijn kenmerkende frisse, zure smaak, die met de zoete appelstroop en ontbijtkoek in evenwicht wordt gebracht.\n\nOver de precieze oorsprong van zuurvlees bestaan verschillende verhalen. Zo wordt het gerecht soms verbonden met de paarden van Napoleons leger, maar overtuigend historisch bewijs voor die verklaring ontbreekt.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
+    "receptTitel": "Limburgs zuurvlees (eigen bewerking)",
+    "auteur": "Eigen bewerking",
     "kookboek": null,
+    "jaar": null,
     "url": null
-  }
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Kermis. Eene Limburgsche schets, hoofdstuk II, pp. 64–65",
+      "auteur": "M.J.H. Kessels",
+      "kookboek": "Kermis. Eene Limburgsche schets",
+      "jaar": 1922,
+      "url": "https://www.dbnl.org/tekst/kess045kerm01_01/kess045kerm01_01_0002.php"
+    },
+    {
+      "receptTitel": "Limburgs zuurvlees: zo oud als de weg naar Rome",
+      "auteur": "Marcel Maassen",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://marcelmaassen.nl/het-oudste-gerecht-van-nederland-zuurvlees/"
+    },
+    {
+      "receptTitel": "Marinades Based on Natural Ingredients as a Way to Improve the Quality and Shelf Life of Meat: A Review",
+      "auteur": null,
+      "kookboek": "Foods (2023)",
+      "jaar": 2023,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10572579/"
+    }
+  ]
 }

@@ -1,0 +1,48 @@
+{
+  "sleutel": "bloteBilletjes",
+  "regios": [
+    "germaans"
+  ],
+  "titel": "Blote billetjes in het gras",
+  "afbeelding": "images/recepten/BloteBilletjesAI.png",
+  "url": "recepten.html?id=bloteBilletjes",
+  "korteBeschrijving": "Traditionele stamppot uit de Lage Landen met snijbonen, witte bonen en krokant gebakken spekreepjes.",
+  "beschrijving": "Blote billetjes in het gras is een traditioneel gerecht uit de Lage Landen. De naam verwijst naar de witte bonen, de 'blote billetjes', die tussen de groene snijbonen, het 'gras', liggen. In deze versie worden aardappelen en snijbonen samen gekookt en tot een smeuïge stamppot verwerkt. Witte bonen en krokant gebakken spekreepjes worden erdoor gemengd. Serveer met geraspte kaas en piccalilly voor een heerlijke combinatie van hartige, romige en frisse smaken.",
+  "ingredienten": [
+    "1 kg kruimige aardappelen",
+    "600 g verse snijbonen",
+    "400 g witte bonen (uitlekgewicht)",
+    "200 g gerookte spekreepjes",
+    "40 g roomboter",
+    "100 ml melk",
+    "½ tl gemalen nootmuskaat",
+    "zout en zwarte peper, naar smaak",
+    "100 g geraspte kaas, voor erbij",
+    "4 el piccalilly, voor erbij"
+  ],
+  "bereiding": [
+    "Schil de aardappelen en snijd ze in grove stukken. Maak de snijbonen schoon en snijd ze schuin in dunne reepjes.",
+    "Kook de aardappelen in licht gezouten water in ongeveer 20–25 minuten gaar.",
+    "Voeg na 10 minuten koken de snijbonen toe aan de aardappelen en kook ze samen verder tot beide gaar zijn.",
+    "Spoel de witte bonen af, laat ze uitlekken en verwarm ze voorzichtig in een pannetje met een bodempje water.",
+    "Bak de spekreepjes in een droge koekenpan goudbruin en krokant.",
+    "Giet de aardappelen en snijbonen af en laat ze kort uitdampen. Voeg de boter, melk en nootmuskaat toe en stamp tot een smeuïge puree. Breng op smaak met zout en zwarte peper.",
+    "Schep de witte bonen en gebakken spekreepjes door de stamppot. Meng voorzichtig, zodat de witte bonen zoveel mogelijk heel blijven.",
+    "Serveer met geraspte kaas en piccalilly naar smaak."
+  ],
+  "porties": 4,
+  "bereidingstijdMinuten": 40,
+  "moeilijkheid": "Makkelijk",
+  "bron": {
+    "receptTitel": "Blote billetjes in het gras uit huiselijke kring",
+    "auteur": null,
+    "kookboek": null,
+    "jaar": null,
+    "url": null
+  },
+  "id": 201,
+"volgorde": 167,
+"regioVolgorde": {
+  "germaans": 5
+}
+}

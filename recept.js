@@ -4,6 +4,14 @@
 const receptElement = document.getElementById('recept');
 const paginaParameters = new URLSearchParams(window.location.search);
 const receptSleutel = paginaParameters.get('id');
+const terugRegio = paginaParameters.get('regio');
+const terugUrl = terugRegio && /^[a-z0-9-]+$/i.test(terugRegio)
+    ? `worldmap.html?regio=${encodeURIComponent(terugRegio)}`
+    : 'worldmap.html';
+
+document.querySelectorAll('a[href="worldmap.html"]').forEach(link => {
+    link.href = terugUrl;
+});
 
 function element(naam, klasse, tekst) {
   const el = document.createElement(naam);
@@ -27,7 +35,7 @@ function minutenTekst(minuten) {
 function toonFout(bericht) {
   receptElement.replaceChildren(element('h1', 'error-title', 'Recept niet beschikbaar'), element('p', 'error-body', bericht));
   const a = element('a', 'back-link', '← Terug naar de wereldkaart');
-  a.href = 'worldmap.html';
+  a.href = terugUrl;
   receptElement.append(a);
 }
 

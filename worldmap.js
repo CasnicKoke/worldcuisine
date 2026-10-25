@@ -10,6 +10,17 @@ async function laadWereldkaart() {
 
         document.getElementById("world-map").innerHTML = svgTekst;
         maakKaartInteractief();
+
+        // Herstel de regio vanuit de URL
+        const parameters = new URLSearchParams(window.location.search);
+        const regio = parameters.get('regio');
+
+        if (regio && Object.prototype.hasOwnProperty.call(continenten, regio)) {
+            geselecteerdeRegio = regio;
+            lichtContinentOp(regio, true);
+            toonRegioInfo(regio);
+            toonRecepten(regio);
+        }
         pasSidebarHoogteAan();
     
     } catch (error) {
@@ -1235,7 +1246,8 @@ function maakReceptkaart(sleutel, regioLabel = "") {
         : "";
 
     return `
-        <a class="recept-card" href="${recept.url}">
+    <a class="recept-card" href="${recept.url}${geselecteerdeRegio ? 
+        '&regio=' + encodeURIComponent(geselecteerdeRegio) : ''}">
             <div class="recept-card-photo">
                 <img src="${recept.afbeelding}" alt="${recept.titel}" loading="lazy">
             </div>
@@ -1295,7 +1307,12 @@ function toonWereldRecepten() {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
-    receptenGereed.then(toonWereldRecepten).catch(() => {});
+    receptenGereed.then(() => {
+        const regio = new URLSearchParams(window.location.search).get('regio');
+        if (!regio || !Object.prototype.hasOwnProperty.call(continenten, regio)) {
+            toonWereldRecepten();
+        }
+    }).catch(() => {});
 });
 
 function pasSidebarHoogteAan() {

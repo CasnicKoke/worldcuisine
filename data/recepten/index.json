@@ -33,7 +33,7 @@
     },
     "padThai": {
       "titel": "Pad Thai",
-      "korteBeschrijving": "Roergebakken rijstnoedels met garnalen, tofu, ei, taugé en pinda's.",
+      "korteBeschrijving": "Thaise roergebakken rijstnoedels met gamba's, ei en lente-ui, in een zoetzure saus van tamarinde, palmsuiker, vissaus en oestersaus.",
       "afbeelding": "images/recepten/PadThaiAI.png",
       "url": "recepten.html?id=padThai",
       "regios": [
@@ -43,7 +43,7 @@
     },
     "phoBo": {
       "titel": "Phở Bò",
-      "korteBeschrijving": "Vietnamese noedelsoep met rundvlees, kruiden en een aromatische bouillon.",
+      "korteBeschrijving": "Vietnamese noedelsoep met een aromatische runderbouillon, rijstnoedels, langzaam gegaard rundvlees en dunne plakjes biefstuk, geserveerd met verse kruiden en limoen.",
       "afbeelding": "images/recepten/PhoBoAI.png",
       "url": "recepten.html?id=phoBo",
       "regios": [
@@ -53,7 +53,7 @@
     },
     "amok": {
       "titel": "Amok",
-      "korteBeschrijving": "Cambodjaanse viscurry gestoomd in bananenblad met kokosmelk en kruiden.",
+      "korteBeschrijving": "Cambodjaanse kokoscurry met zeebaars, gamba's en spinazie, op smaak gebracht met zelfgemaakte kroeung.",
       "afbeelding": "images/recepten/AmokAI.png",
       "url": "recepten.html?id=amok",
       "regios": [
@@ -61,15 +61,15 @@
       ],
       "bestand": "data/recepten/amok.json"
     },
-    "mohinga": {
-      "titel": "Mohinga",
-      "korteBeschrijving": "Birmese noedelsoep met visbouillon, beschouwd als nationaal gerecht van Myanmar.",
-      "afbeelding": "images/recepten/MohingaAI.png",
-      "url": "recepten.html?id=mohinga",
+    "gangPitMockNut": {
+      "titel": "Gang Pit Mock Nut",
+      "korteBeschrijving": "Laotiaanse ananascurry met gamba's, sint-jakobsschelpen en basilicum kokossaus, bereid met zelfgemaakte currypasta.",
+      "afbeelding": "images/recepten/GangPitMockNutAI.png",
+      "url": "recepten.html?id=gangPitMockNut",
       "regios": [
         "indo-chinees"
       ],
-      "bestand": "data/recepten/mohinga.json"
+      "bestand": "data/recepten/gangPitMockNut.json"
     },
     "pekingEend": {
       "titel": "Peking-eend met Chinese pannenkoekjes",
@@ -651,15 +651,15 @@
       ],
       "bestand": "data/recepten/shepherdsPie.json"
     },
-    "fullEnglish": {
-      "titel": "Full English",
-      "korteBeschrijving": "Uitgebreid Engels ontbijt met eieren, worst, spek, bonen, tomaat en toast.",
-      "afbeelding": "images/recepten/FullEnglishAI.png",
-      "url": "recepten.html?id=fullEnglish",
+    "steakAlePie": {
+      "titel": "Steak & Ale Pie",
+      "korteBeschrijving": "Traditionele Britse pie met langzaam gestoofd rundvlees, gerookt spek, prei en champignons in een rijke saus van Engelse ale, onder een bladerdeegdeksel.",
+      "afbeelding": "images/recepten/SteakAlePieAI.png",
+      "url": "recepten.html?id=steakAlePie",
       "regios": [
         "britse-eilanden"
       ],
-      "bestand": "data/recepten/fullEnglish.json"
+      "bestand": "data/recepten/steakAlePie.json"
     },
     "irishStew": {
       "titel": "Irish Stew",
@@ -1144,7 +1144,7 @@
     },
     "bunnyChow": {
       "titel": "Bunny Chow",
-      "korteBeschrijving": "Uitgehold brood gevuld met kruidige curry, ontstaan in de Zuid-Afrikaanse Indiase gemeenschap.",
+      "korteBeschrijving": "Zuid-Afrikaanse lamscurry met aardappelen en aromatische specerijen, geserveerd in een uitgeholde Italiaanse bol.",
       "afbeelding": "images/recepten/BunnyChowAI.png",
       "url": "recepten.html?id=bunnyChow",
       "regios": [

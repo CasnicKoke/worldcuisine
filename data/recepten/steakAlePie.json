@@ -1,0 +1,89 @@
+{
+  "sleutel": "steakAlePie",
+  "regios": [
+    "britse-eilanden"
+  ],
+  "titel": "Steak & Ale Pie",
+  "korteBeschrijving": "Traditionele Britse pie met langzaam gestoofd rundvlees, gerookt spek, prei en champignons in een rijke saus van Engelse ale, onder een bladerdeegdeksel.",
+  "beschrijving": "Steak & Ale Pie is een klassieker uit de Britse keuken. Deze hartige pie bestaat uit mals rundvlees dat langzaam wordt gestoofd in Engelse ale, samen met uien, kruiden en bouillon. De rijke vleesvulling wordt afgedekt met krokant bladerdeeg.",
+  "afbeelding": "images/recepten/SteakAlePieAI.png",
+  "url": "recepten.html?id=steakAlePie",
+  "volgorde": 66,
+  "regioVolgorde": {
+    "britse-eilanden": 2
+  },
+  "porties": 4,
+  "bereidingstijdMinuten": 210,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "3 el zonnebloemolie",
+    "150 g gerookte spekreepjes",
+    "1 grote ui, grof gesneden",
+    "2 tenen knoflook",
+    "600 g sukadelappen",
+    "330 ml Engelse ale, bij voorkeur bitter of amber ale",
+    "330 ml runderbouillon",
+    "2 tl tomatenpuree",
+    "3 takjes verse tijm",
+    "2 laurierblaadjes",
+    "1 prei",
+    "175 g kastanjechampignons",
+    "1½ el maïzena",
+    "300–350 g koelvers bladerdeeg",
+    "1 ei",
+    "Zout en versgemalen zwarte peper naar smaak"
+  ],
+  "bereiding": [
+    "Verwarm de oven voor op 180 °C (boven- en onderwarmte). Snijd het rundvlees in blokjes van ongeveer 2,5 cm en kruid het met zout en peper. Snijd de ui grof en hak de knoflook fijn. Was de prei grondig en snijd deze in halve ringen van ongeveer 1 cm.",
+    "Verhit een deel van de olie in een koekenpan. Bak de spekreepjes met de ui tot de ui licht goudbruin is. Voeg de knoflook toe en bak kort mee. Schep het mengsel in een ovenbestendige braadpan met deksel.",
+    "Doe opnieuw wat olie in de koekenpan en bak de stukken rundvlees in kleine porties rondom bruin. Neem de tijd om een goede braadkorst te krijgen. Schep het vlees telkens in de braadpan bij het spek en de ui.",
+    "Giet ongeveer de helft van de Engelse ale in de koekenpan waarin het vlees is gebakken. Laat kort koken en schraap de aanbaksels met een houten spatel los. Schenk de inhoud van de koekenpan in de braadpan bij het vlees, spek, de ui en knoflook.",
+    "Voeg in dezelfde braadpan de resterende ale, de runderbouillon, tomatenpuree, tijm en laurier toe. Breng op het fornuis rustig aan de kook, doe het deksel erop en zet de braadpan in de oven.",
+    "Stoof het rundvlees ongeveer 1½–2 uur, tot het bijna mals is. Kijk af en toe of er voldoende vocht in de braadpan zit en voeg zo nodig wat water toe.",
+    "Doe de prei tijdens de laatste 25–30 minuten van het stoven in de braadpan. Roer voorzichtig door en laat meegaren tot het vlees mals is en de prei zacht maar nog herkenbaar is.",
+    "Roer de maïzena met een scheutje koud water glad en meng deze door het stoofvocht. Zet de braadpan nog ongeveer 5 minuten zonder deksel in de oven om de saus te binden. Haal de tijmtakjes en laurierblaadjes eruit, proef en breng zo nodig verder op smaak.",
+    "Bak de kastanjechampignons in de resterende olie op hoog vuur in ongeveer 5 minuten goudbruin. Schep ze door de vleesvulling. Laat de vulling vervolgens afkoelen tot ten minste lauwwarm, zodat het bladerdeeg niet voortijdig zacht wordt.",
+    "Verhoog de oventemperatuur naar 200 °C. Schep de afgekoelde stoofvulling vanuit de braadpan in een diepe ovenschaal van ongeveer 2 liter. Zorg dat de vulling niet boven de rand uitkomt.",
+    "Rol het bladerdeeg zo nodig uit tot een lap die iets groter is dan de ovenschaal. Bestrijk de rand met losgeklopt ei, leg het deeg over de schaal en druk de randen vast. Snijd overtollig deeg weg en maak middenin een klein stoomgaatje. Bestrijk de bovenkant met het resterende ei.",
+    "Plaats de ovenschaal op een bakplaat en bak de pie ongeveer 30–35 minuten, tot het bladerdeeg goed gerezen en goudbruin is. Laat de pie voor het serveren 5–10 minuten rusten."
+  ],
+  "weetje": "Hartige taarten ('pie') hebben een lange geschiedenis in de Britse keuken. Al in de middeleeuwen werden vlees, vis en groenten in deeg verpakt en gebakken. Die vroege pasteikorsten werden *coffins* genoemd, een oud Engels woord voor een omhulsel of kist. Het deeg was vaak zo dik en hard dat het vooral diende als een soort ovenschaal: het hield de vulling bijeen en beschermde deze tijdens het bakken. De korst werd niet altijd opgegeten.\n\nIn de loop van de eeuwen veranderden deze stevige deegomhulsels in de smakelijke pasteikorsten die we tegenwoordig kennen. Onze Steak & Ale Pie heeft zelfs helemaal geen deegbodem meer, maar alleen een krokant bladerdeegdeksel. Hartige pies zijn nog altijd een geliefd onderdeel van de Britse pubkeuken.\n\nOok *ale* heeft een lange Britse geschiedenis. Het woord werd in het Oudengels al gebruikt voor bier dat van gemout graan werd gebrouwen. Oorspronkelijk werd er in Engeland onderscheid gemaakt tussen *ale* zonder hop en *beer* met hop. Vanaf de zestiende eeuw werd ook aan ale steeds vaker hop toegevoegd, waardoor het onderscheid geleidelijk vervaagde. Tegenwoordig verwijst *ale* vooral naar biersoorten die met bovengist worden gebrouwen, zoals bitter, pale ale en brown ale.\n\nIn Steak & Ale Pie geeft het bier een karakteristieke, moutige smaak aan de langzaam gestoofde rundvleesvulling. De combinatie van vlees, bier en deeg past daarmee in een eeuwenoude Britse culinaire traditie, al is de precieze oorsprong van de moderne Steak & Ale Pie niet bekend.",
+  "bron": {
+    "receptTitel": "Steak & Ale Pie",
+    "auteur": "Si King en Dave Myers",
+    "kookboek": "The Hairy Bikers' Family Cookbook: Mums Know Best!",
+    "jaar": 2010,
+    "pagina": 180,
+    "url": "https://www.weidenfeldandnicolson.co.uk/titles/hairy-bikers/mums-know-best/9780297860266/"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Meat to sweet: A history of the mince pie",
+      "auteur": "Sam Bilton / English Heritage",
+      "kookboek": null,
+      "jaar": 2015,
+      "url": "https://www.english-heritage.org.uk/visit/inspire-me/blog/blog-posts/recipe-for-real-mince-pies/"
+    },
+    {
+      "receptTitel": "Hearse Pies and Pastry Coffins: Material Cultures of Food, Preservation, and Death in the Early Modern British World",
+      "auteur": "Amanda E. Herbert en Michael Walkden",
+      "kookboek": "Global Food History",
+      "jaar": 2023,
+      "url": "https://doi.org/10.1080/20549547.2023.2252665"
+    },
+    {
+      "receptTitel": "Ale",
+      "auteur": "Nick R. Jones",
+      "kookboek": "The Oxford Companion to Beer",
+      "jaar": 2012,
+      "url": "https://www.beerandbrewing.com/dictionary/38hYNYL2Dg"
+    },
+    {
+      "receptTitel": "6 of the best classic British pub dishes",
+      "auteur": "Fiona Sims",
+      "kookboek": "National Geographic Traveller (UK)",
+      "jaar": 2024,
+      "url": "https://www.nationalgeographic.com/travel/article/best-british-pub-dishes"
+    }
+  ]
+}

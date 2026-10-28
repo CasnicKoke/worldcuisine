@@ -4,7 +4,8 @@
     "indo-chinees"
   ],
   "titel": "Pad Thai",
-  "korteBeschrijving": "Roergebakken rijstnoedels met garnalen, tofu, ei, taugé en pinda's.",
+  "korteBeschrijving": "Thaise roergebakken rijstnoedels met gamba's, ei en lente-ui, in een zoetzure saus van tamarinde, palmsuiker, vissaus en oestersaus.",
+  "beschrijving": "Pad Thai is een van de bekendste gerechten uit de Thaise keuken. Het bestaat uit rijstnoedels die op hoog vuur worden geroerbakt met ei, groenten en vaak garnalen, kip of tofu. Kenmerkend is de combinatie van zoete, zure en hartige smaken.",
   "afbeelding": "images/recepten/PadThaiAI.png",
   "url": "recepten.html?id=padThai",
   "volgorde": 4,
@@ -12,14 +13,68 @@
     "indo-chinees": 0
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 40,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de Pad Thai:",
+    "250 g gedroogde, middelbrede rijstnoedels (snelkokend, uit de supermarkt)",
+    "500 g rauwe, gepelde en schoongemaakte gamba's, zonder darmkanaal",
+    "4 eieren",
+    "5 tenen knoflook",
+    "2 sjalotten",
+    "100 g lente-ui",
+    "4 el zonnebloemolie",
+    "2 limoenen",
+    "Chilivlokken naar smaak (optioneel)",
+    "Voor de Pad Thai-saus:",
+    "70 g palmsuiker",
+    "5 el Thaise tamarindepuree (niet geconcentreerd)",
+    "3 el vissaus",
+    "1 el oestersaus",
+    "60 ml water"
+  ],
+  "bereiding": [
+    "Breng een ruime pan water aan de kook. Kook de rijstnoedels volgens de aanwijzingen op de verpakking, maar haal ze ongeveer 1 minuut eerder uit het water, zodat ze nog een beetje stevig zijn. Giet af, spoel kort met koud water en laat goed uitlekken.",
+    "Doe de fijngesneden palmsuiker in een steelpan en verwarm op middelhoog vuur, totdat de suiker smelt en licht karamelliseert. Voeg voorzichtig het water toe; dit kan spatten. Roer vervolgens de tamarindepuree, vissaus en oestersaus erdoor. Laat kort zachtjes koken en roer totdat de suiker volledig is opgelost. Zet de saus apart.",
+    "Dep de gamba's goed droog. Hak de knoflook fijn en snipper de sjalotten. Snijd de lente-ui in stukken van ongeveer 4 cm. Snijd de limoenen in partjes.",
+    "Verdeel de noedels, gamba's, lente-ui, saus en olie in twee gelijke porties. Klop de eieren los en verdeel ze over twee schaaltjes. We bereiden de Pad Thai in twee afzonderlijke wokbeurten, zodat de wok voldoende heet blijft en de noedels niet klef worden.",
+    "Verhit een deel van de olie in een grote wok op hoog vuur. Voeg de eerste portie gamba's toe en bak ze kort aan beide kanten, totdat ze net gaar zijn. Schep ze uit de wok en zet apart.",
+    "Voeg indien nodig wat extra olie toe en zet het vuur iets lager. Bak de sjalotten en knoflook kort, totdat ze zacht worden en de knoflook licht begint te kleuren. Voeg eventueel wat chilivlokken toe als je de Pad Thai pittig wilt maken.",
+    "Zet het vuur weer hoog. Voeg de eerste portie rijstnoedels en de bijbehorende saus toe. Schep voortdurend om gedurende ongeveer 1–2 minuten, totdat de noedels de saus hebben opgenomen en volledig gaar zijn. Voeg eventueel een klein scheutje water toe als het geheel te droog wordt.",
+    "Schuif de noedels naar één kant van de wok en voeg een beetje olie toe aan de vrijgekomen ruimte. Schenk de losgeklopte eieren uit het eerste schaaltje in de wok. Laat ongeveer 30 seconden stollen en schep vervolgens het ei door de noedels, totdat het volledig gaar is.",
+    "Voeg de gebakken gamba's weer toe, samen met de helft van de lente-ui. Zet het vuur uit en schep alles kort door elkaar.",
+    "Schep de Pad Thai op twee borden en houd deze warm. Herhaal vervolgens stap 5 tot en met 9 met de resterende ingrediënten.",
+    "Serveer de Pad Thai direct met partjes limoen en eventueel extra chilivlokken. Knijp vlak voor het eten wat limoensap over de noedels."
+  ],
+  "weetje": "De naam Pad Thai (ook geschreven als Phad Thai of Phat Thai) betekent letterlijk 'op Thaise wijze geroerbakt'. Het Thaise woord *phad* (ผัด) betekent 'roerbakken': het bereiden van ingrediënten in een hete wok met een beetje olie. De oorspronkelijke, langere naam *kuai tiao phat thai* betekent 'op Thaise wijze geroerbakte noedels'.\n\nHoewel Pad Thai tegenwoordig een van de bekendste gerechten van Thailand is, heeft het een relatief moderne geschiedenis. De rijstnoedels en de techniek van het roerbakken zijn sterk beïnvloed door Chinese immigranten, die hun kooktradities naar Thailand meebrachten.\n\nIn de jaren dertig en veertig van de twintigste eeuw stimuleerde de Thaise regering onder premier Plaek Phibunsongkhram het eten van noedelgerechten. Dit paste binnen een breder programma om de nationale identiteit te versterken en de bevolking te stimuleren voedzame, betaalbare maaltijden te eten. Ook het gerecht Pad Thai werd met deze periode verbonden en groeide uit tot een symbool van de Thaise keuken.\n\nOf de regering Pad Thai daadwerkelijk heeft uitgevonden, is onderwerp van historisch debat. Roergebakken noedels bestonden namelijk al eerder, en de precieze oorsprong van het huidige recept is niet met zekerheid vastgesteld. Tegenwoordig is Pad Thai vooral bekend als een klassieker van de Thaise straatkeuken, waarbij iedere kok een eigen balans zoekt tussen de zoete palmsuiker, zure tamarinde en hartige vissaus.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Authentic Pad Thai Recipe",
+    "auteur": "Pailin Chongchitnant",
+    "kookboek": "Hot Thai Kitchen",
+    "jaar": null,
+    "url": "https://hot-thai-kitchen.com/best-pad-thai/"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "The Surprising History of Pad Thai",
+      "auteur": "Isabelle Kliger",
+      "kookboek": "Smithsonian Magazine",
+      "jaar": 2024,
+      "url": "https://www.smithsonianmag.com/travel/the-surprising-history-of-pad-thai-180984625/"
+    },
+    {
+      "receptTitel": "Pad Thai: Love, to the Noodles of Thailand",
+      "auteur": "Thailand Foundation",
+      "kookboek": null,
+      "jaar": 2021,
+      "url": "https://thailandfoundation.or.th/853/"
+    },
+    {
+      "receptTitel": "Pad Thai: the Thai-ization of Chinese food and the Thai nationalism project by the Phibunsongkhram government",
+      "auteur": "Yao Yao, Baoyun Yang & Xinxin Wang",
+      "kookboek": "National Identities",
+      "jaar": 2024,
+      "url": "https://doi.org/10.1080/14608944.2024.2369818"
+    }
+  ]
 }

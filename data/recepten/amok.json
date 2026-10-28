@@ -4,7 +4,8 @@
     "indo-chinees"
   ],
   "titel": "Amok",
-  "korteBeschrijving": "Cambodjaanse viscurry gestoomd in bananenblad met kokosmelk en kruiden.",
+  "korteBeschrijving": "Cambodjaanse kokoscurry met zeebaars, gamba's en spinazie, op smaak gebracht met zelfgemaakte kroeung.",
+  "beschrijving": "Amok is een traditioneel gerecht uit Cambodja, waarin vis wordt gecombineerd met kokosmelk en een geurige kruidenpasta die kroeung wordt genoemd. De klassieke Cambodjaanse fish amok wordt vaak gestoomd in bananenblad, maar in deze versie maken we een romige curry in de wok.",
   "afbeelding": "images/recepten/AmokAI.png",
   "url": "recepten.html?id=amok",
   "volgorde": 6,
@@ -12,14 +13,79 @@
     "indo-chinees": 2
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 60,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Amok:",
+    "3 el zonnebloemolie",
+    "2 el zelfgemaakte kroeung",
+    "400 g zeebaarsfilet, zonder huid en graten",
+    "300 g rauwe gamba's, gepeld en schoongemaakt",
+    "400 g verse spinazie",
+    "500 ml kokosmelk",
+    "1 el palmsuiker",
+    "4 el vissaus",
+    "300 g jasmijnrijst",
+    "Kroeung (volledige hoeveelheid, restant invriezen):",
+    "4 el zonnebloemolie",
+    "5 stengels citroengras",
+    "3 gedroogde rode chilipepers",
+    "30 g verse laos",
+    "1 tl gemalen kurkuma",
+    "6 tenen knoflook",
+    "2 sjalotten",
+    "10 kaffirlimoenblaadjes",
+    "6 groene kardemompeulen",
+    "20 zwarte peperkorrels",
+    "½ tl korianderzaad",
+    "½ tl venkelzaad",
+    "100 ml water",
+    "1 klein bosje verse koriander, inclusief stengels",
+    "2 tl trassi"
+  ],
+  "bereiding": [
+    "Verkruimel de trassi en rooster deze kort in een droge koekenpan totdat de geur vrijkomt. Laat afkoelen.",
+    "Verwijder de harde buitenste bladeren van het citroengras en snijd de zachte binnenste delen fijn. Hak de chilipepers, laos, knoflook en sjalotten grof. Verwijder de harde middennerven van de kaffirlimoenblaadjes en haal de zaadjes uit de kardemompeulen.",
+    "Doe alle ingrediënten voor de kroeung, inclusief de geroosterde trassi, in een keukenmachine. Maal tot een zo glad mogelijke kruidenpasta. Voeg eventueel wat extra water toe als het mengsel te droog is om goed te malen.",
+    "Zet de benodigde kroeung apart voor de Amok. Verdeel de rest in kleine porties, bijvoorbeeld in een ijsblokjesvorm, en vries deze in voor later gebruik.",
+    "Kook de jasmijnrijst volgens de aanwijzingen op de verpakking.",
+    "Snijd de zeebaarsfilet in stukken van ongeveer 4 cm. Controleer de gamba's op eventuele achtergebleven darmkanalen. Was de spinazie en laat goed uitlekken.",
+    "Verhit de zonnebloemolie in een grote wok of braadpan. Voeg de kroeung toe en bak deze enkele minuten op middelhoog vuur, totdat de kruiden beginnen te geuren. Roer regelmatig om aanbranden te voorkomen.",
+    "Voeg de kokosmelk, palmsuiker en vissaus toe. Roer goed door en breng de saus zachtjes aan de kook. Laat enkele minuten sudderen zodat de smaken zich kunnen mengen.",
+    "Leg de stukken zeebaars voorzichtig in de saus en laat ongeveer 4–5 minuten op laag vuur garen. Roer zo weinig mogelijk om te voorkomen dat de vis uiteenvalt.",
+    "Voeg de gamba's toe en laat nog ongeveer 4–5 minuten zachtjes garen, totdat de gamba's roze en ondoorzichtig zijn en de zeebaars volledig gaar is.",
+    "Voeg de spinazie in gedeelten toe en laat deze ongeveer 2 minuten slinken. Schep voorzichtig om, zodat de visstukken zoveel mogelijk heel blijven.",
+    "Proef de Amok en breng eventueel verder op smaak met een beetje vissaus. Serveer direct met de warme jasmijnrijst."
+  ],
+  "weetje": "Amok trey, de traditionele Cambodjaanse vis-amok, wordt beschouwd als een van de nationale gerechten van Cambodja. Anders dan de romige curry die wij maken, wordt de klassieke versie meestal gestoomd in kleine bakjes van gevouwen bananenblad. De vis wordt vermengd met kokosmelk, kroeung en vaak ook ei, waardoor tijdens het stomen een zachte, bijna custardachtige structuur ontstaat.\n\nEen belangrijk onderdeel van de Cambodjaanse keuken is kroeung, een geurige pasta van kruiden en specerijen. Traditioneel worden ingrediënten zoals citroengras, laos, kurkuma, knoflook en kaffirlimoenblad met een vijzel fijngewreven. De samenstelling verschilt per gerecht en per familie.\n\nVis speelt van oudsher een belangrijke rol in de Cambodjaanse keuken. De Mekong en het grote Tonlé Sap-meer leveren een rijke verscheidenheid aan zoetwatervis. Ook gefermenteerde vispasta, prahok, is een karakteristieke smaakmaker in de Khmer-keuken.\n\nHoewel Amok vaak wordt verbonden met de oude Khmer-cultuur en de koninklijke keuken, is de precieze oorsprong van het gerecht niet met zekerheid vastgesteld.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
+    "receptTitel": "Amok",
+    "auteur": "Atul Kochhar",
+    "kookboek": "Curry's – 200 recepten uit de hele wereld",
+    "jaar": null,
     "url": null
-  }
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Fish Amok Recipe",
+      "auteur": "Koninklijke ambassade van Cambodja",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.cambodiaembassyuk.org/fish-amok-recipe/"
+    },
+    {
+      "receptTitel": "Food spots in Cambodia for culinary adventures",
+      "auteur": "Visit Southeast Asia",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.visitsoutheastasia.travel/guides/food-spots-in-cambodia-for-culinary-adventures/"
+    },
+    {
+      "receptTitel": "Tradition and Fermentation Science of prohok",
+      "auteur": "LeGrand, Borarin & Young",
+      "kookboek": null,
+      "jaar": 2020,
+      "url": "https://link.springer.com/article/10.1186/s42779-019-0027-1"
+    }
+  ]
 }

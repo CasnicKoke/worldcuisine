@@ -4,7 +4,8 @@
     "indo-chinees"
   ],
   "titel": "Phở Bò",
-  "korteBeschrijving": "Vietnamese noedelsoep met rundvlees, kruiden en een aromatische bouillon.",
+  "korteBeschrijving": "Vietnamese noedelsoep met een aromatische runderbouillon, rijstnoedels, langzaam gegaard rundvlees en dunne plakjes biefstuk, geserveerd met verse kruiden en limoen.",
+  "beschrijving": "Phở Bò is een van de bekendste gerechten uit de Vietnamese keuken. Deze geurige noedelsoep dankt zijn karakteristieke smaak aan een heldere runderbouillon die langzaam wordt getrokken met geroosterde ui, gember en specerijen zoals steranijs, kaneel en kruidnagel.",
   "afbeelding": "images/recepten/PhoBoAI.png",
   "url": "recepten.html?id=phoBo",
   "volgorde": 5,
@@ -12,14 +13,85 @@
     "indo-chinees": 1
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 240,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de runderbouillon:",
+    "750 g rundersoepbotten, van de lokale slager",
+    "500 g rundermergpijpen, van de lokale slager",
+    "300 g sukadelappen of runderborst",
+    "1 grote ui",
+    "60 g verse gember",
+    "3 steranijs",
+    "3 kruidnagels",
+    "1 kaneelstokje (circa 4 cm)",
+    "2 el vissaus",
+    "15 g kandijsuiker, bij voorkeur gele",
+    "2 tl zout, later naar smaak aanpassen",
+    "3 liter water",
+    "Voor de soepkommen:",
+    "350 g platte Vietnamese rijstnoedels (bánh phở), circa 3–5 mm breed",
+    "200 g kogelbiefstuk",
+    "1 kleine ui",
+    "2 lente-uitjes",
+    "1 klein bosje verse koriander",
+    "Zwarte peper naar smaak",
+    "Voor de garnering:",
+    "1 handvol verse basilicum",
+    "1 handvol verse munt",
+    "1 limoen",
+    "1 rode chilipeper"
+  ],
+  "bereiding": [
+    "Doe de soepbotten en mergpijpen in een grote soeppan en vul aan met koud water tot de botten onderstaan. Breng aan de kook en laat circa 5 minuten doorkoken. Giet af, spoel de botten schoon onder warm stromend water en reinig de pan. Het eerste kookwater gebruiken we niet.",
+    "Halveer de grote ui met schil en snijd de gember overlangs door. Rooster beide 15–20 minuten onder een hete ovengrill, tot er donkerbruine plekjes ontstaan. Verwijder daarna de verschroeide schil en losse zwarte stukjes.",
+    "Verwarm de steranijs, kruidnagels en het kaneelstokje 1–2 minuten in een droge koekenpan op laag vuur. Stop de specerijen eventueel in een kruidenzakje, zodat je ze straks eenvoudig kunt uitnemen.",
+    "Doe de schoongemaakte botten terug in de schone soeppan. Schenk het verse water erbij en breng langzaam aan de kook. Zet vervolgens het vuur laag en schep eventueel schuim van het oppervlak.",
+    "Voeg de geroosterde ui en gember, de specerijen en de sukade of runderborst toe. Laat de bouillon circa 3 uur zeer zacht trekken zonder deksel, zodat het oppervlak nauwelijks beweegt. Schep zo nodig schuim en overtollig vet weg.",
+    "Controleer het rundvlees na ongeveer 1½–2 uur. Haal het uit de pan zodra het mals is; de botten blijven verder trekken. Leg het gare vlees enkele minuten in koud water, dep het droog en bewaar het afgedekt tot het serveren.",
+    "Giet de bouillon na ongeveer 3 uur door een fijne zeef in een schone pan. Verwijder de botten, groenten en specerijen en schep desgewenst wat vet af. Voeg vissaus, kandijsuiker en zout toe en proef of de bouillon voldoende krachtig is voor de noedels.",
+    "Snijd het gaar gekookte rundvlees in dunne plakjes. Leg de kogelbiefstuk ongeveer 15 minuten in de vriezer zodat je hem gemakkelijker flinterdun kunt snijden. Snijd vervolgens dwars op de draad.",
+    "Maak de rijstnoedels klaar volgens de verpakking. Laat goed uitlekken en verdeel over vier voorverwarmde grote soepkommen.",
+    "Snijd de kleine ui in zeer dunne halve ringen; leg deze desgewenst even in koud water voor een mildere smaak. Snijd de lente-uitjes en koriander fijn. Leg de ui, lente-ui, koriander en het gare rundvlees op de noedels.",
+    "Breng de gezeefde bouillon opnieuw aan de kook. Verdeel de rauwe, flinterdunne biefstuk over de kommen en schenk er direct de kokendhete bouillon op. Wie de biefstuk volledig gaar wil, kan de plakjes eerst heel kort in de kokende bouillon blancheren. Voeg naar smaak zwarte peper toe.",
+    "Serveer meteen. Zet de verse basilicum, munt, limoenpartjes en dunne ringetjes rode chilipeper apart op tafel, zodat iedereen zelf de soep kan afmaken."
+  ],
+  "weetje": "De naam *Phở Bò* betekent letterlijk 'phở met rundvlees'. *Phở* verwijst naar de platte rijstnoedels en de soep die ermee wordt gemaakt, terwijl *bò* rund of rundvlees betekent. Er bestaat ook *Phở Gà*, de variant met kip.\n\nDe bijzondere accenttekens in de Vietnamese naam zijn geen versiering. Het Vietnamees wordt geschreven met het Latijnse alfabet, maar gebruikt extra tekens om verschillende klinkers en tonen aan te geven. Het Vietnamees kent zes tonen: de toonhoogte en het verloop daarvan kunnen de betekenis van een woord veranderen.\n\nIn *phở* staan zelfs twee tekens bij dezelfde klinker. Het kleine haakje rechtsboven maakt van de letter *o* een *ơ*, een andere klinker met een eigen uitspraak. Het teken daarboven, dat op een klein omgekeerd vraagteken lijkt, geeft de zogenoemde *hỏi*-toon aan, waarbij de stemtoon daalt en vervolgens weer stijgt. In *bò* geeft het accent grave (`) juist een lage, dalende toon aan. De tekentjes zijn dus essentieel om Vietnamese woorden correct uit te spreken.\n\nPhở ontstond waarschijnlijk rond het begin van de twintigste eeuw in Noord-Vietnam, in de omgeving van Nam Định en Hanoi. Het gerecht ontwikkelde zich in een periode waarin Vietnamese, Chinese en Franse culinaire tradities elkaar beïnvloedden. Door de Franse koloniale aanwezigheid werd rundvlees vaker beschikbaar, terwijl rijstnoedels al een belangrijke plaats innamen in de lokale keuken.\n\nNa de deling van Vietnam in 1954 verspreidde Phở zich verder naar het zuiden. Daar ontstonden varianten met een zoetere bouillon en een uitgebreidere garnering van verse kruiden en groenten. De precieze oorsprong van de soep blijft onderwerp van discussie, maar inmiddels is Phở uitgegroeid tot een van de bekendste symbolen van de Vietnamese keuken.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Beef Pho Noodle Soup Recipe (Pho Bo)",
+    "auteur": "Andrea Nguyen",
+    "kookboek": "Viet World Kitchen; gebaseerd op Into the Vietnamese Kitchen (2006)",
+    "jaar": 2008,
+    "url": "https://www.vietworldkitchen.com/blog/2008/10/pho-beef-noodle-soup.html"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Phở bò – Beef Noodle Soup",
+      "auteur": "Helen Le",
+      "kookboek": "Helen's Recipes",
+      "jaar": 2012,
+      "url": "https://helenrecipes.com/recipe-39-pho/"
+    },
+    {
+      "receptTitel": "The story of Vietnamese pho",
+      "auteur": "Vietnam Tourism",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://vietnam.travel/things-to-do/history-pho/"
+    },
+    {
+      "receptTitel": "Vietnamese alphabet, pronunciation and language",
+      "auteur": "Omniglot",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.omniglot.com/writing/vietnamese.htm"
+    },
+    {
+      "receptTitel": "Friend or Pho: Who Really Invented Vietnam's National Dish?",
+      "auteur": "MICHELIN Guide",
+      "kookboek": null,
+      "jaar": 2023,
+      "url": "https://guide.michelin.com/vn/en/article/features/friend-or-pho-who-really-invented-vietnam-s-national-dish"
+    }
+  ]
 }

@@ -4,7 +4,8 @@
     "china-oost-azie"
   ],
   "titel": "Bibimbap",
-  "korteBeschrijving": "Koreaanse rijstschotel met groenten, vlees, ei en pittige gochujangsaus.",
+  "korteBeschrijving": "Koreaans rijstgerecht met gemarineerde biefstuk, kleurrijke groenten, spiegelei en pittige gochujangsaus.",
+  "beschrijving": "Bibimbap is een klassiek Koreaans gerecht waarin warme rijst wordt gecombineerd met verschillende groenten, gemarineerd rundvlees en een spiegelei. De afzonderlijk bereide spinazie, wortel, courgette en shiitake zorgen voor een afwisseling van smaken, kleuren en texturen. Een pittige saus van gochujang, sesamolie en rijstazijn geeft het gerecht zijn karakteristieke smaak. Vlak voor het eten worden alle ingrediënten door elkaar gemengd.",
   "afbeelding": "images/recepten/BibimbapAI.png",
   "url": "recepten.html?id=bibimbap",
   "volgorde": 10,
@@ -12,14 +13,74 @@
     "china-oost-azie": 2
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 60,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "300 g sushirijst",
+    "300 g biefstuk, in dunne reepjes",
+    "2 el sojasaus",
+    "3 tenen knoflook",
+    "2 tl suiker",
+    "3 el sesamolie",
+    "250 g verse spinazie",
+    "2 wortels",
+    "1 courgette",
+    "150 g shiitake",
+    "4 eieren",
+    "2 el neutrale olie",
+    "Zout en zwarte peper naar smaak",
+    "3 el gochujang (Koreaanse gefermenteerde chilipasta; verkrijgbaar bij een toko)",
+    "1 el rijstazijn",
+    "2 el water",
+    "2 tl geroosterd sesamzaad"
+  ],
+  "bereiding": [
+    "Spoel de sushirijst enkele keren onder koud water tot het water vrijwel helder is. Kook de rijst volgens de aanwijzingen op de verpakking. Houd de rijst warm tot het serveren.",
+    "Snijd de biefstuk in dunne reepjes, dwars op de draad. Meng de sojasaus met 1 fijngehakt teentje knoflook, 1 theelepel suiker en 1 eetlepel sesamolie. Schep de biefstuk door de marinade en laat minstens 15 minuten marineren.",
+    "Schil de wortels en snijd ze in dunne reepjes. Snijd de courgette eveneens in dunne reepjes. Maak de shiitake schoon en snijd ze in plakjes.",
+    "Breng een pan water aan de kook. Blancheer de spinazie ongeveer 30 seconden, giet af en spoel kort onder koud water. Knijp voorzichtig het overtollige vocht eruit. Meng de spinazie met 1 fijngehakt teentje knoflook, 1 eetlepel sesamolie en een snufje zout.",
+    "Verhit 1 eetlepel neutrale olie in een grote koekenpan of wok. Bak de wortelreepjes 2–3 minuten tot ze beetgaar zijn. Haal ze uit de pan en zet apart. Bak vervolgens de courgette 2–3 minuten en daarna de shiitake 3–4 minuten. Voeg indien nodig een klein scheutje water toe om aanbakken te voorkomen. Breng iedere groente afzonderlijk op smaak met een beetje zout en peper.",
+    "Meng voor de saus de gochujang met de rijstazijn, 1 theelepel suiker, 1 eetlepel sesamolie, 2 eetlepels water en het laatste fijngehakte teentje knoflook. Roer tot een gladde saus. Voeg eventueel wat extra water toe als de saus te dik is.",
+    "Verhit een halve eetlepel neutrale olie in een wok of koekenpan op hoog vuur. Voeg de gemarineerde biefstuk toe en bak de reepjes in ongeveer 2–3 minuten bruin. Bak het vlees eventueel in twee porties, zodat het mooi dichtschroeit en mals blijft.",
+    "Verhit de resterende halve eetlepel neutrale olie in een koekenpan. Bak de vier eieren als spiegeleieren, bij voorkeur met een nog vloeibare dooier.",
+    "Verdeel de warme rijst over vier diepe kommen. Schik de spinazie, wortel, courgette, shiitake en biefstuk in afzonderlijke groepjes boven op de rijst. Leg in het midden van iedere kom een spiegelei.",
+    "Verdeel de gochujangsaus over de kommen of serveer deze apart. Bestrooi met het geroosterde sesamzaad. Meng vlak voor het eten de rijst, groenten, het vlees, het ei en de saus goed door elkaar."
+  ],
+  "weetje": "Wie in Korea Bibimbap bestelt, krijgt een kom die bijna te mooi is om aan te raken. De groenten liggen zorgvuldig naast elkaar op de rijst, vaak in een kleurrijk patroon, met in het midden een ei. Maar het hele idee is juist dat je die mooie compositie meteen door elkaar roert. Dat zit zelfs in de naam: *bibim* betekent 'mengen' en *bap* betekent 'rijst'.\n\nHoe dit gerecht precies is ontstaan, weet niemand. Volgens een van de verhalen maakten Koreaanse boeren er een gezamenlijke maaltijd van door rijst, groenten en andere ingrediënten in één kom te mengen. Een andere theorie verbindt Bibimbap met het koninklijke hof, waar de verschillende ingrediënten juist met grote zorg werden bereid. Ook wordt het gerecht in verband gebracht met traditionele voorouderrituelen, waarbij voedsel na afloop gezamenlijk werd gegeten.\n\nEen van de oudste bewaard gebleven recepten staat in *Siuijeonseo*, een Koreaans kookboek uit de late negentiende eeuw. Daarin worden rijst, vlees en verschillende groenten gecombineerd met sesamolie en kruiden. Vooral de stad Jeonju werd beroemd om haar verfijnde Bibimbap, waarin de ingrediënten niet alleen heerlijk smaken, maar ook prachtig worden gepresenteerd.\n\nOnze Bibimbap volgt die kleurrijke traditie, met gemarineerde biefstuk, afzonderlijk bereide groenten en een pittige gochujangsaus. En ook hier geldt: eerst bewonderen, dan alles door elkaar mengen!",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Bibimbap",
+    "auteur": "Hyosun Ro",
+    "kookboek": "Korean Bapsang",
+    "jaar": 2022,
+    "url": "https://www.koreanbapsang.com/bibimbap/"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Bibimbap – Korean Mixed Rice with Meat and Assorted Vegetables",
+      "auteur": "Sue Pressey",
+      "kookboek": "My Korean Kitchen",
+      "url": "https://mykoreankitchen.com/bibimbap-korean-mixed-rice-with-meat-and-assorted-vegetables/"
+    },
+    {
+      "receptTitel": "The globalization of bibimbap: focusing on the diversity of modernization of bibimbap",
+      "auteur": "Eun-Gyung Mun, Young-Eun Lee en Youn-Soo Cha",
+      "kookboek": "Journal of Ethnic Foods",
+      "jaar": 2023,
+      "url": "https://link.springer.com/article/10.1186/s42779-023-00195-2"
+    },
+    {
+      "receptTitel": "Historical and biological aspects of bibimbap, a Korean ethnic food",
+      "auteur": "Kyung Rhan Chung, Hye Jeong Yang, Dai-Ja Jang en Dae Young Kwon",
+      "kookboek": "Journal of Ethnic Foods",
+      "jaar": 2015,
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352618115000268"
+    },
+    {
+      "receptTitel": "Jeonju Bibimbap: A Dazzling Harmony of Gastronomy",
+      "auteur": null,
+      "kookboek": "Visit Korea",
+      "jaar": 2025,
+      "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=221301"
+    }
+  ]
 }

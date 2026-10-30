@@ -4,7 +4,8 @@
     "britse-eilanden"
   ],
   "titel": "Irish Stew",
-  "korteBeschrijving": "Ierse stoofpot met lamsvlees of rundvlees, aardappel, ui en wortel.",
+  "korteBeschrijving": "Traditionele Ierse stoofschotel met mals lamsvlees, aardappelen, wortels en bleekselderij, langzaam gegaard in een rijke runderfond.",
+  "beschrijving": "Irish Stew is een klassiek Iers gerecht waarin lamsvlees, aardappelen en groenten langzaam samen worden gestoofd. In onze versie gebruiken we ontbeende lamsschouder, wortels, ui en bleekselderij. De aardappelen worden dakpansgewijs boven op het vlees gelegd en krijgen aan het einde van de bereiding een licht goudbruin korstje.",
   "afbeelding": "images/recepten/IrishStewAI.png",
   "url": "recepten.html?id=irishStew",
   "volgorde": 67,
@@ -12,14 +13,69 @@
     "britse-eilanden": 3
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 160,
+  "moeilijkheid": "Makkelijk",
+  "ingredienten": [
+    "600 g ontbeende lamsschouder, in blokjes van circa 2,5 cm",
+    "2 el plantaardige olie",
+    "1 grote ui, grof gesneden",
+    "2 stengels bleekselderij",
+    "3 grote wortels",
+    "1 laurierblaadje",
+    "700 ml runderfond, gebruiksklaar",
+    "600 g aardappelen",
+    "20 g boter",
+    "Zout en versgemalen zwarte peper naar smaak",
+    "Eventueel witbrood om erbij te serveren"
+  ],
+  "bereiding": [
+    "Verwarm de oven voor op 160 °C (boven- en onderwarmte). Snijd de ontbeende lamsschouder in blokjes van ongeveer 2,5 cm. Bestrooi het vlees met zwarte peper en een beetje zout.",
+    "Verhit de helft van de olie in een grote ovenbestendige braadpan met deksel. Bak het lamsvlees in twee porties op hoog vuur rondom bruin. Schep het vlees uit de pan en zet apart.",
+    "Snijd de ui grof, de bleekselderij in stukjes van ongeveer 1 cm en de geschilde wortels in grove stukken. Verhit de resterende olie in dezelfde braadpan en bak de groenten ongeveer 5 minuten op middelhoog vuur, totdat de ui zacht begint te worden. Roer regelmatig en maak daarbij de aanbaksels van het vlees los.",
+    "Doe het aangebraden lamsvlees met het vrijgekomen vleessap terug in de braadpan. Voeg het laurierblaadje en de gebruiksklare runderfond toe. Roer alles voorzichtig door en breng op het fornuis aan de kook.",
+    "Schil ondertussen de aardappelen en snijd ze in plakken van ongeveer 1 cm dik. Haal de braadpan van het vuur en leg de aardappelplakken dakpansgewijs over het vlees en de groenten. Druk ze licht in het stoofvocht, maar laat de bovenkant zoveel mogelijk vrij.",
+    "Verdeel de boter in kleine stukjes over de aardappelen en bestrooi met wat versgemalen zwarte peper.",
+    "Doe het deksel op de braadpan en zet deze in de oven. Laat de Irish Stew ongeveer 1½–2 uur zachtjes stoven, totdat het lamsvlees mals is en de aardappelen gaar zijn. Controleer na anderhalf uur de gaarheid en verleng de stooftijd indien nodig.",
+    "Haal het deksel van de braadpan en verhoog de oventemperatuur naar 200 °C. Laat de stoofschotel nog ongeveer 10–15 minuten bakken, totdat de bovenste aardappelplakken licht goudbruin kleuren.",
+    "Haal de braadpan uit de oven en laat de stoofschotel ongeveer 5 minuten rusten. Proef het stoofvocht en voeg alleen indien nodig nog wat zout en peper toe.",
+    "Serveer de Irish Stew in diepe kommen, met het lamsvlees, de groenten, aardappelen en wat van het geurige stoofvocht. Geef er eventueel witbrood bij om de saus mee op te nemen."
+  ],
+  "weetje": "Irish Stew geldt als een van de nationale gerechten van Ierland. Oorspronkelijk was het een eenvoudige boerenmaaltijd, gemaakt van ingrediënten die op het platteland beschikbaar waren: schapenvlees, aardappelen, uien en water. Het gerecht werd langzaam in één pot boven het vuur gekookt, zodat ook taaie stukken vlees mals werden.\n\nTraditioneel werd vooral *mutton* gebruikt: vlees van oudere schapen, die eerst jarenlang voor hun wol en melk werden gehouden. Dit vlees was steviger en had een uitgesprokener smaak dan het lamsvlees dat tegenwoordig meestal wordt gebruikt. Langzaam stoven was de ideale manier om het mals te krijgen.\n\nOpmerkelijk genoeg is de aardappel, die zo sterk met Ierland wordt geassocieerd, oorspronkelijk afkomstig uit Zuid-Amerika. Voordat de aardappel aan het einde van de zestiende eeuw Ierland bereikte, werden vergelijkbare stoofgerechten bereid met onder andere rapen, pastinaken, gerst en haver. In de achttiende eeuw groeide de aardappel uit tot een van de belangrijkste voedingsmiddelen van de Ierse bevolking. Pas later werd de aardappel het kenmerkende ingrediënt van Irish Stew.\n\nOver de juiste ingrediënten wordt nog altijd gediscussieerd. Volgens puristen horen alleen schapenvlees, aardappelen, uien en water in de stoofpot. Andere koks voegen wortelen, rapen, kruiden of gerst toe. Onze versie met lamsschouder, wortelen en bleekselderij is dus een moderne variant van deze oude traditie.\n\nWat ooit vooral een goedkope, voedzame maaltijd was, groeide uit tot een gerecht dat symbool staat voor de Ierse keuken.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
+    "receptTitel": "Angie’s Irish Stew",
+    "auteur": "Donal Skehan",
     "kookboek": null,
-    "url": null
-  }
+    "jaar": null,
+    "url": "https://donalskehan.com/recipes/angies-skehan-family-irish-stew/"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "“Is Irish Stew the only kind of stew we can afford to make, mother?” The history of a recipe",
+      "auteur": "Dorothy Cashman en John Farrelly",
+      "kookboek": "Folklore",
+      "jaar": 2021,
+      "url": "https://doi.org/10.1080/04308778.2021.1957420"
+    },
+    {
+      "receptTitel": "Ireland and the Potato",
+      "auteur": "Alan Davidson",
+      "kookboek": "The Oxford Companion to Food",
+      "jaar": null,
+      "url": "https://app.ckbk.com/reference/food77337c09s001e039"
+    },
+    {
+      "receptTitel": "Medieval Cooking",
+      "auteur": "Carolyn Boyd / Dublinia",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.eatthestreets.ie/discover/medieval-cooking"
+    },
+    {
+      "receptTitel": "The Introduction of the Potato into Ireland",
+      "auteur": "History Ireland",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://historyireland.com/the-introduction-of-the-potato-into-ireland/"
+    }
+  ]
 }

@@ -4,7 +4,8 @@
     "britse-eilanden"
   ],
   "titel": "Shepherd’s Pie",
-  "korteBeschrijving": "Ovenschotel met gehakt en groenten, afgedekt met een laag romige aardappelpuree.",
+  "korteBeschrijving": "Traditionele Britse ovenschotel met lamsgehakt, prei en doperwten, afgedekt met goudbruine aardappelpuree en gesmolten kaas.",
+  "beschrijving": "Shepherd’s Pie is een klassiek Brits gerecht waarin gekruid lamsgehakt, zachte prei en doperwten samenkomen onder een laag aardappelpuree.",
   "afbeelding": "images/recepten/ShepherdsPieAI.png",
   "url": "recepten.html?id=shepherdsPie",
   "volgorde": 65,
@@ -12,14 +13,68 @@
     "britse-eilanden": 1
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 120,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "600 g lamsgehakt",
+    "2 el plantaardige olie",
+    "1 grote ui, fijngesneden",
+    "2 wortels, in kleine blokjes",
+    "1 kleine prei, in dunne halve ringen",
+    "125 g diepvriesdoperwten",
+    "2 takjes verse rozemarijn, naaldjes fijngehakt",
+    "2 takjes verse tijm, blaadjes",
+    "1 el bloem",
+    "250 ml runderbouillon",
+    "1 el tomatenpuree",
+    "2 el Worcestersaus",
+    "1 kg kruimige aardappelen",
+    "75 g boter",
+    "30 ml volle melk",
+    "150 g geraspte cheddar of belegen kaas",
+    "Zout en versgemalen zwarte peper naar smaak",
+    "Eventueel een snufje versgeraspte nootmuskaat"
+  ],
+  "bereiding": [
+    "Maak de prei schoon en snij hem in dunne halve ringen.",
+    "Verhit de olie in een ruime braadpan. Bak het lamsgehakt goed bruin. Zet apart.",
+    "Snipper de ui, snijd de wortels in kleine blokjes en hak de rozemarijnnaaldjes fijn. Ris de tijmblaadjes van de takjes. Fruit de ui ongeveer 3 minuten in dezelfde pan. Voeg de wortel, prei, rozemarijn en tijm toe en bak nog 5–7 minuten mee.",
+    "Strooi de bloem over de groenten en roer goed door. Voeg de tomatenpuree toe en bak kort mee. Schenk de runderbouillon en Worcestersaus erbij en roer de aanbaksels los.",
+    "Doe het lamsgehakt terug in de pan. Breng aan de kook, zet het vuur laag en laat ongeveer 45 minuten met het deksel op de pan zachtjes sudderen.",
+    "Haal het deksel van de pan en laat de vulling nog ongeveer 15 minuten inkoken. Voeg de doperwten de laatste 5 minuten toe. Breng op smaak met zout en zwarte peper.",
+    "Schil intussen de aardappelen en snijd ze in gelijke stukken. Kook ze in ongeveer 20 minuten gaar in water met zout. Giet af en laat kort droogstomen.",
+    "Stamp de aardappelen fijn met de boter en melk tot een stevige, romige puree. Breng op smaak met zout, zwarte peper en eventueel wat nootmuskaat.",
+    "Verwarm de oven voor op 200 °C (boven- en onderwarmte). Schep de vlees-groentevulling in een ovenschaal.",
+    "Verdeel de aardappelpuree over de vulling en strijk voorzichtig glad. Trek met een vork ribbels in het oppervlak.",
+    "Strooi de 150 g geraspte kaas gelijkmatig over de puree. Bak de Shepherd’s Pie 25–30 minuten in de oven, tot de bovenkant goudbruin is.",
+    "Laat de ovenschaal 5–10 minuten rusten voordat je de Shepherd’s Pie serveert."
+  ],
+  "weetje": "Shepherd's Pie en Cottage Pie zijn nauw verwante gerechten uit de Britse keuken. Tegenwoordig wordt meestal een duidelijk onderscheid gemaakt: Shepherd's Pie wordt bereid met lams- of schapenvlees, terwijl Cottage Pie rundvlees bevat. Maar oorspronkelijk werden deze namen veel minder strikt gebruikt.\n\nDe oudste bekende vermelding van *Cottage-Pye* dateert uit 1791, in het dagboek van de Engelse geestelijke James Woodforde. De naam Shepherd's Pie verscheen later, in de negentiende eeuw. In een Schots kookboek uit 1854 staat een recept waarin restjes van vrijwel elk soort gekookt of gebraden vlees konden worden gebruikt. De tegenwoordige koppeling met lamsvlees bestond toen dus nog niet als vaste regel.\n\nBeide gerechten ontstonden uit de behoefte om voedsel zo goed mogelijk te benutten. Overgebleven vlees werd fijngehakt, met jus vermengd en afgedekt. Door het geheel opnieuw in de oven te bakken, ontstond een voedzame maaltijd. Opmerkelijk genoeg bevat deze *pie* meestal helemaal geen deeg: de aardappelpuree vormt het deksel.\n\nOnze Shepherd's Pie is een moderne variant van deze traditie. We gebruiken vers lamsgehakt, voegen groenten en kruiden toe en bakken de aardappelpuree met een royale laag kaas goudbruin.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "How to cook the perfect shepherd’s pie",
+    "auteur": "Felicity Cloake",
+    "kookboek": "The Guardian",
+    "jaar": 2018,
+    "url": "https://www.theguardian.com/lifeandstyle/2018/apr/19/the-perfect-shepherds-pie-recipe-felicity-cloake"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Shepherd’s Pie",
+      "auteur": null,
+      "kookboek": "The Oxford Companion to Food",
+      "url": "https://app.ckbk.com/reference/food77337c19s001e185"
+    },
+    {
+      "receptTitel": "Shepherd's Pie",
+      "auteur": null,
+      "kookboek": "The Foods of England",
+      "url": "https://foodsofengland.uk/shepherd-s-pie.html"
+    },
+    {
+      "receptTitel": "Cottage Pie",
+      "auteur": null,
+      "kookboek": "Jane Austen Centre",
+      "url": "https://janeausten.co.uk/blogs/home-and-hearth/cottage-pie"
+    }
+  ]
 }

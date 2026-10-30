@@ -4,7 +4,8 @@
     "china-oost-azie"
   ],
   "titel": "Mapo Tofu",
-  "korteBeschrijving": "Pittig Sichuaans gerecht met tofu, gehakt en gefermenteerde bonenpasta.",
+  "korteBeschrijving": "Pittig Chinees gerecht uit Sichuan met zachte tofu, varkensgehakt, gefermenteerde bonenpasta en Sichuanpeper.",
+  "beschrijving": "Mapo Tofu is een klassiek gerecht uit de Sichuanese keuken, bekend om zijn uitgesproken pittige en hartige smaken. Zachte blokjes tofu worden gestoofd in een kruidige saus van varkensgehakt, gefermenteerde bonenpasta, chilipeper, knoflook en gember. De Sichuanpeper geeft het gerecht zijn karakteristieke licht tintelende, verdovende sensatie op de tong. Geserveerd met gestoomde jasmijnrijst vormt het een geurige, verwarmende maaltijd.",
   "afbeelding": "images/recepten/MapoTofuAI.png",
   "url": "recepten.html?id=mapoTofu",
   "volgorde": 9,
@@ -12,14 +13,64 @@
     "china-oost-azie": 1
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 35,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "600 g zachte tofu",
+    "150 g varkensgehakt",
+    "3 tenen knoflook",
+    "3 cm verse gember",
+    "3 stengels lente-ui",
+    "2 el doubanjiang (pittige gefermenteerde bonenpasta; verkrijgbaar bij een toko)",
+    "1–2 tl Sichuanpeper, liefst heel",
+    "1 tl chilivlokken",
+    "2 el neutrale olie",
+    "200 ml kippenbouillon",
+    "2 tl maïzena",
+    "2 el koud water",
+    "300 g jasmijnrijst"
+  ],
+  "bereiding": [
+    "Snijd de tofu voorzichtig in blokjes van ongeveer 2,5 cm. Pel de knoflook en hak deze fijn. Schil de gember en hak deze fijn. Snijd de lente-ui in dunne ringetjes en houd het groene gedeelte apart.",
+    "Breng een pan lichtgezouten water aan de kook. Draai het vuur laag en laat de tofublokjes ongeveer 1 minuut zachtjes verwarmen, zonder dat het water hard kookt. Zet het vuur uit en laat de tofu voorlopig in het warme water staan.",
+    "Rooster de Sichuanpeperkorrels kort in een droge koekenpan op middelhoog vuur, tot ze beginnen te geuren. Laat ze even afkoelen en maal ze fijn in een vijzel of kruidenmolen.",
+    "Verhit de olie in een wok, voeg het varkensgehakt toe en bak het rul.",
+    "Voeg de knoflook, gember en het witte gedeelte van de lente-ui toe aan het gehakt. Bak ongeveer 1 minuut mee, tot de ingrediënten beginnen te geuren.",
+    "Voeg de 2 eetlepels doubanjiang en 1 theelepel chilivlokken toe. Roer goed door en bak ongeveer 30 seconden mee, zodat de smaken vrijkomen en de olie rood begint te kleuren.",
+    "Schenk de kippenbouillon erbij en voeg ongeveer de helft van de gemalen Sichuanpeper toe. Roer goed door en laat de saus ongeveer 2 minuten zachtjes pruttelen.",
+    "Schep de tofu voorzichtig uit het warme water en laat kort uitlekken. Voeg de blokjes aan de saus toe en laat 3–5 minuten zachtjes sudderen. Beweeg de pan voorzichtig heen en weer of schep de saus over de tofu, zodat de blokjes niet uit elkaar vallen.",
+    "Meng de maïzena met 2 eetlepels koud water tot een glad papje. Voeg dit beetje bij beetje toe aan de zacht kokende saus. Laat kort doorkoken tot de saus licht gebonden is en mooi aan de tofu blijft hangen.",
+    "Strooi de resterende Sichuanpeper en de groene ringetjes lente-ui over het gerecht. Serveer direct met gestoomde jasmijnrijst."
+  ],
+  "weetje": "Mapo Tofu is een van de bekendste gerechten uit Sichuan, een provincie in het zuidwesten van China. Volgens de overlevering ontstond het gerecht in de tweede helft van de negentiende eeuw in Chengdu, de hoofdstad van Sichuan, tijdens de Qing-dynastie.\n\nHet verhaal gaat dat een vrouw met de familienaam Chen een klein eethuis exploiteerde bij de Wanfu-brug, aan de noordkant van de stad. Ze bereidde er een eenvoudig maar smaakvol gerecht van tofu, gehakt en pittige kruiden, dat bijzonder geliefd werd bij arbeiders en reizigers. Omdat haar gezicht littekens van de pokken vertoonde, kreeg ze de bijnaam *Chen Mapo*, vrij vertaald 'de pokdalige mevrouw Chen'. Haar beroemde tofugerecht werd naar haar vernoemd.\n\nHoewel niet alle details van deze geschiedenis met zekerheid zijn vast te stellen, was Mapo Tofu aan het begin van de twintigste eeuw al een bekende specialiteit van Chengdu. Van daaruit verspreidde het gerecht zich over China en uiteindelijk de rest van de wereld.\n\nKenmerkend voor Mapo Tofu is de Sichuanese smaakcombinatie *málà*: de pittige hitte van chilipepers (*là*) en het tintelende, licht verdovende effect van Sichuanpeper (*má*). Juist deze combinatie maakt het gerecht zo bijzonder.\n\nOnze Mapo Tofu volgt de traditionele Sichuanese bereidingswijze, met zachte tofu, varkensgehakt, doubanjiang en Sichuanpeper.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Mapo Tofu Recipe: The Real Deal",
+    "auteur": "Kaitlin Leung",
+    "kookboek": "The Woks of Life",
+    "jaar": 2014,
+    "url": "https://thewoksoflife.com/ma-po-tofu-real-deal/"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "How to make mapo tofu – recipe",
+      "auteur": "Felicity Cloake",
+      "kookboek": "The Guardian",
+      "jaar": 2026,
+      "url": "https://www.theguardian.com/food/2026/jan/18/how-to-make-mapo-tofu-recipe"
+    },
+    {
+      "receptTitel": "Pock-marked old woman's tofu recipe",
+      "auteur": "Fuchsia Dunlop",
+      "kookboek": "The Guardian",
+      "jaar": 2012,
+      "url": "https://www.theguardian.com/lifeandstyle/2012/jun/14/pock-marked-old-woman-s-tofu-recipe"
+    },
+    {
+      "receptTitel": "A Flavor Enduring Through the Ages: The Circulation of Mapo Tofu and the Impact of War",
+      "auteur": "Huang Chien-Chieh en Wu Jen-Shu",
+      "kookboek": "Foundation of Chinese Dietary Culture",
+      "jaar": 2026,
+      "url": "https://www.fcdc.org.tw/en-us/summary-detail/A-Flavor-Enduring-Through-the-Ages%3A---The-Circulation-of-Mapo-Tofu-and---the-Impact-of-War-i.746"
+    }
+  ]
 }

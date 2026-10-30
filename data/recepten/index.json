@@ -83,7 +83,7 @@
     },
     "mapoTofu": {
       "titel": "Mapo Tofu",
-      "korteBeschrijving": "Pittig Sichuaans gerecht met tofu, gehakt en gefermenteerde bonenpasta.",
+      "korteBeschrijving": "Pittig Chinees gerecht uit Sichuan met zachte tofu, varkensgehakt, gefermenteerde bonenpasta en Sichuanpeper.",
       "afbeelding": "images/recepten/MapoTofuAI.png",
       "url": "recepten.html?id=mapoTofu",
       "regios": [
@@ -93,7 +93,7 @@
     },
     "bibimbap": {
       "titel": "Bibimbap",
-      "korteBeschrijving": "Koreaanse rijstschotel met groenten, vlees, ei en pittige gochujangsaus.",
+      "korteBeschrijving": "Koreaans rijstgerecht met gemarineerde biefstuk, kleurrijke groenten, spiegelei en pittige gochujangsaus.",
       "afbeelding": "images/recepten/BibimbapAI.png",
       "url": "recepten.html?id=bibimbap",
       "regios": [
@@ -631,19 +631,19 @@
       ],
       "bestand": "data/recepten/lutefisk.json"
     },
-    "fishAndChips": {
-      "titel": "Fish and Chips",
-      "korteBeschrijving": "Gefrituurde vis met krokante friet, een klassieker van de Britse eilanden.",
-      "afbeelding": "images/recepten/FishAndChipsAI.png",
-      "url": "recepten.html?id=fishAndChips",
+    "runderstoofKaasscones": {
+      "titel": "Runderstoofschotel met kaasscones",
+      "korteBeschrijving": "Britse runderstoofschotel met rode wijn, spek en wintergroenten, afgebakken met luchtige scones van cheddar of belegen kaas.",
+      "afbeelding": "images/recepten/RunderstoofKaassconesAI.png",
+      "url": "recepten.html?id=runderstoofKaasscones",
       "regios": [
         "britse-eilanden"
       ],
-      "bestand": "data/recepten/fishAndChips.json"
+      "bestand": "data/recepten/runderstoofKaasscones.json"
     },
     "shepherdsPie": {
       "titel": "Shepherd’s Pie",
-      "korteBeschrijving": "Ovenschotel met gehakt en groenten, afgedekt met een laag romige aardappelpuree.",
+      "korteBeschrijving": "Traditionele Britse ovenschotel met lamsgehakt, prei en doperwten, afgedekt met goudbruine aardappelpuree en gesmolten kaas.",
       "afbeelding": "images/recepten/ShepherdsPieAI.png",
       "url": "recepten.html?id=shepherdsPie",
       "regios": [
@@ -663,7 +663,7 @@
     },
     "irishStew": {
       "titel": "Irish Stew",
-      "korteBeschrijving": "Ierse stoofpot met lamsvlees of rundvlees, aardappel, ui en wortel.",
+      "korteBeschrijving": "Traditionele Ierse stoofschotel met mals lamsvlees, aardappelen, wortels en bleekselderij, langzaam gegaard in een rijke runderfond.",
       "afbeelding": "images/recepten/IrishStewAI.png",
       "url": "recepten.html?id=irishStew",
       "regios": [
@@ -872,8 +872,8 @@
       "bestand": "data/recepten/couscous.json"
     },
     "tajine": {
-      "titel": "Tajine",
-      "korteBeschrijving": "Langzaam gegaarde stoofschotel met vlees of groenten, bereid met geurige specerijen.",
+      "titel": "Tajine met kefta en ei",
+      "korteBeschrijving": "Marokkaanse tajine met kruidige rundergehaktballetjes, eieren en een geurige tomatensaus met paprika.",
       "afbeelding": "images/recepten/TajineAI.png",
       "url": "recepten.html?id=tajine",
       "regios": [

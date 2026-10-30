@@ -3,8 +3,9 @@
   "regios": [
     "maghreb"
   ],
-  "titel": "Tajine",
-  "korteBeschrijving": "Langzaam gegaarde stoofschotel met vlees of groenten, bereid met geurige specerijen.",
+  "titel": "Tajine met kefta en ei",
+  "korteBeschrijving": "Marokkaanse tajine met kruidige rundergehaktballetjes, eieren en een geurige tomatensaus met paprika.",
+  "beschrijving": "Tajine met kefta en ei is een geliefd gerecht uit de Marokkaanse keuken. Kleine gehaktballetjes, gekruid met komijn, paprikapoeder en verse kruiden, worden langzaam gegaard in een rijke tomatensaus met paprika. Aan het einde worden de eieren rechtstreeks in de saus gebroken en zachtjes gestold. Het gerecht wordt traditioneel rechtstreeks uit de tajine gegeten, met vers Marokkaans platbrood om de gehaktballetjes, eieren en saus mee op te scheppen.",
   "afbeelding": "images/recepten/TajineAI.png",
   "url": "recepten.html?id=tajine",
   "volgorde": 89,
@@ -12,14 +13,59 @@
     "maghreb": 1
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 60,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "700 g rundergehakt",
+    "4 eieren",
+    "2 blikken tomatenblokjes (à 400 g)",
+    "2 uien",
+    "1 rode paprika",
+    "2 tl paprikapoeder",
+    "2 tl gemalen komijn",
+    "1 bosje platte peterselie",
+    "½ bosje verse koriander",
+    "3 el olijfolie",
+    "Maximaal 100 ml water, indien nodig",
+    "1 tl zout",
+    "1 tl zwarte peper",
+    "1 groot Marokkaans platbrood, om erbij te serveren"
+  ],
+  "bereiding": [
+    "Pel de uien. Snipper één ui heel fijn en snijd de andere ui in kleine stukjes. Was de peterselie en koriander en hak ze fijn. Houd een klein beetje van beide kruiden apart voor de garnering.",
+    "Doe het rundergehakt in een grote kom. Voeg de fijngesnipperde ui, de helft van de peterselie, 1 tl paprikapoeder, 1 tl gemalen komijn, ½ tl zout en ½ tl zwarte peper toe. Kneed alles goed door elkaar en vorm kleine gehaktballetjes ter grootte van een walnoot.",
+    "Verwijder de zaadlijsten van de rode paprika en snijd deze in kleine blokjes.",
+    "Verhit de olijfolie in een tajine of een ruime hapjespan met deksel. Voeg de tweede ui en de paprika toe en bak ze ongeveer 5 minuten op middelhoog vuur, tot ze zacht beginnen te worden.",
+    "Voeg de tomatenblokjes met hun vocht, de resterende peterselie, de koriander, 1 tl paprikapoeder, 1 tl komijn, ½ tl zout en ½ tl zwarte peper toe. Roer alles goed door en laat de saus zonder deksel ongeveer 10 minuten zachtjes pruttelen, zodat de paprika gaar wordt en de saus iets indikt. Voeg indien nodig een beetje water toe.",
+    "Verdeel de gehaktballetjes over de tomatensaus. Doe het deksel op de tajine en laat de balletjes ongeveer 15–20 minuten op laag vuur gaar worden. Schep tussendoor voorzichtig wat saus over de balletjes. Voeg indien nodig een klein scheutje water toe als de saus te dik wordt.",
+    "Maak met een lepel vier kleine kuiltjes tussen de gehaktballetjes. Breek in ieder kuiltje een ei. Doe het deksel terug op de tajine en laat de eieren ongeveer 5–8 minuten zachtjes garen, totdat het eiwit gestold is en de dooiers nog enigszins vloeibaar zijn.",
+    "Haal de tajine van het vuur en strooi de achtergehouden peterselie en koriander over het gerecht. Serveer direct met een groot Marokkaans platbrood, waarmee je de gehaktballetjes, eieren en tomatensaus kunt opscheppen."
+  ],
+  "weetje": "In Marokko is een tajine niet alleen een gerecht, maar ook de naam van de bijzondere aardewerken schaal waarin het wordt bereid. De hoge, kegelvormige deksel heeft een slimme functie: tijdens het koken stijgt de stoom op, condenseert tegen de binnenkant en druppelt terug op het eten. Zo kunnen vlees en groenten langzaam garen met verrassend weinig water.\n\nDe tajine is al eeuwenlang een vertrouwd onderdeel van de Noord-Afrikaanse keuken. Een geliefde Marokkaanse variant is *kefta mkaouara*: kleine, kruidige gehaktballetjes die zachtjes garen in tomatensaus. Vlak voordat het gerecht klaar is, worden er eieren boven de saus gebroken. Die stollen langzaam, terwijl de dooiers het liefst nog een beetje vloeibaar blijven.\n\nMisschien wel het gezelligste aan dit gerecht is de manier waarop het wordt gegeten. Traditioneel komt de tajine midden op tafel te staan en eet iedereen rechtstreeks uit dezelfde schaal. Bestek is daarbij niet nodig: met stukjes Marokkaans brood schep je de gehaktballetjes, het ei en de geurige saus op.\n\nOnze versie blijft dicht bij deze traditie, met rundergehakt, komijn, paprikapoeder en verse kruiden. We voegen rode paprika toe aan de tomatensaus en serveren er een groot Marokkaans platbrood bij.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
+    "receptTitel": "Tajine met kefta en ei",
+    "auteur": "Alain Jaouhari",
+    "kookboek": "De traditionele Marokkaanse keuken",
     "url": null
-  }
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Tagine",
+      "auteur": null,
+      "kookboek": "The Oxford Companion to Food",
+      "url": "https://app.ckbk.com/reference/food77337c20s001e012/tagine"
+    },
+    {
+      "receptTitel": "Kefta Tagine",
+      "auteur": null,
+      "kookboek": "TasteAtlas",
+      "url": "https://www.tasteatlas.com/kefta-tagine"
+    },
+    {
+      "receptTitel": "Kefta Meatballs and Eggs Tagine",
+      "auteur": null,
+      "kookboek": "My Moroccan Food",
+      "url": "https://www.mymoroccanfood.com/home/kefta-meatballs-and-eggs-tagine-shakshuka"
+    }
+  ]
 }

@@ -3,8 +3,9 @@
   "regios": [
     "maghreb"
   ],
-  "titel": "Couscous",
-  "korteBeschrijving": "Gestoomde grieskorrels, traditioneel geserveerd met groenten, kikkererwten en vlees.",
+  "titel": "Couscous met rundvlees en groenten",
+  "korteBeschrijving": "Traditionele Marokkaanse couscous met langzaam gestoofd rundvlees, pompoen, meirapen, wortel en courgette, geserveerd met eigengemaakte bouillon.",
+  "beschrijving": "Couscous met rundvlees en groenten is een klassiek gerecht uit de Marokkaanse keuken. Malse stukken rundvlees worden langzaam gestoofd met kurkuma, verse kruiden en verschillende groenten, waaronder pompoen, meirapen, wortel en courgette. De couscous wordt bereid met de bouillon die ontstaat tijdens het bereiden van het vlees en de groenten. Het gerecht wordt traditioneel geserveerd op een grote schaal, met het vlees in het midden en de kleurrijke groenten eromheen. Extra bouillon wordt apart geserveerd.",
   "afbeelding": "images/recepten/CouscousAI.png",
   "url": "recepten.html?id=couscous",
   "volgorde": 88,
@@ -12,14 +13,63 @@
     "maghreb": 0
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 150,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "300 g couscous",
+    "700 g runderschouder",
+    "450 g pompoen",
+    "2 tomaten",
+    "2 meirapen",
+    "2 courgettes",
+    "3 wortels",
+    "1 grote ui",
+    "1 tl kurkuma",
+    "½ bosje platte peterselie",
+    "½ bosje verse koriander",
+    "20 g roomboter",
+    "3 el olijfolie",
+    "1 tl zout",
+    "½ tl zwarte peper",
+    "ca. 1,5 liter water, voor het stoven van vlees en groenten"
+  ],
+  "bereiding": [
+    "Pel en snipper de ui. Was de tomaten en snijd ze in vieren. Schil de wortels en meirapen en snijd ze in grote stukken. Snijd de courgettes eveneens in grote stukken. Verwijder de schil en pitten van de pompoen en snijd het vruchtvlees in grote stukken. Was de peterselie en koriander.",
+    "Verhit de olijfolie in een grote stoofpan op middelhoog vuur. Voeg de stukken runderschouder toe en bak ze rondom lichtbruin.",
+    "Voeg de ui, tomaten, kurkuma, zout en zwarte peper toe. Leg de peterselie en koriander erbij en bak alles ongeveer 5 minuten mee. Schenk vervolgens 1,5 liter water in de pan en breng aan de kook.",
+    "Zet het vuur laag en laat het rundvlees met het deksel op de pan ongeveer 1½ tot 2 uur zachtjes stoven, totdat het bijna gaar en mals is. Controleer tussendoor of er nog voldoende vocht in de pan zit en voeg zo nodig wat water toe.",
+    "Voeg de wortels en meirapen toe en laat ze ongeveer 15 minuten meestoven.",
+    "Voeg vervolgens de pompoen en courgettes toe. Laat alles nog 15–20 minuten zachtjes garen, totdat de groenten gaar zijn maar niet uit elkaar vallen. Proef de bouillon en breng indien nodig verder op smaak met zout en peper.",
+    "Schep ongeveer 350 ml hete bouillon uit de stoofpan. Doe de couscous in een ruime kom en giet de bouillon erover. Dek de kom af en laat ongeveer 5 minuten wellen, of volg de aanwijzingen op de verpakking.",
+    "Voeg de roomboter toe aan de couscous en maak de korrels voorzichtig los met een vork, zodat de couscous luchtig wordt.",
+    "Schep de couscous op een grote, diepe schaal en maak in het midden een kuiltje. Leg het rundvlees in het midden en verdeel de groenten eromheen. Schep wat van de warme bouillon over het geheel.",
+    "Serveer de resterende bouillon apart, zodat iedereen naar wens extra bouillon over de couscous kan schenken."
+  ],
+  "weetje": "Wie op vrijdag bij een Marokkaanse familie aanschuift, heeft een goede kans dat er couscous op tafel komt. In Marokko is vrijdag traditioneel dé dag om samen couscous te eten. Na het middaggebed verzamelen familieleden zich rond een grote schaal, rijkelijk gevuld met groenten en vlees. Iedereen eet van dezelfde schaal, een traditie die symbool staat voor gastvrijheid en saamhorigheid.\n\nCouscous heeft een lange geschiedenis in Noord-Afrika en wordt sterk verbonden met de culinaire tradities van de Amazigh, de oorspronkelijke bewoners van de regio. Oorspronkelijk werden de kleine korrels met de hand gevormd uit griesmeel en vervolgens meerdere keren gestoomd boven een pan met vlees en groenten. Dat was een tijdrovend karwei, waarbij de kennis van generatie op generatie werd doorgegeven.\n\nEen beroemde Marokkaanse variant is *couscous aux sept légumes*, couscous met zeven groenten. Welke groenten precies worden gebruikt, verschilt per streek en seizoen. Wortels, rapen, pompoen en courgettes zijn veelvoorkomende ingrediënten.\n\nIn 2020 kreeg couscous internationale erkenning toen UNESCO de tradities rond het bereiden en gezamenlijk eten ervan op de lijst van immaterieel cultureel erfgoed plaatste. Opmerkelijk genoeg gebeurde dat op gezamenlijk verzoek van vier landen: Marokko, Algerije, Tunesië en Mauritanië.\n\nOnze couscous met rundvlees en groenten volgt deze Noord-Afrikaanse traditie, maar met een praktische aanpassing: we laten de couscous wellen in de geurige bouillon van het gestoofde vlees en de groenten, in plaats van hem meerdere keren te stomen.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
+    "receptTitel": "Couscous met rundvlees en groenten",
+    "auteur": "Alain Jaouhari",
+    "kookboek": "De traditionele Marokkaanse keuken",
     "url": null
-  }
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Knowledge, know-how and practices pertaining to the production and consumption of couscous",
+      "auteur": null,
+      "kookboek": "UNESCO – Intangible Cultural Heritage",
+      "url": "https://ich.unesco.org/en/RL/knowledge-know-how-and-practices-pertaining-to-the-production-and-consumption-of-couscous-01602"
+    },
+    {
+      "receptTitel": "Couscous",
+      "auteur": null,
+      "kookboek": "Marokkanisch",
+      "url": "https://marokkanisch.com/en/things/couscous/"
+    },
+    {
+      "receptTitel": "UNESCO's inscription of couscous traditions: an example of international cultural cooperation",
+      "auteur": null,
+      "kookboek": "UNESCO",
+      "url": "https://www.unesco.org/en/articles/unescos-inscription-couscous-traditions-example-international-cultural-cooperation"
+    }
+  ]
 }

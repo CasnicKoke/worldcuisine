@@ -862,8 +862,8 @@
       "bestand": "data/recepten/hamburger.json"
     },
     "couscous": {
-      "titel": "Couscous",
-      "korteBeschrijving": "Gestoomde grieskorrels, traditioneel geserveerd met groenten, kikkererwten en vlees.",
+      "titel": "Couscous met rundvlees en groenten",
+      "korteBeschrijving": "Traditionele Marokkaanse couscous met langzaam gestoofd rundvlees, pompoen, meirapen, wortel en courgette, geserveerd met eigengemaakte bouillon.",
       "afbeelding": "images/recepten/CouscousAI.png",
       "url": "recepten.html?id=couscous",
       "regios": [

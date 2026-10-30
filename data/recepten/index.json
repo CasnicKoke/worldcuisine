@@ -103,7 +103,7 @@
     },
     "xiaolongbao": {
       "titel": "Xiaolongbao",
-      "korteBeschrijving": "Chinese gestoomde dumplings gevuld met vlees en rijke bouillon.",
+      "korteBeschrijving": "Chinese gestoomde deegpakketjes met een sappige varkensvulling en hete bouillon, geserveerd met zwarte rijstazijn en verse gember.",
       "afbeelding": "images/recepten/XiaolongbaoAI.png",
       "url": "recepten.html?id=xiaolongbao",
       "regios": [
@@ -411,15 +411,15 @@
       ],
       "bestand": "data/recepten/falafel.json"
     },
-    "hummus": {
-      "titel": "Hummus",
-      "korteBeschrijving": "Romige puree van kikkererwten, tahin, citroen en knoflook, vaak gegeten met platbrood.",
-      "afbeelding": "images/recepten/HummusAI.png",
-      "url": "recepten.html?id=hummus",
+    "shakshuka": {
+      "titel": "Shakshuka",
+      "korteBeschrijving": "Gerecht uit de Levant met gebakken eieren in een kruidige tomatensaus met rode en gele paprika, komijn, saffraan en verse kruiden.",
+      "afbeelding": "images/recepten/ShakshukaAI.png",
+      "url": "recepten.html?id=shakshuka",
       "regios": [
         "levant"
       ],
-      "bestand": "data/recepten/hummus.json"
+      "bestand": "data/recepten/shakshuka.json"
     },
     "maqluba": {
       "titel": "Maqluba",

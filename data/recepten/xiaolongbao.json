@@ -4,7 +4,8 @@
     "china-oost-azie"
   ],
   "titel": "Xiaolongbao",
-  "korteBeschrijving": "Chinese gestoomde dumplings gevuld met vlees en rijke bouillon.",
+  "korteBeschrijving": "Chinese gestoomde deegpakketjes met een sappige varkensvulling en hete bouillon, geserveerd met zwarte rijstazijn en verse gember.",
+  "beschrijving": "Xiaolongbao zijn een specialiteit uit de omgeving van Shanghai. Deze kleine, gestoomde deegpakketjes hebben een dunne, delicate buitenkant en een verrassende vulling van gekruid varkensgehakt en geurige bouillon. Het geheim zit in de bouillon, die eerst tot gelei wordt gemaakt en tijdens het stomen smelt tot een warme soep binnen in het deeg. De dumplings worden rechtstreeks uit het stoommandje geserveerd, met Chinese zwarte rijstazijn en fijne reepjes verse gember. Voorzichtig eten is belangrijk: de bouillon binnenin kan bijzonder heet zijn!",
   "afbeelding": "images/recepten/XiaolongbaoAI.png",
   "url": "recepten.html?id=xiaolongbao",
   "volgorde": 11,
@@ -12,14 +13,70 @@
     "china-oost-azie": 3
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 300,
+  "moeilijkheid": "Moeilijk",
+  "ingredienten": [
+    "200 ml krachtige kippen- of varkensbouillon",
+    "50 ml koud water",
+    "10 g gelatinepoeder",
+    "180 g tarwebloem",
+    "105 ml warm water, voor het deeg",
+    "300 g varkensgehakt, liefst niet te mager",
+    "2 cm verse gember, voor de vulling",
+    "2 lente-uitjes",
+    "1 el lichte sojasaus",
+    "1 el Shaoxing rijstwijn",
+    "1 tl sesamolie",
+    "½ tl suiker",
+    "½ tl zout",
+    "¼ tl gemalen witte peper",
+    "4 el Chinese zwarte rijstazijn (Chinkiang)",
+    "2 cm verse gember, voor het serveren"
+  ],
+  "bereiding": [
+    "Maak 200 ml hete, iets geconcentreerde bouillon. Doe 50 ml koud water in een kommetje en strooi hier de 10 g gelatinepoeder over. Laat ongeveer 5 minuten wellen. Voeg de gewelde gelatine toe aan de warme bouillon en roer totdat deze volledig is opgelost. Laat de bouillon niet koken.",
+    "Giet de bouillon in een ondiepe schaal en laat afkoelen. Zet de schaal vervolgens minstens 3–4 uur in de koelkast, totdat de bouillon is opgestijfd tot een stevige gelei. Dit kan ook een dag van tevoren.",
+    "Doe de bloem in een grote kom en voeg geleidelijk het warme water toe. Meng tot een samenhangend deeg en kneed dit ongeveer 10–15 minuten, totdat het soepel en glad is. Dek af met een vochtige theedoek en laat 30 minuten rusten.",
+    "Schil en rasp de gember voor de vulling. Maak de lente-uitjes schoon en hak ze heel fijn. Meng het varkensgehakt met de gember, lente-ui, sojasaus, Shaoxing rijstwijn, sesamolie, suiker, zout en witte peper. Roer het mengsel enkele minuten stevig in één richting, totdat het gehakt een samenhangende, enigszins kleverige massa vormt.",
+    "Haal de opgestijfde bouillon uit de koelkast en snijd deze in kleine blokjes van ongeveer ½ cm. Schep de gelei voorzichtig door het gehaktmengsel en zet de vulling terug in de koelkast.",
+    "Verdeel het deeg in 24 gelijke stukjes. Rol ieder stukje op een licht met bloem bestoven werkblad uit tot een dun rond lapje van ongeveer 9–10 cm doorsnede. Zorg dat de randen dunner zijn dan het midden, zodat de bodem van de dumplings voldoende stevig blijft. Houd het deeg dat je nog niet gebruikt onder een vochtige theedoek.",
+    "Leg ongeveer een flinke eetlepel vulling in het midden van ieder deeglapje. Trek de deegrand voorzichtig omhoog en maak rondom kleine plooitjes, waarbij je steeds een stukje deeg over het vorige vouwt. Werk zo rondom totdat de dumpling bovenaan gesloten is. Knijp de bovenkant voorzichtig dicht. Zorg dat er geen scheurtjes in het deeg ontstaan, anders kan de bouillon tijdens het stomen weglopen.",
+    "Bekleed een stoommandje met licht ingevet, geperforeerd bakpapier. Zet de dumplings met voldoende tussenruimte in het mandje, zodat ze tijdens het stomen niet aan elkaar plakken.",
+    "Breng water aan de kook in een pan waarop het stoommandje past. Plaats het mandje boven het kokende water en doe het deksel erop. Stoom de Xiaolongbao ongeveer 10–12 minuten, totdat het deeg gaar is en het varkensgehakt volledig gaar is. Het water mag de dumplings niet raken. Stoom ze indien nodig in meerdere porties.",
+    "Meng ondertussen de Chinese zwarte rijstazijn met de resterende verse gember, die je in flinterdunne reepjes hebt gesneden. Verdeel over vier kleine schaaltjes.",
+    "Serveer de Xiaolongbao direct uit het stoommandje, met de azijn en gember ernaast. Til een dumpling voorzichtig op met eetstokjes en leg hem op een soeplepel. Maak een klein gaatje in het deeg zodat de hete bouillon kan ontsnappen en iets kan afkoelen. Drink voorzichtig de bouillon op en eet vervolgens de dumpling met wat azijn en gember."
+  ],
+  "weetje": "Het geheim van Xiaolongbao zit aan de binnenkant. Wie voor het eerst zo'n klein Chinees deegpakketje opensnijdt, ontdekt tot zijn verrassing dat het niet alleen gevuld is met vlees, maar ook met hete soep. Hoe krijgen de koks die bouillon daar toch in zonder dat het deeg doorweekt raakt?\n\nHet antwoord ligt in een slimme kooktechniek die in de negentiende eeuw beroemd werd in Nanxiang, een plaatsje bij Shanghai. Volgens de overlevering ontwikkelde de plaatselijke kok Huang Mingxian daar rond 1871 een bijzondere variant op de bestaande gestoomde vleesbroodjes. Hij maakte het deeg dunner, de broodjes kleiner en voegde stukjes opgesteven vleesbouillon toe aan het gehakt. Tijdens het stomen smolt de gelei en veranderde de vulling in een heerlijk sappige combinatie van vlees en soep.\n\nOok de naam vertelt iets over de bereiding. *Xiaolongbao* betekent letterlijk 'kleine-mand-broodjes', een verwijzing naar de kleine bamboemandjes waarin ze worden gestoomd. Het dichtvouwen is een kunst op zich: traditionele Xiaolongbao uit Nanxiang hebben minstens achttien sierlijke plooitjes. In 2014 werd de bereidingstechniek zelfs opgenomen op de Chinese nationale lijst van immaterieel cultureel erfgoed.\n\nIn Shanghai worden Xiaolongbao vaak geserveerd met zwarte rijstazijn en dunne reepjes gember. Maar pas op bij de eerste hap! De bouillon binnenin kan gloeiend heet zijn. Kenners leggen de dumpling daarom eerst op een lepel, maken voorzichtig een opening en laten de soep iets afkoelen. Het eten van deze dumplings is iets bijzonders, geniet van het eten en het gezelschap!",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Soup Dumplings (Xiaolongbao – 小笼包)",
+    "auteur": "Judy Leung",
+    "kookboek": "The Woks of Life",
+    "url": "https://thewoksoflife.com/steamed-shanghai-soup-dumplings-xiaolongbao/"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Homemade Soup Dumplings (Xiao Long Bao)",
+      "auteur": "Maggie Zhu",
+      "kookboek": "Omnivore's Cookbook",
+      "url": "https://omnivorescookbook.com/soup-dumplings/"
+    },
+    {
+      "receptTitel": "Xiaolongbao: A Small Dumpling with a Big Story",
+      "auteur": null,
+      "kookboek": "Shanghai Municipal Government",
+      "url": "https://english.shanghai.gov.cn/en-GlobalTasteinShanghai2026-LocalFlavors/20260316/00b0c6d1698d406c8d532a6e169e1a1e.html"
+    },
+    {
+      "receptTitel": "Nanxiang Xiaolongbao – Traditional Making Technique",
+      "auteur": null,
+      "kookboek": "China Intangible Cultural Heritage",
+      "url": "https://www.ihchina.cn/Article/Index/detail?id=14647"
+    },
+    {
+      "receptTitel": "Culinary Heritage",
+      "auteur": null,
+      "kookboek": "Shanghai Municipal Government",
+      "url": "https://english.shanghai.gov.cn/en-SpecialtyFood/20260511/594d417a429d426e8442a47336c47574.html"
+    }
+  ]
 }

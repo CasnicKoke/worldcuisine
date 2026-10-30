@@ -1,0 +1,76 @@
+{
+  "sleutel": "shakshuka",
+  "regios": [
+    "levant"
+  ],
+  "titel": "Shakshuka",
+  "korteBeschrijving": "Gerecht uit de Levant met gebakken eieren in een kruidige tomatensaus met rode en gele paprika, komijn, saffraan en verse kruiden.",
+  "beschrijving": "Shakshuka is een gerecht waarbij eieren zachtjes garen in een rijke saus van tomaten, paprika en uien. Komijn, saffraan, tijm en verse kruiden geven de saus een warme, aromatische smaak. De eieren worden rechtstreeks in de saus gebroken en langzaam gegaard, zodat de dooiers nog zacht blijven. Serveer de shakshuka direct uit de pan, met vers platbrood om de saus en eieren mee op te scheppen. Voor een stevigere maaltijd kunnen ook pittige merguezworstjes worden toegevoegd.",
+  "afbeelding": "images/recepten/ShakshukaAI.png",
+  "url": "recepten.html?id=shakshuka",
+  "volgorde": 42,
+  "regioVolgorde": {
+    "levant": 2
+  },
+  "porties": 4,
+  "bereidingstijdMinuten": 50,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "1 tl komijnzaad",
+    "4 el milde olijfolie",
+    "2 grote uien",
+    "2 rode paprika's",
+    "2 gele paprika's",
+    "4 tl ruwe rietsuiker",
+    "2 laurierblaadjes",
+    "6 takjes verse tijm",
+    "2 el fijngehakte peterselie",
+    "2 el fijngehakte koriander, plus extra voor garnering",
+    "6 rijpe tomaten",
+    "1 mespunt saffraandraadjes",
+    "1 snuf cayennepeper",
+    "Maximaal 250 ml water",
+    "8 eieren",
+    "Zout en zwarte peper, naar smaak",
+    "2 grote platbroden, om erbij te serveren"
+  ],
+  "bereiding": [
+    "Pel de uien en snijd ze in dunne halve ringen. Verwijder de zaadlijsten van de paprika's en snijd ze in repen van ongeveer 1 cm breed. Snijd de tomaten in blokjes. Hak de peterselie en koriander fijn en ris de blaadjes van de takjes tijm.",
+    "Rooster het komijnzaad ongeveer 1 minuut in een grote, droge koekenpan op middelhoog vuur, totdat het begint te geuren.",
+    "Voeg de olijfolie en de uien toe aan de pan. Bak de uien ongeveer 5 minuten, totdat ze zacht en glazig zijn.",
+    "Voeg de rode en gele paprika's, suiker, laurierblaadjes, tijm, peterselie en koriander toe. Houd wat koriander apart voor de garnering. Bak alles ongeveer 10 minuten op middelhoog vuur, terwijl je regelmatig omschept.",
+    "Voeg de tomatenblokjes, saffraandraadjes en cayennepeper toe. Schenk ongeveer 100 ml water erbij en roer alles goed door. Breng op smaak met zout en zwarte peper.",
+    "Laat de groenten zonder deksel ongeveer 15–20 minuten zachtjes pruttelen, totdat de paprika's gaar zijn en de tomaten zijn ingekookt tot een dikke saus. Roer regelmatig en voeg indien nodig wat extra water toe, tot maximaal 250 ml in totaal. De saus moet voldoende vocht bevatten om de eieren straks in te laten garen, maar mag niet waterig zijn.",
+    "Verwijder de laurierblaadjes. Verdeel de saus indien nodig over twee ruime koekenpannen, zodat er voldoende ruimte is voor de acht eieren. Maak met een lepel acht kuiltjes in de saus.",
+    "Breek voorzichtig in ieder kuiltje een ei. Probeer de dooiers heel te houden. Bestrooi de eieren met een beetje zout en zwarte peper.",
+    "Doe een deksel op de pan en laat de eieren op laag vuur ongeveer 6–10 minuten zachtjes garen, totdat het eiwit gestold is maar de dooiers nog vloeibaar zijn. Controleer regelmatig om te voorkomen dat de eieren te gaar worden.",
+    "Strooi de achtergehouden koriander over de Shakshuka en serveer direct vanuit de pan, met warm platbrood om de eieren en de kruidige tomatensaus mee op te scheppen. Variatietip: bak naar wens 4–8 merguezworstjes rondom bruin en gaar en serveer ze erbij, of voeg ze in stukken toe aan de tomatensaus voordat je de eieren erin breekt."
+  ],
+  "weetje": "Wie tegenwoordig in Tel Aviv of Jeruzalem gaat ontbijten, heeft een goede kans dat er Shakshuka op de menukaart staat. Toch komt dit populaire gerecht oorspronkelijk niet uit de Levant, maar uit Noord-Afrika. Vooral Tunesië en Libië worden met de oorsprong ervan geassocieerd. Zelfs de naam verwijst naar het karakter van het gerecht: *shakshuka* betekent zoiets als 'mengelmoes'.\n\nDe geschiedenis van Shakshuka is verrassend internationaal. Tomaten en paprika's, tegenwoordig onmisbaar in het gerecht, kwamen oorspronkelijk uit Amerika. Pas nadat deze groenten vanaf de zestiende eeuw hun weg naar Europa en Noord-Afrika vonden, kon Shakshuka zijn huidige vorm krijgen.\n\nIn de jaren vijftig en zestig van de twintigste eeuw namen Joodse immigranten uit Tunesië en Libië hun vertrouwde Shakshuka mee naar Israël. Het eenvoudige, goedkope gerecht werd er steeds populairder. Vooral in de jaren negentig kreeg het een vaste plaats op de menukaarten van restaurants. Vanuit de Levant veroverde Shakshuka vervolgens ook de rest van de wereld.\n\nInmiddels bestaan er talloze varianten. Sommige zijn flink pittig, andere worden bereid met feta, extra groenten of kruidige merguezworstjes. Wat ze gemeen hebben, is het plezier van samen eten: een grote pan midden op tafel, vers brood erbij en iedereen die zijn stukje brood in de geurige tomatensaus doopt.",
+  "bron": {
+    "receptTitel": "Shakshuka",
+    "auteur": "Yotam Ottolenghi",
+    "kookboek": "Plenty (2010)",
+    "url": null
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Shakshuka: All mixed up over a brilliant breakfast",
+      "auteur": null,
+      "kookboek": "The Irish Times",
+      "url": "https://www.irishtimes.com/life-and-style/food-and-drink/shakshuka-all-mixed-up-over-a-brilliant-breakfast-1.4526350"
+    },
+    {
+      "receptTitel": "The World of Sephardic Food",
+      "auteur": null,
+      "kookboek": "Association for Jewish Studies",
+      "url": "https://www.associationforjewishstudies.org/podcasts/the-world-of-sephardic-food"
+    },
+    {
+      "receptTitel": "From Prison to Table — Bino Gabso’s Shakshuka",
+      "auteur": null,
+      "kookboek": "JewishArts.org",
+      "url": "https://jewisharts.org/curations/from-prison-to-table-bino-gabsos-shakshuka/"
+    }
+  ]
+}

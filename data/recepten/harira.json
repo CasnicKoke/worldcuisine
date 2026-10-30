@@ -4,7 +4,8 @@
     "maghreb"
   ],
   "titel": "Harira",
-  "korteBeschrijving": "Hartige Noord-Afrikaanse soep met tomaat, peulvruchten, kruiden en vaak stukjes vlees.",
+  "korteBeschrijving": "Rijkgevulde Marokkaanse maaltijdsoep met rundvlees, kikkererwten, linzen, prei, tomaten en geurige kruiden.",
+  "beschrijving": "Harira is een traditionele Marokkaanse maaltijdsoep, bekend om zijn rijke smaak en stevige vulling. Malse stukjes rundvlees worden langzaam gestoofd met tomaten, prei, kikkererwten, linzen. De soep wordt licht gebonden en krijgt daardoor zijn karakteristieke volle structuur. Serveer met vers Marokkaans platbrood en een partje citroen. Wie van pittig houdt, kan naar smaak wat harissa toevoegen.",
   "afbeelding": "images/recepten/HariraAI.png",
   "url": "recepten.html?id=harira",
   "volgorde": 90,
@@ -12,14 +13,64 @@
     "maghreb": 2
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 135,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "350 g runderschouder",
+    "800 g gezeefde tomaten (passata)",
+    "2 middelgrote preien",
+    "1 blik (400 g) kikkererwten, uitgelekt",
+    "1 blik (400 g) groene of bruine linzen, uitgelekt",
+    "1 grote ui",
+    "1 tl kurkuma",
+    "1 tl gemberpoeder",
+    "½ bosje verse koriander",
+    "½ bosje platte peterselie",
+    "2 el bloem",
+    "2 el olijfolie",
+    "800 ml water (zo nodig extra)",
+    "1 tl zout",
+    "1 tl zwarte peper",
+    "1 citroen, in partjes",
+    "1 groot Marokkaans platbrood",
+    "harissa naar smaak, apart geserveerd (optioneel)"
+  ],
+  "bereiding": [
+    "Snijd de runderschouder in kleine blokjes. Pel en snipper de ui. Maak de preien schoon en snijd ze in dunne halve ringen. Was de peterselie en koriander en hak ze fijn.",
+    "Verhit de olijfolie in een grote soeppan op middelhoog vuur. Voeg de ui en prei toe en fruit deze ongeveer 5 minuten, totdat ze zacht beginnen te worden.",
+    "Voeg het rundvlees toe en bak het enkele minuten mee. Voeg vervolgens de kurkuma, het gemberpoeder, het zout en de zwarte peper toe. Roer alles goed door en bak de kruiden ongeveer 1 minuut mee.",
+    "Schenk de gezeefde tomaten en 750 ml water in de pan. Voeg de peterselie en koriander toe en roer goed door. Breng de soep aan de kook.",
+    "Zet het vuur laag en laat de soep met het deksel schuin op de pan ongeveer 1½ tot 2 uur zachtjes pruttelen, totdat het rundvlees mals is. Roer af en toe door en voeg zo nodig wat extra water toe als de soep te dik wordt.",
+    "Laat de kikkererwten en linzen uitlekken in een vergiet en spoel ze af onder koud water. Voeg ze toe aan de soep zodra het rundvlees gaar is. Laat alles ongeveer 15 minuten zachtjes koken.",
+    "Meng ondertussen de bloem met de resterende 50 ml koud water tot een glad papje zonder klontjes. Schenk dit al roerend langzaam bij de soep. Laat nog ongeveer 10 minuten zachtjes doorkoken en roer regelmatig, totdat de soep licht gebonden is.",
+    "Proef de Harira en voeg indien nodig wat extra zout of peper toe. Is de soep te dik geworden, voeg dan nog wat water toe. De soep moet stevig gevuld zijn, maar wel voldoende vloeibaar blijven.",
+    "Schep de Harira in diepe kommen. Serveer met vers Marokkaans platbrood en partjes citroen. Zet eventueel wat harissa op tafel, zodat iedereen de soep naar smaak pittiger kan maken."
+  ],
+  "weetje": "Als in Marokko tijdens de ramadan de zon ondergaat, staat vaak een kom Harira klaar. Na een lange dag vasten wordt traditioneel eerst een dadel gegeten, gevolgd door deze geurige, voedzame soep. Vaak liggen er ook *chebakia* op tafel: goudbruine, met honing overgoten koekjes met sesamzaad. De combinatie van hartige soep en zoet gebak is een geliefde Marokkaanse traditie.\n\nHarira heeft een lange geschiedenis, maar waar de soep precies vandaan komt, is niet helemaal duidelijk. De wortels worden gezocht in de oude Noord-Afrikaanse en Andalusische keukens. Door de eeuwen heen ontstonden allerlei regionale varianten. Sommige families voegen rijst toe, andere vermicelli, en weer andere houden het bij vlees, kikkererwten en linzen. Wat veel recepten gemeen hebben, is het gebruik van een mengsel van bloem en water om de soep haar karakteristieke, volle structuur te geven.\n\nBijzonder is dat Harira niet alleen een rol speelt in de islamitische eetcultuur. Ook Marokkaans-Joodse families kennen de soep als traditioneel gerecht om het vasten na Jom Kipoer, de Grote Verzoendag, te verbreken. Zo verbindt Harira verschillende gemeenschappen in een gedeelde culinaire geschiedenis.\n\nOnze Harira is een stevige maaltijdsoep met rundvlees, kikkererwten, linzen en verse kruiden. We gebruiken prei in plaats van de traditionele bleekselderij en serveren de soep met citroen, Marokkaans platbrood en eventueel een beetje harissa.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
+    "receptTitel": "Harira",
+    "auteur": "Alain Jaouhari",
+    "kookboek": "De traditionele Marokkaanse keuken",
     "url": null
-  }
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "To Break the Ramadan Fast in Morocco, Start With Soup",
+      "auteur": "Jeff Koehler",
+      "kookboek": "National Geographic",
+      "url": "https://www.nationalgeographic.com/culture/article/to-break-the-ramadan-fast-in-morocco-start-with-soup"
+    },
+    {
+      "receptTitel": "Harira",
+      "auteur": "Inbal Gafni",
+      "kookboek": "ANU Museum – Foodish",
+      "url": "https://foodish.anumuseum.org.il/en/harira/"
+    },
+    {
+      "receptTitel": "Harira",
+      "auteur": null,
+      "kookboek": "Marokkanisch",
+      "url": "https://marokkanisch.com/en/harira/"
+    }
+  ]
 }

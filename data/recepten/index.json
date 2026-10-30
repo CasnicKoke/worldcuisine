@@ -883,7 +883,7 @@
     },
     "harira": {
       "titel": "Harira",
-      "korteBeschrijving": "Hartige Noord-Afrikaanse soep met tomaat, peulvruchten, kruiden en vaak stukjes vlees.",
+      "korteBeschrijving": "Rijkgevulde Marokkaanse maaltijdsoep met rundvlees, kikkererwten, linzen, prei, tomaten en geurige kruiden.",
       "afbeelding": "images/recepten/HariraAI.png",
       "url": "recepten.html?id=harira",
       "regios": [
@@ -892,8 +892,8 @@
       "bestand": "data/recepten/harira.json"
     },
     "pastilla": {
-      "titel": "Pastilla",
-      "korteBeschrijving": "Marokkaanse hartig-zoete pastei met dun deeg, vaak gevuld met gevogelte en specerijen.",
+      "titel": "Pastilla met vis en zeevruchten",
+      "korteBeschrijving": "Krokante Marokkaanse hartige taart met witte vis, garnalen, inktvis, groenten en glasnoedels, verpakt in goudbruin filodeeg.",
       "afbeelding": "images/recepten/PastillaAI.png",
       "url": "recepten.html?id=pastilla",
       "regios": [

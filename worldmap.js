@@ -329,7 +329,7 @@ const regioBeschrijving = {
     },
 
     "china-oost-azie": {
-        titel: "China en de Koreaanse Schiereilanden",
+        titel: "China en het Koreaanse Schiereiland",
         beschrijving:
             "Een veelzijdige culinaire traditie waarin balans tussen smaak, textuur en bereidingswijze centraal staat.",
         ingredienten:

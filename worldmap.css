@@ -744,26 +744,31 @@ img {
     transform: none !important;
 }
 
-@media (max-width: 800px) {
-    .hero-map-stage {
-        width: 100%;
-    }
 
-    .map-compass {
-        width: 110px;
-        opacity: 0.15;
-    }
 
-    .map-dragon {
-        width: 95px;
-        opacity: .38;
-    }
+/* Wereldkaartdecoraties: tablets en telefoons */
+@media (max-width: 1200px) {
+  .hero-map-stage {
+    width: 100%;
+  }
 
-    .map-ship {
-        width: 80px;
-        opacity: 0.31;
-    }
+  .map-compass {
+    width: 18%;
+    height: auto;
+    opacity: 0.15;
+  }
 
+  .map-dragon {
+    width: 12%;
+    height: auto;
+    opacity: 0.38;
+  }
+
+  .map-ship {
+    width: 10%;
+    height: auto;
+    opacity: 0.31;
+  }
 }
 
 /* ======================================================================

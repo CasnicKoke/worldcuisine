@@ -3,8 +3,9 @@
   "regios": [
     "japan"
   ],
-  "titel": "Sushi",
-  "korteBeschrijving": "Japanse rijstrolletjes met vis, groenten of andere vullingen.",
+  "titel": "Maki sushi",
+  "korteBeschrijving": "Japanse sushirolletjes met zalm, komkommer en avocado, omhuld met sushirijst en nori, geserveerd met wasabi, sojasaus en ingelegde gember.",
+  "beschrijving": "Maki is een van de bekendste vormen van Japanse sushi. Deze kleine rolletjes bestaan uit sushirijst en een vulling, stevig opgerold in een vel nori, gedroogd zeewier. In dit recept maken we drie varianten: met zachte zalm, knapperige komkommer en romige avocado. De rijst krijgt zijn karakteristieke lichtzure smaak door een mengsel van rijstazijn, suiker en zout. De maki worden in hapklare stukjes gesneden en geserveerd met Japanse sojasaus, pittige wasabi en ingelegde gember.",
   "afbeelding": "images/recepten/SushiAI.png",
   "url": "recepten.html?id=sushi",
   "volgorde": 12,
@@ -12,14 +13,58 @@
     "japan": 0
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 75,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "300 g sushirijst",
+    "50 ml rijstazijn",
+    "20 g suiker",
+    "1 tl zout",
+    "3 grote vellen nori (doormidden gesneden)",
+    "150 g verse zalm, geschikt om rauw te eten",
+    "½ komkommer",
+    "1 rijpe avocado",
+    "2–3 tl wasabipasta",
+    "6 el Japanse sojasaus (koikuchi shoyu)",
+    "50 g ingelegde gember (gari)"
+  ],
+  "bereiding": [
+    "Spoel de sushirijst meerdere keren met koud water totdat het water vrijwel helder blijft. Laat de rijst ongeveer 15 minuten uitlekken in een zeef. Kook de rijst vervolgens volgens de aanwijzingen op de verpakking.",
+    "Verwarm ondertussen de rijstazijn met de suiker en het zout in een kleine steelpan op laag vuur. Roer totdat de suiker en het zout volledig zijn opgelost. Laat het mengsel niet koken.",
+    "Schep de gare rijst in een ruime, bij voorkeur ondiepe schaal. Sprenkel het azijnmengsel er gelijkmatig over en schep voorzichtig door de rijst met een houten spatel. Maak daarbij snijdende bewegingen om de rijstkorrels niet te beschadigen. Laat de rijst afkoelen tot lauwwarm. Dek af met een schone, licht vochtige theedoek om uitdroging te voorkomen.",
+    "Snijd de zalm in lange reepjes van ongeveer 1 cm dik. Was de komkommer, snijd deze in de lengte doormidden en verwijder de zaadlijsten. Snijd de komkommer vervolgens in lange, dunne repen. Halveer de avocado, verwijder de pit en schil en snijd het vruchtvlees in lange repen.",
+    "Bekleed een bamboe sushimatje met vershoudfolie. Leg een half norivel op het matje, met de glanzende kant naar beneden en de lange zijde naar je toe. Maak je handen licht vochtig en verdeel een dunne, gelijkmatige laag sushirijst over het norivel. Laat aan de bovenkant ongeveer 1,5 cm vrij.",
+    "Leg voor de eerste twee rollen een reep zalm horizontaal over de rijst, iets onder het midden. Til met behulp van het matje de onderste rand van het norivel op en rol deze stevig over de vulling. Rol verder tot een compacte cilinder. Bevochtig de vrije rand van het norivel met een beetje water en druk deze voorzichtig vast.",
+    "Maak op dezelfde manier twee rollen met komkommer en twee met avocado. Zorg dat de vulling steeds in een smalle strook ligt en gebruik niet te veel rijst, zodat de rollen goed gesloten kunnen worden.",
+    "Leg de zes rollen met de naad naar beneden op een snijplank. Gebruik een zeer scherp mes en maak het lemmet licht vochtig. Snijd iedere rol eerst doormidden, vervolgens iedere helft nogmaals doormidden en ten slotte ieder kwart in tweeën. Zo ontstaan acht gelijke stukjes per rol. Maak het mes tussendoor schoon voor mooie, rechte snijvlakken.",
+    "Schik de 16 zalmmaki, 16 komkommermaki en 16 avocadomaki op een grote schaal. Wissel de verschillende soorten af voor een kleurrijke presentatie.",
+    "Verdeel de Japanse sojasaus over vier kleine schaaltjes. Serveer de sushi direct met wasabipasta en ingelegde gember. Gebruik de gember tussen de verschillende soorten sushi om de smaak te verfrissen. Meng eventueel een beetje wasabi met de sojasaus, of voeg deze rechtstreeks aan een stukje maki toe."
+  ],
+  "weetje": "Wie tegenwoordig aan sushi denkt, ziet waarschijnlijk kleine rolletjes rijst met vis, groenten en zeewier voor zich. Maar de oorspronkelijke sushi zag er heel anders uit. Sterker nog: de rijst werd vroeger helemaal niet opgegeten!\n\nDe geschiedenis van sushi begint vermoedelijk in Zuidoost-Azië, waar vis werd geconserveerd door hem met zout en gekookte rijst te laten fermenteren. Deze methode bereikte ook Japan, waar al in de achtste eeuw melding werd gemaakt van *nare-zushi*. De vis werd soms maandenlang bewaard en kreeg door de fermentatie een bijzondere, zure smaak. De rijst had zijn werk als conserveringsmiddel gedaan en werd weggegooid.\n\nPas veel later veranderde sushi in het gerecht dat we nu kennen. Tijdens de Edoperiode (1603–1868) gingen Japanse koks rijstazijn gebruiken om de rijst direct een frisse, lichtzure smaak te geven. Hierdoor was langdurig fermenteren niet meer nodig. In de achttiende eeuw verschenen ook de eerste *makizushi*: rolletjes rijst en vulling, bij elkaar gehouden door een vel nori, gedroogd zeewier.\n\nOnze drie soorten maki laten mooi zien hoe sushi zich sindsdien verder heeft ontwikkeld. Komkommer is een klassieke Japanse vulling, maar avocado is een veel modernere toevoeging. Die werd vooral populair dankzij de California roll, die in de jaren zeventig in Noord-Amerika ontstond. Japanse sushikoks gebruikten de romige avocado als alternatief voor vette vis en ontdekten daarmee een combinatie die wereldwijd geliefd zou worden.\n\nZo vertelt zelfs een eenvoudige schaal maki een verhaal van eeuwenoude conserveringstechnieken, Japanse verfijning en internationale culinaire uitwisseling.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Best Sushi Recipes to Make At Home",
+    "auteur": "Namiko Chen",
+    "kookboek": "Just One Cookbook",
+    "url": "https://www.justonecookbook.com/authentic-best-sushi-recipes/"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Sushi",
+      "auteur": null,
+      "kookboek": "Japan Tourism Agency",
+      "url": "https://www.mlit.go.jp/tagengo-db/en/R1-01241.html"
+    },
+    {
+      "receptTitel": "The Ancestor of Modern Sushi",
+      "auteur": null,
+      "kookboek": "Mizkan Sushi Laboratory",
+      "url": "https://www.mizkan.co.jp/sushilab/english/history/ancestor.html"
+    },
+    {
+      "receptTitel": "Sushi Collection",
+      "auteur": null,
+      "kookboek": "Smithsonian National Museum of American History",
+      "url": "https://americanhistory.si.edu/collections/object-groups/sushi-collection?ogmt_page=sushi-introduction"
+    }
+  ]
 }

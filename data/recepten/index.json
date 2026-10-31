@@ -112,8 +112,8 @@
       "bestand": "data/recepten/xiaolongbao.json"
     },
     "sushi": {
-      "titel": "Sushi",
-      "korteBeschrijving": "Japanse rijstrolletjes met vis, groenten of andere vullingen.",
+      "titel": "Maki sushi",
+      "korteBeschrijving": "Japanse sushirolletjes met zalm, komkommer en avocado, omhuld met sushirijst en nori, geserveerd met wasabi, sojasaus en ingelegde gember.",
       "afbeelding": "images/recepten/SushiAI.png",
       "url": "recepten.html?id=sushi",
       "regios": [

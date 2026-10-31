@@ -1,0 +1,71 @@
+{
+  "sleutel": "sobaWakame",
+  "regios": [
+    "japan"
+  ],
+  "titel": "Sobanoedels met wakame",
+  "korteBeschrijving": "Frisse Japanse noedelsalade met sobanoedels, wakame, komkommer, radijs en verse kruiden, geserveerd met een pittige dressing van limoen, gember en sesamolie.",
+  "beschrijving": "Sobanoedels met wakame is een lichte, verfrissende noedelsalade waarin de nootachtige smaak van Japanse boekweitnoedels wordt gecombineerd met het zachte, licht zilte karakter van zeewier. Knapperige komkommer en radijs zorgen voor een frisse bite, terwijl koriander, munt en geroosterd sesamzaad extra smaak en textuur toevoegen. Een pittige, zoetzure dressing van limoen, gember, chilipeper en sesamolie brengt alle ingrediënten samen. Het gerecht wordt koud of op kamertemperatuur geserveerd en is bijzonder geschikt voor warme dagen.",
+  "afbeelding": "images/recepten/SobaWakameAI.png",
+  "url": "recepten.html?id=sobaWakame",
+  "volgorde": 13,
+  "regioVolgorde": {
+    "japan": 1
+  },
+  "porties": 4,
+  "bereidingstijdMinuten": 35,
+  "moeilijkheid": "Eenvoudig",
+  "ingredienten": [
+    "300 g sobanoedels",
+    "1 grote komkommer",
+    "20 g gedroogde wakame (zeewier)",
+    "40 g geroosterd sesamzaad",
+    "20 g verse koriander",
+    "20 g verse munt",
+    "4 radijsjes",
+    "1 tl zout, voor de komkommer",
+    "2 el rijstazijn",
+    "2 limoenen, rasp en sap",
+    "1 el versgeraspte gember",
+    "2 rode chilipepers",
+    "1 el palmsuiker",
+    "2 el sesamolie",
+    "2 el arachideolie",
+    "1 el zoete chilisaus",
+    "1 teen knoflook",
+    "½ tl zout, voor de dressing"
+  ],
+  "bereiding": [
+    "Was de komkommer en snijd hem in de lengte doormidden. Verwijder met een lepel de zaadlijsten en snijd de komkommer in dunne halve plakjes. Meng met 1 tl zout en laat ongeveer 15 minuten in een vergiet staan, zodat het overtollige vocht eruit trekt.",
+    "Doe de gedroogde wakame in een kom met ruim koud water en laat ongeveer 5–10 minuten weken, totdat het zeewier zacht is en flink in volume is toegenomen. Giet af, spoel kort onder koud water en knijp voorzichtig het overtollige vocht eruit. Snijd grote stukken eventueel wat kleiner.",
+    "Breng een grote pan water aan de kook. Voeg de sobanoedels toe en kook ze volgens de aanwijzingen op de verpakking, meestal 4–6 minuten. Giet af en spoel de noedels grondig onder koud stromend water om het kookproces te stoppen en overtollig zetmeel te verwijderen. Laat goed uitlekken.",
+    "Was de radijsjes en snijd ze in dunne reepjes. Hak de koriander en munt grof.",
+    "Rasp de schil van de limoenen en pers het sap uit. Schil en rasp de gember. Verwijder de zaadlijsten van de chilipepers en hak ze fijn. Pel de knoflook en hak deze zeer fijn.",
+    "Meng voor de dressing de rijstazijn, het limoensap en de limoenrasp met de gember, chilipepers, palmsuiker, sesamolie, arachideolie, zoete chilisaus, knoflook en ½ tl zout. Roer goed totdat de suiker is opgelost en de ingrediënten een gelijkmatige dressing vormen.",
+    "Spoel de gezouten komkommer kort af onder koud water en dep droog met keukenpapier. Doe de afgekoelde sobanoedels in een grote kom en voeg de komkommer, wakame en radijsreepjes toe.",
+    "Schenk de dressing over de noedels en schep alles voorzichtig om, zodat de groenten en het zeewier gelijkmatig worden verdeeld. Laat ongeveer 5 minuten staan, zodat de smaken zich kunnen mengen.",
+    "Voeg de koriander, munt en het grootste deel van het geroosterde sesamzaad toe. Schep nogmaals voorzichtig om. Proef en voeg eventueel wat extra limoensap of zout toe.",
+    "Verdeel de sobanoedelsalade over vier kommen en bestrooi met het resterende sesamzaad. Serveer direct, op kamertemperatuur of licht gekoeld. Tip: maak je het gerecht van tevoren, bewaar dan de dressing en verse kruiden apart en meng ze pas vlak voor het serveren door de noedels."
+  ],
+  "weetje": "In Japan zijn sobanoedels veel meer dan zomaar een snelle maaltijd. Op oudejaarsavond eten veel Japanse families *toshikoshi soba*, letterlijk 'noedels om het jaar over te steken'. De lange, dunne noedels symboliseren een lang leven, terwijl het gemakkelijk doorsnijden ervan staat voor het achterlaten van de zorgen en tegenslagen van het afgelopen jaar. Een kom soba is dus ook een wens voor een gelukkig nieuwjaar!\n\nBoekweit wordt in Japan al eeuwenlang gegeten, maar pas tijdens de Edoperiode (1603–1868) werden de dunne noedels zoals we die nu kennen echt populair. In Edo, het huidige Tokio, verschenen talloze kleine eetgelegenheden waar arbeiders en reizigers snel een kom soba konden eten. De noedels werden zowel warm in bouillon als koud met een dipsaus geserveerd.\n\nOok wakame heeft een lange geschiedenis. Al in de achtste eeuw werd dit zeewier langs de Japanse kust verzameld en naar het keizerlijke hof vervoerd. Vermoedelijk werd het toen al in de zon gedroogd om het langer te kunnen bewaren. Door de eeuwen heen ontwikkelden de Japanners verschillende conserveringsmethoden. Een bijzondere techniek ontstond in de negentiende eeuw, toen men wakame met houtas ging behandelen voordat het werd gedroogd. Zo bleef het zeewier langer houdbaar en behield het zijn mooie groene kleur.\n\nOnze sobanoedels met wakame brengen deze twee eeuwenoude Japanse ingrediënten samen in een moderne creatie, geïnspireerd op een gerecht uit Yotam Ottolenghi's kookboek *Plenty*. Met limoen, chilipeper, koriander en munt krijgt het gerecht een frisse, internationale twist. Een mooi voorbeeld van hoe traditionele ingrediënten steeds weer nieuwe culinaire mogelijkheden bieden.",
+  "bron": {
+    "receptTitel": "Sobanoedels met wakame",
+    "auteur": "Yotam Ottolenghi",
+    "kookboek": "Plenty (2010)",
+    "url": null
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Soba en de traditie van toshikoshi soba",
+      "auteur": null,
+      "kookboek": "Ministry of Agriculture, Forestry and Fisheries of Japan",
+      "url": "https://www.maff.go.jp/e/policies/market/k_ryouri/search_menu/6156/index.html"
+    },
+    {
+      "receptTitel": "Japanese seaweed products",
+      "auteur": null,
+      "kookboek": "Ministry of Agriculture, Forestry and Fisheries of Japan",
+      "url": "https://www.maff.go.jp/e/policies/market/dento_syoku/bunrui/kaisou-seihin.html"
+    }
+  ]
+}

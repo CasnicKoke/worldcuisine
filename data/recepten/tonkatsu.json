@@ -4,7 +4,8 @@
     "japan"
   ],
   "titel": "Tonkatsu",
-  "korteBeschrijving": "Krokant gepaneerde varkenskotelet, geserveerd met koolsalade.",
+  "korteBeschrijving": "Japanse varkensschnitzel met een krokante pankokorst, geserveerd met witte kool, rijst en zelfgemaakte tonkatsusaus.",
+  "beschrijving": "Tonkatsu is een klassiek Japans gerecht waarbij dikke varkensfiletlapjes worden gepaneerd met panko, een grof Japans paneermeel, en goudbruin gefrituurd. Hierdoor ontstaat een bijzonder krokante korst, terwijl het vlees vanbinnen sappig blijft. De schnitzels worden in brede repen gesneden en geserveerd met fijngesneden rauwe witte kool, gestoomde rijst en een hartige, lichtzoete tonkatsusaus. Een partje citroen zorgt voor een frisse tegenhanger van de rijke smaken.",
   "afbeelding": "images/recepten/TonkatsuAI.png",
   "url": "recepten.html?id=tonkatsu",
   "volgorde": 14,
@@ -12,14 +13,68 @@
     "japan": 2
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 40,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "4 varkensfiletlapjes (à 150 g, ongeveer 1,5–2 cm dik)",
+    "40 g tarwebloem",
+    "2 eieren",
+    "120 g panko (Japans paneermeel)",
+    "ca. 750 ml neutrale olie, om in te frituren",
+    "1 tl zout",
+    "1 tl zwarte peper",
+    "4 el ketchup",
+    "2 el worcestersaus",
+    "1 el Japanse sojasaus (koikuchi shoyu)",
+    "1 tl suiker",
+    "2 tl fijngeraspte appel",
+    "300 g sushirijst",
+    "400 g witte kool",
+    "1 citroen"
+  ],
+  "bereiding": [
+    "Spoel de sushirijst enkele keren onder koud water totdat het water vrijwel helder is. Kook de rijst volgens de aanwijzingen op de verpakking en houd warm tot het serveren.",
+    "Verwijder de buitenste bladeren en de harde kern van de witte kool. Snijd de kool in zeer dunne reepjes, bij voorkeur met een mandoline of een scherp mes. Spoel kort onder koud water en laat goed uitlekken. Zet koel weg tot het serveren.",
+    "Meng voor de tonkatsusaus de ketchup, worcestersaus, Japanse sojasaus en suiker in een kommetje. Schil een stukje appel en rasp het fijn. Voeg 2 tl geraspte appel toe en roer totdat de suiker is opgelost. Zet de saus apart.",
+    "Dep de varkensfiletlapjes droog met keukenpapier. Snijd het bindweefsel langs eventuele vetrandjes op enkele plaatsen voorzichtig in, zodat het vlees tijdens het bakken niet kromtrekt. Druk de lapjes eventueel iets platter, maar houd ze ongeveer 1,5–2 cm dik. Bestrooi beide kanten met zout en zwarte peper.",
+    "Zet drie diepe borden klaar: één met de bloem, één met de losgeklopte eieren en één met de panko. Haal ieder filetlapje eerst door de bloem en schud het overtollige eraf. Haal het vervolgens door het ei en druk het daarna aan beide kanten voorzichtig in de panko, zodat het vlees volledig bedekt is.",
+    "Verhit de neutrale olie in een stevige, diepe pan tot ongeveer 170 °C. Gebruik voldoende olie om de filetlapjes ruim te kunnen frituren, maar vul de pan nooit voor meer dan de helft. Controleer de temperatuur bij voorkeur met een keukenthermometer.",
+    "Laat één of twee gepaneerde filetlapjes voorzichtig in de hete olie zakken, afhankelijk van de grootte van de pan. Frituur ze ongeveer 5–7 minuten, waarbij je ze halverwege voorzichtig omdraait, totdat de korst goudbruin en krokant is en het vlees vanbinnen gaar is. De exacte baktijd hangt af van de dikte. Frituur de overige lapjes op dezelfde manier en laat de olie tussendoor weer op temperatuur komen.",
+    "Haal de tonkatsu met een schuimspaan of tang uit de olie. Laat uitlekken op een rooster met keukenpapier eronder en laat enkele minuten rusten. Zo blijft de pankokorst zo krokant mogelijk.",
+    "Snijd de tonkatsu met een scherp mes in repen van ongeveer 2 cm breed. Snijd de citroen in partjes.",
+    "Verdeel de tonkatsu over vier borden en leg er een royale portie fijngesneden witte kool naast. Serveer met de warme sushirijst, de zelfgemaakte tonkatsusaus en een partje citroen. Geef de saus apart, zodat iedereen deze naar smaak kan toevoegen. Tip: houd de frituurolie rond 170 °C. Is de olie te koud, dan neemt de panko veel vet op; is de olie te heet, dan wordt de korst donker voordat het vlees gaar is."
+  ],
+  "weetje": "Wie in Japan Tonkatsu bestelt, krijgt een krokante varkensschnitzel met rijst en fijngesneden witte kool. Dat lijkt misschien een typisch Japans gerecht, maar de oorsprong ligt verrassend genoeg in Europa. Tonkatsu is namelijk een verre verwant van de Wiener schnitzel!\n\nHet verhaal begint tijdens de Meiji-periode (1868–1912), toen Japan zich na eeuwen van betrekkelijk isolement steeds meer op het Westen richtte. Europese kleding, technologie en architectuur deden hun intrede, maar ook de Europese keuken. Japanse koks experimenteerden met gerechten die voorheen nauwelijks bekend waren, waaronder de Franse *côtelette de veau*: een gepaneerde kalfskotelet die in boter werd gebakken.\n\nIn 1899 introduceerde restaurant Rengatei in Tokio een eigen versie. Het dure kalfsvlees werd vervangen door varkensvlees, het fijne paneermeel door grovere panko en het vlees werd gefrituurd, geïnspireerd op de Japanse tempuratechniek. Het resultaat was een sappige schnitzel met een bijzonder krokante korst. De naam Tonkatsu combineert *ton* (varken) met *katsu*, een verkorting van het Japanse *katsuretsu*, afgeleid van het Engelse woord *cutlet*.\n\nOok de bijgerechten veranderden. In plaats van Europese aardappelen en groenten kreeg de Tonkatsu fijngesneden rauwe witte kool, gestoomde rijst en een hartige saus op basis van worcestersaus. Zo ontstond een gerecht dat weliswaar uit de Europese keuken was voortgekomen, maar inmiddels helemaal Japans was geworden.\n\nTonkatsu behoort tegenwoordig tot de *yōshoku*, de Japanse keuken van gerechten met een westerse oorsprong. En wie onze Tonkatsu vergelijkt met de Wiener schnitzel uit de Alpenlanden, ontdekt hoe twee verwante gerechten zich elk een heel eigen weg door de culinaire geschiedenis hebben gebaand.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Tonkatsu (Japanese Pork Schnitzel)",
+    "auteur": "Yumiko",
+    "kookboek": "RecipeTin Japan",
+    "url": "https://japan.recipetineats.com/tonkatsu-japanese-fried-pork-cutlet/"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Tonkatsu (deep fried pork) Recipe",
+      "auteur": "Noriko en Yuko",
+      "kookboek": "Japanese Cooking 101",
+      "url": "https://japanesecooking101.com/tonkatsu-deep-fried-pork-recipe/"
+    },
+    {
+      "receptTitel": "The Roots of Tonkatsu: A Delicious Fusion of East and West",
+      "auteur": null,
+      "kookboek": "Japanse overheid – Highlighting Japan",
+      "url": "https://www.gov-online.go.jp/eng/publicity/book/hlj/html/201810/201810_08_en.html"
+    },
+    {
+      "receptTitel": "The Roots of Yoshoku: The Beginnings of Western Cuisine in Japan",
+      "auteur": null,
+      "kookboek": "Plenus Rice Culture Research Institute",
+      "url": "https://www.plenus.co.jp/kome-academy/en/roots/western.html/1000"
+    },
+    {
+      "receptTitel": "Inside Tonkatsu: Japan's Beloved Pork Cutlet Explained",
+      "auteur": null,
+      "kookboek": "JETRO – Japan Food",
+      "url": "https://japan-food.jetro.go.jp/en/recipe/108.html"
+    }
+  ]
 }

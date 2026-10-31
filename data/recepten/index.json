@@ -121,19 +121,19 @@
       ],
       "bestand": "data/recepten/sushi.json"
     },
-    "ramen": {
-      "titel": "Ramen",
-      "korteBeschrijving": "Japanse noedelsoep met rijke bouillon en diverse toppings.",
-      "afbeelding": "images/recepten/RamenAI.png",
-      "url": "recepten.html?id=ramen",
+    "sobaWakame": {
+      "titel": "Sobanoedels met wakame",
+      "korteBeschrijving": "Frisse Japanse noedelsalade met sobanoedels, wakame, komkommer, radijs en verse kruiden, geserveerd met een pittige dressing van limoen, gember en sesamolie.",
+      "afbeelding": "images/recepten/SobaWakameAI.png",
+      "url": "recepten.html?id=sobaWakame",
       "regios": [
         "japan"
       ],
-      "bestand": "data/recepten/ramen.json"
+      "bestand": "data/recepten/sobaWakame.json"
     },
     "tonkatsu": {
       "titel": "Tonkatsu",
-      "korteBeschrijving": "Krokant gepaneerde varkenskotelet, geserveerd met koolsalade.",
+      "korteBeschrijving": "Japanse varkensschnitzel met een krokante pankokorst, geserveerd met witte kool, rijst en zelfgemaakte tonkatsusaus.",
       "afbeelding": "images/recepten/TonkatsuAI.png",
       "url": "recepten.html?id=tonkatsu",
       "regios": [
@@ -143,7 +143,7 @@
     },
     "okonomiyaki": {
       "titel": "Okonomiyaki",
-      "korteBeschrijving": "Hartige Japanse pannenkoek met kool en verschillende toppings.",
+      "korteBeschrijving": "Japanse hartige pannenkoek met witte kool, lente-ui en ontbijtspek, geserveerd met okonomiyakisaus, Japanse mayonaise en bonitovlokken.",
       "afbeelding": "images/recepten/OkonomiyakiAI.png",
       "url": "recepten.html?id=okonomiyaki",
       "regios": [

@@ -4,7 +4,8 @@
     "japan"
   ],
   "titel": "Okonomiyaki",
-  "korteBeschrijving": "Hartige Japanse pannenkoek met kool en verschillende toppings.",
+  "korteBeschrijving": "Japanse hartige pannenkoek met witte kool, lente-ui en ontbijtspek, geserveerd met okonomiyakisaus, Japanse mayonaise en bonitovlokken.",
+  "beschrijving": "Okonomiyaki is een populaire Japanse hartige pannenkoek, vooral bekend uit Osaka. Fijngesneden witte kool en lente-ui worden gemengd met een luchtig beslag van bloem, eieren en Japanse dashibouillon. De pannenkoeken worden gebakken met plakjes ontbijtspek en krijgen een rijke topping van zoet-hartige okonomiyakisaus, Japanse mayonaise, zeewiervlokken en gedroogde bonito. Het resultaat is een smaakvol gerecht met een krokante buitenkant en een zachte, sappige binnenkant.",
   "afbeelding": "images/recepten/OkonomiyakiAI.png",
   "url": "recepten.html?id=okonomiyaki",
   "volgorde": 15,
@@ -12,14 +13,63 @@
     "japan": 3
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 45,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "500 g witte kool",
+    "200 g ontbijtspek, in dunne plakjes",
+    "3 lente-uitjes",
+    "150 g tarwebloem",
+    "4 eieren",
+    "180 ml dashi (Japanse bouillon, te maken van instant dashipoeder; verkrijgbaar bij een toko)",
+    "1 tl bakpoeder",
+    "½ tl zout",
+    "2 el neutrale olie",
+    "4 el ketchup",
+    "3 el worcestersaus",
+    "1 el oestersaus",
+    "2 tl suiker",
+    "4 el Japanse mayonaise",
+    "1 el aonori (gedroogde zeewiervlokken)",
+    "10 g bonitovlokken (katsuobushi)"
+  ],
+  "bereiding": [
+    "Bereid 180 ml dashi volgens de aanwijzingen op de verpakking van het dashipoeder. Laat de bouillon afkoelen tot kamertemperatuur.",
+    "Verwijder de buitenste bladeren en de harde kern van de witte kool. Snijd de kool in zeer fijne reepjes. Maak de lente-uitjes schoon en snijd ze in dunne ringetjes.",
+    "Meng de bloem, het bakpoeder en het zout in een grote kom. Voeg geleidelijk de afgekoelde dashi toe en roer tot een glad beslag. Klop de eieren erdoor.",
+    "Voeg de fijngesneden witte kool en lente-ui toe aan het beslag. Meng alles voorzichtig door elkaar, zodat de groenten gelijkmatig met het beslag zijn bedekt.",
+    "Meng voor de saus de ketchup, worcestersaus, oestersaus en suiker in een kommetje. Roer goed totdat de suiker is opgelost. Zet apart.",
+    "Verhit een halve eetlepel neutrale olie in een ruime koekenpan op middelhoog vuur. Schep een kwart van het koolmengsel in de pan en vorm een ronde, dikke pannenkoek van ongeveer 18–20 cm doorsnede.",
+    "Verdeel een kwart van de plakjes ontbijtspek over de bovenkant van de pannenkoek. Druk ze voorzichtig aan. Bak de pannenkoek ongeveer 5 minuten, totdat de onderkant goudbruin en stevig is.",
+    "Draai de pannenkoek voorzichtig om met behulp van twee spatels, zodat het ontbijtspek onder komt te liggen. Doe een deksel op de pan en bak nog ongeveer 6–8 minuten op middellaag vuur, totdat het spek gaar is en de binnenkant van de pannenkoek volledig gestold is.",
+    "Draai de pannenkoek nog eenmaal om en bak ongeveer 1 minuut zonder deksel, zodat de onderkant weer krokant wordt. Houd de pannenkoek warm en bak op dezelfde manier de overige drie okonomiyaki. Gebruik telkens een halve eetlepel olie.",
+    "Bestrijk de warme okonomiyaki met de zelfgemaakte saus. Verdeel de Japanse mayonaise er in dunne strepen overheen en bestrooi met de aonori en bonitovlokken. Serveer direct. Tip: de bonitovlokken bewegen door de opstijgende warmte van de pannenkoek. Wie de vissmaak liever achterwege laat, kan ze weglaten."
+  ],
+  "weetje": "De naam *Okonomiyaki* betekent zoiets als 'gebakken zoals jij het lekker vindt'. En dat is precies het idee achter dit Japanse gerecht: je kunt er allerlei ingrediënten in verwerken, van vlees en vis tot groenten en kaas. In Osaka vind je zelfs restaurants waar je aan tafel je eigen Okonomiyaki bakt op een grote, hete ijzeren plaat.\n\nDe geschiedenis van Okonomiyaki gaat terug tot eenvoudige Japanse pannenkoekjes van bloem en water. Volgens een populaire theorie werden zulke pannenkoekjes al in de zestiende eeuw gegeten bij theeceremonies. In het begin van de twintigste eeuw waren goedkope varianten met lente-ui en saus populair als straatsnack. Vooral na de Tweede Wereldoorlog ontwikkelde Okonomiyaki zich tot een volwaardige maaltijd. Bloem en kool waren relatief betaalbaar en met wat extra ingrediënten kon je er een voedzaam gerecht van maken.\n\nTegenwoordig bestaan er twee beroemde regionale varianten. In Osaka worden kool, groenten en beslag door elkaar gemengd voordat de pannenkoek wordt gebakken. In Hiroshima worden de ingrediënten juist in lagen opgebouwd, vaak met gebakken noedels ertussen. Beide steden zijn bijzonder trots op hun eigen versie.\n\nEen ander bijzonder detail zijn de *katsuobushi*, flinterdunne schaafsels van gedroogde bonito die over de warme pannenkoek worden gestrooid. Door de opstijgende warmte bewegen de vlokken alsof ze dansen. Het is een klein culinair spektakel!\n\nOnze Okonomiyaki volgt de stijl van Osaka, met witte kool, lente-ui en ontbijtspek, afgemaakt met een zoet-hartige saus, Japanse mayonaise en de karakteristieke bonitovlokken.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Okonomiyaki",
+    "auteur": "Namiko Chen",
+    "kookboek": "Just One Cookbook",
+    "url": "https://www.justonecookbook.com/okonomiyaki/"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Okonomiyaki (Osaka)",
+      "auteur": null,
+      "kookboek": "Japan Ministry of Agriculture, Forestry and Fisheries",
+      "url": "https://www.maff.go.jp/e/policies/market/k_ryouri/search_menu/5798/index.html"
+    },
+    {
+      "receptTitel": "Okonomiyaki (Hiroshima)",
+      "auteur": null,
+      "kookboek": "Japan Ministry of Agriculture, Forestry and Fisheries",
+      "url": "https://www.maff.go.jp/e/policies/market/k_ryouri/search_menu/2805/index.html"
+    },
+    {
+      "receptTitel": "Okonomiyaki",
+      "auteur": null,
+      "kookboek": "Osaka Tourism",
+      "url": "https://osaka-info.jp/en/gourmet/gastronomy-okonomiyaki/"
+    }
+  ]
 }

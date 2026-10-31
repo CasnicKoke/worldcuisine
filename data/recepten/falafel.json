@@ -3,8 +3,9 @@
   "regios": [
     "levant"
   ],
-  "titel": "Falafel",
-  "korteBeschrijving": "Krokante balletjes van kikkererwten of tuinbonen, gekruid met verse kruiden en specerijen.",
+  "titel": "Pittige falafel met tahinsaus",
+  "korteBeschrijving": "Pittige Libanese falafel van kikkererwten, verse kruiden en chilipeper, geserveerd met platbrood, frisse groenten en romige tahinsaus.",
+  "beschrijving": "Falafel is een geliefd gerecht uit de Levant, gemaakt van fijngemalen kikkererwten, verse kruiden en specerijen. De balletjes worden goudbruin gefrituurd, waardoor ze een heerlijk krokante buitenkant krijgen en vanbinnen zacht blijven. Onze versie krijgt extra pit van verse chilipeper, chilivlokken en gerookt paprikapoeder. De falafel wordt geserveerd in warm Libanees platbrood met knapperige sla, komkommer en tomaat. Een romige tahinsaus van sesampasta, citroen en knoflook vormt een fris contrast met de pittige balletjes.",
   "afbeelding": "images/recepten/FalafelAI.png",
   "url": "recepten.html?id=falafel",
   "volgorde": 41,
@@ -12,14 +13,82 @@
     "levant": 1
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 55,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "250 g gedroogde kikkererwten",
+    "1 kleine ui",
+    "3 tenen knoflook",
+    "1 bosje platte peterselie",
+    "½ bosje verse koriander",
+    "2 tl gemalen komijn",
+    "1 tl gemalen korianderzaad",
+    "1 tl bakpoeder",
+    "1 tl zout",
+    "1 tl zwarte peper",
+    "1 rode chilipeper",
+    "1 tl chilivlokken",
+    "1 tl gerookt paprikapoeder",
+    "ca. 600 ml zonnebloemolie, om in te frituren",
+    "80 g tahin (sesampasta)",
+    "1 citroen",
+    "1 teen knoflook, voor de tahinsaus",
+    "60–100 ml koud water, voor de tahinsaus",
+    "Zout naar smaak, voor de tahinsaus",
+    "4 Libanese platbroden",
+    "1 komkommer",
+    "3 tomaten",
+    "1 kleine krop romainesla"
+  ],
+  "bereiding": [
+    "Doe de gedroogde kikkererwten in een grote kom en voeg ruim koud water toe. Laat ze 12–24 uur weken. De kikkererwten zullen flink in volume toenemen. Giet ze af, spoel ze onder koud water en laat ze goed uitlekken. Kook de kikkererwten niet.",
+    "Pel de ui en knoflook en snijd ze grof. Was de peterselie en koriander en hak ze grof. Verwijder het steeltje van de rode chilipeper en snijd deze in stukjes. Laat voor extra pittigheid de zaadlijsten zitten.",
+    "Doe de kikkererwten, ui, knoflook, peterselie, koriander en chilipeper in een keukenmachine. Voeg de gemalen komijn, het korianderzaad, de chilivlokken, het gerookte paprikapoeder, zout en zwarte peper toe. Maal alles in korte pulsen tot een fijn, korrelig mengsel. Maak er geen gladde puree van: het mengsel moet nog enige structuur hebben.",
+    "Schep het mengsel in een kom en laat het ongeveer 30 minuten afgedekt in de koelkast rusten. Voeg daarna het bakpoeder toe en meng goed door. Vorm met licht vochtige handen ongeveer 20 stevige balletjes. Druk ze eventueel iets platter, zodat ze gelijkmatig garen.",
+    "Meng voor de tahinsaus de tahin met het sap van de citroen en de fijngehakte knoflook. Voeg geleidelijk 60–100 ml koud water toe en roer tot een gladde, romige saus. De tahin kan eerst dikker worden voordat hij weer vloeibaarder wordt. Breng op smaak met zout.",
+    "Was de komkommer en tomaten en snijd ze in kleine blokjes. Was de romainesla en snijd deze in dunne reepjes. Zet de groenten apart.",
+    "Verhit de zonnebloemolie in een diepe, stevige pan tot ongeveer 170–175 °C. Gebruik voldoende olie zodat de falafelballetjes kunnen drijven. Vul de pan nooit voor meer dan de helft. Controleer de temperatuur bij voorkeur met een keukenthermometer.",
+    "Frituur de falafel in kleine porties ongeveer 4–5 minuten, totdat de buitenkant diep goudbruin en krokant is en de binnenkant gaar. Draai de balletjes indien nodig voorzichtig om. Laat ze uitlekken op een rooster met keukenpapier eronder.",
+    "Verwarm de Libanese platbroden kort in een droge koekenpan of oven, zodat ze zacht en soepel worden. Verdeel de sla, komkommer en tomaat over de broden.",
+    "Leg op ieder platbrood ongeveer vijf falafelballetjes en schep er wat tahinsaus over. Serveer direct, met de resterende saus apart erbij. Tip: bak eerst één balletje om de samenhang te controleren. Valt het uiteen, voeg dan 1–2 el bloem toe aan het mengsel en laat het nog even rusten."
+  ],
+  "weetje": "Wie door de straten van Beiroet, Jeruzalem of Amman wandelt, komt ze overal tegen: goudbruine falafelballetjes, vers uit de hete olie, geserveerd in warm platbrood met groenten en tahinsaus. Falafel (uitspraak met de klemtoon op de 2e lettergreep) is een van de bekendste gerechten uit de Levant. Maar de geschiedenis ervan begint waarschijnlijk ergens anders, en wel in Egypte.\n\nVolgens een populaire overlevering werd falafel oorspronkelijk gemaakt door Koptische christenen, die tijdens hun vastenperioden geen vlees aten. Gefrituurde balletjes van bonen vormden een voedzaam alternatief. Of dit verhaal werkelijk klopt, weten we niet. Historici vermoeden dat falafel in de negentiende eeuw in Egypte populair werd, mogelijk in de havenstad Alexandrië. Oudere, overtuigende schriftelijke bewijzen ontbreken.\n\nOpmerkelijk genoeg maakten de Egyptenaren hun falafel niet van kikkererwten, maar van tuinbonen. Deze variant heet *ta'ameya* en is door de toevoeging van verse kruiden vaak prachtig groen vanbinnen. Toen het gerecht zich naar de Levant verspreidde, veranderde ook het belangrijkste ingrediënt. In Libanon, Syrië, Palestina en Jordanië werden vooral kikkererwten gebruikt, soms gecombineerd met tuinbonen.\n\nFalafel groeide uit tot een geliefd straatgerecht: goedkoop, voedzaam en gemakkelijk mee te nemen. Met warm platbrood, verse groenten en tahinsaus werd het een complete maaltijd. Inmiddels wordt falafel over de hele wereld gegeten, maar de basis is nauwelijks veranderd: geweekte peulvruchten, verse kruiden en specerijen, goudbruin gefrituurd.\n\nOnze falafel volgt de Levantijnse traditie met kikkererwten, peterselie, koriander en komijn. We geven de balletjes extra pit met verse chilipeper, chilivlokken en gerookt paprikapoeder. Geserveerd met Libanees platbrood, frisse groenten en romige tahinsaus is het een heerlijke vegetarische maaltijd.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "The Best Falafel",
+    "auteur": "Lina Saad",
+    "kookboek": "BBC Good Food Middle East",
+    "url": "https://www.bbcgoodfoodme.com/recipes/the-best-falafel/"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Homemade Crispy Falafel",
+      "auteur": null,
+      "kookboek": "Inspired Taste",
+      "url": "https://www.inspiredtaste.net/42640/FALAFEL-RECIPE/"
+    },
+    {
+      "receptTitel": "Falafel",
+      "auteur": null,
+      "kookboek": "The Oxford Companion to Food (ckbk)",
+      "url": "https://app.ckbk.com/reference/food77337c06s001e009/falafel"
+    },
+    {
+      "receptTitel": "What's for Breakfast in Egypt?",
+      "auteur": null,
+      "kookboek": "RAWI Egypt's Heritage Review",
+      "url": "https://artsandculture.google.com/story/what-39-s-for-breakfast-in-egypt-rawi-egypts-heritage-review/mwWROoQYaoftPw?hl=en"
+    },
+    {
+      "receptTitel": "The Feud over Falafel",
+      "auteur": null,
+      "kookboek": "Arab News",
+      "url": "https://www.arabnews.com/FalafelFeud"
+    },
+    {
+      "receptTitel": "Traditional Uses of Broad Beans",
+      "auteur": null,
+      "kookboek": "Journal of Ethnic Foods",
+      "url": "https://link.springer.com/article/10.1186/s42779-020-00073-1"
+    }
+  ]
 }

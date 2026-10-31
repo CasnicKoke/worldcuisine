@@ -281,7 +281,7 @@ const regioBeschrijving = {
 	},
 
 	levant: {
-    	titel: "Levant",
+    	titel: "Levant en Mesopotamië",
     	beschrijving:
         	"De Levantijnse keuken behoort tot de meest invloedrijke culinaire tradities ter wereld. Verse groenten, kruiden, peulvruchten en gedeelde maaltijden staan centraal. Gerechten worden vaak geserveerd als mezze, waarbij veel kleine schotels samen een complete maaltijd vormen.",
 	    ingredienten:

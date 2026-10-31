@@ -1,0 +1,92 @@
+{
+  "sleutel": "musakhan",
+  "regios": [
+    "levant"
+  ],
+  "titel": "Musakhan met Palestijnse salade",
+  "korteBeschrijving": "Palestijns gerecht van geroosterde kip met sumak, gekaramelliseerde rode uien en pijnboompitten op Libanees platbrood, geserveerd met een frisse tomaten-komkommersalade.",
+  "beschrijving": "Musakhan is een traditioneel Palestijns gerecht waarin sappige, met sumak gekruide kip wordt gecombineerd met langzaam gebakken rode uien en geroosterde pijnboompitten. De kip en uien worden geserveerd op warm Libanees platbrood, dat de kruidige olijfolie en vleessappen opneemt. De lichtzure smaak van sumak geeft het gerecht zijn bijzondere karakter. Een frisse salade van tomaat, komkommer, groene paprika en peterselie vormt een mooi contrast met de rijke smaken van de Musakhan.",
+  "afbeelding": "images/recepten/MusakhanAI.png",
+  "url": "recepten.html?id=musakhan",
+  "volgorde": 40,
+  "regioVolgorde": {
+    "levant": 0
+  },
+  "porties": 4,
+  "bereidingstijdMinuten": 60,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "400 g kippendijfilet, zonder bot",
+    "3 grote rode uien",
+    "4 Libanese platbroden",
+    "75 ml olijfolie, voor kip en uien",
+    "3 el sumak, voor kip en uien",
+    "1 tl gemalen komijn",
+    "1 tl gemalen piment",
+    "1 mespunt kaneel",
+    "1 tl zout, voor de kip",
+    "1 tl zwarte peper",
+    "30 g pijnboompitten",
+    "½ bosje platte peterselie, voor de Musakhan",
+    "½ citroen, voor de kip",
+    "1 komkommer, voor de salade",
+    "3 tomaten, voor de salade",
+    "1 groene paprika, voor de salade",
+    "½ bosje platte peterselie, voor de salade",
+    "½ citroen, voor de salade",
+    "1 el olijfolie, voor de salade",
+    "1 tl sumak, voor de salade",
+    "Zout naar smaak, voor de salade"
+  ],
+  "bereiding": [
+    "Verwarm de oven voor op 200 °C (boven- en onderwarmte). Pel de rode uien en snijd ze in dunne halve ringen. Hak de peterselie fijn en verdeel deze in twee porties: één voor de Musakhan en één voor de salade.",
+    "Meng 30 ml olijfolie met 1½ el sumak, de gemalen komijn, piment, kaneel, zout en zwarte peper. Wrijf de kippendijfilets in met dit kruidenmengsel.",
+    "Leg de kippendijfilets in een ovenschaal en rooster ze ongeveer 20–25 minuten in de oven, totdat ze gaar en lichtbruin zijn. Controleer of de kerntemperatuur minstens 74 °C bedraagt.",
+    "Verhit ondertussen de resterende 45 ml olijfolie in een grote koekenpan op middellaag vuur. Voeg de rode uien toe en bak ze ongeveer 20–25 minuten, terwijl je regelmatig roert, totdat ze zacht en licht gekaramelliseerd zijn. Voeg de resterende 1½ el sumak toe en bak nog 2 minuten mee.",
+    "Rooster de pijnboompitten in een droge koekenpan op middelhoog vuur, totdat ze goudbruin zijn. Schud de pan regelmatig om aanbranden te voorkomen. Zet apart.",
+    "Maak ondertussen de salade. Was de komkommer, tomaten en groene paprika. Snijd ze in kleine blokjes en meng ze met de helft van de fijngehakte peterselie.",
+    "Meng voor de saladedressing 1 el olijfolie met het sap van een halve citroen, 1 tl sumak en een beetje zout. Schep de dressing door de salade en zet deze koel weg.",
+    "Haal de kip uit de oven en laat enkele minuten rusten. Snijd de kippendijfilets vervolgens in grove stukken en besprenkel met het sap van de resterende halve citroen.",
+    "Leg de Libanese platbroden op een bakplaat. Verdeel de gebakken rode uien met de kruidige olie over de broden en leg de stukken kip erop. Verwarm alles nog ongeveer 3–5 minuten in de oven, totdat de broden warm zijn en de randen licht krokant worden.",
+    "Bestrooi de Musakhan met de geroosterde pijnboompitten en de resterende peterselie. Serveer direct met de Palestijnse tomaten-komkommersalade ernaast."
+  ],
+  "weetje": "In Palestina is de olijfoogst veel meer dan het verzamelen van vruchten. Wanneer in oktober en november de olijven worden geplukt en geperst, komen families en buren samen om het werk te delen. En wat is een betere manier om de eerste, versgeperste olijfolie te vieren dan met een grote schaal Musakhan?\n\nDit traditionele Palestijnse gerecht ontstond in de landelijke keuken, waar eenvoudige, plaatselijke ingrediënten de basis vormden voor een feestelijke maaltijd. De kip werd bereid met grote hoeveelheden uien, olijfolie en sumak, een dieprode specerij gemaakt van gedroogde en gemalen bessen. Sumak heeft een frisse, lichtzure smaak die prachtig contrasteert met de zoete, langzaam gebakken uien.\n\nBijzonder is ook het brood waarop Musakhan traditioneel wordt geserveerd. *Taboon* wordt gebakken in een karakteristieke oven van klei en steen. De hete stenen zorgen voor kleine kuiltjes in het brood, waarin de olijfolie en de smaakvolle sappen van de kip zich verzamelen. Zelfs de naam Musakhan verwijst naar de bereiding: het Arabische woord betekent ongeveer 'iets dat verwarmd is'.\n\nMusakhan wordt traditioneel op een grote schaal midden op tafel gezet. Iedereen scheurt een stuk brood af en gebruikt het om de kip en uien op te scheppen. Zo is het gerecht niet alleen een viering van de olijfoogst, maar ook van gastvrijheid en samen eten.\n\nOnze Musakhan volgt deze Palestijnse traditie, maar gebruikt kippendijfilet zonder bot en Libanees platbrood. We serveren er een frisse salade van tomaat, komkommer en groene paprika bij.",
+  "bron": {
+    "receptTitel": "Chicken Musakhan",
+    "auteur": "Wafa Shami",
+    "kookboek": "Palestine in a Dish",
+    "url": "https://palestineinadish.com/recipes/chicken-musakhan/"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Musakhan",
+      "auteur": "Sami Tamimi en Tara Wigley",
+      "kookboek": "Falastin",
+      "url": null
+    },
+    {
+      "receptTitel": "Chicken Musakhan",
+      "auteur": null,
+      "kookboek": "Zaytoun",
+      "url": "https://zaytoun.uk/recipes/chicken-musakhan/"
+    },
+    {
+      "receptTitel": "The Palestinian Dish par Excellence",
+      "auteur": null,
+      "kookboek": "UN Today",
+      "url": "https://untoday.org/the-palestinian-dish-par-excellence/"
+    },
+    {
+      "receptTitel": "Palestinian Chicken Musakhan",
+      "auteur": null,
+      "kookboek": "Food Heritage Foundation",
+      "url": "https://food-heritage.org/palestinian-chicken-musakhan/"
+    },
+    {
+      "receptTitel": "Musakhan",
+      "auteur": null,
+      "kookboek": "Bethlehem",
+      "url": "https://www.bethlehem.ps/en/Article/82/Musakhan"
+    }
+  ]
+}

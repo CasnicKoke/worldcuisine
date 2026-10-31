@@ -391,19 +391,19 @@
       ],
       "bestand": "data/recepten/menemen.json"
     },
-    "shawarma": {
-      "titel": "Shawarma",
-      "korteBeschrijving": "Dun gesneden gekruid vlees, vaak geserveerd in platbrood met saus en groenten.",
-      "afbeelding": "images/recepten/ShawarmaAI.png",
-      "url": "recepten.html?id=shawarma",
+    "musakhan": {
+      "titel": "Musakhan met Palestijnse salade",
+      "korteBeschrijving": "Palestijns gerecht van geroosterde kip met sumak, gekaramelliseerde rode uien en pijnboompitten op Libanees platbrood, geserveerd met een frisse tomaten-komkommersalade.",
+      "afbeelding": "images/recepten/MusakhanAI.png",
+      "url": "recepten.html?id=musakhan",
       "regios": [
         "levant"
       ],
-      "bestand": "data/recepten/shawarma.json"
+      "bestand": "data/recepten/musakhan.json"
     },
     "falafel": {
-      "titel": "Falafel",
-      "korteBeschrijving": "Krokante balletjes van kikkererwten of tuinbonen, gekruid met verse kruiden en specerijen.",
+      "titel": "Pittige falafel met tahinsaus",
+      "korteBeschrijving": "Pittige Libanese falafel van kikkererwten, verse kruiden en chilipeper, geserveerd met platbrood, frisse groenten en romige tahinsaus.",
       "afbeelding": "images/recepten/FalafelAI.png",
       "url": "recepten.html?id=falafel",
       "regios": [
@@ -421,15 +421,15 @@
       ],
       "bestand": "data/recepten/shakshuka.json"
     },
-    "maqluba": {
-      "titel": "Maqluba",
-      "korteBeschrijving": "Gelaagde rijstschotel met groenten en vlees, omgekeerd geserveerd als feestelijk geheel.",
-      "afbeelding": "images/recepten/MaqlubaAI.png",
-      "url": "recepten.html?id=maqluba",
+    "kebabTabouleh": {
+      "titel": "Iraakse kebab met Libanese tabouleh",
+      "korteBeschrijving": "Sappige Iraakse kebabs van gekruid runder- en lamsgehakt, geserveerd met frisse Libanese tabouleh, gegrilde tomaten en warm platbrood.",
+      "afbeelding": "images/recepten/KebabTaboulehAI.png",
+      "url": "recepten.html?id=kebabTabouleh",
       "regios": [
         "levant"
       ],
-      "bestand": "data/recepten/maqluba.json"
+      "bestand": "data/recepten/kebabTabouleh.json"
     },
     "chelowKebab": {
       "titel": "Chelow Kebab",

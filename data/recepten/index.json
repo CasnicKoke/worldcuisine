@@ -541,15 +541,15 @@
       ],
       "bestand": "data/recepten/sarma.json"
     },
-    "ajvar": {
-      "titel": "Ajvar",
-      "korteBeschrijving": "Smeuïge paprikaspread van geroosterde rode pepers, vaak gegeten als dip of bijgerecht.",
-      "afbeelding": "images/recepten/AjvarAI.png",
-      "url": "recepten.html?id=ajvar",
+    "overvolleGroentetaart": {
+      "titel": "Overvolle groentetaart",
+      "korteBeschrijving": "Kleurrijke hartige groentetaart met drie soorten paprika, courgette, zoete aardappel, cherrytomaatjes en een romige vulling van verschillende kazen.",
+      "afbeelding": "images/recepten/OvervolleGroentetaartAI.png",
+      "url": "recepten.html?id=overvolleGroentetaart",
       "regios": [
         "balkan"
       ],
-      "bestand": "data/recepten/ajvar.json"
+      "bestand": "data/recepten/overvolleGroentetaart.json"
     },
     "goulash": {
       "titel": "Goulash",

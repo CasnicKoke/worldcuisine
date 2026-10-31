@@ -1,0 +1,56 @@
+{
+  "sleutel": "overvolleGroentetaart",
+  "regios": [
+    "balkan"
+  ],
+  "titel": "Overvolle groentetaart",
+  "korteBeschrijving": "Kleurrijke hartige groentetaart met drie soorten paprika, courgette, zoete aardappel, cherrytomaatjes en een romige vulling van verschillende kazen.",
+  "beschrijving": "Deze rijkgevulde groentetaart combineert geroosterde rode, gele en groene paprika, courgette en zoete aardappel met zacht gebakken uien en sappige cherrytomaatjes. Een moderne mediterrane creatie met ingrediënten die ook in de keukens van de Balkan veel worden gebruikt.",
+  "afbeelding": "images/recepten/OvervolleGroentetaartAI.png",
+  "url": "recepten.html?id=overvolleGroentetaart",
+  "volgorde": 55,
+  "regioVolgorde": {
+    "balkan": 3
+  },
+  "porties": 4,
+  "bereidingstijdMinuten": 100,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "1 rode paprika",
+    "1 gele paprika",
+    "1 groene paprika",
+    "1 kleine zoete aardappel",
+    "1 kleine courgette",
+    "2 middelgrote uien",
+    "2 laurierblaadjes",
+    "8 takjes verse tijm",
+    "14 cherrytomaatjes",
+    "75 ml olijfolie",
+    "300 g kant-en-klaar hartig taartdeeg (korstdeeg)",
+    "2 el paneermeel",
+    "120 g ricotta",
+    "120 g feta",
+    "2 eieren",
+    "200 g Philadelphia roomkaas naturel",
+    "Zout en zwarte peper, naar smaak"
+  ],
+  "bereiding": [
+    "Verwarm de oven voor op 200 °C (boven- en onderwarmte). Verwijder de zaadlijsten van de paprika’s en snijd ze in stukken van ongeveer 2 cm. Schil de zoete aardappel en snijd deze in blokjes van ongeveer 1,5 cm. Snijd de courgette in halve plakjes van ongeveer 1 cm dik.",
+    "Verdeel de zoete aardappel over een bakplaat met bakpapier en besprenkel met ongeveer 1 eetlepel olijfolie. Rooster 15 minuten in de oven.",
+    "Voeg de paprika’s en courgette toe aan de bakplaat. Besprenkel met nog 2 eetlepels olijfolie en bestrooi met wat zout en zwarte peper. Schep alles voorzichtig om en rooster nog ongeveer 20 minuten, totdat de groenten gaar en licht gekleurd zijn. Laat iets afkoelen. Verlaag de oventemperatuur naar 190 °C.",
+    "Pel ondertussen de uien en snijd ze in dunne halve ringen. Verhit de resterende olijfolie in een koekenpan en bak de uien met de laurierblaadjes en de blaadjes van de tijm ongeveer 10–15 minuten op middelhoog vuur, totdat de uien zacht en licht gekaramelliseerd zijn. Verwijder de laurierblaadjes.",
+    "Bekleed een diepe, ronde taartvorm van ongeveer 28 cm doorsnede met bakpapier. Vouw het kant-en-klare hartige taartdeeg voorzichtig uit over het bakpapier en druk het tegen de bodem en de randen van de taartvorm. Prik met een vork enkele gaatjes in de deegbodem.",
+    "Meng de Philadelphia roomkaas met de eieren in een grote kom tot een glad mengsel. Roer de ricotta erdoor en breng op smaak met zout en zwarte peper. Voeg geen water of ander vocht toe.",
+    "Strooi het paneermeel gelijkmatig over de deegbodem. Verdeel de geroosterde groenten en de gebakken uien over de bodem. Verkruimel de feta erover.",
+    "Schenk het mengsel van roomkaas, ricotta en eieren voorzichtig tussen de groenten. Schud de taartvorm eventueel een beetje zodat het mengsel zich goed verspreidt. Halveer de cherrytomaatjes en verdeel ze met de snijkant naar boven over de taart.",
+    "Bak de groentetaart ongeveer 40–50 minuten iets onder het midden van de oven op 190 °C, totdat de vulling gestold, het deeg gaar en de bovenkant licht goudbruin is. Als de bovenkant te snel kleurt, dek de taart dan losjes af met aluminiumfolie.",
+    "Haal de taart uit de oven en laat ongeveer 10 minuten rusten voordat je hem aansnijdt. Serveer warm, eventueel met een eenvoudige groene salade."
+  ],
+  "weetje": "De keuken van de Balkan heeft een rijke geschiedenis, maar staat zeker niet stil. Paprika’s, aubergines, courgettes, verse kruiden en witte kazen spelen er al generaties lang een belangrijke rol. Van hartige deeggerechten zoals burek tot geroosterde groenten en gevulde paprika’s: eenvoudige ingrediënten vormen de basis van talloze geliefde gerechten.\n\nMaar culinaire tradities zijn voortdurend in beweging. Nieuwe ingrediënten, invloeden uit andere landen en veranderende eetgewoonten zorgen steeds weer voor verrassende combinaties. Traditionele smaken hoeven niet altijd in traditionele gerechten terecht te komen.\n\nOnze Overvolle groentetaart is daarvan een mooi voorbeeld. Het is geen klassiek Balkangerecht, maar een moderne mediterrane creatie, geïnspireerd op Yotam Ottolenghi’s *Plenty*. Met ingrediënten die grotendeels vertrouwd zijn in de Balkan, ontstaat een heel nieuw gerecht. Want een levende keuken blijft zich ontwikkelen!",
+  "bron": {
+    "receptTitel": "Very Full Tart (Overvolle groentetaart)",
+    "auteur": "Yotam Ottolenghi",
+    "kookboek": "Plenty (2010), blz. 84",
+    "url": null
+  }
+}

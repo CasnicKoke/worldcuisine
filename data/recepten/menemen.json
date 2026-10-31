@@ -4,7 +4,8 @@
     "anatolie"
   ],
   "titel": "Menemen",
-  "korteBeschrijving": "Turks eiergerecht met tomaat, paprika en kruiden, zacht en sappig bereid.",
+  "korteBeschrijving": "Romige Turkse menemen van zacht gegaarde eieren, tomaten en groene paprika, geserveerd met warm Turks brood, witte kaas en frisse komkommersalade met munt en citroen.",
+  "beschrijving": "Menemen is een geliefd gerecht uit de Turkse keuken, afkomstig uit de Egeïsche regio rond İzmir. Het bestaat uit een smaakvol mengsel van rijpe tomaten, groene paprika en eieren, op smaak gebracht met Turkse pepervlokken. De groenten worden eerst zacht gestoofd, waarna de eieren voorzichtig door het mengsel worden geroerd. Zo ontstaat een romig gerecht waarin de smaken mooi samenkomen.",
   "afbeelding": "images/recepten/MenemenAI.png",
   "url": "recepten.html?id=menemen",
   "volgorde": 39,
@@ -12,14 +13,68 @@
     "anatolie": 3
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 35,
+  "moeilijkheid": "Gemakkelijk",
+  "ingredienten": [
+    "8 eieren",
+    "750 g rijpe tomaten",
+    "3 groene Turkse puntpaprika’s (sivri biber)",
+    "2 el olijfolie, voor de menemen",
+    "25 g roomboter",
+    "1 tl pul biber (Turkse pepervlokken)",
+    "½ tl zwarte peper, voor de menemen",
+    "1 tl zout, voor de menemen",
+    "1 groot Turks brood (pide, ca. 400 g)",
+    "200 g Turkse witte kaas (beyaz peynir, eventueel feta)",
+    "1 komkommer",
+    "1 el olijfolie, voor de komkommersalade",
+    "1 tl citroensap",
+    "½ tl gedroogde munt",
+    "Zout en zwarte peper naar smaak, voor de komkommersalade"
+  ],
+  "bereiding": [
+    "Was de tomaten en snijd ze in kleine blokjes. Verwijder eventueel de harde steelaanzetten. Bewaar het sap, want dat vormt straks een deel van de saus.",
+    "Was de groene puntpaprika’s, verwijder de steeltjes en zaadlijsten en snijd ze in dunne ringetjes. Gebruik eventueel ook wat van de zaadlijsten als je de menemen pittiger wilt maken. Was de komkommer en snijd deze in plakjes. Meng de komkommer met de olijfolie, het citroensap, de gedroogde munt, zout en zwarte peper. Snijd de witte kaas in blokjes of plakjes en zet alles apart.",
+    "Verhit de olijfolie en roomboter in een grote koekenpan op middelhoog vuur. Voeg de groene paprika toe en bak deze ongeveer 5 minuten, totdat de ringetjes zacht beginnen te worden.",
+    "Voeg de tomaten met hun sap toe. Roer de pul biber, zwarte peper en het zout erdoor. Breng het mengsel zachtjes aan de kook.",
+    "Laat de tomaten ongeveer 10–15 minuten zonder deksel zachtjes sudderen. Roer regelmatig, totdat de tomaten grotendeels uit elkaar zijn gevallen en het overtollige vocht is verdampt. Het mengsel moet sappig zijn, maar niet waterig.",
+    "Breek ondertussen de eieren in een grote kom en klop ze met een vork kort los, zodat het eiwit en de dooiers grotendeels gemengd zijn.",
+    "Zet het vuur laag en schenk de losgeklopte eieren over het tomatenmengsel. Laat ze ongeveer 30 seconden stollen en roer ze vervolgens voorzichtig met een spatel door de tomaten en paprika. Zorg dat het een romig geheel wordt en niet verandert in droog roerei.",
+    "Laat de menemen nog ongeveer 3–5 minuten op laag vuur garen. Schep af en toe voorzichtig om, totdat het ei net gestold is en het gerecht nog zacht en romig is. Haal de pan van het vuur.",
+    "Verwarm het Turkse brood kort in de oven of in een droge koekenpan en snijd het in stukken.",
+    "Serveer de menemen direct in de pan, zoals in Turkije gebruikelijk is. Zet het warme brood, de witte kaas en de komkommersalade erbij. Schep de menemen met stukken brood uit de pan."
+  ],
+  "weetje": "In Turkije kan een eenvoudig gerecht met eieren, tomaten en paprika tot verhitte discussies leiden. De grote vraag: hoort er ui in menemen, of juist niet? In 2018 besloot de bekende Turkse culinair schrijver Vedat Milor de kwestie voor eens en altijd te beslechten met een peiling op Twitter. Meer dan 437.000 mensen brachten hun stem uit. De uitslag? 51 procent vóór ui en 49 procent tegen. Een overtuigende winnaar was er dus nauwelijks.\n\nMenemen ontleent zijn naam aan de gelijknamige plaats bij İzmir, aan de Egeïsche kust van Turkije. Het gerecht wordt traditioneel bij het ontbijt gegeten, maar is ook populair als eenvoudige lunch of avondmaaltijd. Het wordt vaak rechtstreeks uit de pan geserveerd, met vers brood om de romige eieren en tomatensaus mee op te scheppen.\n\nOpmerkelijk genoeg kunnen de Turken dit gerecht in zijn huidige vorm nog niet zo heel lang eten. Tomaten en paprika's komen oorspronkelijk uit Amerika en bereikten Europa en het Ottomaanse Rijk pas na de reizen van Columbus. Hoewel tomaten al aan het einde van de zeventiende eeuw in Ottomaanse bronnen voorkomen, werden rode tomaten pas in de negentiende eeuw een vertrouwd ingrediënt in de Turkse keuken.\n\nIn 2024 kreeg *Menemen Menemeni*, de plaatselijke variant uit Menemen, zelfs een officiële Turkse geografische registratie. En wat staat er in het geregistreerde recept? Jawel: ui! De discussie is daarmee echter niet verdwenen. In heel Turkije worden nog altijd verschillende varianten bereid, met en zonder ui.\n\nVoor onze menemen kiezen we de eenvoudige versie zonder ui, waarin rijpe tomaten, groene paprika en zacht gegaarde eieren de hoofdrol spelen. Met warm Turks brood, witte kaas en een frisse komkommersalade maken we er een complete maaltijd van.",
   "bron": {
-    "receptTitel": null,
+    "receptTitel": "Egg with Vegetables / Menemen",
     "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "kookboek": "Turks Ministerie van Cultuur en Toerisme",
+    "url": "https://www.ktb.gov.tr/EN-98925/egg-with-vegetables.html"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Soganli menemen kazandi – de menemenpeiling (2018)",
+      "auteur": null,
+      "kookboek": "Yeni Şafak",
+      "url": "https://www.yenisafak.com/hayat/soganli-menemen-kazandi-3391758"
+    },
+    {
+      "receptTitel": "Menemen Menemeni – regionale specialiteit",
+      "auteur": null,
+      "kookboek": "Turks Ministerie van Cultuur en Toerisme",
+      "url": "https://izmir.ktb.gov.tr/EN-401221/menemen-menemen.html"
+    },
+    {
+      "receptTitel": "Menemenin menemeni coğrafi işaretle tescillendi",
+      "auteur": null,
+      "kookboek": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/tr/gundem/menemenin-menemeni-cografi-isaretle-tescillendi/3577182"
+    },
+    {
+      "receptTitel": "Osmanlı Sarayında Beslenme Alışkanlıkları",
+      "auteur": null,
+      "kookboek": "Turkish Cuisine",
+      "url": "https://www.turkish-cuisine.org/tarihsel-gelisim-1/osmanli-mutfagi-176/osmanli-sarayinda-beslenme-aliskanliklari-179.html?PagingIndex=7"
+    }
+  ]
 }

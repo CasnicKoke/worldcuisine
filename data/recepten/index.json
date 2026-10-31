@@ -351,19 +351,19 @@
       ],
       "bestand": "data/recepten/mtsvadi.json"
     },
-    "kebab": {
-      "titel": "Kebab",
-      "korteBeschrijving": "Gegrild vlees, kruidig gemarineerd en geserveerd met brood, rijst of gegrilde groenten.",
-      "afbeelding": "images/recepten/KebabAI.png",
-      "url": "recepten.html?id=kebab",
+    "hamsiBugulama": {
+      "titel": "Hamsi buğulama",
+      "korteBeschrijving": "Traditionele Turkse ovenschotel met verse ansjovis, aardappel, tomaat, groene paprika en citroen, zacht gegaard met olijfolie, knoflook en peterselie.",
+      "afbeelding": "images/recepten/HamsiBugulamaAI.png",
+      "url": "recepten.html?id=hamsiBugulama",
       "regios": [
         "anatolie"
       ],
-      "bestand": "data/recepten/kebab.json"
+      "bestand": "data/recepten/hamsiBugulama.json"
     },
     "manti": {
       "titel": "Mantı",
-      "korteBeschrijving": "Kleine Turkse deegkussentjes gevuld met vlees, geserveerd met yoghurt en gekruide boter.",
+      "korteBeschrijving": "Traditionele Turkse mantı: kleine deegpakketjes gevuld met gekruid rundergehakt, geserveerd met romige knoflookyoghurt, warme paprikaboter, munt en sumak.",
       "afbeelding": "images/recepten/MantiAI.png",
       "url": "recepten.html?id=manti",
       "regios": [
@@ -373,7 +373,7 @@
     },
     "lahmacun": {
       "titel": "Lahmacun",
-      "korteBeschrijving": "Dunne knapperige deegbodem belegd met gekruid gehakt, tomaat, ui en kruiden.",
+      "korteBeschrijving": "Knapperige, dunne Turkse lahmacun met gekruid lamsgehakt, tomaat en paprika, geserveerd met verse peterselie, rode ui, sumak en citroen.",
       "afbeelding": "images/recepten/LahmacunAI.png",
       "url": "recepten.html?id=lahmacun",
       "regios": [
@@ -383,7 +383,7 @@
     },
     "menemen": {
       "titel": "Menemen",
-      "korteBeschrijving": "Turks eiergerecht met tomaat, paprika en kruiden, zacht en sappig bereid.",
+      "korteBeschrijving": "Romige Turkse menemen van zacht gegaarde eieren, tomaten en groene paprika, geserveerd met warm Turks brood, witte kaas en frisse komkommersalade met munt en citroen.",
       "afbeelding": "images/recepten/MenemenAI.png",
       "url": "recepten.html?id=menemen",
       "regios": [

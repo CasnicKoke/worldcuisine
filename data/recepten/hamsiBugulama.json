@@ -1,0 +1,72 @@
+{
+  "sleutel": "hamsiBugulama",
+  "regios": [
+    "anatolie"
+  ],
+  "titel": "Hamsi buğulama",
+  "korteBeschrijving": "Traditionele Turkse ovenschotel met verse ansjovis, aardappel, tomaat, groene paprika en citroen, zacht gegaard met olijfolie, knoflook en peterselie.",
+  "beschrijving": "Hamsi buğulama is een traditioneel visgerecht uit de Turkse Zwarte Zeeregio, waar ansjovis een belangrijke plaats inneemt in de lokale keuken. Verse ansjovis wordt samen met dunne aardappelschijfjes, tomaat, ui en groene paprika in een afgedekte ovenschaal gegaard. Citroen, knoflook, peterselie en olijfolie geven het gerecht een frisse, aromatische smaak. Het resultaat is een lichte, sappige en complete maaltijd.",
+  "afbeelding": "images/recepten/HamsiBugulamaAI.png",
+  "url": "recepten.html?id=hamsiBugulama",
+  "volgorde": 36,
+  "regioVolgorde": {
+    "anatolie": 0
+  },
+  "porties": 4,
+  "bereidingstijdMinuten": 60,
+  "moeilijkheid": "Gemakkelijk",
+  "ingredienten": [
+    "500 g verse ansjovis, schoongemaakt en zonder kop en graat (van de visboer)",
+    "600 g vastkokende aardappelen",
+    "3 rijpe tomaten",
+    "2 uien",
+    "1 groene Turkse puntpaprika",
+    "2 tenen knoflook",
+    "1 citroen",
+    "½ bosje platte peterselie",
+    "3 el olijfolie",
+    "150 ml water",
+    "2 laurierblaadjes",
+    "½ tl zwarte peper",
+    "Zout, naar smaak"
+  ],
+  "bereiding": [
+    "Verwarm de oven voor op 190 °C boven- en onderwarmte. Bestrijk een ruime ovenschaal met een beetje van de olijfolie.",
+    "Schil de aardappelen en snijd ze in zeer dunne plakjes van ongeveer 2–3 mm. Was de plakjes kort onder koud water en laat ze goed uitlekken.",
+    "Pel de uien en snijd ze in dunne halve ringen. Was de tomaten en snijd ze in plakjes. Was de groene puntpaprika, verwijder de zaadlijsten en snijd hem in dunne ringetjes.",
+    "Pel de knoflook en hak deze fijn. Was de peterselie en hak de blaadjes grof. Was de citroen en snijd deze in dunne plakjes.",
+    "Controleer of de ansjovisfilets goed zijn schoongemaakt en of er geen grote graten meer aanwezig zijn. Spoel ze indien nodig kort af met koud water en dep ze voorzichtig droog met keukenpapier.",
+    "Verdeel de aardappelplakjes gelijkmatig over de bodem van de ovenschaal. Leg de uienringen en de helft van de tomaten en paprika erop. Bestrooi met wat zout en zwarte peper.",
+    "Verdeel de ansjovisfilets over de groenten. Leg de resterende tomaten en paprika erop en strooi de knoflook en het grootste deel van de peterselie erover. Verdeel de laurierblaadjes en citroenplakjes over de schaal.",
+    "Schenk de resterende olijfolie en 150 ml water gelijkmatig over het gerecht. Bestrooi met de rest van de zwarte peper en een beetje zout. Dek de ovenschaal goed af met een vel vochtig gemaakt bakpapier, zodat het vocht tijdens het garen zo veel mogelijk behouden blijft.",
+    "Zet de schaal ongeveer 35–40 minuten in de oven. Controleer of de aardappelen zacht zijn en de ansjovis volledig gaar is. De vis moet ondoorzichtig zijn en gemakkelijk uit elkaar vallen. Verleng de oventijd indien nodig met enkele minuten.",
+    "Verwijder voorzichtig het bakpapier en de laurierblaadjes. Bestrooi met de achtergehouden peterselie en serveer de hamsi buğulama direct uit de ovenschaal, met de aardappelen en groenten erbij."
+  ],
+  "weetje": "Aan de Turkse Zwarte Zeekust is een klein visje uitgegroeid tot een ware volksheld. De *hamsi*, zoals ansjovis in het Turks heet, is veel meer dan een ingrediënt. In steden als Trabzon en Rize bepaalt de jaarlijkse ansjovisvangst al eeuwenlang het ritme van het dagelijks leven. Vooral in de koude wintermaanden, wanneer de vis in grote scholen voorkomt, staat hamsi overal op het menu.\n\nDe liefde voor deze vis gaat ver terug. De beroemde Ottomaanse reiziger Evliya Çelebi beschreef in de zeventiende eeuw de ansjovis van Trabzon en schreef er allerlei wonderbaarlijke eigenschappen aan toe. Volgens hem zou de vis niet alleen bijzonder voedzaam zijn, maar zelfs geneeskrachtige eigenschappen hebben. Zulke verhalen vertellen vooral hoe belangrijk hamsi destijds al was voor de plaatselijke bevolking.\n\nIn 1928 ging de dichter Hamamîzâde İhsan nog een stap verder. Hij publiceerde in Trabzon de *Hamsiname*, een compleet heldendicht ter ere van de ansjovis. Het boek bevat gedichten, verhalen over de visvangst en beschrijvingen van de vele manieren waarop hamsi werd bereid. Er bestaan in de Zwarte Zeeregio dan ook tientallen gerechten met ansjovis: gebakken in maïsmeel, verwerkt in pilav, gevuld met rijst of bereid in soep.\n\nOnze *hamsi buğulama* is een van de eenvoudigste bereidingen. Het Turkse woord **buğu** betekent 'damp' of 'stoom' en *buğulama* verwijst naar het garen in vochtige warmte. De vis wordt samen met groenten, citroen en een beetje water afgedekt bereid. Daardoor blijven de smaken en het vocht behouden, zonder dat de ansjovis wordt gefrituurd of gebakken in veel olie.\n\nVroeger werd hamsi buğulama volgens de overlevering zelfs bereid in uitgeholde stenen schalen, die eerst werden verhit en vervolgens met vis en groenten werden gevuld. Tegenwoordig is een gewone ovenschaal voldoende.\n\nMet onze versie van hamsi buğulama brengen we een stukje van de Zwarte Zeekust naar tafel: verse ansjovis, aardappelen, tomaat, ui, groene paprika en citroen, zacht gegaard in hun eigen geurige vocht.",
+  "bron": {
+    "receptTitel": "Steamed Anchovy (Hamsi Buğulama)",
+    "auteur": null,
+    "kookboek": "Turks Ministerie van Cultuur en Toerisme",
+    "url": "https://www.ktb.gov.tr/EN-98940/steamed-anchovy.html"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Hamsiname (Epic of Anchovy) – Cookbook (1928)",
+      "auteur": "Hamamîzâde İhsan",
+      "kookboek": "Google Arts & Culture / MSA The Culinary Arts Academy of İstanbul",
+      "url": "https://artsandculture.google.com/asset/hamsiname-epic-of-anchovy-cookbook-hamam%C3%AEz%C3%A2de-%C4%B0hsan/agFpz7AzpdA98w?hl=en"
+    },
+    {
+      "receptTitel": "Retracing Evliya Çelebi’s Travels",
+      "auteur": null,
+      "kookboek": "University College Oxford",
+      "url": "https://www.univ.ox.ac.uk/news/retracing-evliya-celebis-travels/"
+    },
+    {
+      "receptTitel": "Buğulama – betekenis",
+      "auteur": null,
+      "kookboek": "Tureng",
+      "url": "https://tureng.com/tr/turkce-ingilizce/bu%C4%9Fulama"
+    }
+  ]
+}

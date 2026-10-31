@@ -4,7 +4,8 @@
     "anatolie"
   ],
   "titel": "Lahmacun",
-  "korteBeschrijving": "Dunne knapperige deegbodem belegd met gekruid gehakt, tomaat, ui en kruiden.",
+  "korteBeschrijving": "Knapperige, dunne Turkse lahmacun met gekruid lamsgehakt, tomaat en paprika, geserveerd met verse peterselie, rode ui, sumak en citroen.",
+  "beschrijving": "Lahmacun is een geliefd gerecht uit de Turkse keuken, vooral bekend uit Zuidoost-Anatolië. Deze Turkse pizza bestaat uit een flinterdunne deegbodem, bedekt met een smaakvolle laag lamsgehakt, fijngemalen tomaat, paprika, ui, knoflook en specerijen. De lahmacun wordt in een zeer hete oven gebakken, waardoor de bodem licht krokant wordt, maar soepel genoeg blijft om op te rollen.",
   "afbeelding": "images/recepten/LahmacunAI.png",
   "url": "recepten.html?id=lahmacun",
   "volgorde": 38,
@@ -12,14 +13,70 @@
     "anatolie": 2
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 115,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "500 g tarwebloem",
+    "300 ml lauwwarm water",
+    "7 g instantgist",
+    "1 tl zout, voor het deeg",
+    "1 tl suiker",
+    "1 el olijfolie, voor het deeg",
+    "350 g lamsgehakt",
+    "1 grote ui, voor de vulling",
+    "1 rode puntpaprika",
+    "2 tomaten, voor de vulling",
+    "2 tenen knoflook",
+    "½ bosje platte peterselie, voor de vulling",
+    "1 el tomatenpuree",
+    "1 el biber salçası (milde Turkse paprikapuree)",
+    "1 tl pul biber (Turkse pepervlokken)",
+    "½ tl gemalen komijn",
+    "½ tl zoet paprikapoeder",
+    "1 tl zout, voor de vulling",
+    "½ tl zwarte peper",
+    "1 rode ui, voor de garnering",
+    "½ bosje platte peterselie, voor de garnering",
+    "1 tl sumak",
+    "1 citroen"
+  ],
+  "bereiding": [
+    "Meng de bloem, instantgist, suiker en het zout in een grote kom. Voeg het lauwwarme water en de olijfolie toe. Kneed het deeg met een mixer met deeghaken ongeveer 10 minuten tot het glad, soepel en elastisch is. Vorm een bal, leg deze in een licht ingevette kom en dek af. Laat het deeg ongeveer 1 uur rijzen op een warme plek, totdat het duidelijk in volume is toegenomen.",
+    "Pel ondertussen de ui en knoflook voor de vulling. Was de rode puntpaprika en verwijder de zaadlijsten. Was de tomaten en verwijder het vochtige gedeelte met de zaadjes. Snijd de groenten in grove stukken. Was de peterselie en schud deze droog.",
+    "Doe de ui, knoflook, paprika, tomaten en peterselie in een keukenmachine. Maal alles fijn, maar niet tot een volledig gladde puree. Schep het mengsel in een grote kom.",
+    "Voeg het lamsgehakt, de tomatenpuree, biber salçası, pul biber, komijn, paprikapoeder, zout en zwarte peper toe. Meng alles grondig door elkaar tot een gelijkmatige, goed smeerbare gehaktvulling. Zet afgedekt in de koelkast totdat het deeg klaar is.",
+    "Pel de rode ui voor de garnering en snijd deze in flinterdunne halve ringen. Meng de ui met de sumak en een klein beetje citroensap. Was de resterende peterselie en hak deze grof. Snijd de rest van de citroen in partjes.",
+    "Verwarm de oven voor op 250 °C boven- en onderwarmte. Verdeel het gerezen deeg in acht gelijke porties en vorm er bolletjes van. Houd de bolletjes die je nog niet gebruikt afgedekt, zodat ze niet uitdrogen.",
+    "Bestuif het werkblad licht met bloem. Rol ieder deegbolletje uit tot een zeer dunne, ronde of ovale bodem van ongeveer 25 cm doorsnede. Het deeg moet ongeveer 1–2 mm dik zijn. Leg de bodems op licht ingevette bakplaten.",
+    "Verdeel de gehaktvulling gelijkmatig over de acht deegbodems. Strijk deze met de achterkant van een lepel of met licht vochtige vingers in een zeer dunne laag uit, helemaal tot aan de randen. Zorg dat nergens dikke klontjes gehakt liggen.",
+    "Bak de lahmacuns in porties, afhankelijk van de ruimte in de oven, ongeveer 8–12 minuten tot de randen lichtbruin zijn, de bodem gaar is en het gehakt volledig gaar is. Controleer bij twijfel de gaarheid van het gehakt; een kerntemperatuur van 71 °C is een veilige richtlijn. Houd de gebakken lahmacuns warm onder een schone theedoek, zodat ze soepel blijven.",
+    "Bestrooi iedere lahmacun met wat rode ui met sumak en verse peterselie. Besprenkel met citroensap en serveer direct. Rol de lahmacun eventueel op of vouw hem dubbel, zoals in Turkije gebruikelijk is."
+  ],
+  "weetje": "In de Zuid-Turkse stad Gaziantep begint de bereiding van lahmacun vaak niet in de keuken, maar bij de slager. Daar wordt het lamsvlees fijngehakt en vermengd met verse groenten en specerijen. Vervolgens gaat de vulling naar de bakker, die haar over flinterdun uitgerold deeg verdeelt. Een paar minuten in een gloeiend hete steenoven later komt de lahmacun knapperig en geurend naar buiten. Deze samenwerking tussen slager en bakker is een bijzondere traditie die in Gaziantep nog altijd bestaat.\n\nHoewel lahmacun vaak 'Turkse pizza' wordt genoemd, is het gerecht veel ouder dan die bijnaam. De naam komt uit het Arabisch: *lahm* betekent 'vlees' en *ajin* betekent 'deeg'. Samen vormen ze *lahm bi ajin*, letterlijk 'vlees met deeg'. Verwante gerechten worden al eeuwenlang gegeten in Anatolië en de Levant. De beroemde Ottomaanse reiziger Evliya Çelebi beschreef in de zeventiende eeuw al een gerecht dat hij *lahm-ı acinli börek* noemde.\n\nLahmacun is vooral populair in Zuidoost-Turkije, onder andere in Gaziantep en Şanlıurfa. Iedere streek heeft zijn eigen variant. In Gaziantep wordt bijvoorbeeld traditioneel veel knoflook gebruikt, maar geen ui. In andere streken is ui juist een belangrijk bestanddeel van de vulling. Ook de verhoudingen tussen vlees, groenten en specerijen verschillen.\n\nEen opvallend ingrediënt van onze lahmacun is *biber*, dat zelfs twee keer in het recept voorkomt. In het Turks betekent **biber** zowel 'paprika' als 'peper'. *Biber salçası* is een geconcentreerde puree van rode paprika's of pepers, die een diepe, zoete of pittige smaak geeft. *Salça* betekent daarbij 'pasta' of 'puree'. *Pul biber* bestaat juist uit gedroogde, grof gemalen rode pepervlokken. Het woord *pul* betekent hier 'vlokje' of 'schilfer'.\n\nNiet iedere biber is trouwens pittig! In Turkije maakt men onderscheid tussen *tatlı biber* (zoete of milde paprika) en *acı biber* (hete peper). Ook biber salçası bestaat in milde en pittige varianten. Voor onze lahmacun gebruiken we milde paprikapuree en voegen we apart pul biber toe om de pittigheid te bepalen.\n\nTraditioneel wordt lahmacun vers uit de oven gegeten, met peterselie, ui, sumak en citroensap. Je rolt het dunne brood op en eet het uit de hand. Zo verbinden we in onze eigen keuken een eeuwenoude Anatolische traditie met de smaken van verse kruiden, kruidig lamsgehakt en geroosterde paprika.",
   "bron": {
-    "receptTitel": null,
+    "receptTitel": "Gaziantep Lahmacunu (Antep Lahmacunu)",
     "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "kookboek": "Türkiye Kültür Portalı – Turks Ministerie van Cultuur en Toerisme",
+    "url": "https://kulturportali.gov.tr/portal/gaziantep-lahmacunu--antep-lahmacunu-"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Antep Lahmacunu – aanvraag voor geografische aanduiding",
+      "auteur": null,
+      "kookboek": "Europese Commissie – Publicatieblad van de EU",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:C_202503607"
+    },
+    {
+      "receptTitel": "Turkey’s answer to hot sauce: biber salçası",
+      "auteur": null,
+      "kookboek": "SBS Food",
+      "url": "https://www.sbs.com.au/food/article/turkeys-answer-to-hot-sauce-biber-salcasi/4zetw1dbk"
+    },
+    {
+      "receptTitel": "Pul biber – meaning",
+      "auteur": null,
+      "kookboek": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/pul-biber"
+    }
+  ]
 }

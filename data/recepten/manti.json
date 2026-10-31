@@ -4,7 +4,8 @@
     "anatolie"
   ],
   "titel": "Mantı",
-  "korteBeschrijving": "Kleine Turkse deegkussentjes gevuld met vlees, geserveerd met yoghurt en gekruide boter.",
+  "korteBeschrijving": "Traditionele Turkse mantı: kleine deegpakketjes gevuld met gekruid rundergehakt, geserveerd met romige knoflookyoghurt, warme paprikaboter, munt en sumak.",
+  "beschrijving": "Mantı is een geliefd gerecht uit de Turkse keuken, vooral bekend uit de stad Kayseri in Centraal-Anatolië. De kleine deegpakketjes worden met de hand gemaakt en gevuld met een mengsel van rundergehakt, ui en zwarte peper. Na het koken worden ze geserveerd met een romige knoflookyoghurt en een geurige boter met tomatenpuree en Turkse pepervlokken.\n\nDe combinatie van het zachte deeg, de hartige vleesvulling, de frisse yoghurt en de licht pittige paprikaboter maakt mantı tot een bijzonder smaakvol gerecht. Gedroogde munt en sumak zorgen voor een aromatische, frisse afwerking. In onze versie maken we de deegpakketjes iets groter dan de traditionele mini-mantı uit Kayseri, zodat dit gerecht ook thuis goed te bereiden is.",
   "afbeelding": "images/recepten/MantiAI.png",
   "url": "recepten.html?id=manti",
   "volgorde": 37,
@@ -12,14 +13,63 @@
     "anatolie": 1
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 105,
+  "moeilijkheid": "Moeilijk",
+  "ingredienten": [
+    "300 g tarwebloem",
+    "1 ei",
+    "ca. 120 ml water",
+    "½ tl zout, voor het deeg",
+    "250 g rundergehakt",
+    "1 kleine ui",
+    "½ tl zout, voor de vulling",
+    "½ tl zwarte peper",
+    "400 g Turkse of Griekse yoghurt",
+    "2 tenen knoflook",
+    "Zout naar smaak, voor de knoflookyoghurt",
+    "60 g roomboter",
+    "1 el tomatenpuree",
+    "1 tl pul biber (Turkse pepervlokken)",
+    "1 tl gedroogde munt",
+    "1 tl sumak, ter garnering"
+  ],
+  "bereiding": [
+    "Doe de bloem en het zout in een grote kom. Voeg het ei en ongeveer 100 ml water toe. Meng alles tot een samenhangend deeg en voeg indien nodig geleidelijk de rest van het water toe. Kneed het deeg ongeveer 8–10 minuten tot het stevig, glad en elastisch is. Dek af en laat 30 minuten rusten.",
+    "Pel de ui en maal deze heel fijn in een keukenmachine. Meng de ui met het rundergehakt, zout en zwarte peper. Kneed kort door tot de ingrediënten goed verdeeld zijn. Zet de vulling afgedekt in de koelkast.",
+    "Verdeel het deeg in twee porties. Bestuif het werkblad licht met bloem en rol iedere portie met een deegroller uit tot een dunne lap van ongeveer 1–2 mm dik. Snijd het deeg met een mes of pizzasnijder in vierkantjes van ongeveer 4 × 4 cm.",
+    "Leg in het midden van ieder deegvierkantje ongeveer een halve theelepel gehaktvulling. Breng de vier hoeken naar elkaar toe en knijp de naden stevig dicht, zodat een klein gesloten pakketje ontstaat. Leg de mantı op een licht bebloemd bord of dienblad. Herhaal totdat het deeg of de vulling op is.",
+    "Pel de knoflook en pers de tenen boven een kom uit. Voeg de yoghurt en een beetje zout toe en roer tot een gladde saus. Zet de knoflookyoghurt apart zodat deze niet ijskoud is bij het serveren.",
+    "Breng een grote pan water met wat zout aan de kook. Voeg de mantı voorzichtig toe en roer eenmaal zachtjes, zodat ze niet aan de bodem blijven plakken. Kook ze ongeveer 10–12 minuten, afhankelijk van de dikte van het deeg, totdat het deeg gaar is en de gehaktvulling volledig is doorgekookt. Kook indien nodig in twee porties.",
+    "Smelt ondertussen de roomboter op laag vuur in een kleine koekenpan. Voeg de tomatenpuree toe en bak deze ongeveer 1 minuut zachtjes mee. Roer vervolgens de pul biber erdoor en verwarm nog 30 seconden. Laat de boter niet bruin worden en zorg dat de pepervlokken niet verbranden.",
+    "Schep de gare mantı met een schuimspaan uit het water en laat ze kort uitlekken. Verdeel ze direct over vier diepe borden.",
+    "Schep de knoflookyoghurt royaal over de warme mantı. Lepel vervolgens de warme paprikaboter eroverheen, zodat de rode boter zich mooi over de witte yoghurt verspreidt.",
+    "Bestrooi de mantı met gedroogde munt en sumak. Serveer onmiddellijk, terwijl de deegpakketjes nog warm zijn."
+  ],
+  "weetje": "In de Turkse stad Kayseri, aan de voet van de berg Erciyes, is het maken van mantı een ware kunst. De kleine deegpakketjes worden met de hand gevuld en dichtgevouwen. Volgens een plaatselijke traditie moest een goede kok zó kleine mantı kunnen maken dat er veertig op één lepel pasten. Het verhaal gaat zelfs dat toekomstige schoonmoeders hiermee de kookkunst van hun aanstaande schoondochters beoordeelden.\n\nMaar de geschiedenis van mantı begint waarschijnlijk ver buiten Anatolië. Gevulde deeggerechten komen in allerlei vormen voor van China tot Turkije. Denk aan Chinese jiaozi, Centraal-Aziatische mantu en Koreaanse mandu. Vermoedelijk verspreidden dergelijke gerechten zich langs de handelsroutes van de Zijderoute, onder andere door reizende Turkse en Mongoolse volkeren. Waar de allereerste mantı precies ontstond, is niet met zekerheid bekend.\n\nIn de vijftiende eeuw beschreef de Ottomaanse schrijver Şirvani al een recept voor mantı. Zijn versie was anders dan de huidige: de deegpakketjes werden gevuld met lamsgehakt en kikkererwten, op smaak gebracht met onder andere kaneel en azijn, en gestoomd in plaats van gekookt. Wel werden ze al geserveerd met knoflookyoghurt en sumak. Die combinatie heeft dus een geschiedenis van minstens vijfhonderd jaar!\n\nOok de naam *mantı* heeft iets bijzonders. Zie je de laatste letter? Dat is geen gewone i, maar een Turkse **ı zonder puntje**. In het Turks zijn *i* en *ı* twee verschillende letters, met elk een eigen uitspraak. De *i* klinkt ongeveer als onze ie, terwijl de *ı* een korte, wat doffe klinker is waarvoor het Nederlands geen precies equivalent heeft. Je spreekt *mantı* bij benadering uit als **‘man-tuh’**, maar met de tong iets verder naar achteren en zonder de lippen te ronden. De officiële fonetische weergave van deze bijzondere klinker is /ɯ/.\n\nTegenwoordig is mantı een van de bekendste specialiteiten van de Turkse keuken. Vooral de piepkleine deegpakketjes uit Kayseri zijn beroemd. In onze versie maken we ze iets groter, maar de belangrijkste elementen blijven behouden: dun deeg, een hartige vleesvulling, romige knoflookyoghurt en warme paprikaboter. Zo brengen we een eeuwenoude culinaire traditie naar onze eigen keuken.",
   "bron": {
-    "receptTitel": null,
+    "receptTitel": "Mantı (traditionele bereiding uit Kayseri)",
     "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "kookboek": "Kayseri İl Kültür ve Turizm Müdürlüğü – Kayseri Mutfağı",
+    "url": "https://kayseri.ktb.gov.tr/TR-55146/kayseri-mutfagi.html"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Kayseri Mutfağı – Mantı, geschiedenis en gebruiken",
+      "auteur": null,
+      "kookboek": "Kayseri Büyükşehir Belediyesi – Kayseri Mutfağı",
+      "url": "https://kutuphane.kayseri.bel.tr/Content/ebook/kayseri_mutfagi/files/basic-html/page63.html"
+    },
+    {
+      "receptTitel": "Kayseri Mutfağı",
+      "auteur": null,
+      "kookboek": "Turks Ministerie van Cultuur en Toerisme",
+      "url": "https://kayseri.ktb.gov.tr/TR-55146/kayseri-mutfagi.html"
+    },
+    {
+      "receptTitel": "Onderzoek naar Turkse klinkers",
+      "auteur": null,
+      "kookboek": "Languages (MDPI)",
+      "url": "https://www.mdpi.com/2226-471x/7/4/252"
+    }
+  ]
 }

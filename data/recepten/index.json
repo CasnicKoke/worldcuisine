@@ -591,19 +591,19 @@
       ],
       "bestand": "data/recepten/halusky.json"
     },
-    "gravadLax": {
-      "titel": "Gravad Lax",
-      "korteBeschrijving": "Dun gesneden zalm, gepekeld met zout, suiker en dille, vaak geserveerd met mosterdsaus.",
-      "afbeelding": "images/recepten/GravadLaxAI.png",
-      "url": "recepten.html?id=gravadLax",
+    "bacalao": {
+      "titel": "Bacalao",
+      "korteBeschrijving": "Traditionele Noorse stoofschotel van bakkeljauw met aardappelen, tomaten, ui, knoflook en zwarte olijven, langzaam gegaard in olijfolie met chilipeper en laurier.",
+      "afbeelding": "images/recepten/BacalaoAI.png",
+      "url": "recepten.html?id=bacalao",
       "regios": [
         "scandinavie"
       ],
-      "bestand": "data/recepten/gravadLax.json"
+      "bestand": "data/recepten/bacalao.json"
     },
     "kottbullar": {
       "titel": "Köttbullar",
-      "korteBeschrijving": "Zweedse gehaktballetjes, traditioneel geserveerd met jus, aardappelpuree en vossenbessen.",
+      "korteBeschrijving": "Traditionele Zweedse gehaktballetjes van rund- en varkensvlees in een romige bruine jus, geserveerd met aardappelpuree, doperwten en vossenbessenjam.",
       "afbeelding": "images/recepten/KottbullarAI.png",
       "url": "recepten.html?id=kottbullar",
       "regios": [
@@ -613,7 +613,7 @@
     },
     "smorrebrod": {
       "titel": "Smørrebrød",
-      "korteBeschrijving": "Deens open roggebrood, rijk belegd met vis, vlees, ei of groenten.",
+      "korteBeschrijving": "Drie klassieke Deense smørrebrød op stevig roggebrood: met aardappel, radijs en bieslook; ei en garnalen; en gemarineerde haring met rode ui en mosterdsaus.",
       "afbeelding": "images/recepten/SmorrebrodAI.png",
       "url": "recepten.html?id=smorrebrod",
       "regios": [
@@ -621,15 +621,15 @@
       ],
       "bestand": "data/recepten/smorrebrod.json"
     },
-    "lutefisk": {
-      "titel": "Lutefisk",
-      "korteBeschrijving": "Traditioneel Scandinavisch gerecht van gedroogde vis, geweekt en bereid tot een zachte structuur.",
-      "afbeelding": "images/recepten/LutefiskAI.png",
-      "url": "recepten.html?id=lutefisk",
+    "lohikeitto": {
+      "titel": "Lohikeitto",
+      "korteBeschrijving": "Traditionele Finse zalmsoep met malse stukken zalm, aardappelen, wortel en prei in een romige bouillon met dille en piment. Geserveerd met roggebrood en roomboter.",
+      "afbeelding": "images/recepten/LohikeittoAI.png",
+      "url": "recepten.html?id=lohikeitto",
       "regios": [
         "scandinavie"
       ],
-      "bestand": "data/recepten/lutefisk.json"
+      "bestand": "data/recepten/lohikeitto.json"
     },
     "runderstoofKaasscones": {
       "titel": "Runderstoofschotel met kaasscones",

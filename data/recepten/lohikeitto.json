@@ -1,0 +1,76 @@
+{
+  "sleutel": "lohikeitto",
+  "regios": [
+    "scandinavie"
+  ],
+  "titel": "Lohikeitto",
+  "korteBeschrijving": "Traditionele Finse zalmsoep met malse stukken zalm, aardappelen, wortel en prei in een romige bouillon met dille en piment. Geserveerd met roggebrood en roomboter.",
+  "beschrijving": "Lohikeitto is een traditionele Finse maaltijdsoep waarin verse zalm, aardappelen, wortel en prei zachtjes worden gegaard in een romige visbouillon. Piment en laurier geven de soep een subtiele kruidige smaak, terwijl verse dille voor een fris accent zorgt. De zalm blijft heerlijk mals doordat hij pas op het einde wordt toegevoegd. Met stevig roggebrood en roomboter vormt deze soep een verwarmende, voedzame maaltijd.",
+  "afbeelding": "images/recepten/LohikeittoAI.png",
+  "url": "recepten.html?id=lohikeitto",
+  "volgorde": 63,
+  "regioVolgorde": {
+    "scandinavie": 3
+  },
+  "porties": 4,
+  "bereidingstijdMinuten": 40,
+  "moeilijkheid": "Makkelijk",
+  "ingredienten": [
+    "600 g verse zalmfilet, zonder huid en graten",
+    "600 g vastkokende aardappelen",
+    "2 middelgrote wortels",
+    "1 grote prei",
+    "800 ml visbouillon",
+    "200 ml kookroom",
+    "30 g roomboter",
+    "4 hele pimentkorrels",
+    "1 laurierblad",
+    "2 el fijngehakte verse dille (circa 6 g)",
+    "Zout en witte peper, naar smaak",
+    "Voor erbij:",
+    "4 sneetjes stevig roggebrood",
+    "Roomboter voor op het brood"
+  ],
+  "bereiding": [
+    "Schil de aardappelen en snijd ze in blokjes van circa 2 cm. Schil de wortels en snijd ze in dunne halve plakjes. Maak de prei grondig schoon en snijd hem in dunne ringen.",
+    "Controleer de zalmfilet op achtergebleven graten en snijd hem in blokjes van ongeveer 3 cm. Zet de zalm tot gebruik afgedekt in de koelkast.",
+    "Smelt de 30 g roomboter in een grote soeppan op middelhoog vuur. Voeg de prei en wortel toe en fruit ze ongeveer 5 minuten, zonder ze te laten kleuren.",
+    "Schenk de visbouillon in de pan en voeg de aardappelen, pimentkorrels en het laurierblad toe. Breng aan de kook en zet het vuur vervolgens laag.",
+    "Laat de soep ongeveer 12–15 minuten zachtjes koken, totdat de aardappelen bijna gaar zijn.",
+    "Schenk de kookroom bij de soep en roer voorzichtig door. Verwarm de soep opnieuw tot net onder het kookpunt.",
+    "Voeg de zalmblokjes toe en laat ze ongeveer 4–6 minuten zachtjes garen. Laat de soep niet meer flink koken, zodat de zalm sappig blijft en niet uit elkaar valt.",
+    "Verwijder het laurierblad en de pimentkorrels. Roer de fijngehakte dille door de soep en breng op smaak met zout en witte peper.",
+    "Verdeel de soep over vier diepe borden of kommen. Zorg dat iedereen voldoende zalm, aardappelen en groenten krijgt. Serveer met stevig roggebrood, besmeerd met roomboter."
+  ],
+  "weetje": "Wanneer de Finse winter het landschap bedekt met sneeuw en de meren dichtvriezen, is er weinig zo uitnodigend als een dampende kom lohikeitto. Deze romige zalmsoep behoort tot de geliefdste gerechten van Finland en wordt zowel thuis als in restaurants geserveerd. Maar achter dit eenvoudige gerecht schuilt een lange geschiedenis van visserij, regionale tradities en de bijzondere band van de Finnen met hun meren en rivieren.\n\nFinland staat bekend als het land van de duizenden meren, maar ook de uitgestrekte Oostzeekust en de grote rivieren spelen al eeuwenlang een belangrijke rol in de voedselvoorziening. Vis was een van de belangrijkste eiwitbronnen, vooral in gebieden waar landbouw door het koude klimaat moeilijk was. In de noordelijke rivieren, zoals de Tornionjoki en Kemijoki, werd van oudsher op zalm gevist. Verder landinwaarts gebruikten huishoudens ook andere vissoorten, zoals baars, snoek en kleine marene, afhankelijk van wat de lokale wateren opleverden.\n\nDe precieze oorsprong van lohikeitto is onbekend. Vissoepen bestaan al eeuwenlang in de Finse keuken, maar de ingrediënten en bereidingswijzen verschilden sterk per regio. Sommige soepen werden eenvoudig gekookt in water met zout en wortelgroenten, terwijl andere met melk of later met room werden verrijkt. De romige versie die we tegenwoordig kennen, ontwikkelde zich geleidelijk uit deze oudere tradities. Aardappelen werden een belangrijk bestanddeel, omdat ze goedkoop, voedzaam en gemakkelijk te bewaren waren.\n\nTegenwoordig is lohikeitto overal in Finland verkrijgbaar, van eenvoudige lunchcafés en markthallen tot restaurants in Helsinki en Lapland. Het gerecht wordt niet alleen in de winter gegeten, maar het hele jaar door. De kracht ervan ligt juist in de eenvoud: verse vis, goede aardappelen, een beetje room en dille zijn voldoende om een bijzonder smakelijke maaltijd te maken.\n\nOnze versie volgt deze Finse traditie. We gebruiken grote stukken verse zalm, aardappelen, wortel en prei, met piment en laurier als subtiele smaakmakers. De kookroom zorgt voor een zachte, romige bouillon zonder de smaak van de vis te overheersen. Met roggebrood en roomboter erbij halen we een stukje Finse huiselijkheid naar onze eigen eettafel.",
+  "bron": {
+    "receptTitel": "Geïnspireerd op Perinteinen lohikeitto",
+    "auteur": "K-Ruoka",
+    "kookboek": null,
+    "jaar": null,
+    "url": "https://www.k-ruoka.fi/reseptit/perinteinen-lohikeitto"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Geschiedenis van de Finse soep",
+      "auteur": "Yle",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://yle.fi/a/3-10958891"
+    },
+    {
+      "receptTitel": "Northern Finnish recipes",
+      "auteur": "This is Finland",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://finland.fi/life-society/delicacies-from-the-top-of-the-world-go-down-well-northern-finnish-recipes/"
+    },
+    {
+      "receptTitel": "Finland's traditional and iconic foods",
+      "auteur": "Visit Finland",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.visitfinland.com/en/articles/finlands-traditional-and-iconic-foods/"
+    }
+  ]
+}

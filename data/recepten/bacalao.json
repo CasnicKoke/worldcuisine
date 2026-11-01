@@ -1,0 +1,82 @@
+{
+  "sleutel": "bacalao",
+  "regios": [
+    "scandinavie"
+  ],
+  "titel": "Bacalao",
+  "korteBeschrijving": "Traditionele Noorse stoofschotel van bakkeljauw met aardappelen, tomaten, ui, knoflook en zwarte olijven, langzaam gegaard in olijfolie met chilipeper en laurier.",
+  "beschrijving": "Bacalao is een Noorse visstoofschotel met Zuid-Europese invloeden. Ontzoute bakkeljauw wordt samen met aardappelen, uien, tomaten en knoflook langzaam gestoofd in olijfolie, met chilipeper en laurier voor extra smaak. Zwarte olijven en verse peterselie maken het gerecht af. Het resultaat is een hartige, licht pittige maaltijd waarin de stevige vis en zachte aardappelen de rijke tomatensaus opnemen.",
+  "afbeelding": "images/recepten/BacalaoAI.png",
+  "url": "recepten.html?id=bacalao",
+  "volgorde": 60,
+  "regioVolgorde": {
+    "scandinavie": 4
+  },
+  "porties": 4,
+  "bereidingstijdMinuten": 80,
+  "moeilijkheid": "Makkelijk",
+  "ingredienten": [
+    "600 g ontzoute bakkeljauw (kabeljauw of koolvis), zonder huid en graten",
+    "600 g vastkokende aardappelen",
+    "200 g uien (circa 1 grote en 1 kleine)",
+    "2 tenen knoflook",
+    "1 blik tomatenblokjes (400 g)",
+    "65 ml olijfolie",
+    "1 rode chilipeper",
+    "2 laurierblaadjes",
+    "50 g zwarte olijven, zonder pit",
+    "2 el fijngehakte verse platte peterselie",
+    "Versgemalen zwarte peper",
+    "Zout, alleen indien nodig"
+  ],
+  "bereiding": [
+    "Gebruik je droge, gezouten bakkeljauw, leg deze dan 24–72 uur van tevoren in een ruime kom met koud water in de koelkast. Ververs het water twee keer per dag. De benodigde tijd hangt af van de dikte van de vis; volg de aanwijzingen op de verpakking. Proef na het ontzouten een klein, goed gaar gemaakt stukje om te controleren of de vis niet meer te zout is.",
+    "Verwijder eventueel achtergebleven huid en graten van de ontzoute bakkeljauw. Snijd de vis in stukken van ongeveer 4 cm.",
+    "Schil de aardappelen en snijd ze in plakjes van circa 5 mm dik. Pel de uien en snijd ze in dunne halve ringen. Hak de knoflook fijn.",
+    "Halveer de chilipeper in de lengte, verwijder de zaadlijsten en snijd hem fijn. Wie van pittig houdt, kan de zaadlijsten laten zitten.",
+    "Schenk een beetje van de olijfolie op de bodem van een ruime pan met dikke bodem. Leg afwisselend laagjes aardappel, ui en bakkeljauw in de pan. Verdeel de knoflook en chilipeper tussen de lagen.",
+    "Verdeel de tomatenblokjes over de inhoud van de pan. Voeg de laurierblaadjes toe en schenk de resterende olijfolie erover.",
+    "Zet de pan op middelhoog vuur en verwarm voorzichtig totdat het vocht begint te pruttelen. Zet het vuur laag en leg het deksel op de pan. Laat ongeveer 60 minuten zachtjes stoven, totdat de aardappelen gaar zijn en de vis gemakkelijk uit elkaar valt.",
+    "Controleer tijdens het stoven regelmatig of er voldoende vocht in de pan zit. Voeg zo nodig een klein scheutje water toe om aanbranden te voorkomen. Roer zo min mogelijk, zodat de stukken vis en aardappel intact blijven. Schud de pan af en toe voorzichtig heen en weer.",
+    "Voeg de zwarte olijven toe en laat ze de laatste 5 minuten meewarmen. Verwijder de laurierblaadjes en breng de stoofschotel op smaak met versgemalen zwarte peper. Voeg alleen zout toe als dat echt nodig is; de bakkeljauw bevat vaak nog voldoende zout.",
+    "Verdeel de bacalao over vier diepe borden en bestrooi met de fijngehakte platte peterselie. Serveer direct."
+  ],
+  "weetje": "Bacalao is een bijzonder voorbeeld van hoe handel twee keukens met elkaar kan verbinden. Het gerecht combineert de Noorse traditie van gezouten en gedroogde kabeljauw met de smaken van Portugal, waar deze vis al eeuwenlang een belangrijk onderdeel van de eetcultuur is.\n\nVanaf de zeventiende eeuw groeide de Noorse havenstad Kristiansund uit tot een belangrijk centrum voor de productie en export van *klippfisk*: kabeljauw die eerst werd gezouten en vervolgens op de rotsen werd gedroogd. Portugal werd een van de belangrijkste afzetmarkten. Daar was de vis, bekend als *bacalhau*, bijzonder geliefd, mede doordat katholieken op veel vasten- en onthoudingsdagen geen vlees aten.\n\nDe handel verliep echter niet alleen in één richting. Portugese zeelieden brachten ook hun kooktradities mee naar Noorwegen. Volgens het Klipvismuseum in Kristiansund leerden de inwoners rond 1830 van Portugese zeelieden hoe ze bacalao konden bereiden. Zo vonden ingrediënten als olijfolie, tomaten, knoflook en chilipeper hun weg naar de Noorse keuken.\n\nHet resultaat was een bijzondere culinaire omkering: **Noorwegen exporteerde de vis naar Portugal en importeerde vervolgens een nieuwe manier om diezelfde vis te bereiden.** De stoofschotel werd vooral populair in de kuststreek Møre og Romsdal en geldt tegenwoordig als een Noorse klassieker.\n\nOnze versie volgt deze traditie, met bakkeljauw, aardappelen, tomaten, uien en olijfolie. Zo komen de koude wateren van de Noord-Atlantische Oceaan en de warme smaken van Zuid-Europa samen op één bord.",
+  "bron": {
+    "receptTitel": "Geïnspireerd op Bacalao",
+    "auteur": "Matprat",
+    "kookboek": null,
+    "jaar": null,
+    "url": "https://www.matprat.no/oppskrifter/gjester/b/bacalao/"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Klippfisk",
+      "auteur": "Store norske leksikon",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://snl.no/klippfisk"
+    },
+    {
+      "receptTitel": "Bacalao en Portugese zeelieden",
+      "auteur": "Nordmørsmusea",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://nordmorsmusea.no/bacalaokonkurranse-2024"
+    },
+    {
+      "receptTitel": "Bacalao",
+      "auteur": "Norsk Tradisjonsmat",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://norsktradisjonsmat.no/oppskrift/bacalao/"
+    },
+    {
+      "receptTitel": "The Norwegian cookbook: Bacalao",
+      "auteur": "Visit Norway",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.visitnorway.com/things-to-do/food-and-drink/the-norwegian-cookbook/bacalao/"
+    }
+  ]
+}

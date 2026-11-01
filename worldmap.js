@@ -34,11 +34,11 @@ const continenten = {
 	//Europese continent
 	balkan: [ "HR", "SI", "RS", "BA", "ME", "MK", "AL", "XK", "BG", "RO" ],
 	"oost-centraal-europa": [ "PL", "CZ", "SK", "HU" ],
-	scandinavie: [ "Denmark", "SE", "Norway", "FI", "IS", "GL"],
+	scandinavie: [ "Denmark", "SE", "Norway", "FI", "IS", "GL", "Faeroe Islands" ],
 	"britse-eilanden": [ "United Kingdom", "IE"],
 	germaans: [ "DE", "NL", "BE", "LU"],
 	"midden-europa": [ "France", "CH", "AT"],
-	"mediterraans": ["PT", "ES", "Greece", "Italy", "Malta", "Cyprus"],
+	"mediterraans": ["PT", "ES", "Greece", "Italy", "Malta", "Cyprus", "Canary Islands (Spain)"],
 	
 	//Midden-Oosten
 	anatolie: ["Turkey"],
@@ -61,10 +61,10 @@ const continenten = {
     maghreb: ["MA", "DZ", "TN", "LY", "EH"],
     nijlvallei: ["EG", "SD"],
     sahel: ["MR", "ML", "NE", "TD", "BF"],
-    "west-afrika": ["SN", "GM", "GN", "GW", "SL", "LR", "CI", "GH", "TG", "BJ", "NG",],
+    "west-afrika": ["SN", "GM", "GN", "GW", "SL", "LR", "CI", "GH", "TG", "BJ", "NG", "Cape Verde"],
     "hoorn-van-afrika": ["ET", "ER", "DJ", "SO"],
-    "centraal-afrika": ["CM", "CF", "CG", "CD", "GQ", "GA"],
-    "oost-afrika": ["KE", "UG", "TZ", "RW", "BI", "SS", "RE", "YT"],
+    "centraal-afrika": ["CM", "CF", "CG", "CD", "GQ", "GA", "São Tomé and Principe"],
+    "oost-afrika": ["KE", "UG", "TZ", "RW", "BI", "SS", "RE", "YT", "Comoros", "Seychelles", "Mauritius"],
     "zuidelijk-afrika": ["Angola", "ZM", "ZW", "MW", "NA", "BW", "LS", "SZ", "MZ", "MG", "ZA"],
     
     //"noord-amerika"
@@ -75,18 +75,19 @@ const continenten = {
     mexicaans: ["MX"],
     "centraal-amerika": ["BZ", "GT", "HN", "SV", "NI", "CR", "PA"],
     caribisch: ["CU", "DO", "HT", "JM", "Aruba", "AI", "BL", "BM", "BB", "CW", "DM", "GD", "LC", "Saint-Martin",
-    "MS", "SX", "VC", "VG", "BQSE", "Martinique"],
+    "MS", "SX", "VC", "VG", "BQSE", "BQBO", "BQSA", "Martinique", "Antigua and Barbuda", "Saint Kitts and Nevis", "Puerto Rico", 
+    "Trinidad and Tobago", "Bahamas", "Cayman Islands", "Guadeloupe", "Puerto Rico", "Turks and Caicos Islands", "United States Virgin Islands"],
     andes: ["CO", "EC", "PE", "BO"],
     brazilie: ["BR"],
     "amazone-guyanas": ["GF", "GY", "SR", "VE"],
-    pampas: ["Argentina", "Chile", "UY", "PY"],
+    pampas: ["Argentina", "Chile", "UY", "PY", "Falkland Islands"],
 
     //Oceanie
     australie: ["Australia"],
     "nieuw-zeeland": ["New Zealand"],
     melanesie: ["Papua New Guinea", "Fiji", "Vanuatu", "Solomon Islands", "New Caledonia"],
-    polynesie: ["Samoa","Tonga","TV", "French Polynesia"],
-    micronesie: ["GU", "MH", "NR", "PW", "Northern Mariana Islands"]
+    polynesie: ["Samoa","Tonga","TV", "French Polynesia", "American Samoa", "Cook Islands", "Niue", "Tokelau", "Wallis and Futuna", "Hawaii", "Pitcairn Islands", "French Polynesia"],
+    micronesie: ["GU", "MH", "NR", "PW", "Northern Mariana Islands", "Federated States of Micronesia"]
 };
 
 const kleuren = {

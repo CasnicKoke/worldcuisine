@@ -4,7 +4,8 @@
     "scandinavie"
   ],
   "titel": "Smørrebrød",
-  "korteBeschrijving": "Deens open roggebrood, rijk belegd met vis, vlees, ei of groenten.",
+  "korteBeschrijving": "Drie klassieke Deense smørrebrød op stevig roggebrood: met aardappel, radijs en bieslook; ei en garnalen; en gemarineerde haring met rode ui en mosterdsaus.",
+  "beschrijving": "Smørrebrød is een traditionele Deense lunch van dunne sneetjes donker roggebrood, besmeerd met boter en rijkelijk belegd. In deze versie maken we drie klassieke varianten: vegetarische Kartoffelmad met aardappel, radijs en krokante uitjes, Æg og rejer met ei en Noordzeegarnalen, en Sildemad met gemarineerde haring, rode ui en mosterdsaus. Samen vormen ze een kleurrijke lunch waarin romige, frisse, hartige en knapperige smaken elkaar aanvullen.",
   "afbeelding": "images/recepten/SmorrebrodAI.png",
   "url": "recepten.html?id=smorrebrod",
   "volgorde": 62,
@@ -12,14 +13,87 @@
     "scandinavie": 2
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 35,
+  "moeilijkheid": "Makkelijk",
+  "ingredienten": [
+    "Basis (12 smørrebrød):",
+    "12 sneetjes donker Deens roggebrood (rugbrød), circa 9 × 12 cm en 1 cm dik (600–700 g in totaal)",
+    "60 g gezouten roomboter",
+    "Kartoffelmad (4 stuks):",
+    "300 g vastkokende aardappelen",
+    "4 radijsjes, in dunne plakjes",
+    "3 el mayonaise",
+    "1 tl citroensap",
+    "2 el fijngeknipte bieslook",
+    "20 g krokant gebakken uitjes",
+    "Zout en versgemalen zwarte peper",
+    "Æg og rejer (4 stuks):",
+    "4 eieren",
+    "160 g gekookte, gepelde kleine garnalen, bij voorkeur Noordzeegarnalen",
+    "3 el mayonaise",
+    "½ citroen",
+    "1 el fijngehakte verse dille (circa 3 g)",
+    "1 bakje tuinkers",
+    "Versgemalen zwarte peper",
+    "Sildemad (4 stuks):",
+    "4 filets in azijn gemarineerde haring (circa 200 g)",
+    "½ rode ui, in flinterdunne ringen",
+    "1 el kappertjes",
+    "1 el fijngehakte verse dille (circa 3 g)",
+    "Mosterdsaus voor de haring:",
+    "1 el grove mosterd",
+    "1 tl honing",
+    "1 el crème fraîche"
+  ],
+  "bereiding": [
+    "Schil de aardappelen en kook ze in lichtgezouten water in 15–20 minuten gaar. Giet af en laat volledig afkoelen. Snijd ze vervolgens in plakjes van circa 5 mm dik.",
+    "Kook de eieren in 9 minuten hard. Spoel ze af onder koud water, pel ze en snijd ze in plakjes.",
+    "Snijd de radijsjes en rode ui in flinterdunne plakjes. Knip de bieslook fijn en hak de dille. Laat de kappertjes en gemarineerde haring uitlekken. Dep de reeds gekookte, gepelde garnalen indien nodig voorzichtig droog.",
+    "Meng voor de Kartoffelmad 3 eetlepels mayonaise met 1 theelepel citroensap en een beetje zwarte peper. Roer voor de Sildemad de grove mosterd, honing en crème fraîche door elkaar.",
+    "Snijd het roggebrood indien nodig in 12 sneetjes van ongeveer 9 × 12 cm en 1 cm dik. Besmeer alle sneetjes dun met gezouten roomboter. Verdeel ze in drie groepen van vier.",
+    "Kartoffelmad: Verdeel de afgekoelde aardappelplakjes dakpansgewijs over vier sneetjes roggebrood. Schep er wat citroenmayonaise overheen. Garneer met radijs, bieslook en krokant gebakken uitjes. Breng op smaak met zout en zwarte peper.",
+    "Æg og rejer: Verdeel de plakjes hardgekookt ei over vier sneetjes roggebrood. Leg de gekookte garnalen er royaal bovenop.",
+    "Verdeel de mayonaise in kleine toefjes over de garnalen. Bestrooi met de fijngehakte dille en versgemalen zwarte peper. Garneer met tuinkers en serveer met kleine partjes citroen om er naar smaak over uit te knijpen.",
+    "Sildemad: Snijd de haringfilets indien nodig in hapklare stukken en verdeel ze over de laatste vier sneetjes roggebrood.",
+    "Verdeel de mosterdsaus in kleine hoeveelheden over de haring. Garneer met de rode-uienringen, kappertjes en fijngehakte dille.",
+    "Schik voor iedere persoon één Kartoffelmad, één Æg og rejer en één Sildemad op een bord. Serveer direct, zodat het roggebrood stevig blijft en de garnering vers en knapperig is. Eet de smørrebrød op Deense wijze met mes en vork."
+  ],
+  "weetje": "Wie rond lunchtijd een traditioneel restaurant in Kopenhagen binnenloopt, ziet vaak een bijzonder schouwspel: kleine sneetjes donker roggebrood, zo rijkelijk en kunstig belegd dat het brood zelf nauwelijks meer zichtbaar is. Van eenvoudige aardappelen tot garnalen, haring en luxe vleeswaren: bij smørrebrød draait alles om het combineren van smaken, kleuren en texturen. Maar deze verfijnde Deense lunch heeft verrassend bescheiden wortels.\n\nHet woord *smørrebrød* betekent letterlijk 'beboterd brood'. Eeuwenlang vormde roggebrood een belangrijk onderdeel van het dagelijkse voedsel in Denemarken. Boeren en landarbeiders namen stevige stukken brood mee naar het veld, vaak besmeerd met boter of vet en belegd met eenvoudige ingrediënten. Het brood diende soms zelfs als een soort eetbaar bord waarop de restjes van de vorige maaltijd werden gelegd.\n\nIn de negentiende eeuw veranderde de Deense samenleving ingrijpend. Door de industrialisatie gingen steeds meer mensen buitenshuis werken. Een eenvoudige lunch van roggebrood met beleg was goedkoop, voedzaam en gemakkelijk mee te nemen. Tegelijkertijd ontstond in Kopenhagen een nieuwe eetcultuur: restaurants begonnen steeds luxueuzere versies van dit eenvoudige arbeidersvoedsel te serveren. Zo ontwikkelde zich het *højtbelagt smørrebrød*, letterlijk 'hoogbelegd boterbrood'.\n\nEen belangrijke mijlpaal volgde in 1883, toen restaurant Nimb in het beroemde Tivoli-park een van de eerste bekende smørrebrød-menukaarten introduceerde. Vijf jaar later, in 1888, openden wijnhandelaar Oskar Davidsen en zijn vrouw Petra een wijnbar in Kopenhagen. Wanneer hun gasten honger kregen, bereidde Petra rijkbelegde boterhammen voor hen. Die werden zo populair dat het echtpaar zich steeds meer op smørrebrød ging toeleggen.\n\nDe familie Davidsen groeide uit tot een begrip in de Deense gastronomie. Hun menukaart werd uiteindelijk meer dan 140 centimeter lang en bevatte maar liefst 178 verschillende soorten smørrebrød. Daarmee kwam de kaart zelfs in het Guinness Book of Records terecht.\n\nIn de twintigste eeuw werd smørrebrød een vaste waarde in de Deense lunchcultuur. Toch raakte het gerecht vanaf de jaren zestig enigszins uit de mode. Buitenlandse gerechten zoals pizza en moderne sandwiches wonnen terrein. Pas veel later brachten Deense chef-koks het smørrebrød opnieuw onder de aandacht, met vers brood, seizoensgroenten, hoogwaardige ingrediënten en creatieve presentaties. Tegenwoordig bestaan traditionele smørrebrød-restaurants naast moderne zaken die het gerecht opnieuw uitvinden.\n\nOndanks alle vernieuwingen zijn enkele combinaties vrijwel onveranderd gebleven. *Kartoffelmad* met aardappel en verse kruiden is een geliefde vegetarische variant. *Æg og rejer* combineert hardgekookt ei met kleine garnalen, mayonaise en dille. En *Sildemad*, met gemarineerde haring en ui, weerspiegelt de eeuwenoude betekenis van vis in de Deense keuken.\n\nEen laatste bijzonderheid: hoewel smørrebrød letterlijk een boterham is, eet je de rijkbelegde restaurantversies traditioneel met mes en vork. Met zoveel beleg zou het immers een hele uitdaging zijn om ze gewoon uit de hand te eten!\n\nOnze drie varianten laten zien hoe een eenvoudige boterham kon uitgroeien tot een van de bekendste culinaire symbolen van Denemarken.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
+    "receptTitel": "Smørrebrød (eigen bewerking)",
+    "auteur": "Eigen bewerking",
     "kookboek": null,
+    "jaar": null,
     "url": null
-  }
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Smørrebrød – historie en ontwikkeling",
+      "auteur": "Lex (Den Store Danske)",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://lex.dk/sm%C3%B8rrebr%C3%B8d"
+    },
+    {
+      "receptTitel": "Smørrebrød",
+      "auteur": "VisitDenmark",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.visitdenmark.nl/denemarken/wat-te-doen/eten-en-drinken/smorrebrod"
+    },
+    {
+      "receptTitel": "Historie",
+      "auteur": "Restaurant Ida Davidsen",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://idadavidsen.dk/historie/"
+    },
+    {
+      "receptTitel": "Iconisch Deens gerecht Stjerneskud viert 60-jarig jubileum",
+      "auteur": "VisitDenmark",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.visitdenmark.nl/pers/nieuws/iconisch-deens-gerecht-stjerneskud-viert-60-jarig-jubileum"
+    }
+  ]
 }

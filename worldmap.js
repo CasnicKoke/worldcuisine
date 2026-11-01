@@ -38,7 +38,7 @@ const continenten = {
 	"britse-eilanden": [ "United Kingdom", "IE"],
 	germaans: [ "DE", "NL", "BE", "LU"],
 	"midden-europa": [ "France", "CH", "AT"],
-	"mediterraans": ["PT", "ES", "Greece", "Italy"],
+	"mediterraans": ["PT", "ES", "Greece", "Italy", "Malta", "Cyprus"],
 	
 	//Midden-Oosten
 	anatolie: ["Turkey"],
@@ -280,14 +280,14 @@ const regioBeschrijving = {
         	"yoghurt, aubergine, paprika, tomaten, bulgur, kikkererwten, lamsvlees, olijfolie, munt, sumak"
 	},
 
-	levant: {
-    	titel: "Levant en Mesopotamië",
-    	beschrijving:
-        	"De Levantijnse keuken behoort tot de meest invloedrijke culinaire tradities ter wereld. Verse groenten, kruiden, peulvruchten en gedeelde maaltijden staan centraal. Gerechten worden vaak geserveerd als mezze, waarbij veel kleine schotels samen een complete maaltijd vormen.",
-	    ingredienten:
-    	    "kikkererwten, tahin, olijfolie, peterselie, munt, sumak, citroen, granaatappel, aubergine, yoghurt"
-	},
-
+    levant: {
+        titel: "Levant en Mesopotamië",
+        beschrijving:
+          "De keukens van de Levant en Mesopotamië zijn nauw met elkaar verbonden, maar hebben elk een eigen karakter. In Syrië, Libanon, Palestina, Israël en Jordanië spelen verse kruiden, groenten, peulvruchten en mezze een belangrijke rol. De Iraakse keuken voegt daar rijke tradities van gegrild vlees, rijstgerechten en gevulde groenten aan toe. Eeuwen van handel en culturele uitwisseling hebben deze keukens met elkaar verbonden.",
+        ingredienten:
+          "kikkererwten, tahin, olijfolie, peterselie, munt, sumak, citroen, granaatappel, aubergine, yoghurt, rijst, lamsvlees, gedroogde limoen"
+      },
+    
 	perzie: {
     	titel: "Iran en Afghanistan",
     	beschrijving:

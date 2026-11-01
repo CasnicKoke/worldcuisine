@@ -3,8 +3,9 @@
   "regios": [
     "mediterraans"
   ],
-  "titel": "Paella",
-  "korteBeschrijving": "Spaanse rijstschotel met saffraan, groenten, zeevruchten of vlees.",
+  "titel": "Paella met kip, chorizo en garnalen",
+  "korteBeschrijving": "Spaanse paella met saffraanrijst, malse kip, chorizo en garnalen, aangevuld met paprika, doperwten en zwarte olijven.",
+  "beschrijving": "Deze moderne paella is geïnspireerd op de Spaanse rijstgerechten uit Valencia. Kippendijfilet, chorizo en garnalen worden gecombineerd met rijst, saffraan, paprika en tomaat. Doperwten en zwarte olijven zorgen voor extra smaak en kleur. De rijst gaart langzaam in geurige bouillon, waarbij op de bodem een licht krokant laagje kan ontstaan, de karakteristieke *socarrat*. Met verse peterselie en citroen serveren we een feestelijke maaltijd rechtstreeks uit de pan.",
   "afbeelding": "images/recepten/PaellaAI.png",
   "url": "recepten.html?id=paella",
   "volgorde": 76,
@@ -12,14 +13,70 @@
     "mediterraans": 0
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 60,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "320 g paellarijst",
+    "400 g kippendijfilet",
+    "100 g chorizo",
+    "200 g gepelde rauwe garnalen (eventueel diepvries)",
+    "1 rode paprika",
+    "150 g diepvriesdoperwten",
+    "2 rijpe tomaten",
+    "1 ui",
+    "2 tenen knoflook",
+    "850–950 ml kippenbouillon (afhankelijk van de rijst)",
+    "1 tl gerookt paprikapoeder",
+    "1 snufje saffraandraadjes",
+    "2 el olijfolie",
+    "50 g zwarte olijven zonder pit, gehalveerd",
+    "1 citroen",
+    "½ bosje platte peterselie",
+    "Zout en zwarte peper, naar smaak"
+  ],
+  "bereiding": [
+    "Snijd de kippendijfilet in hapklare stukken en de chorizo in halve plakjes. Laat de garnalen indien nodig ontdooien en dep ze droog met keukenpapier.",
+    "Pel de ui en knoflook en snipper ze fijn. Was de paprika, verwijder de zaadlijsten en snijd hem in reepjes. Snijd de tomaten in kleine blokjes.",
+    "Verwarm de kippenbouillon in een steelpan. Voeg de saffraandraadjes toe en laat ze ongeveer 5 minuten trekken, zodat de bouillon zijn karakteristieke kleur en aroma krijgt. Houd de bouillon warm.",
+    "Verhit de olijfolie in een grote, brede koekenpan of paellapan op middelhoog vuur. Bak de chorizo ongeveer 2–3 minuten, totdat deze wat vet en kleur afgeeft. Voeg de kip toe en bak deze ongeveer 5 minuten rondom goudbruin.",
+    "Voeg de ui en paprika toe en bak ongeveer 5 minuten mee. Voeg vervolgens de knoflook en tomaten toe en laat alles nog 3–4 minuten zachtjes bakken, totdat de tomaten uiteen beginnen te vallen.",
+    "Strooi het gerookte paprikapoeder over het mengsel en roer kort door. Voeg de paellarijst toe en bak deze ongeveer 1–2 minuten mee, zodat de rijstkorrels zich met het geurige bakvet bedekken.",
+    "Schenk ongeveer 850 ml van de warme saffraanbouillon in de pan en verdeel de rijst gelijkmatig. Breng aan de kook en laat ongeveer 8 minuten op middelhoog vuur garen. Roer de rijst vanaf nu niet meer, zodat de paella zijn karakteristieke structuur krijgt.",
+    "Zet het vuur laag en laat de rijst nog ongeveer 10–12 minuten rustig garen, zonder deksel. Verdeel ongeveer 6 minuten voor het einde de doperwten, garnalen en zwarte olijven over de paella en druk ze licht in de rijst. Voeg indien nodig wat extra warme bouillon langs de rand toe. Controleer of de rijst gaar is, de kip volledig doorbakken is en de garnalen ondoorzichtig en gaar zijn.",
+    "Als de rijst gaar en het meeste vocht opgenomen is, kun je het vuur nog ongeveer 1 minuut iets hoger zetten om een licht krokant rijstlaagje op de bodem te krijgen: de *socarrat*. Let op dat de rijst niet verbrandt. Haal de pan van het vuur, dek losjes af met aluminiumfolie en laat de paella 5 minuten rusten.",
+    "Was de peterselie en hak deze fijn. Snijd de citroen in partjes. Bestrooi de paella met peterselie en serveer direct vanuit de pan, met de citroenpartjes ernaast."
+  ],
+  "weetje": "Ten zuiden van de Spaanse stad Valencia ligt de Albufera, een uitgestrekt gebied van lagunes en rijstvelden. Hier ontstond het gerecht dat zou uitgroeien tot een van de beroemdste symbolen van de Spaanse keuken: paella. Oorspronkelijk was het een eenvoudige maaltijd van boeren en landarbeiders, die boven een houtvuur rijst bereidden met ingrediënten die in de omgeving beschikbaar waren.\n\nDe naam *paella* verwijst niet naar de ingrediënten, maar naar de pan. In het Valenciaans betekent *paella* namelijk 'koekenpan'. Het woord gaat uiteindelijk terug op het Latijnse *patella*, een kleine, ondiepe schaal of pan. De brede, platte vorm is belangrijk: doordat de rijst in een dunne laag ligt, kan het vocht gelijkmatig verdampen en krijgen de korrels hun kenmerkende stevige structuur.\n\nDe traditionele *Paella Valenciana* bevat geen vis of zeevruchten, maar kip, konijn, tomaat, groene bonen en *garrofó*, een grote witte boon uit de streek. Saffraan geeft de rijst zijn prachtige gouden kleur. Soms worden ook slakken en rozemarijn toegevoegd. De ingrediënten weerspiegelen het landelijke karakter van de oorspronkelijke maaltijd.\n\nMisschien wel het bijzonderste onderdeel van een goede paella is de *socarrat*. Zo noemen de Valencianen het dunne, licht geroosterde rijstlaagje op de bodem van de pan. Het ontstaat aan het einde van de bereiding, wanneer vrijwel al het vocht is opgenomen en de onderste rijstkorrels voorzichtig beginnen te roosteren. Voor veel liefhebbers is dit krokante laagje het lekkerste deel van de hele paella. Het mag goudbruin en knapperig zijn, maar niet verbrand.\n\nIn Valencia wordt paella traditioneel vooral rond lunchtijd gegeten, vaak op zondag met familie of vrienden. De pan komt midden op tafel te staan en iedereen eet samen. De bereiding is minstens zo belangrijk als de maaltijd zelf: wie beheert het vuur, wanneer gaat de rijst erbij en wie krijgt de lekkerste socarrat?\n\nOnze paella met kip, chorizo en garnalen is een moderne interpretatie. Vooral de chorizo zou in Valencia waarschijnlijk voor opgetrokken wenkbrauwen zorgen, want die hoort niet bij de traditionele Paella Valenciana. Ook de combinatie van vlees en zeevruchten is een latere variant. We behouden wel de belangrijkste bereidingsprincipes: een brede pan, saffraanrijst die niet wordt geroerd en natuurlijk de poging om een heerlijke socarrat te maken.",
   "bron": {
-    "receptTitel": null,
+    "receptTitel": "Paella met kip, chorizo en garnalen (eigen bewerking)",
     "auteur": null,
     "kookboek": null,
     "url": null
-  }
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Discover the origin of some traditional Spanish dishes",
+      "auteur": null,
+      "kookboek": "Spain.info",
+      "url": "https://www.spain.info/en/top/discover-the-origin-of-some-traditional-spanish-dishes/"
+    },
+    {
+      "receptTitel": "Valencian Paella",
+      "auteur": null,
+      "kookboek": "Turisme Comunitat Valenciana",
+      "url": "https://www.turismocomunidadvalenciana.com/en/food-in-comunidad-valenciana/valencian-paella"
+    },
+    {
+      "receptTitel": "Paella o paellera",
+      "auteur": null,
+      "kookboek": "FundéuRAE",
+      "url": "https://www.fundeu.es/consulta/paella-o-paellera-78/"
+    },
+    {
+      "receptTitel": "Valencia, Spain, Gives Cultural Protection To Iconic Rice And Meat Dish, Paella",
+      "auteur": null,
+      "kookboek": "WLRN / NPR",
+      "url": "https://www.wlrn.org/2021-11-14/valencia-spain-gives-cultural-protection-to-iconic-rice-and-meat-dish-paella"
+    }
+  ]
 }

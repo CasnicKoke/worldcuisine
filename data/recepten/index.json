@@ -742,8 +742,8 @@
       "bestand": "data/recepten/wienerSchnitzel.json"
     },
     "paella": {
-      "titel": "Paella",
-      "korteBeschrijving": "Spaanse rijstschotel met saffraan, groenten, zeevruchten of vlees.",
+      "titel": "Paella met kip, chorizo en garnalen",
+      "korteBeschrijving": "Spaanse paella met saffraanrijst, malse kip, chorizo en garnalen, aangevuld met paprika, doperwten en zwarte olijven.",
       "afbeelding": "images/recepten/PaellaAI.png",
       "url": "recepten.html?id=paella",
       "regios": [
@@ -751,29 +751,29 @@
       ],
       "bestand": "data/recepten/paella.json"
     },
-    "moussaka": {
-      "titel": "Moussaka",
-      "korteBeschrijving": "Ovenschotel met aubergine, gehakt en romige bechamelsaus, geliefd in Griekenland.",
-      "afbeelding": "images/recepten/MoussakaAI.png",
-      "url": "recepten.html?id=moussaka",
+    "spanakopita": {
+      "titel": "Spanakopita met Griekse salade",
+      "korteBeschrijving": "Knapperige Griekse spinazietaart van filodeeg, gevuld met feta, lente-ui en verse dille, geserveerd met een traditionele Griekse salade van tomaat, komkommer, paprika en olijven.",
+      "afbeelding": "images/recepten/SpanakopitaAI.png",
+      "url": "recepten.html?id=spanakopita",
       "regios": [
         "mediterraans"
       ],
-      "bestand": "data/recepten/moussaka.json"
+      "bestand": "data/recepten/spanakopita.json"
     },
-    "lasagne": {
-      "titel": "Lasagne",
-      "korteBeschrijving": "Gelaagde pastaschotel met saus, kaas en vaak ragù of groenten.",
-      "afbeelding": "images/recepten/LasagneAI.png",
-      "url": "recepten.html?id=lasagne",
+    "fettuccineAlfredo": {
+      "titel": "Fettuccine Alfredo",
+      "korteBeschrijving": "Klassieke Romeinse fettuccine met een zachte saus van roomboter en Parmigiano Reggiano, geserveerd met een rucolasalade met cherrytomaten en balsamico.",
+      "afbeelding": "images/recepten/FettuccineAlfredoAI.png",
+      "url": "recepten.html?id=fettuccineAlfredo",
       "regios": [
         "mediterraans"
       ],
-      "bestand": "data/recepten/lasagne.json"
+      "bestand": "data/recepten/fettuccineAlfredo.json"
     },
     "bacalhau": {
-      "titel": "Bacalhau",
-      "korteBeschrijving": "Portugees gerecht van gezouten kabeljauw, vaak gecombineerd met aardappel, ui en olijfolie.",
+      "titel": "Bacalhau à Brás",
+      "korteBeschrijving": "Portugese Bacalhau à Brás met bakkeljauw, krokante aardappelreepjes, romige eieren en gebakken ui, gegarneerd met zwarte olijven en peterselie. Geserveerd met een frisse salade.",
       "afbeelding": "images/recepten/BacalhauAI.png",
       "url": "recepten.html?id=bacalhau",
       "regios": [

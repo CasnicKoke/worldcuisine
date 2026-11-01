@@ -1,0 +1,69 @@
+{
+  "sleutel": "fettuccineAlfredo",
+  "regios": [
+    "mediterraans"
+  ],
+  "titel": "Fettuccine Alfredo",
+  "korteBeschrijving": "Klassieke Romeinse fettuccine met een zachte saus van roomboter en Parmigiano Reggiano, geserveerd met een rucolasalade met cherrytomaten en balsamico.",
+  "beschrijving": "Fettuccine Alfredo is een klassiek pastagerecht uit Rome, beroemd om zijn eenvoud. Verse eierpasta wordt gecombineerd met roomboter, versgeraspte Parmigiano Reggiano en een beetje pastakookwater. Door de ingrediënten zorgvuldig te mengen ontstaat een heerlijke romige saus, zonder toevoeging van room. We serveren de pasta met een Italiaanse rucolasalade met cherrytomaten, olijfolie en balsamicoazijn.",
+  "afbeelding": "images/recepten/FettuccineAlfredoAI.png",
+  "url": "recepten.html?id=fettuccineAlfredo",
+  "volgorde": 78,
+  "regioVolgorde": {
+    "mediterraans": 2
+  },
+  "porties": 4,
+  "bereidingstijdMinuten": 25,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "500 g verse fettuccine (eierpasta)",
+    "140 g ongezouten roomboter",
+    "180 g Parmigiano Reggiano, vers en zeer fijn geraspt",
+    "1 tl zout (voor het pastawater)",
+    "75 g rucola",
+    "250 g cherrytomaten",
+    "2 el extra vierge olijfolie",
+    "1 el balsamicoazijn",
+    "¼ tl zout (voor de salade)",
+    "¼ tl zwarte peper (voor de salade)"
+  ],
+  "bereiding": [
+    "Haal de roomboter uit de koelkast en laat deze op kamertemperatuur zacht worden. Rasp de Parmigiano Reggiano zeer fijn.",
+    "Was de rucola en laat deze goed uitlekken. Was de cherrytomaten en halveer ze. Doe de rucola en tomaten in een grote slakom.",
+    "Meng de olijfolie, balsamicoazijn, het zout en de zwarte peper voor de salade in een kommetje. Zet de dressing apart en meng deze pas vlak voor het serveren door de salade.",
+    "Breng een grote pan met ongeveer 4 liter water aan de kook. Voeg 1 tl zout toe. Verwarm ondertussen een grote serveerschaal voor met heet water en droog deze goed af.",
+    "Kook de verse fettuccine volgens de aanwijzingen op de verpakking, meestal ongeveer 2–4 minuten, totdat de pasta beetgaar is.",
+    "Bewaar bij het afgieten ongeveer 200 ml van het warme pastakookwater. Giet de fettuccine af en doe deze onmiddellijk in de voorverwarmde serveerschaal.",
+    "Voeg de zachte roomboter toe en schep de pasta rustig om, totdat de boter volledig gesmolten is en alle pastaslierten bedekt zijn.",
+    "Voeg de fijngeraspte Parmigiano Reggiano in kleine porties toe, samen met telkens een scheutje warm pastakookwater. Schep de pasta met twee vorken of een pastatang voortdurend en vlot om, totdat de boter, kaas en het zetmeelrijke water samen een gladde, romige saus vormen die aan de pasta hecht. Voeg alleen zoveel kookwater toe als nodig is. Verwarm de saus niet opnieuw op het vuur, want daardoor kan de kaas gaan klonteren.",
+    "Meng de dressing door de rucola en cherrytomaten. Schep de salade voorzichtig om.",
+    "Verdeel de fettuccine Alfredo onmiddellijk over vier voorverwarmde borden en serveer met de rucolasalade ernaast."
+  ],
+  "weetje": "In 1908 maakte de Romeinse kok Alfredo di Lelio zich zorgen om zijn vrouw Ines. Ze was net bevallen van hun eerste kind en had nauwelijks eetlust. Om haar weer op krachten te helpen, bereidde Alfredo een eenvoudige maar voedzame maaltijd: verse fettuccine met een royale hoeveelheid roomboter en Parmezaanse kaas. Ines vond het zo lekker dat ze haar man aanraadde het gerecht ook in hun restaurant te serveren. Zo ontstond volgens de familiegeschiedenis een van de beroemdste pastagerechten ter wereld.\n\nAlfredo werkte destijds in de kleine trattoria van zijn moeder aan de Piazza Rosa in Rome. In 1914 opende hij zijn eigen restaurant aan de Via della Scrofa, waar zijn fettuccine al snel populair werden. Niet alleen vanwege de smaak, maar ook door de bijzondere manier waarop hij ze serveerde. Alfredo mengde de hete pasta, boter en kaas met grote bewegingen rechtstreeks aan tafel. Het werd een kleine voorstelling, waarbij de gasten konden zien hoe de ingrediënten veranderden in een zijdezachte saus.\n\nDe internationale doorbraak kwam dankzij twee beroemde Amerikaanse filmsterren: Mary Pickford en Douglas Fairbanks. Tijdens hun huwelijksreis in Rome in 1920 proefden ze Alfredo's pasta en waren onmiddellijk enthousiast. Als blijk van waardering schonken ze hem in 1927 een gouden vork en lepel met de inscriptie: *To Alfredo, the King of the Noodles*. De gouden bestekstukken werden een attractie op zichzelf en hielpen het restaurant wereldberoemd te maken.\n\nOpmerkelijk genoeg is Fettuccine Alfredo tegenwoordig buiten Italië bekender dan in Italië zelf. Vooral in de Verenigde Staten werd het gerecht razend populair, maar daar veranderde ook het recept. Aan de oorspronkelijke combinatie van pasta, boter en kaas werden vaak room, knoflook en later zelfs kip toegevoegd. Zo ontstond de Amerikaanse Alfredo-saus, die inmiddels in talloze varianten wordt gegeten.\n\nDe oorspronkelijke Romeinse versie bevat echter geen room. Het geheim zit in de techniek: door de hete fettuccine voortdurend te mengen met zachte boter, fijngeraspte Parmigiano Reggiano en een beetje zetmeelrijk pastakookwater, ontstaat vanzelf een romige saus. In Italië wordt een eenvoudige combinatie van pasta, boter en kaas ook wel *pasta al burro* genoemd.\n\nEn de naam *fettuccine*? Die betekent letterlijk 'kleine linten', een verwijzing naar de lange, platte pastaslierten. In onze versie volgen we de Romeinse traditie van Alfredo di Lelio: verse fettuccine, boter en Parmezaanse kaas, zonder room. Met een Italiaanse rucolasalade erbij maken we er een complete maaltijd van.",
+  "bron": {
+    "receptTitel": "Fettuccine Alfredo (klassieke Romeinse bereidingswijze, eigen bewerking)",
+    "auteur": null,
+    "kookboek": "Turismo Roma",
+    "url": "https://www.turismoroma.it/en/node/169838"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Fettuccine Alfredo – geschiedenis en oorsprong",
+      "auteur": null,
+      "kookboek": "Turismo Roma",
+      "url": "https://www.turismoroma.it/en/node/169838"
+    },
+    {
+      "receptTitel": "The story of my grandfather, inventor of the well-known Fettuccine all’Alfredo",
+      "auteur": null,
+      "kookboek": "Gambero Rosso",
+      "url": "https://www.gamberorossointernational.com/news/food-news/the-story-of-my-grandfather-inventor-of-the-well-known-fettuccine-allalfredo/"
+    },
+    {
+      "receptTitel": "Fettuccine Alfredo Day",
+      "auteur": null,
+      "kookboek": "La Cucina Italiana",
+      "url": "https://www.lacucinaitaliana.it/news/eventi/fettuccine-alfredo-day/"
+    }
+  ]
+}

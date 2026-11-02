@@ -552,8 +552,8 @@
       "bestand": "data/recepten/overvolleGroentetaart.json"
     },
     "goulash": {
-      "titel": "Goulash",
-      "korteBeschrijving": "Stevige stoofschotel met rundvlees, paprika, ui en specerijen uit Midden- en Oost-Europa.",
+      "titel": "Gulyásleves",
+      "korteBeschrijving": "Traditionele Hongaarse goulashsoep met malse sukadelappen, aardappelen, wortel, pastinaak en paprika, rijk gekruid met Hongaars paprikapoeder en karwijzaad, en geserveerd met zelfgemaakte csipetke.",
       "afbeelding": "images/recepten/GoulashAI.png",
       "url": "recepten.html?id=goulash",
       "regios": [
@@ -562,8 +562,8 @@
       "bestand": "data/recepten/goulash.json"
     },
     "pierogi": {
-      "titel": "Pierogi",
-      "korteBeschrijving": "Gevulde deegkussentjes uit Polen, vaak met aardappel, kaas, vlees of zuurkool.",
+      "titel": "Pierogi ruskie met rodekoolsalade",
+      "korteBeschrijving": "Traditionele Poolse deegkussentjes gevuld met aardappel, verse kaas en gebakken ui, geserveerd met goudbruin gebakken uitjes, zure room en een frisse rodekoolsalade met wortel en appel.",
       "afbeelding": "images/recepten/PierogiAI.png",
       "url": "recepten.html?id=pierogi",
       "regios": [
@@ -572,8 +572,8 @@
       "bestand": "data/recepten/pierogi.json"
     },
     "svickova": {
-      "titel": "Svíčková",
-      "korteBeschrijving": "Tsjechisch rundvlees in romige groentesaus, traditioneel geserveerd met knoedels.",
+      "titel": "Svíčková na smetaně",
+      "korteBeschrijving": "Traditioneel Tsjechisch stoofgerecht van mals rundvlees in een romige, lichtzoetzure saus van wortelgroenten, geserveerd met huisgemaakte broodknoedels en cranberrycompote.",
       "afbeelding": "images/recepten/SvickovaAI.png",
       "url": "recepten.html?id=svickova",
       "regios": [
@@ -581,15 +581,15 @@
       ],
       "bestand": "data/recepten/svickova.json"
     },
-    "halusky": {
-      "titel": "Halušky",
-      "korteBeschrijving": "Zachte Slowaakse deeggnocchi, vaak geserveerd met schapenkaas en spek.",
-      "afbeelding": "images/recepten/HaluskyAI.png",
-      "url": "recepten.html?id=halusky",
+    "strapacky": {
+      "titel": "Strapačky s kyslou kapustou",
+      "korteBeschrijving": "Traditionele Slowaakse aardappelknoedeltjes met gestoofde zuurkool, ui en karwijzaad, geserveerd met krokant gebakken spekblokjes en verse bieslook.",
+      "afbeelding": "images/recepten/StrapackyAI.png",
+      "url": "recepten.html?id=strapacky",
       "regios": [
         "oost-centraal-europa"
       ],
-      "bestand": "data/recepten/halusky.json"
+      "bestand": "data/recepten/strapacky.json"
     },
     "bacalao": {
       "titel": "Bacalao",

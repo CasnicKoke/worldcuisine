@@ -3,8 +3,9 @@
   "regios": [
     "oost-centraal-europa"
   ],
-  "titel": "Svíčková",
-  "korteBeschrijving": "Tsjechisch rundvlees in romige groentesaus, traditioneel geserveerd met knoedels.",
+  "titel": "Svíčková na smetaně",
+  "korteBeschrijving": "Traditioneel Tsjechisch stoofgerecht van mals rundvlees in een romige, lichtzoetzure saus van wortelgroenten, geserveerd met huisgemaakte broodknoedels en cranberrycompote.",
+  "beschrijving": "Svíčková na smetaně is een klassiek Tsjechisch gerecht waarbij een heel sukadestuk langzaam wordt gestoofd met winterpeen, pastinaak, knolselderij en specerijen. Het malse vlees wordt in plakken gesneden en geserveerd met een fluweelzachte, lichtzoetzure groentesaus met kookroom. Daarbij horen zelfgemaakte *houskové knedlíky*, luchtige broodknoedels die de saus heerlijk opnemen. Een plakje citroen, cranberrycompote en een toefje slagroom zorgen voor de traditionele, feestelijke afwerking.",
   "afbeelding": "images/recepten/SvickovaAI.png",
   "url": "recepten.html?id=svickova",
   "volgorde": 58,
@@ -12,14 +13,93 @@
     "oost-centraal-europa": 2
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 210,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor het rundvlees en de saus:",
+    "700 g sukadestuk (lokale slager). Let op: geen sukadelappen, maar één compact, dik stuk vlees, omdat het na de bereiding nog in plakken moet worden gesneden",
+    "1 winterpeen",
+    "1 pastinaak",
+    "150 g knolselderij",
+    "1 grote ui",
+    "30 g roomboter",
+    "1 el zonnebloemolie",
+    "500 ml runderbouillon",
+    "200 ml kookroom",
+    "1 el milde mosterd",
+    "1 el suiker",
+    "1 el natuurazijn",
+    "4 hele pimentkorrels",
+    "6 zwarte peperkorrels",
+    "2 laurierblaadjes",
+    "Zout, naar smaak",
+    "Voor de huisgemaakte houskové knedlíky:",
+    "400 g tarwebloem",
+    "200 ml lauwwarme melk",
+    "7 g gedroogde gist",
+    "1 ei",
+    "2 oude witte bolletjes (circa 100 g)",
+    "1 tl suiker",
+    "1 tl zout",
+    "Voor het serveren:",
+    "100 g cranberrycompote of vossenbessenjam",
+    "1 citroen, in plakjes",
+    "100 ml slagroom, ongezoet en opgeklopt"
+  ],
+  "bereiding": [
+    "Dep het sukadestuk van 700 g droog met keukenpapier en bestrooi rondom met zout. Laat het vlees in één geheel. Schil de winterpeen, pastinaak en knolselderij en snijd ze in blokjes van circa 2 cm. Pel en snipper de ui.",
+    "Verhit 1 el zonnebloemolie in een ruime braadpan met dikke bodem. Braad het sukadestuk op middelhoog vuur in ongeveer 6–8 minuten rondom bruin aan. Neem het vlees uit de pan en zet apart.",
+    "Smelt 30 g roomboter in dezelfde pan. Voeg de ui, winterpeen, pastinaak en knolselderij toe en bak de groenten ongeveer 8 minuten op middelhoog vuur, totdat ze licht beginnen te kleuren.",
+    "Voeg de pimentkorrels, zwarte peperkorrels en laurierblaadjes toe. Leg het vlees terug in de pan en schenk de 500 ml runderbouillon erbij. Breng aan de kook.",
+    "Zet het vuur laag, leg het deksel op de pan en laat het sukadestuk ongeveer 2½–3 uur zachtjes stoven, totdat het mals is. Keer het vlees ieder half uur en controleer of er voldoende vocht in de pan zit. Voeg zo nodig een scheutje water toe.",
+    "Begin ongeveer 2 uur voordat het vlees klaar is met de broodknoedels. Snijd de twee oude witte bolletjes in blokjes van ongeveer 1 cm.",
+    "Verwarm de melk tot deze lauwwarm is, ongeveer 35 °C. Roer de suiker en gedroogde gist erdoor en laat ongeveer 10 minuten staan, totdat het mengsel licht begint te schuimen.",
+    "Doe de bloem en het zout in een ruime kom. Voeg het ei en het melkmengsel toe. Kneed ongeveer 8 minuten tot een soepel deeg. Voeg de broodblokjes toe en kneed ze voorzichtig door het deeg, zodat ze zoveel mogelijk heel blijven.",
+    "Dek de kom af met een licht vochtige theedoek en laat het deeg op een warme, tochtvrije plaats ongeveer 45–60 minuten rijzen, totdat het duidelijk in volume is toegenomen.",
+    "Verdeel het gerezen deeg in twee gelijke delen. Vorm hiervan twee langwerpige rollen van ongeveer 18 cm lang en 6 cm doorsnede. Laat ze afgedekt nog 10 minuten rusten.",
+    "Breng in een grote, ruime pan water met een beetje zout aan de kook. Zet het vuur iets lager en laat de deegrollen voorzichtig in het zacht kokende water glijden. Kook ze met het deksel op de pan ongeveer 20–25 minuten en keer ze halverwege voorzichtig om. Kook eventueel één rol tegelijk als de pan niet groot genoeg is.",
+    "Neem de broodknoedels met een schuimspaan uit het water. Prik er direct enkele gaatjes in met een satéprikker om de stoom te laten ontsnappen. Snijd ze met een scherp mes of een stevige draad in plakken van ongeveer 1½–2 cm dik. Houd warm tot het serveren.",
+    "Neem het sukadestuk uit de braadpan zodra het vlees mals is en houd warm onder aluminiumfolie. Verwijder de laurierblaadjes, pimentkorrels en zwarte peperkorrels uit het stoofvocht.",
+    "Pureer de groenten met het stoofvocht met een staafmixer tot een gladde saus. Schenk de 200 ml kookroom erbij en voeg de mosterd, suiker en natuurazijn toe. Laat ongeveer 5 minuten zachtjes doorkoken. Proef de saus en breng verder op smaak met zout. Voeg eventueel een scheutje water toe als de saus te dik is. De smaak moet romig, lichtzoet en friszuur zijn.",
+    "Klop de 100 ml ongezoete slagroom voor de garnering lobbig. Snijd de citroen in dunne plakjes en zet de cranberrycompote of vossenbessenjam klaar.",
+    "Snijd het sukadestuk dwars op de vleesvezels in plakken van ongeveer 1 cm dik. Verdeel het vlees en de broodknoedels over vier borden en schep de romige groentesaus royaal over het vlees. Garneer met een plakje citroen, een beetje cranberrycompote en een toefje opgeklopte slagroom."
+  ],
+  "weetje": "Wie in een traditioneel Tsjechisch restaurant svíčková na smetaně bestelt, krijgt een van de meest geliefde gerechten van het land: mals rundvlees in een romige groentesaus, met broodknoedels, cranberrycompote en een toefje slagroom. Het gerecht is een klassieker bij zondagse familiediners, bruiloften en andere feestelijke gelegenheden. Maar de naam svíčková heeft een verrassende oorsprong.\n\nHet Tsjechische woord *svíčka* betekent kaars. Volgens taalkundigen verwijst *svíčková* naar de langwerpige vorm van de ossenhaas, waarmee het gerecht oorspronkelijk werd bereid. Er bestaan ook verhalen over feestelijke diners die slagers bij kaarslicht organiseerden, maar daarvoor ontbreekt overtuigend historisch bewijs.\n\nAl in 1826 verscheen in de beroemde *Domácí kuchařka* van Magdalena Dobromila Rettigová een recept voor svíčková. Deze invloedrijke Tsjechische kookboekschrijfster maakte de burgerlijke keuken toegankelijk voor een breder publiek. Haar bereiding verschilde nog van de huidige versie. In de negentiende en twintigste eeuw ontwikkelde zich de karakteristieke saus van wortelgroenten, specerijen en room.\n\nDe bijbehorende *houskové knedlíky* zijn kenmerkend voor de Tsjechische keuken. Deze luchtige broodknoedels worden gemaakt van gistdeeg met stukjes oud witbrood. Het deeg wordt tot lange rollen gevormd, gekookt en vervolgens in dikke plakken gesneden. Ze zijn ideaal om de royale hoeveelheden saus op te nemen die zo typerend zijn voor de Tsjechische keuken.\n\nTegenwoordig wordt svíčková ook met andere rundvleesdelen bereid, omdat die goedkoper zijn en zich uitstekend lenen voor langzaam stoven. De feestelijke garnering van citroen, cranberrycompote en slagroom is gebleven. De frisse en zoete smaken vormen een verrassend contrast met de hartige saus.\n\nOnze versie volgt deze traditie met een langzaam gestoofd sukadestuk, huisgemaakte broodknoedels en de klassieke garnering.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
+    "receptTitel": "Geïnspireerd op Hovězí svíčková na smetaně",
+    "auteur": "Česká televize – Kluci v akci",
     "kookboek": null,
-    "url": null
-  }
+    "jaar": null,
+    "url": "https://www.ceskatelevize.cz/porady/10084897100-kluci-v-akci/1137-recepty/683-hovezi-svickova-na-smetane/"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Svíčková",
+      "auteur": "Český rozhlas Olomouc",
+      "kookboek": null,
+      "jaar": 2019,
+      "url": "https://olomouc.rozhlas.cz/svickova-8044307"
+    },
+    {
+      "receptTitel": "Czech Food Classics: Svíčková",
+      "auteur": "Radio Prague International",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://english.radio.cz/czech-food-classics-svickova-8757715"
+    },
+    {
+      "receptTitel": "Explore Svíčková na Smetaně: The Crown of Czech Cuisine",
+      "auteur": "VisitCzechia",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.visitczechia.com/en-us/things-to-do/places/gastronomic-tourism/czech-cuisine-and-regional-products/g-svickova-na-smetane"
+    },
+    {
+      "receptTitel": "National Agriculture Museum celebrates the dumpling as culinary & cultural phenomenon",
+      "auteur": "Radio Prague International",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://english.radio.cz/national-agriculture-museum-celebrates-dumpling-culinary-cultural-phenomenon-8574510"
+    }
+  ]
 }

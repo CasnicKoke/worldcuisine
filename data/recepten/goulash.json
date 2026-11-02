@@ -3,8 +3,9 @@
   "regios": [
     "oost-centraal-europa"
   ],
-  "titel": "Goulash",
-  "korteBeschrijving": "Stevige stoofschotel met rundvlees, paprika, ui en specerijen uit Midden- en Oost-Europa.",
+  "titel": "Gulyásleves",
+  "korteBeschrijving": "Traditionele Hongaarse goulashsoep met malse sukadelappen, aardappelen, wortel, pastinaak en paprika, rijk gekruid met Hongaars paprikapoeder en karwijzaad, en geserveerd met zelfgemaakte csipetke.",
+  "beschrijving": "Gulyásleves is een stevige Hongaarse maaltijdsoep met langzaam gestoofd rundvlees, aardappelen en groenten in een geurige bouillon met zoet paprikapoeder en karwijzaad. De sukadelappen worden eerst zacht gestoofd, waarna de groenten en kleine, zelfgemaakte deegstukjes (*csipetke*) worden toegevoegd. Het resultaat is een verwarmende, kruidige soep waarin het vlees heerlijk mals is en de csipetke voor extra stevigheid zorgen.",
   "afbeelding": "images/recepten/GoulashAI.png",
   "url": "recepten.html?id=goulash",
   "volgorde": 56,
@@ -12,14 +13,79 @@
     "oost-centraal-europa": 0
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 180,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "500 g sukadelappen",
+    "500 g vastkokende aardappelen",
+    "2 middelgrote wortels",
+    "1 pastinaak",
+    "1 grote ui",
+    "2 tenen knoflook",
+    "1 groene paprika",
+    "1 rijpe tomaat",
+    "2 el zonnebloemolie",
+    "2 el mild Hongaars paprikapoeder",
+    "1 tl karwijzaad",
+    "3 laurierblaadjes",
+    "1,5 liter water",
+    "Zout en versgemalen zwarte peper, naar smaak",
+    "2 el fijngehakte platte peterselie",
+    "Voor de csipetke:",
+    "100 g bloem",
+    "1 ei",
+    "1 snufje zout"
+  ],
+  "bereiding": [
+    "Snijd de sukadelappen in blokjes van ongeveer 2–3 cm. Pel en snipper de ui en hak de knoflook fijn.",
+    "Schil de wortels, pastinaak en aardappelen. Snijd de wortels en pastinaak in halve plakjes van circa 5 mm dik en de aardappelen in blokjes van 2 cm. Snijd de groene paprika en tomaat in kleine stukjes.",
+    "Verhit 2 el zonnebloemolie in een grote soeppan met dikke bodem. Voeg de ui toe en fruit deze op middelhoog vuur in ongeveer 5 minuten zacht en glazig.",
+    "Haal de pan even van het vuur en roer het paprikapoeder door de ui. Voeg direct een klein scheutje water toe om te voorkomen dat het paprikapoeder verbrandt en bitter wordt.",
+    "Zet de pan terug op het vuur en voeg de sukadelappen toe. Schep het vlees goed door het paprikamengsel en bak het enkele minuten al omscheppend aan.",
+    "Voeg de knoflook, groene paprika, tomaat, karwijzaad en laurierblaadjes toe. Breng op smaak met zout en zwarte peper. Schenk ongeveer 700 ml water erbij en breng aan de kook.",
+    "Zet het vuur laag, leg het deksel op de pan en laat het vlees ongeveer 1½–2 uur zachtjes stoven, totdat het bijna mals is. Roer af en toe en voeg zo nodig een beetje extra water toe.",
+    "Voeg de wortels, pastinaak en aardappelen toe en schenk de rest van het water erbij, zodat je in totaal ongeveer 1,5 liter hebt gebruikt. Breng opnieuw aan de kook en laat de soep nog 20–25 minuten zachtjes koken, totdat de groenten bijna gaar zijn.",
+    "Maak ondertussen de csipetke. Doe de bloem in een kom, voeg het ei en een snufje zout toe en kneed tot een stevig, soepel deeg. Voeg zo nodig een klein beetje extra bloem toe als het deeg te plakkerig is. Laat het deeg ongeveer 10 minuten rusten.",
+    "Knijp met je vingers kleine stukjes deeg af, ongeveer ter grootte van een rijstkorrel of kleine erwt. Leg ze op een licht met bloem bestoven bord, zodat ze niet aan elkaar plakken.",
+    "Voeg de csipetke toe aan de zacht kokende soep en roer voorzichtig. Laat ze ongeveer 5–8 minuten meekoken. De deegstukjes komen bovendrijven wanneer ze bijna gaar zijn. Controleer er eentje door hem door te snijden of te proeven: de binnenkant mag niet meer hard of rauw zijn. Controleer ook of de aardappelen en het vlees volledig gaar zijn.",
+    "Verwijder de laurierblaadjes. Proef de soep en breng zo nodig verder op smaak met zout en zwarte peper. Verdeel over vier diepe kommen en bestrooi met de fijngehakte platte peterselie."
+  ],
+  "weetje": "Op de uitgestrekte Hongaarse poesta, waar herders vroeger maandenlang met hun runderen rondtrokken, ontstond een van de beroemdste gerechten van Centraal-Europa: gulyás. De naam verwijst rechtstreeks naar deze veehouders, die in het Hongaars *gulyás* werden genoemd. Boven een open vuur kookten ze hun maaltijden in een grote ijzeren ketel, de *bogrács*. Met eenvoudige ingrediënten als vlees, ui en water maakten ze een stevige maaltijd die langzaam kon garen terwijl ze hun kuddes verzorgden.\n\nOpmerkelijk genoeg bevatte deze vroege gulyás nog geen paprikapoeder. Paprika kwam oorspronkelijk uit Midden- en Zuid-Amerika en bereikte Hongarije vanaf de zestiende eeuw, onder andere via het Ottomaanse Rijk en de Balkan. Pas in de achttiende en negentiende eeuw werd het rode poeder een kenmerkend onderdeel van de Hongaarse keuken. Vooral rond de steden Szeged en Kalocsa ontwikkelde zich een belangrijke paprikateelt.\n\nAan het einde van de achttiende eeuw kreeg gulyás bovendien een politieke betekenis. Hongaarse edelen zochten naar symbolen waarmee ze hun eigen identiteit binnen het Habsburgse Rijk konden benadrukken. Het eenvoudige herdersgerecht, met zijn karakteristieke rode kleur, werd verheven tot een symbool van de Hongaarse nationale cultuur. Zo vond een maaltijd van de poesta geleidelijk zijn weg naar de keukens van de burgerij en de adel.\n\nBuiten Hongarije ontstond ondertussen enige verwarring. Wat in Nederland en Duitsland vaak *goulash* wordt genoemd, is meestal een dikke vleesstoofpot. In Hongarije maakt men echter onderscheid tussen *pörkölt*, een stoofgerecht met weinig vocht, en *gulyásleves*, een goedgevulde soep met rundvlees, paprika en groenten. Die laatste versie bereiden wij hier.\n\nEen bijzonder onderdeel van traditionele gulyásleves zijn de *csipetke*. De naam komt van het Hongaarse woord voor knijpen: kleine stukjes stevig deeg worden met de vingers afgeknepen en rechtstreeks in de soep gekookt. Daarmee wordt de soep een complete maaltijd, precies zoals de Hongaarse herders die konden gebruiken.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
+    "receptTitel": "Geïnspireerd op Tradicionális gulyásleves",
+    "auteur": "Nosalty",
     "kookboek": null,
-    "url": null
-  }
+    "jaar": null,
+    "url": "https://www.nosalty.hu/recept/tradicionalis-gulyasleves"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "The Humble Beginnings of Goulash",
+      "auteur": "Rachel Laudan – Smithsonian Magazine",
+      "kookboek": null,
+      "jaar": 2016,
+      "url": "https://www.smithsonianmag.com/travel/goulash-origins-food-history-atlas-of-eating-soup-smithsonian-journeys-travel-quarterly-danube-180958690/"
+    },
+    {
+      "receptTitel": "Magyar gulyásleves",
+      "auteur": "Hungarikumok Gyűjteménye",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://hungarikum.hu/hu/content/magyar-guly%C3%A1sleves"
+    },
+    {
+      "receptTitel": "Gulasch – Geschichte",
+      "auteur": "Österreichisches Bundesministerium",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.bmluk.gv.at/themen/lebensmittel/trad-lebensmittel/speisen/gulasch.html"
+    },
+    {
+      "receptTitel": "Magyar gulyás",
+      "auteur": "Magyar Nemzeti Értékek és Hungarikumok Szövetsége",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.mnhsz.com/magyar-gulyas"
+    }
+  ]
 }

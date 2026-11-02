@@ -3,8 +3,9 @@
   "regios": [
     "oost-centraal-europa"
   ],
-  "titel": "Pierogi",
-  "korteBeschrijving": "Gevulde deegkussentjes uit Polen, vaak met aardappel, kaas, vlees of zuurkool.",
+  "titel": "Pierogi ruskie met rodekoolsalade",
+  "korteBeschrijving": "Traditionele Poolse deegkussentjes gevuld met aardappel, verse kaas en gebakken ui, geserveerd met goudbruin gebakken uitjes, zure room en een frisse rodekoolsalade met wortel en appel.",
+  "beschrijving": "Pierogi ruskie zijn halvemaanvormige Poolse deegkussentjes met een zachte vulling van aardappelpuree, halfvolle twaróg en gebakken ui. De deegkussentjes worden gekookt en geserveerd met goudbruin gebakken uitjes en zure room. Een kleurrijke salade van rodekool, wortel, appel en peterselie zorgt voor een fris en knapperig contrast. Samen vormen ze een complete vegetarische maaltijd.",
   "afbeelding": "images/recepten/PierogiAI.png",
   "url": "recepten.html?id=pierogi",
   "volgorde": 57,
@@ -12,14 +13,93 @@
     "oost-centraal-europa": 1
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 90,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de rodekoolsalade:",
+    "250 g rodekool, fijngesneden",
+    "1 wortel, grof geraspt",
+    "1 kleine appel, grof geraspt",
+    "½ kleine rode ui, fijngesnipperd",
+    "1 el zonnebloemolie",
+    "1 el citroensap",
+    "2 el fijngehakte platte peterselie",
+    "Zout en versgemalen zwarte peper",
+    "Voor het deeg (36–40 pierogi):",
+    "400 g tarwebloem",
+    "250 ml heet water",
+    "40 g roomboter",
+    "½ tl zout",
+    "Voor de vulling:",
+    "450 g kruimige aardappelen",
+    "400 g halfvolle twaróg (Poolse supermarkt)",
+    "1 grote ui",
+    "20 g roomboter",
+    "½ tl versgemalen zwarte peper",
+    "Zout, naar smaak",
+    "Voor het serveren:",
+    "1 grote ui",
+    "25 g roomboter",
+    "150 g zure room"
+  ],
+  "bereiding": [
+    "Snijd de rodekool in flinterdunne reepjes. Bestrooi met een beetje zout en kneed de kool enkele minuten met je handen totdat hij wat zachter wordt.",
+    "Rasp de wortel en appel grof en snipper de rode ui fijn. Meng met de rodekool, zonnebloemolie en citroensap. Schep de fijngehakte peterselie erdoor en breng op smaak met zwarte peper. Zet de salade afgedekt in de koelkast zodat de smaken zich kunnen mengen.",
+    "Schil de aardappelen en snijd ze in gelijke stukken. Kook ze in lichtgezouten water in ongeveer 20 minuten gaar. Giet af, laat goed uitdampen en stamp tot een fijne puree zonder klontjes. Laat afkoelen.",
+    "Doe 400 g bloem en ½ tl zout in een ruime kom. Verwarm 250 ml water en smelt daarin 40 g roomboter. Schenk het warme water met de gesmolten boter geleidelijk bij de bloem en meng eerst met een lepel. Kneed vervolgens ongeveer 8–10 minuten tot een glad, soepel deeg. Dek af met een vochtige theedoek en laat 30 minuten rusten.",
+    "Pel en snipper de eerste ui, bestemd voor de vulling. Smelt 20 g roomboter in een koekenpan en fruit de ui op middelhoog vuur in ongeveer 8 minuten goudbruin. Laat iets afkoelen.",
+    "Verkruimel de halfvolle twaróg met een vork. Meng de kaas met de aardappelpuree en de gebakken ui. Voeg de zwarte peper en zout naar smaak toe. Meng alles goed tot een stevige, samenhangende vulling.",
+    "Verdeel het deeg in vier stukken. Houd de stukken waarmee je niet werkt afgedekt onder de vochtige theedoek. Rol een stuk deeg op een licht met bloem bestoven werkblad uit tot een lap van ongeveer 2 mm dik.",
+    "Steek met een glas of ronde uitsteker cirkels van ongeveer 8 cm doorsnede uit het deeg. Leg op iedere cirkel ongeveer 1 volle theelepel vulling. Vouw het deeg dubbel tot een halve maan en druk de randen stevig dicht met je vingers. Zorg dat er geen vulling tussen de randen zit. Herhaal met het resterende deeg en de vulling tot je ongeveer 36–40 pierogi hebt.",
+    "Leg de gevulde pierogi naast elkaar op een licht met bloem bestoven bord of dienblad. Dek ze weer af met de licht vochtige theedoek.",
+    "Pel en snipper de tweede ui, bestemd als garnering. Smelt 25 g roomboter in een koekenpan en bak de ui op middelhoog vuur in ongeveer 10 minuten goudbruin. Houd warm op laag vuur.",
+    "Breng een grote pan met ruim lichtgezouten water aan de kook. Zet het vuur iets lager zodat het water zachtjes blijft koken. Laat de pierogi voorzichtig in porties in het water glijden en roer eenmaal voorzichtig om vastplakken te voorkomen.",
+    "Wanneer de pierogi boven komen drijven, laat je ze nog ongeveer 2–3 minuten zachtjes koken. Neem ze met een schuimspaan uit het water en laat kort uitlekken. Herhaal met de resterende pierogi.",
+    "Verdeel de pierogi over vier borden en schep de goudbruin gebakken ui met de gesmolten boter erover. Serveer met een flinke lepel zure room en de rodekoolsalade ernaast."
+  ],
+  "weetje": "Pierogi behoren tot de bekendste gerechten van Polen. Deze gevulde deegkussentjes worden in talloze varianten gegeten, van hartig met vlees, kaas of zuurkool tot zoet met fruit. Maar de naam *pierogi ruskie* zorgt regelmatig voor verwarring. Betekent dat eigenlijk Russische pierogi? Nee, de geschiedenis ligt een stuk ingewikkelder.\n\nHet woord *ruskie* verwijst niet naar het huidige Rusland, maar naar *Ruś*, of Roethenië: een historische regio die grote delen van het huidige Oekraïne en het oosten van Polen omvatte. Vooral in het voormalige Oost-Galicië, dat vóór de Tweede Wereldoorlog grotendeels tot Polen behoorde, waren pierogi met aardappel, verse kaas en ui bijzonder populair. De Poolse en Oekraïense keukens beïnvloedden elkaar hier eeuwenlang.\n\nDe geschiedenis van pierogi zelf gaat nog verder terug. Volgens een Poolse legende bracht de heilige Jacek Odrowąż het gerecht in de dertiende eeuw vanuit Kyiv, in het huidige Oekraïne, naar Polen. Historisch bewijs daarvoor ontbreekt, maar zeker is dat pierogi in de zeventiende eeuw al bekend waren. Het oudste bewaard gebleven Poolse kookboek, *Compendium Ferculorum* van Stanisław Czerniecki uit 1682, bevat verschillende recepten voor gevulde deeggerechten. De vullingen waren toen heel anders: aardappelen waren nog geen gebruikelijk voedsel in Polen. Pas in de achttiende en negentiende eeuw werden aardappelen steeds populairder. De inmiddels klassieke combinatie van aardappel, verse kaas en gebakken ui is dus aanzienlijk jonger dan de pierogi zelf.\n\nNa de Tweede Wereldoorlog veranderden de grenzen van Polen ingrijpend. Veel Poolse families uit de voormalige oostelijke gebieden moesten verhuizen naar het westen van het land. Ze namen hun gerechten en familietradities mee, waaronder pierogi ruskie. Zo verspreidde deze regionale specialiteit zich over heel Polen.\n\nTegenwoordig worden pierogi ruskie vaak geserveerd met goudbruin gebakken ui, gesmolten boter en zure room. Onze versie combineert deze klassieke bereiding met een frisse Poolse rodekoolsalade, zodat het gerecht een kleurrijke, complete vegetarische maaltijd vormt.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
+    "receptTitel": "Geïnspireerd op Pierogi ruskie",
+    "auteur": "Kwestia Smaku",
     "kookboek": null,
-    "url": null
-  }
+    "jaar": null,
+    "url": "https://www.kwestiasmaku.com/kuchnia_polska/pierogi/pierogi_ruskie/przepis.html"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Surówka z czerwonej kapusty z jabłkiem, marchewką i cebulką",
+      "auteur": "Kocham Lubię Gotuję",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://kochamlubiegotuje.pl/2016/01/20/surowka-z-czerwonej-kapusty-z-jablkiem-marchewka-i-cebulka/"
+    },
+    {
+      "receptTitel": "Poland's Most Famous Dish: Pierogi",
+      "auteur": "Culture.pl",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://culture.pl/en/article/polands-most-famous-dish-pierogi"
+    },
+    {
+      "receptTitel": "Pierogi ruskie",
+      "auteur": "Narodowe Centrum Kultury",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://nck.pl/projekty-kulturalne/projekty/ojczysty-dodaj-do-ulubionych/ciekawostki-jezykowe/PIEROGI_RUSKIE"
+    },
+    {
+      "receptTitel": "Pierogi ruskie z Chrząstawy",
+      "auteur": "Pools ministerie van Landbouw",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.gov.pl/web/rolnictwo/pierogi-ruskie-z-chrzastawy"
+    },
+    {
+      "receptTitel": "Polish Food 101: Pierogi",
+      "auteur": "Culture.pl",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://culture.pl/en/work/polish-food-101-pierogi"
+    }
+  ]
 }

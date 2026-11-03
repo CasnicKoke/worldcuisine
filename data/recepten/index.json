@@ -192,8 +192,8 @@
       "bestand": "data/recepten/lumpia.json"
     },
     "borsjtsj": {
-      "titel": "Borsjtsj",
-      "korteBeschrijving": "Dieprode bietensoep met groenten, vaak geserveerd met zure room en verse kruiden.",
+      "titel": "Borsjtsj met pampoesjky",
+      "korteBeschrijving": "Traditionele Oekraïense borsjtsj met rundvlees, rode bieten, witte kool en aardappelen, geserveerd met zure room en zelfgebakken pampoesjky met knoflook en dille.",
       "afbeelding": "images/recepten/BorsjtsjAI.png",
       "url": "recepten.html?id=borsjtsj",
       "regios": [
@@ -203,7 +203,7 @@
     },
     "pelmeni": {
       "titel": "Pelmeni",
-      "korteBeschrijving": "Siberische deegkussentjes gevuld met gekruid vlees, traditioneel geserveerd met zure room.",
+      "korteBeschrijving": "Traditionele Siberische deegkussentjes gevuld met sappig rund- en varkensgehakt, geserveerd met gesmolten boter, zure room, verse dille en een frisse komkommer-tomatensalade.",
       "afbeelding": "images/recepten/PelmeniAI.png",
       "url": "recepten.html?id=pelmeni",
       "regios": [
@@ -212,8 +212,8 @@
       "bestand": "data/recepten/pelmeni.json"
     },
     "blini": {
-      "titel": "Blini",
-      "korteBeschrijving": "Dunne Oost-Slavische pannenkoekjes met hartige of zoete toppings.",
+      "titel": "Blini met paddenstoelen",
+      "korteBeschrijving": "Traditionele Russische dunne pannenkoeken gevuld met gebakken kastanjechampignons, ui en peterselie, licht krokant gebakken en geserveerd met zure room en verse dille.",
       "afbeelding": "images/recepten/BliniAI.png",
       "url": "recepten.html?id=blini",
       "regios": [
@@ -221,15 +221,15 @@
       ],
       "bestand": "data/recepten/blini.json"
     },
-    "khorkhog": {
-      "titel": "Khorkhog",
-      "korteBeschrijving": "Mongoolse vleesschotel met groenten, traditioneel gegaard met gloeiendhete stenen.",
-      "afbeelding": "images/recepten/KhorkhogAI.png",
-      "url": "recepten.html?id=khorkhog",
+    "kugelis": {
+      "titel": "Kugelis met komkommer-radijssalade",
+      "korteBeschrijving": "Traditionele Litouwse aardappelovenschotel met gerookt spek en ui, goudbruin gebakken en geserveerd met zure room, verse bieslook en een frisse komkommer-radijssalade.",
+      "afbeelding": "images/recepten/KugelisAI.png",
+      "url": "recepten.html?id=kugelis",
       "regios": [
         "rus-eurazie"
       ],
-      "bestand": "data/recepten/khorkhog.json"
+      "bestand": "data/recepten/kugelis.json"
     },
     "plov": {
       "titel": "Plov",

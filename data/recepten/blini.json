@@ -3,8 +3,9 @@
   "regios": [
     "rus-eurazie"
   ],
-  "titel": "Blini",
-  "korteBeschrijving": "Dunne Oost-Slavische pannenkoekjes met hartige of zoete toppings.",
+  "titel": "Blini met paddenstoelen",
+  "korteBeschrijving": "Traditionele Russische dunne pannenkoeken gevuld met gebakken kastanjechampignons, ui en peterselie, licht krokant gebakken en geserveerd met zure room en verse dille.",
+  "beschrijving": "Blini zijn traditionele Russische pannenkoeken die zowel zoet als hartig worden gegeten. In deze versie maken we dunne *blinchiki*, gevuld met een hartig mengsel van gebakken kastanjechampignons, ui en peterselie. De pannenkoeken worden tot kleine pakketjes gevouwen en kort gebakken tot ze licht krokant zijn. Met zure room en verse dille vormen ze een smaakvolle vegetarische maaltijd.",
   "afbeelding": "images/recepten/BliniAI.png",
   "url": "recepten.html?id=blini",
   "volgorde": 22,
@@ -12,14 +13,78 @@
     "rus-eurazie": 2
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 65,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor het beslag (circa 12–14 dunne blini):",
+    "250 g tarwebloem",
+    "500 ml halfvolle melk",
+    "2 eieren",
+    "2 el zonnebloemolie",
+    "1 tl suiker",
+    "½ tl zout",
+    "1 el zonnebloemolie voor het bakken",
+    "Voor de paddenstoelenvulling:",
+    "600 g kastanjechampignons",
+    "2 middelgrote uien",
+    "25 g roomboter",
+    "1 el zonnebloemolie",
+    "½ tl versgemalen zwarte peper",
+    "Zout naar smaak",
+    "2 el fijngehakte platte peterselie",
+    "Voor het serveren:",
+    "200 g zure room",
+    "1 el fijngehakte verse dille"
+  ],
+  "bereiding": [
+    "Maak de kastanjechampignons schoon en snijd ze in kleine stukjes van ongeveer 1 cm. Pel en snipper de uien. Hak de peterselie fijn.",
+    "Verhit 1 el zonnebloemolie en 25 g roomboter in een ruime koekenpan. Voeg de uien toe en fruit ze ongeveer 5 minuten op middelhoog vuur, totdat ze zacht en glazig zijn.",
+    "Voeg de kastanjechampignons toe en bak ze ongeveer 10–12 minuten op middelhoog tot hoog vuur. Schep regelmatig om en laat het vrijgekomen vocht grotendeels verdampen, zodat de vulling niet te nat wordt.",
+    "Voeg de zwarte peper, zout naar smaak en de fijngehakte peterselie toe. Schep alles goed om en zet de vulling apart.",
+    "Doe de bloem, suiker en het zout voor het beslag in een ruime kom. Voeg de eieren en ongeveer de helft van de melk toe. Klop met een garde tot een glad, dik beslag zonder klontjes.",
+    "Voeg geleidelijk de resterende melk en 2 el zonnebloemolie toe. Roer tot een dun, vloeibaar beslag. Laat het beslag ongeveer 15 minuten rusten.",
+    "Verhit een koekenpan van circa 24 cm doorsnede op middelhoog vuur. Bestrijk de bodem dun met een beetje van de resterende zonnebloemolie. Schenk een kleine soeplepel beslag in de pan en draai de pan direct rond, zodat het beslag zich verspreidt tot een dunne laag.",
+    "Bak de blini ongeveer 1–1½ minuut, totdat de bovenkant droog is en de onderkant licht goudbruin kleurt. Keer om en bak de andere kant nog ongeveer 30 seconden. Leg op een bord en herhaal met de rest van het beslag. Stapel de gebakken blini op elkaar en dek ze af met een bord om ze soepel te houden.",
+    "Leg een blini op een werkblad en schep ongeveer 2 volle eetlepels paddenstoelenvulling iets onder het midden. Vouw de onderkant over de vulling, vouw de zijkanten naar binnen en rol vervolgens op tot een compact pakketje. Herhaal met de overige blini.",
+    "Verhit de koekenpan opnieuw op middelhoog vuur. Leg de gevulde blini met de naad naar beneden in de pan en bak ze zonder extra olie ongeveer 2 minuten per kant, totdat ze licht krokant en goudbruin zijn. Bak eventueel in twee porties.",
+    "Hak de dille fijn. Verdeel de gevulde blini over vier borden en serveer met een flinke lepel zure room en de verse dille."
+  ],
+  "weetje": "In Rusland zijn blini veel meer dan gewone pannenkoeken. Ze spelen al eeuwenlang een belangrijke rol bij familiebijeenkomsten, feesten en traditionele rituelen. Vooral tijdens *Maslenitsa*, de feestweek waarmee afscheid wordt genomen van de winter, worden enorme hoeveelheden blini gegeten. Het feest vindt plaats in de week voorafgaand aan de orthodox-christelijke vastentijd.\n\nMaslenitsa heeft wortels in oude Slavische voorjaarstradities. De ronde, goudgele blini worden vaak gezien als symbolen van de zon, die na de lange Russische winter weer warmte en licht brengt. Historisch hadden blini ook een andere betekenis: ze werden gegeten bij herdenkingen van overleden familieleden. Tijdens Maslenitsa kwamen deze tradities samen met feestelijke maaltijden, muziek, dans en het verbranden van een strooien pop die de winter voorstelt.\n\nBlini waren al in de zestiende eeuw een vertrouwd onderdeel van de Russische keuken. Ze worden bijvoorbeeld genoemd in de *Domostroj*, een huishoudelijk handboek uit die tijd. Traditionele blini werden vaak gemaakt met gist of zuurdesem en soms met boekweitmeel, waardoor ze dikker en luchtiger waren dan onze pannenkoeken. De dunne, soepelere variant wordt vaak *blinchiki* genoemd en is bijzonder geschikt om te vullen.\n\nDe veelzijdigheid van blini maakte ze geliefd bij zowel arme als rijke huishoudens. Ze konden eenvoudig met boter of zure room worden gegeten, maar ook worden gevuld met vlees, vis, kool, paddenstoelen of verse kaas. Bij feestelijke gelegenheden werden luxere ingrediënten gebruikt, zoals gerookte vis en kaviaar.\n\nOnze versie gebruikt dunne blinchiki met een vulling van gebakken paddenstoelen, ui en peterselie. Door ze na het vullen nog kort te bakken, krijgen ze een licht krokante buitenkant. Met zure room en verse dille vormen ze een hartige maaltijd die goed past bij de Russische pannenkoekentraditie.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
+    "receptTitel": "Blini met paddenstoelen (eigen bewerking, geïnspireerd op Blini met paddenstoelen)",
+    "auteur": "RBC Life",
     "kookboek": null,
-    "url": null
-  }
+    "jaar": null,
+    "url": "https://www.rbc.ru/life/news/67b7b1919a7947b1ee2a0834"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Wat eten we met Maslenitsa?",
+      "auteur": "RAAM",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://platformraam.nl/artikelen/1225-wat-eten-we-met-maslenitsa"
+    },
+    {
+      "receptTitel": "Blini, een culinaire traditie",
+      "auteur": "Russische UNESCO-commissie",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://unesco.ru/en/news/blini-culinary-tradition/"
+    },
+    {
+      "receptTitel": "The Long Lost History of Russian Blinis",
+      "auteur": "The Moscow Times",
+      "kookboek": null,
+      "jaar": 2023,
+      "url": "https://www.themoscowtimes.com/2023/02/18/the-long-lost-history-of-russian-blinis-a80265"
+    },
+    {
+      "receptTitel": "It's Time for Pancakes! Russian Maslenitsa",
+      "auteur": "South Ural State University",
+      "kookboek": null,
+      "jaar": 2019,
+      "url": "https://www.susu.ru/en/news/2019/03/04/its-time-pancakes-russian-maslenitsa"
+    }
+  ]
 }

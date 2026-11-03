@@ -47,14 +47,14 @@ const continenten = {
 	"arabisch-schiereiland": [ "SA", "YE", "Oman", "AE", "QA", "BH", "KW"],
 
 	//Aziatische continent			
-	"rus-eurazie": ["Russian Federation", "BY", "UA", "MD", "MN", "EE", "LV", "LT"],
+	"rus-eurazie": ["Russian Federation", "BY", "UA", "MD", "EE", "LV", "LT"],
     kaukasus: [ "AM", "GE", "Azerbaijan"],
     "china-oost-azie": [ "China", "TW", "KP", "KR"],
     "indo-chinees": [ "VN", "LA", "KH", "TH", "MM"],
     "maleis-indonesisch": [ "Indonesia", "Malaysia", "BN", "TL"],
     filipijns: [ "Philippines"],
     "zuid-aziatisch": [ "IN", "PK", "BD", "LK", "NP", "BT", "MV" ],
-    "centraal-aziatisch": [ "KZ", "UZ", "KG", "TJ", "TM"],
+    "centraal-aziatisch": [ "KZ", "UZ", "KG", "TJ", "TM", "MN"],
 	japan: [ "Japan"],
 
     //Afrikaanse continent
@@ -306,9 +306,9 @@ const regioBeschrijving = {
 	},
 	
     "rus-eurazie": {
-        titel: "Noord-Eurazië",
+        titel: "Noordoost-Europa en Noord-Azië",
         beschrijving:
-            "Deze keuken is gevormd door lange winters, landbouwtradities en invloeden uit de Euraziatische steppe.",
+            "Deze culinaire regio omvat Rusland, Oekraïne, Belarus, Moldavië en de Baltische landen. Lange winters, visserij, landbouw en conservering hebben de uiteenlopende regionale keukens gevormd. Polen en de Balkan komen elders in WorldCuisine aan bod.",
         ingredienten:
             "rogge, aardappelen, kool, bieten, zure room, paddestoelen, dille, boekweit, ingelegde groenten, gerookte vis"
     },
@@ -322,9 +322,9 @@ const regioBeschrijving = {
     },
 
     "centraal-aziatisch": {
-        titel: "Centraal-Azië",
+        titel: "Centraal-Azië en Mongolië",
         beschrijving:
-            "Een keuken met sterke nomadische wortels waarin vlees, zuivel en graanproducten centraal staan.",
+            "De keukens van Centraal-Azië en Mongolië delen invloeden van nomadische steppeculturen, met een belangrijke rol voor vlees, zuivel, graanproducten en deeggerechten.",
         ingredienten:
             "lamsvlees, paardenvlees, rundvlees, yoghurt, kefir, rijst, uien, wortelen, komijn, platbrood"
     },

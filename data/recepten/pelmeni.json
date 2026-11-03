@@ -4,7 +4,8 @@
     "rus-eurazie"
   ],
   "titel": "Pelmeni",
-  "korteBeschrijving": "Siberische deegkussentjes gevuld met gekruid vlees, traditioneel geserveerd met zure room.",
+  "korteBeschrijving": "Traditionele Siberische deegkussentjes gevuld met sappig rund- en varkensgehakt, geserveerd met gesmolten boter, zure room, verse dille en een frisse komkommer-tomatensalade.",
+  "beschrijving": "Pelmeni zijn kleine, karakteristiek gevouwen deegkussentjes uit de Russische en Siberische keuken. Het dunne deeg wordt gevuld met rauw rund- en varkensgehakt, ui en een beetje ijskoud water om de vulling sappig te houden. Na het koken worden de pelmeni geserveerd met gesmolten boter, zure room en verse dille. Een frisse salade van komkommer, tomaat en rode ui maakt er een complete maaltijd van.",
   "afbeelding": "images/recepten/PelmeniAI.png",
   "url": "recepten.html?id=pelmeni",
   "volgorde": 21,
@@ -12,14 +13,85 @@
     "rus-eurazie": 1
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 120,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor het deeg (circa 80 kleine pelmeni):",
+    "350 g tarwebloem",
+    "1 ei",
+    "140 ml lauwwarm water",
+    "½ tl zout",
+    "Voor de vulling:",
+    "200 g rundergehakt",
+    "200 g varkensgehakt",
+    "1 middelgrote ui",
+    "60 ml ijskoud water (circa 0–5 °C, zonder ijsklontjes)",
+    "1 tl zout",
+    "½ tl versgemalen zwarte peper",
+    "Voor het serveren:",
+    "30 g roomboter",
+    "150 g zure room",
+    "1 el fijngehakte verse dille",
+    "Voor de komkommer-tomatensalade:",
+    "1 komkommer",
+    "250 g kerstomaatjes",
+    "1 kleine rode ui",
+    "1 el zonnebloemolie",
+    "1 tl natuurazijn",
+    "1 el fijngehakte verse dille",
+    "Zout en versgemalen zwarte peper"
+  ],
+  "bereiding": [
+    "Snijd de komkommer in halve plakjes en halveer de kerstomaatjes. Pel de rode ui en snijd deze in dunne halve ringen.",
+    "Meng de komkommer, tomaatjes en rode ui met 1 el zonnebloemolie, 1 tl natuurazijn en 1 el fijngehakte dille. Breng op smaak met zout en zwarte peper. Zet de salade afgedekt in de koelkast.",
+    "Doe 350 g bloem en ½ tl zout in een ruime kom. Voeg het ei en 140 ml lauwwarm water toe. Meng eerst met een lepel en kneed vervolgens ongeveer 8–10 minuten tot een glad, stevig en elastisch deeg. Vorm een bal, dek af met een licht vochtige theedoek en laat 30 minuten rusten.",
+    "Pel en snipper de ui voor de vulling zeer fijn, eventueel met de keukenmachine. Meng de ui met het rundergehakt, varkensgehakt, 1 tl zout en ½ tl zwarte peper.",
+    "Voeg geleidelijk 60 ml ijskoud water (circa 0–5 °C, zonder ijsklontjes) aan het gehaktmengsel toe en meng goed, totdat het water volledig is opgenomen en een sappige, samenhangende vulling ontstaat. Zet de vulling afgedekt in de koelkast.",
+    "Verdeel het deeg in vier gelijke stukken. Houd de stukken waarmee je niet werkt afgedekt onder de licht vochtige theedoek. Rol een stuk deeg op een licht met bloem bestoven werkblad uit tot een dunne lap van ongeveer 1–1,5 mm dik.",
+    "Steek met een glas of ronde uitsteker cirkels van ongeveer 6 cm doorsnede uit het deeg. Leg op iedere cirkel een kleine theelepel gehaktvulling (circa 7 g).",
+    "Vouw iedere deegcirkel dubbel tot een halve maan. Druk de randen stevig dicht met je vingers, zodat er geen openingen overblijven. Breng vervolgens de twee uiteinden van de halve maan naar elkaar toe en druk ze stevig samen. Zo ontstaat de karakteristieke pelmenivorm.",
+    "Herhaal met het resterende deeg en de vulling totdat je ongeveer 80 pelmeni hebt. Kneed de deegresten samen en rol ze opnieuw uit. Leg de gevormde pelmeni naast elkaar op een licht met bloem bestoven dienblad en dek ze weer af met de licht vochtige theedoek.",
+    "Breng een grote pan met ruim water en een beetje zout aan de kook. Zet het vuur iets lager zodat het water rustig blijft koken. Laat de pelmeni voorzichtig in porties van ongeveer 15–20 stuks in het water glijden. Roer eenmaal voorzichtig om te voorkomen dat ze aan de bodem blijven plakken.",
+    "Zodra de pelmeni boven komen drijven, laat je ze nog ongeveer 5–7 minuten zachtjes koken. Snijd een pelmeni open om te controleren of de gehaktvulling volledig gaar is en het deeg geen rauwe kern meer heeft. Schep ze met een schuimspaan uit de pan en laat kort uitlekken. Herhaal met de overige pelmeni.",
+    "Smelt ondertussen 30 g roomboter in een kleine pan. Verdeel de warme pelmeni over vier borden en schep de gesmolten boter erover. Serveer met zure room en de fijngehakte dille.",
+    "Haal de komkommer-tomatensalade uit de koelkast en serveer deze naast de pelmeni."
+  ],
+  "weetje": "In de lange, koude winters van Siberië waren pelmeni ooit een bijzonder praktische maaltijd. Families maakten grote hoeveelheden van deze kleine, met vlees gevulde deegkussentjes en lieten ze buiten bevriezen. De bevroren pelmeni konden maandenlang worden bewaard en waren ideaal voor jagers, reizigers en handelaren. Met een pan kokend water hadden ze binnen enkele minuten een warme, voedzame maaltijd.\n\nHoewel pelmeni tegenwoordig vooral bekendstaan als een Russisch gerecht, liggen hun vermoedelijke wortels bij de Komi en Oedmoerten, volkeren uit het gebied rond de Oeral. De naam is waarschijnlijk afgeleid van het woord *pelnyan*, dat in hun talen 'broodoor' betekent, een verwijzing naar de karakteristieke vorm. Over de precieze oorsprong bestaat discussie: sommige onderzoekers plaatsen het ontstaan in de middeleeuwen, anderen in de zeventiende eeuw.\n\nVanuit het Oeralgebied verspreidden pelmeni zich over Siberië en later naar Europees Rusland. De strenge winters maakten het mogelijk om grote voorraden buiten te bewaren, lang voordat er koelkasten en diepvriezers bestonden. Het gezamenlijk maken van honderden pelmeni werd bovendien een familietraditie: terwijl de een het deeg uitrolde, bereidde een ander de vulling en vouwden de overige familieleden de kleine deegkussentjes.\n\nPelmeni lijken op de Poolse pierogi, maar verschillen op enkele belangrijke punten. Ze zijn doorgaans kleiner, worden gevuld met rauw gehakt en krijgen hun typische vorm doordat de uiteinden van het dubbelgevouwen deeg tegen elkaar worden gedrukt. Ze worden gekookt en vaak geserveerd met boter, zure room of een scheutje azijn.\n\nOnze versie volgt de Siberische traditie met een sappige vulling van rund- en varkensgehakt en dun uitgerold deeg. We serveren de pelmeni met zure room, dille en een frisse komkommer-tomatensalade.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
+    "receptTitel": "Pelmeni (eigen bewerking, geïnspireerd op Pelmeni)",
+    "auteur": "RussianFood.com",
     "kookboek": null,
-    "url": null
-  }
+    "jaar": null,
+    "url": "https://www.russianfood.com/recipes/recipe.php?rid=6263"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Pelmeni sibirskie klassicheskie (aanvullende receptinspiratie)",
+      "auteur": "Gastronom.ru",
+      "kookboek": null,
+      "jaar": 2024,
+      "url": "https://www.gastronom.ru/recipe/48202/pelmeni-sibirskie"
+    },
+    {
+      "receptTitel": "I Want to Kneel before the One Who Had Invented Pelmeni: Issues of the Origin and Semantics of the Culinary Dish",
+      "auteur": "N. I. Shutova, Etnograficheskoe obozrenie",
+      "kookboek": null,
+      "jaar": 2018,
+      "url": "https://eo.iea.ras.ru/en/article/10545/"
+    },
+    {
+      "receptTitel": "Pelmeni. Where This Dish Comes From",
+      "auteur": "P. A. Korchagin, Perm Federal Research Centre Journal",
+      "kookboek": null,
+      "jaar": 2016,
+      "url": "https://journal.permsc.ru/index.php/pscj/en/article/view/PSCJ2016n3p11"
+    },
+    {
+      "receptTitel": "From Siberia to the Kremlin: Traditions of Cooking Dumplings in Russia",
+      "auteur": "Russian Commission for UNESCO",
+      "kookboek": null,
+      "jaar": 2025,
+      "url": "https://unesco.ru/en/news/dumplings-culinary-staple/"
+    }
+  ]
 }

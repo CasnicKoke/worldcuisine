@@ -3,8 +3,9 @@
   "regios": [
     "rus-eurazie"
   ],
-  "titel": "Borsjtsj",
-  "korteBeschrijving": "Dieprode bietensoep met groenten, vaak geserveerd met zure room en verse kruiden.",
+  "titel": "Borsjtsj met pampoesjky",
+  "korteBeschrijving": "Traditionele Oekraïense borsjtsj met rundvlees, rode bieten, witte kool en aardappelen, geserveerd met zure room en zelfgebakken pampoesjky met knoflook en dille.",
+  "beschrijving": "Borsjtsj is een klassieke Oekraïense maaltijdsoep met langzaam gegaard rundvlees, rode bieten, witte kool en aardappelen in een dieprode, lichtzoetzure bouillon. De groenten worden deels apart bereid om hun smaak en kleur te behouden. De soep wordt geserveerd met zure room, verse dille en warme, zelfgebakken *pampoesjky*: zachte gistbroodjes bestreken met knoflookolie.",
   "afbeelding": "images/recepten/BorsjtsjAI.png",
   "url": "recepten.html?id=borsjtsj",
   "volgorde": 20,
@@ -12,14 +13,102 @@
     "rus-eurazie": 0
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 180,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de borsjtsj:",
+    "400 g runderriblappen",
+    "400 g rauwe rode bieten",
+    "300 g witte kool",
+    "350 g vastkokende aardappelen",
+    "1 grote wortel",
+    "1 grote ui",
+    "2 tenen knoflook",
+    "2 el tomatenpuree",
+    "2 el zonnebloemolie",
+    "1 el natuurazijn",
+    "1 tl suiker",
+    "2 laurierblaadjes",
+    "1,5 liter water",
+    "Zout en versgemalen zwarte peper, naar smaak",
+    "Voor het serveren:",
+    "150 g zure room",
+    "2 el fijngehakte verse dille",
+    "Voor de pampoesjky (8 kleine broodjes):",
+    "300 g tarwebloem",
+    "165 ml lauwwarme melk",
+    "7 g gedroogde gist",
+    "50 g zachte roomboter",
+    "2 tl suiker",
+    "½ tl zout",
+    "Voor de knoflookolie:",
+    "2 tenen knoflook",
+    "2 el zonnebloemolie",
+    "1 el fijngehakte verse dille",
+    "1 tl natuurazijn",
+    "Snufje zout"
+  ],
+  "bereiding": [
+    "Schil de rode bieten, aardappelen en wortel. Rasp de bieten grof met een blokrasp of keukenmachine. Snijd de aardappelen in blokjes van circa 2 cm, rasp de wortel grof en snijd de witte kool in dunne reepjes. Pel en snipper de ui en hak de twee tenen knoflook voor de soep fijn. Bewaar de aardappelblokjes tot gebruik onder koud water.",
+    "Snijd de runderriblappen in blokjes van circa 3 cm. Doe het vlees met 1,5 liter water en de laurierblaadjes in een grote soeppan. Breng aan de kook en schep eventueel schuim van het oppervlak.",
+    "Zet het vuur laag, leg het deksel op de pan en laat het vlees ongeveer 1½–2 uur zachtjes trekken, totdat het bijna mals is. Controleer af en toe of er voldoende vocht in de pan zit en voeg zo nodig wat water toe.",
+    "Begin met de pampoesjky. Verwarm 165 ml melk tot deze lauwwarm is (circa 35 °C). Voeg 2 tl suiker en 7 g gedroogde gist toe, roer door en laat ongeveer 5–10 minuten staan, totdat er kleine belletjes of een licht schuimlaagje op het oppervlak verschijnen.",
+    "Doe 300 g bloem en ½ tl zout in een ruime kom. Voeg het melkmengsel en 50 g zachte roomboter toe. Kneed het deeg ongeveer 8–10 minuten tot het glad, zacht en elastisch is.",
+    "Vorm het deeg tot een bal, leg het in de kom en dek af met een licht vochtige theedoek. Laat ongeveer 45 minuten rijzen op een warme, tochtvrije plaats, totdat het deeg duidelijk in volume is toegenomen.",
+    "Verhit ondertussen 2 el zonnebloemolie in een ruime koekenpan. Fruit de ui en wortel ongeveer 5 minuten op middelhoog vuur. Voeg de geraspte rode bieten toe en bak nog 5 minuten mee.",
+    "Voeg de tomatenpuree, 1 el natuurazijn en 1 tl suiker toe. Schenk er een kleine soeplepel bouillon uit de soeppan bij en laat het bietenmengsel ongeveer 10 minuten zachtjes stoven. Roer regelmatig en zet daarna apart.",
+    "Verdeel het gerezen brooddeeg in acht gelijke stukken. Vorm er ronde bolletjes van en leg ze dicht naast elkaar in een met bakpapier beklede ovenschaal. Dek weer af met de licht vochtige theedoek en laat nog 25–30 minuten rijzen.",
+    "Verwarm de oven voor op 190 °C (boven- en onderwarmte). Bak de pampoesjky ongeveer 20–25 minuten, totdat ze mooi goudbruin zijn en gaar vanbinnen.",
+    "Controleer ondertussen het rundvlees. Zodra het bijna mals is, giet je de aardappelblokjes af en voeg je ze toe aan de bouillon. Laat ongeveer 10 minuten zachtjes koken.",
+    "Voeg de witte kool toe en laat nog ongeveer 10 minuten meekoken. Schep vervolgens het bietenmengsel en de fijngehakte knoflook door de soep. Laat nog 5–10 minuten zachtjes koken, totdat de groenten gaar zijn en het vlees helemaal mals is. Laat de soep niet onnodig lang doorkoken, zodat de rode kleur behouden blijft.",
+    "Maak terwijl de broodjes bakken de knoflookolie. Pel en pers de twee tenen knoflook voor de pampoesjky. Meng ze met 2 el zonnebloemolie, 1 el fijngehakte dille, 1 tl natuurazijn en een snufje zout.",
+    "Neem de pampoesjky uit de oven en bestrijk ze direct royaal met de knoflookolie. Laat de olie enkele minuten intrekken en serveer de broodjes warm bij de soep.",
+    "Verwijder de laurierblaadjes uit de borsjtsj. Proef de soep en breng op smaak met zout en versgemalen zwarte peper. Voeg eventueel een klein scheutje extra natuurazijn toe als de soep wat meer frisheid nodig heeft.",
+    "Verdeel de borsjtsj over vier diepe kommen. Schep in iedere kom een flinke lepel zure room en bestrooi met de fijngehakte verse dille. Serveer met twee warme pampoesjky per persoon."
+  ],
+  "weetje": "Borsjtsj is veel meer dan een dieprode bietensoep. Voor Oekraïners is het gerecht een symbool van huiselijkheid, gastvrijheid en nationale identiteit. Vrijwel iedere familie heeft haar eigen recept, dat vaak van generatie op generatie wordt doorgegeven. De ene familie gebruikt rundvlees, de andere varkensvlees of bonen, en sommige voegen zelfs paddenstoelen, vis of gedroogde peren toe.\n\nDe geschiedenis van borsjtsj gaat eeuwen terug. Een van de vroegste schriftelijke vermeldingen dateert uit 1584, toen de Duitse handelsreiziger Martin Gruneweg tijdens zijn bezoek aan Kyiv beschreef hoe gebruikelijk borsjtsj daar al was. De soep zag er destijds waarschijnlijk heel anders uit. De naam verwees oorspronkelijk naar een wilde schermbloemige plant, waarvan men een zure soep bereidde. Pas later werden rode bieten het belangrijkste ingrediënt van de dieprode borsjtsj die we tegenwoordig kennen.\n\nMaar is borsjtsj nu Oekraïens of Russisch? Hoewel het gerecht ook in Rusland, Belarus en andere Oost-Europese landen wordt gegeten, heeft het bijzonder diepe historische wortels in Oekraïne. Door de eeuwenlange culturele uitwisseling en later de verspreiding van gerechten binnen de Sovjet-Unie werd borsjtsj internationaal vaak als een Russische soep gepresenteerd.\n\nEr bestaat geen scherp onderscheid tussen Oekraïense en Russische borsjtsj. In beide keukens komen varianten met bieten, kool, aardappelen, vlees en zure room voor. In Oekraïne worden sommige versies extra op smaak gebracht met fijngestampt spekvet en knoflook, of aangevuld met bonen. Een geliefde begeleider is *pampoesjky*: kleine, zachte broodjes die na het bakken met knoflookolie en kruiden worden bestreken. Zulke verschillen zijn echter geen vaste regels; regionale en familiale tradities lopen sterk uiteen.\n\nOp 1 juli 2022 kreeg de Oekraïense borsjtsjtraditie internationale erkenning toen UNESCO haar opnam op de lijst van immaterieel cultureel erfgoed dat dringend bescherming nodig heeft. De aanleiding was de bedreiging van de Oekraïense cultuur en het dagelijkse leven door de Russische invasie. UNESCO benadrukte tegelijkertijd dat de erkenning niet betekent dat andere landen geen eigen borsjtsjtraditie kunnen hebben.\n\nOnze versie volgt de Oekraïense traditie met rundvlees, rode bieten, kool en aardappelen, geserveerd met zure room en zelfgebakken pampoesjky. Zo combineren we twee geliefde onderdelen van de Oekraïense keuken in één maaltijd.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
+    "receptTitel": "Geïnspireerd op Ukrainian Borscht",
+    "auteur": "Katya Burtova (PBS Food)",
     "kookboek": null,
-    "url": null
-  }
+    "jaar": null,
+    "url": "https://www.pbs.org/food/recipes/ukrainian-borscht"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Pampushky z chasnykom (inspiratie voor de knoflookbroodjes)",
+      "auteur": "Yevhen Klopotenko",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://klopotenko.com/pampushky-z-chasnykom/"
+    },
+    {
+      "receptTitel": "Borshch – Oekraïense cultuur en geschiedenis",
+      "auteur": "Ukraïner",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.ukrainer.net/borshch/"
+    },
+    {
+      "receptTitel": "A Brief History of Borshch",
+      "auteur": "Smithsonian",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.si.edu/object/posts_8a6457e3e2b44d772eece97ab0fd7094"
+    },
+    {
+      "receptTitel": "Culture of Ukrainian borscht cooking inscribed on the List of Intangible Cultural Heritage in Need of Urgent Safeguarding",
+      "auteur": "UNESCO",
+      "kookboek": null,
+      "jaar": 2022,
+      "url": "https://www.unesco.org/en/articles/culture-ukrainian-borscht-cooking-inscribed-list-intangible-cultural-heritage-need-urgent"
+    },
+    {
+      "receptTitel": "Not All Quiet on the Culinary Front",
+      "auteur": "Folklorica",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://journals.ku.edu/folklorica/article/view/18334"
+    }
+  ]
 }

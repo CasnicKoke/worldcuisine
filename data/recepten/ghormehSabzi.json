@@ -3,8 +3,9 @@
   "regios": [
     "perzie"
   ],
-  "titel": "Ghormeh Sabzi",
-  "korteBeschrijving": "Kruidige Perzische stoofpot met verse kruiden, bonen en langzaam gegaard vlees.",
+  "titel": "Ghormeh sabzi met basmatirijst",
+  "korteBeschrijving": "Perzische stoofpot van mals rundvlees, donkergebakken groene kruiden, kidneybonen en gedroogde limoen, geserveerd met basmatirijst.",
+  "beschrijving": "Ghormeh sabzi is een klassieke Iraanse stoofpot waarin rundvlees langzaam gaart met een grote hoeveelheid fijngehakte en gebakken groene kruiden, rode kidneybonen en gedroogde limoenen. Peterselie, koriander, prei, lente-ui en een beetje fenegriekblad geven de saus zijn karakteristieke diepgroene kleur en kruidige geur. De gedroogde limoen zorgt voor een bijzonder friszuur accent. We serveren het gerecht met basmatirijst, radijsjes en verse munt.",
   "afbeelding": "images/recepten/GhormehSabziAI.png",
   "url": "recepten.html?id=ghormehSabzi",
   "volgorde": 46,
@@ -12,14 +13,100 @@
     "perzie": 2
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 180,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de stoofpot:",
+    "700 g runderriblappen, in blokjes van 3–4 cm (of lamsschouder zonder bot)",
+    "1 grote ui",
+    "150 g verse platte peterselie",
+    "75 g verse koriander",
+    "100 g lente-ui",
+    "100 g prei (bij voorkeur het licht- en donkergroene deel)",
+    "1½ el gedroogd fenegriekblad (shanbalileh of kasuri methi; niet het zaad)",
+    "1 blik rode kidneybonen van 400 g (circa 240 g uitlekgewicht)",
+    "3 gedroogde limoenen (limoo amani of loomi)",
+    "5 el zonnebloemolie",
+    "1 tl gemalen kurkuma",
+    "½ tl versgemalen zwarte peper",
+    "1¼ tl zout",
+    "800 ml water, plus eventueel wat extra",
+    "Voor de rijst:",
+    "300 g basmatirijst",
+    "450 ml water",
+    "½ tl zout",
+    "Voor erbij:",
+    "8 radijsjes",
+    "Enkele takjes verse munt"
+  ],
+  "bereiding": [
+    "Was de peterselie, koriander, lente-ui en prei. Snijd de worteluiteinden van de lente-ui af en maak de prei zorgvuldig schoon. Droog alle kruiden en groenten goed af met een schone theedoek. Dit is belangrijk om ze straks goed te kunnen bakken.",
+    "Hak de peterselie en koriander fijn, inclusief de zachte steeltjes. Snijd de lente-ui en prei in dunne ringen. Doe alles in een keukenmachine en maal met korte pulsen tot een fijngehakt mengsel, maar niet tot puree.",
+    "Pel de ui en snipper hem fijn. Snijd het rundvlees in blokjes van ongeveer 3–4 cm en dep ze droog met keukenpapier.",
+    "Verhit 2 el zonnebloemolie in een ruime stoofpan met dikke bodem. Fruit de ui ongeveer 8 minuten op middelhoog vuur totdat hij goudgeel is.",
+    "Voeg de kurkuma toe en bak 30 seconden mee. Doe vervolgens het rundvlees erbij en bak het ongeveer 5 minuten rondom bruin.",
+    "Schenk 800 ml water in de pan en breng aan de kook. Zet het vuur laag, doe het deksel op de pan en laat het vlees ongeveer 60 minuten zachtjes stoven.",
+    "Prik ondertussen met een vork of de punt van een mes enkele gaatjes in de gedroogde limoenen. Leg ze 10 minuten in een kommetje warm water. Hierdoor worden ze zachter en kunnen ze straks hun smaak beter afgeven.",
+    "Verhit de resterende 3 el zonnebloemolie in een grote koekenpan op middellaag vuur. Voeg het fijngehakte kruidenmengsel toe en bak het 15–20 minuten, onder regelmatig roeren. De kruiden moeten hun vocht verliezen en donkerder groen worden, maar mogen niet verbranden.",
+    "Verkruimel het gedroogde fenegriekblad tussen je vingers en voeg het tijdens de laatste minuut toe aan de gebakken kruiden. Roer goed door. Bak fenegriek niet te lang mee, want dan kan het bitter worden.",
+    "Voeg na het eerste uur stoven het gebakken kruidenmengsel, de ingeprikte limoenen en de zwarte peper toe aan het rundvlees. Roer voorzichtig door en laat nog ongeveer 75–90 minuten zachtjes stoven met het deksel schuin op de pan. Roer af en toe over de bodem en voeg zo nodig een klein scheutje heet water toe. De saus moet dik en donkergroen worden, niet waterig.",
+    "Giet de kidneybonen in een vergiet, spoel ze af onder koud water en laat uitlekken. Voeg ze tijdens de laatste 25 minuten van de stooftijd samen met het zout toe. Laat ze rustig mee verwarmen en hun smaak afgeven.",
+    "Spoel ongeveer 25 minuten voor het serveren de basmatirijst onder koud stromend water, totdat het spoelwater grotendeels helder is. Laat uitlekken.",
+    "Doe de rijst samen met 450 ml water en ½ tl zout in een pan. Breng aan de kook, zet het vuur laag en leg het deksel op de pan. Laat ongeveer 10–12 minuten zachtjes garen totdat het water is opgenomen. Zet het vuur uit en laat de rijst nog 10 minuten afgedekt rusten. Roer daarna los met een vork.",
+    "Was de radijsjes en snijd ze in kwarten. Was de munt en haal de blaadjes van de takjes.",
+    "Controleer of het rundvlees zacht is en gemakkelijk uit elkaar valt. Proef de saus: die moet hartig en aangenaam friszuur zijn. Verwijder de gedroogde limoenen voordat je serveert. Is de saus nog te weinig zuur, druk dan voorzichtig een beetje sap uit een van de zachte limoenen in de stoofpot. Proef opnieuw, want te veel kan bitter worden.",
+    "Schep de warme ghormeh sabzi op vier borden en serveer met de basmatirijst. Leg de radijsjes en munt ernaast, zodat iedereen iets fris en knapperigs bij de stoofpot heeft."
+  ],
+  "weetje": "Ghormeh sabzi is voor veel Iraniërs hét gerecht dat naar thuis ruikt. Het behoort tot de familie van de *khoresh*: langzaam gegaarde Iraanse stoofgerechten die traditioneel met rijst worden gegeten. Tot dezelfde familie behoort ook Fesenjan, maar de smaken verschillen sterk. Waar Fesenjan zijn rijkdom ontleent aan walnoten en granaatappel, ontstaat de bijzondere smaak van Ghormeh sabzi uit een grote hoeveelheid gebakken groene kruiden en gedroogde limoen.\n\nDe naam vertelt iets over de bereiding. *Sabzi* is Perzisch voor 'groen' of 'groene kruiden', terwijl *ghormeh* verwant is aan het Turkse *kavurma*, dat verwijst naar het bakken of garen van vlees. Het langdurig bakken van de fijngehakte kruiden is essentieel: ze verliezen vocht, worden steeds donkerder en krijgen een diepe, hartige geur. Een kleine hoeveelheid fenegriekblad, in Iran *shanbalileh* genoemd, geeft een uitgesproken aroma. De gedroogde limoenen, *limoo amani*, zorgen vervolgens voor de kenmerkende zure toets.\n\nGhormeh sabzi hoort niet alleen bij gewone familiemaaltijden, maar komt ook voor in beschrijvingen van traditionele feesten. De *Encyclopaedia Iranica* noemt het gerecht bijvoorbeeld bij de rijstgerechten die tijdens *Esbandi* in de streek rond Kashan werden geserveerd. Dit feest, aan het einde van de winter, omvatte onder meer huiselijke voorbereidingen, geschenken en gezamenlijke maaltijden. Zo verbindt het gerecht de dagelijkse keuken met de oudere Iraanse feestcultuur.\n\nOok buiten Iran blijft Ghormeh sabzi voor veel mensen een vertrouwde smaak. Dat het recept meebeweegt met de tijd blijkt uit een Iraans kookboekje van het Amerikaanse Peace Corps uit de jaren zestig: in de kantlijn voegde een lezer met rode pen juist fenegriek en gedroogde limoen toe aan het bestaande recept. Onze versie volgt de bekende combinatie van gebakken groene kruiden, mals rundvlees, kidneybonen en *limoo amani*. De rijst en frisse radijsjes vormen een eenvoudig tegenwicht voor de krachtige, zure kruidensaus.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
+    "receptTitel": "Ghormeh Sabzi – Persian Herb Stew",
+    "auteur": "Homa – Persian Mama (geïnspireerd op)",
     "kookboek": null,
-    "url": null
-  }
+    "jaar": 2015,
+    "url": "https://persianmama.com/persian-herb-stew-ghormeh-sabzi-sabzi-ghorma/"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Ghormeh Sabzi",
+      "auteur": "Iran2ube – Iraanse bereiding",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://iran2ube.com/en/ashpazi/ghormeh-sabzi"
+    },
+    {
+      "receptTitel": "ḴOREŠ",
+      "auteur": "Etrat Elahi – Encyclopaedia Iranica",
+      "kookboek": null,
+      "jaar": 2021,
+      "url": "https://www.iranicaonline.org/articles/%E1%B8%B5ores/"
+    },
+    {
+      "receptTitel": "BEANS",
+      "auteur": "Houshang Alam – Encyclopaedia Iranica",
+      "kookboek": null,
+      "jaar": 1989,
+      "url": "https://www.iranicaonline.org/articles/beans/"
+    },
+    {
+      "receptTitel": "KASHAN vi. The Esbandi Festival",
+      "auteur": "Habib Borjian – Encyclopaedia Iranica",
+      "kookboek": null,
+      "jaar": 2012,
+      "url": "https://www.iranicaonline.org/articles/kashan-vi-the-esbandi-festival/"
+    },
+    {
+      "receptTitel": "Tweaking Qormeh Sabzi Khoresh",
+      "auteur": "American University – Peace Corps Community Archives",
+      "kookboek": null,
+      "jaar": 2021,
+      "url": "https://blogs.library.american.edu/pcca/tweaking-qormeh-sabzi-khoresh/"
+    },
+    {
+      "receptTitel": "Fenegriek",
+      "auteur": "Tokotheek – Nederlandse ingrediëntenwijzer",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://tokotheek.nl/index/fenegriek/"
+    }
+  ]
 }

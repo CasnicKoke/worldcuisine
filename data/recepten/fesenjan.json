@@ -3,8 +3,9 @@
   "regios": [
     "perzie"
   ],
-  "titel": "Fesenjan",
-  "korteBeschrijving": "Rijke stoofschotel met walnoten en granaatappel, vaak bereid met kip of eend.",
+  "titel": "Fesenjan met saffraanrijst",
+  "korteBeschrijving": "Perzische kipstoof met een rijke, zoetzure saus van walnoten en granaatappel, geserveerd met geurige saffraanrijst.",
+  "beschrijving": "Fesenjan is een traditioneel Iraans stoofgerecht waarin malse kippendij langzaam gaart in een donkere, romige saus van fijngemalen walnoten en granaatappelmelasse. De saus krijgt tijdens het stoven een volle, nootachtige smaak met een kenmerkend zoetzuur accent. We serveren de fesenjan met luchtige basmatirijst, deels goudgeel gekleurd met saffraan, en verse granaatappelpitjes.",
   "afbeelding": "images/recepten/FesenjanAI.png",
   "url": "recepten.html?id=fesenjan",
   "volgorde": 45,
@@ -12,14 +13,75 @@
     "perzie": 1
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 135,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de fesenjan:",
+    "750 g kippendijfilet",
+    "250 g ongezouten walnoten",
+    "1 grote ui",
+    "75 ml granaatappelmelasse (nar ekşisi, rob-e anar of dibs rumman)",
+    "500 ml water, plus eventueel wat extra",
+    "2 el zonnebloemolie",
+    "½ tl gemalen kurkuma",
+    "¼ tl gemalen kaneel",
+    "1 tl zout",
+    "½ tl versgemalen zwarte peper",
+    "1–2 tl suiker (optioneel, naar smaak)",
+    "Voor de saffraanrijst:",
+    "300 g basmatirijst",
+    "450 ml water",
+    "0,1 g saffraandraadjes",
+    "2 el heet water voor de saffraan",
+    "½ tl zout",
+    "Voor de afwerking:",
+    "50 g granaatappelpitjes"
+  ],
+  "bereiding": [
+    "Maal de walnoten in een keukenmachine tot een fijn, korrelig mengsel. Maal niet zo lang dat er walnotenpasta ontstaat.",
+    "Doe de gemalen walnoten in een ruime pan met dikke bodem. Rooster ze ongeveer 3 minuten op laag tot middelhoog vuur, terwijl je voortdurend roert. Ze moeten licht gaan geuren, maar mogen niet bruin worden.",
+    "Voeg 500 ml water toe aan de walnoten en roer goed door. Breng zachtjes aan de kook, zet het vuur laag en laat ongeveer 45 minuten rustig pruttelen met het deksel schuin op de pan. Roer iedere 5–10 minuten, vooral over de bodem. Voeg een scheutje water toe als het mengsel te dik wordt.",
+    "Pel ondertussen de ui en snipper hem fijn. Snijd de kippendijfilet in stukken van ongeveer 4–5 cm en dep ze droog met keukenpapier.",
+    "Verhit de zonnebloemolie in een koekenpan op middelhoog vuur. Fruit de ui ongeveer 7 minuten, totdat hij zacht en goudgeel is. Voeg de kurkuma en kaneel toe en bak deze nog 30 seconden mee.",
+    "Voeg de stukken kip toe en bak ze ongeveer 5 minuten rondom lichtbruin. De kip hoeft nog niet gaar te zijn.",
+    "Schep de kip en de gebakken ui bij de walnotensaus. Voeg de granaatappelmelasse, het zout en de zwarte peper toe en roer voorzichtig door.",
+    "Laat de fesenjan nog ongeveer 45–55 minuten zachtjes stoven met het deksel schuin op de pan. Roer regelmatig, zodat de walnoten niet aan de bodem vastkoeken. Voeg zo nodig een beetje water toe. De saus moet geleidelijk donkerbruin, glanzend en dik worden, terwijl de kip volledig gaar en mals wordt.",
+    "Verkruimel ondertussen de saffraandraadjes tussen je vingers en doe ze in een klein kopje. Voeg 2 el heet water toe en laat minstens 15 minuten trekken.",
+    "Spoel de basmatirijst in een zeef onder koud stromend water totdat het spoelwater grotendeels helder is. Laat goed uitlekken.",
+    "Doe de rijst met 450 ml water en ½ tl zout in een pan. Breng aan de kook, zet het vuur zo laag mogelijk en doe het deksel op de pan. Laat ongeveer 10–12 minuten zachtjes garen, totdat het water is opgenomen.",
+    "Zet het vuur uit en laat de rijst nog 10 minuten met het deksel op de pan rusten. Roer de rijst vervolgens voorzichtig los met een vork. Schep ongeveer een kwart van de rijst in een aparte kom en meng deze met het saffraanwater, zodat je een mooie combinatie van witte en goudgele rijst krijgt.",
+    "Proef de fesenjan. De saus moet rijk en aangenaam zoetzuur smaken. Is hij te zuur, voeg dan eventueel 1–2 tl suiker toe. Is de saus juist te zoet, voeg dan een klein scheutje extra granaatappelmelasse toe. Laat nog enkele minuten zachtjes pruttelen.",
+    "Verdeel de witte en saffraangele rijst over vier borden. Schep de fesenjan ernaast en garneer met de verse granaatappelpitjes. Serveer direct."
+  ],
+  "weetje": "Fesenjan, ook bekend als fesenjoon of khoresh-e fesenjan, is een van de bekendste stoofgerechten uit Iran. Het gerecht wordt sterk verbonden met Gilan, de groene en waterrijke provincie aan de zuidkust van de Kaspische Zee. Daar groeien walnoten en granaatappels en maken kip en eend al eeuwen deel uit van de plaatselijke keuken. Een oude Perzische woordenboekvermelding noemt fesenjan zelfs als een gerecht uit Gilan en prijst de kookkunst van de bewoners.\n\nEr bestaat niet één vaste smaak voor fesenjan. In Gilan wordt de saus traditioneel uitgesproken zuur bereid, vaak met zure granaatappels en eend; suiker toevoegen is daar ongebruikelijk. In andere delen van Iran wordt juist een zoetere, mildere variant gewaardeerd. De combinatie van granaatappelmelasse en fijngemalen walnoten geeft de stoofpot zijn karakteristieke donkerbruine kleur en rijke structuur. Na lang zachtjes koken komt een deel van de walnotenolie aan het oppervlak en wordt de saus dik en glanzend.\n\nDe geschiedenis van het gerecht blijkt verrassend veelzijdig. Het Iraanse kookboek Sofra-ye at'ema uit de negentiende eeuw, tijdens de Kadjarenperiode, beschreef volgens de Encyclopaedia Iranica maar liefst tien varianten van fesenjan. Behalve de tegenwoordig bekende walnotenversie waren er onder meer bereidingen met amandelen, aubergine, pompoen, vis en zelfs yoghurt. Dat laat zien dat fesenjan historisch meer variatie kende dan de combinatie van kip, walnoten en granaatappel die nu internationaal zo bekend is. Hoewel het gerecht soms een oorsprong in de oudheid wordt toegeschreven, is die exacte datering niet overtuigend gedocumenteerd.\n\nWalnoten en granaatappel waren kostbare ingrediënten, waardoor fesenjan lange tijd de reputatie had van een feestelijke, luxueuze maaltijd. In Perzië ontstond zelfs een gezegde over iemand die zich overdreven deftig gedraagt, alsof hij zojuist patrijs met fesenjan heeft gegeten. Tegenwoordig verschijnt het gerecht nog altijd bij familiefeesten en tijdens Yalda, het Iraanse feest rond de langste nacht van het jaar.\n\nOnze versie gebruikt kippendijfilet in plaats van eend en wordt geserveerd met saffraanrijst. We laten de walnoten rustig garen, zodat de saus zonder bloem of room een volle structuur krijgt. Met granaatappelmelasse en eventueel een klein beetje suiker zoeken we de balans tussen de frisse, zure Gilan-traditie en de mildere varianten uit andere delen van Iran.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
+    "receptTitel": "Fesenjān",
+    "auteur": "Nadiya Ziafat – BBC Good Food (geïnspireerd op)",
     "kookboek": null,
-    "url": null
-  }
+    "jaar": 2021,
+    "url": "https://www.bbcgoodfood.com/recipes/fesenjan"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Fesenjan",
+      "auteur": "Iran2ube – Iraans recept",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://iran2ube.com/en/ashpazi/fesenjan"
+    },
+    {
+      "receptTitel": "FESANJĀN",
+      "auteur": "Etrat Elahi – Encyclopaedia Iranica",
+      "kookboek": null,
+      "jaar": 1999,
+      "url": "https://www.iranicaonline.org/articles/fesanjan/"
+    },
+    {
+      "receptTitel": "GILĀN xxi. Cooking",
+      "auteur": "Encyclopaedia Iranica",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.iranicaonline.org/articles/gilan-xxi-cooking/"
+    }
+  ]
 }

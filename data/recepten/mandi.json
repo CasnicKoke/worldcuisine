@@ -3,8 +3,9 @@
   "regios": [
     "arabisch-schiereiland"
   ],
-  "titel": "Mandi",
-  "korteBeschrijving": "Rijstgerecht met mals langzaam gegaard vlees, bekend om zijn rokerige geurige smaak.",
+  "titel": "Mandi met lamsvlees en groene sahawiq",
+  "korteBeschrijving": "Jemenitische rijstschotel met langzaam geroosterde lamsschouder, geurige saffraanrijst en warme specerijen, geserveerd met pittige groene sahawiq en een frisse salade.",
+  "beschrijving": "Mandi is een traditioneel Jemenitisch gerecht uit Hadramaut, waarbij gekruid lamsvlees langzaam gaart tot het uitzonderlijk mals is. Oorspronkelijk gebeurt dit in een ondergrondse oven, maar wij gebruiken een afgesloten braadpan in de oven. Het opgevangen braadvocht geeft de basmatirijst een rijke smaak, terwijl saffraan voor een goudgele kleur zorgt. We serveren het vlees op een grote schaal rijst, met groene sahawiq van chilipeper en koriander en een frisse tomaten-komkommersalade.",
   "afbeelding": "images/recepten/MandiAI.png",
   "url": "recepten.html?id=mandi",
   "volgorde": 49,
@@ -12,14 +13,115 @@
     "arabisch-schiereiland": 1
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 270,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor het lamsvlees:",
+    "1 kg lamsschouder zonder bot, in één stuk",
+    "1 grote ui",
+    "½ rode ui (de andere helft voor de salade)",
+    "3 tenen knoflook",
+    "2 el zonnebloemolie",
+    "1 tl gemalen komijn",
+    "1 tl gemalen korianderzaad",
+    "1 tl gemalen kardemom",
+    "1 tl kurkuma",
+    "1 tl versgemalen zwarte peper",
+    "1 kaneelstokje",
+    "3 kruidnagels",
+    "1 tl zout",
+    "500 ml water",
+    "Voor de rijst:",
+    "350 g basmatirijst",
+    "Het opgevangen braadvocht van het lamsvlees, aangevuld met heet water tot 550 ml",
+    "25 g roomboter",
+    "0,1 g saffraandraadjes",
+    "2 el heet water voor de saffraan",
+    "1 tl zout",
+    "Voor de groene sahawiq:",
+    "1 groene chilipeper",
+    "1 groene paprika",
+    "20 g verse koriander",
+    "1 teen knoflook",
+    "1 el limoensap",
+    "1 tl gemalen komijn",
+    "Een snufje zout",
+    "Voor de frisse salade:",
+    "1 komkommer",
+    "200 g rijpe tomaten",
+    "½ rode ui (de overgebleven helft)",
+    "1 el citroensap",
+    "1 el fijngehakte verse platte peterselie",
+    "Een snufje zout"
+  ],
+  "bereiding": [
+    "Verwarm de oven voor op 150 °C (boven- en onderwarmte). Dep de lamsschouder droog met keukenpapier.",
+    "Pel de grote ui en snijd hem in halve ringen. Pel de rode ui, snijd de helft in halve ringen en bewaar de andere helft voor de salade. Pel de drie knoflooktenen voor het vlees en hak ze fijn.",
+    "Meng de zonnebloemolie met de knoflook, komijn, korianderzaad, kardemom, kurkuma, zwarte peper en het zout. Wrijf de lamsschouder rondom goed in met dit kruidenmengsel.",
+    "Verdeel de grote ui en de halve rode ui over de bodem van een braadpan of ovenschaal. Leg het kaneelstokje en de drie kruidnagels ertussen. Leg de lamsschouder op de uien en schenk voorzichtig 500 ml water langs het vlees.",
+    "Sluit de braadpan met een goed passend deksel of dek de ovenschaal stevig af met aluminiumfolie. Zet in de oven en laat het vlees 3–3½ uur langzaam garen. Controleer tegen het einde of het vlees gemakkelijk met een vork uit elkaar valt. Laat indien nodig wat langer garen. Controleer tussendoor of er nog voldoende vocht aanwezig is en voeg zo nodig wat heet water toe.",
+    "Maak ondertussen de sahawiq. Verwijder het steeltje van de groene chilipeper. Halveer de paprika, verwijder de zaadlijsten en snijd hem in stukken. Pel de knoflookteen en hak de koriander grof.",
+    "Doe de chilipeper, paprika, koriander, knoflook, limoensap, komijn en een snufje zout in de keukenmachine. Maal tot een licht grove, groene saus. Proef en voeg eventueel wat extra limoensap of zout toe. Zet de sahawiq afgedekt in de koelkast.",
+    "Spoel ongeveer 30 minuten voordat het vlees naar verwachting gaar is de basmatirijst onder koud stromend water totdat het spoelwater grotendeels helder is. Zet de rijst vervolgens 30 minuten in ruim koud water te weken.",
+    "Verkruimel de saffraandraadjes tussen je vingers en doe ze in een klein kopje. Voeg 2 el heet water toe en laat minstens 15 minuten trekken.",
+    "Haal de gare lamsschouder voorzichtig uit de oven en leg hem op een bord. Dek losjes af met aluminiumfolie. Giet het braadvocht door een zeef boven een maatbeker en verwijder de uien en hele specerijen. Meet 550 ml braadvocht af en vul indien nodig aan met heet water. Proef het vocht en voeg alleen extra zout toe als dat nodig is.",
+    "Verwarm de oven naar 220 °C (boven- en onderwarmte). Leg de lamsschouder in een schone ovenschaal en bestrijk hem met een beetje van het opgevangen braadvet. Rooster het vlees nog ongeveer 10–15 minuten onafgedekt, totdat de buitenkant mooi bruin is. Haal het daarna uit de oven en laat enkele minuten rusten.",
+    "Smelt ondertussen de roomboter in een pan met dikke bodem. Giet de geweekte rijst af en doe hem in de pan. Schenk de 550 ml warme lamsbouillon erbij. Breng voorzichtig aan de kook, zet het vuur laag en doe het deksel op de pan. Laat de rijst ongeveer 12–15 minuten zachtjes garen, totdat het vocht is opgenomen. Zet het vuur uit en laat de rijst nog 10 minuten afgedekt rusten.",
+    "Roer de rijst voorzichtig los met een vork. Schep ongeveer een kwart van de rijst in een aparte kom en meng deze met het saffraanwater. Schep de gele rijst daarna voorzichtig terug bij de witte rijst, zodat een mooie combinatie van witte en goudgele rijst ontstaat.",
+    "Was voor de salade de komkommer en tomaten. Snijd ze in kleine blokjes. Snipper de overgebleven halve rode ui fijn en hak de peterselie. Meng alles met het citroensap en een snufje zout.",
+    "Schep de rijst op een grote serveerschaal. Snijd de lamsschouder in grove stukken of trek het vlees voorzichtig met twee vorken uit elkaar. Leg het vlees boven op de rijst.",
+    "Serveer de mandi direct met de groene sahawiq en de frisse salade in aparte schaaltjes."
+  ],
+  "weetje": "Mandi is afkomstig uit Hadramaut, een uitgestrekte streek in het oosten van Jemen, tussen de bergen, woestijn en Arabische Zee. Het gerecht is vooral beroemd om zijn bijzondere bereidingswijze. Traditioneel wordt een diepe kuil in de grond gebruikt, waarvan de wanden met klei of steen zijn bekleed. In deze ondergrondse oven, de *tannour* of *taboon*, wordt eerst hout verbrand tot gloeiende houtskool. Vervolgens wordt het gekruide vlees boven de kolen opgehangen en de oven zorgvuldig afgesloten. Het vlees gaart urenlang door de opgeslagen hitte, stoom en houtrook, waardoor het bijzonder mals wordt.\n\nWat Mandi onderscheidt van veel andere rijstgerechten, is de manier waarop vlees en rijst elkaar smaak geven. Traditioneel kan onder het hangende vlees een pan rijst worden geplaatst, zodat het druipende vet en de vleessappen rechtstreeks in de rijst terechtkomen. Deze wordt daardoor rijk en aromatisch, terwijl het vlees een licht rokerige smaak krijgt. Dat is een belangrijk verschil met de Saoedische Kabsa, waarbij het vlees doorgaans eerst in een kruidige bouillon wordt gekookt en de rijst vervolgens in diezelfde bouillon gaart.\n\nHadramaut heeft eeuwenlang intensieve handelscontacten onderhouden met India, Oost-Afrika en Zuidoost-Azië. Jemenitische handelaren en migranten vestigden zich onder meer in Singapore, Indonesië en op de Oost-Afrikaanse kust. Via deze contacten werden niet alleen goederen en specerijen uitgewisseld, maar ook kookgewoonten. De geurige rijstgerechten van Jemen weerspiegelen deze bredere culinaire wereld rond de Indische Oceaan. De precieze ouderdom van Mandi is niet bekend, maar de traditionele bereidingswijze is nauw verbonden met de eetcultuur van Hadramaut.\n\nMandi groeide uit tot een geliefd feestgerecht op het gehele Arabisch Schiereiland. Bij bruiloften, religieuze feesten en grote familiebezoeken wordt het vaak op enorme gemeenschappelijke schalen geserveerd. Volgens een reportage van Reuters uit 2022 vertelde een restauranthouder in Sanaa dat zijn restaurant in 1982 een van de eerste was die Mandi vanuit Hadramaut in de Jemenitische hoofdstad introduceerde. Dat laat zien hoe een uitgesproken streekgerecht zich relatief recent verder door Jemen en de omringende landen heeft verspreid.\n\nBij Mandi wordt vaak *sahawiq* geserveerd, een pittige Jemenitische saus van fijngemaakte chilipeper, knoflook en kruiden. Buiten Jemen is een verwante saus bekend onder de naam *zhug* of *schug*. Onze versie combineert deze frisse groene saus met langzaam in de oven gegaarde lamsschouder. We gebruiken het braadvocht voor de saffraanrijst en roosteren het vlees ten slotte kort op hoge temperatuur. Zo benaderen we de traditionele Mandi zonder een ondergrondse oven of houtskool te gebruiken.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
+    "receptTitel": "Here’s how to make Yemeni Mandi",
+    "auteur": "Gulf News – geïnspireerd op",
     "kookboek": null,
-    "url": null
-  }
+    "jaar": 2020,
+    "url": "https://gulfnews.com/food/cooking-cuisines/heres-how-to-make-yemeni-mandi-1.1609266900467"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Yemeni Mandi",
+      "auteur": "Yemen Tourism Promotion Board",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.yementourism.com/food-drinks/18-food/214-yemeni-mandi"
+    },
+    {
+      "receptTitel": "Must Try – Mandi",
+      "auteur": "Embassy of Yemen",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://embassy-of-yemen.pl/en/home/visit-yemen/tourism-in-yemen/must-try/"
+    },
+    {
+      "receptTitel": "Food trails: the rich history of Yemeni cuisine",
+      "auteur": "The National",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.thenationalnews.com/lifestyle/food/food-trails-the-rich-history-of-yemeni-cuisine-1.157071"
+    },
+    {
+      "receptTitel": "The Hadramis of the Indian Ocean: a diaspora and its networks",
+      "auteur": "Iain Walker – University of Oxford (COMPAS)",
+      "kookboek": null,
+      "jaar": 2011,
+      "url": "https://www.compas.ox.ac.uk/article/the-hadramis-of-the-indian-ocean-a-diaspora-and-its-networks"
+    },
+    {
+      "receptTitel": "What is the traditional Yemeni dish, Mandi?",
+      "auteur": "Reuters",
+      "kookboek": null,
+      "jaar": 2022,
+      "url": "https://www.yahoo.com/news/traditional-yemeni-dish-mandi-161118804.html"
+    },
+    {
+      "receptTitel": "Three kinds of zahawiq (salata hara)",
+      "auteur": "Sheba Yemeni Food",
+      "kookboek": null,
+      "jaar": 2013,
+      "url": "https://www.shebayemenifood.com/content/three-kinds-zahawiq-salata-hara"
+    }
+  ]
 }

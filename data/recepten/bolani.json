@@ -1,0 +1,105 @@
+{
+  "sleutel": "bolani",
+  "regios": [
+    "perzie"
+  ],
+  "titel": "Bolani met aardappel, muntyoghurt en groentesalade",
+  "korteBeschrijving": "Afghaanse, goudbruin gebakken platbroden gevuld met gekruide aardappel, prei en lente-ui, geserveerd met knoflook-muntyoghurt en een frisse groentesalade.",
+  "beschrijving": "Bolani-e kachaloo is een traditioneel Afghaans platbrood van dun uitgerold deeg, gevuld met kruimige aardappel, prei, lente-ui, koriander en groene chilipeper. De halve maantjes worden in een koekenpan gebakken totdat het deeg knapperig en goudbruin is, terwijl de kruidige aardappelvulling zacht blijft. Wij serveren de bolani als vegetarisch hoofdgerecht met koele knoflook-muntyoghurt en een frisse salade van spitskool, wortel en komkommer.",
+  "afbeelding": "images/recepten/BolaniAI.png",
+  "url": "recepten.html?id=bolani",
+  "volgorde": 44,
+  "regioVolgorde": {
+    "perzie": 0
+  },
+  "porties": 4,
+  "bereidingstijdMinuten": 110,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor het deeg:",
+    "400 g tarwebloem",
+    "230 ml lauwwarm water",
+    "2 el zonnebloemolie",
+    "1 tl zout",
+    "Voor de aardappelvulling:",
+    "700 g kruimige aardappelen",
+    "1 kleine prei (circa 150 g)",
+    "4 lente-uitjes",
+    "15 g verse koriander",
+    "1 groene chilipeper",
+    "1 tl gemalen korianderzaad",
+    "1 tl versgemalen zwarte peper",
+    "1 tl zout",
+    "1 el zonnebloemolie",
+    "Voor het bakken:",
+    "4–5 el zonnebloemolie, eventueel wat extra",
+    "Voor de knoflook-muntyoghurt:",
+    "250 g volle Griekse yoghurt",
+    "1 teen knoflook",
+    "1 el fijngehakte verse munt",
+    "Een snufje zout",
+    "Voor de frisse groentesalade:",
+    "200 g fijngesneden spitskool",
+    "1 wortel",
+    "1 kleine komkommer",
+    "1 el citroensap",
+    "1 el zonnebloemolie",
+    "1 el fijngehakte platte peterselie",
+    "Een snufje zout"
+  ],
+  "bereiding": [
+    "Doe de tarwebloem en 1 tl zout in een ruime kom. Voeg 2 el zonnebloemolie toe en schenk geleidelijk 230 ml lauwwarm water erbij. Meng tot een samenhangend deeg. Kneed ongeveer 8–10 minuten totdat het deeg glad, soepel en elastisch is.",
+    "Vorm het deeg tot een bal, leg het terug in de kom en dek af met een licht vochtige theedoek. Laat minstens 30 minuten rusten op kamertemperatuur. Hierdoor wordt het deeg gemakkelijker dun uit te rollen.",
+    "Schil ondertussen de aardappelen en snijd ze in stukken van ongeveer 3 cm. Doe ze in een pan met water, breng aan de kook en kook ongeveer 15–20 minuten, totdat ze gemakkelijk met een vork kunnen worden doorgeprikt.",
+    "Snijd de prei in de lengte open en spoel grondig schoon tussen de bladeren. Snijd hem in dunne halve ringen. Verwijder de worteluiteinden van de lente-uitjes en snijd ze in dunne ringetjes. Hak de koriander fijn. Verwijder het steeltje van de chilipeper en snijd de peper fijn. Verwijder eventueel de zaadlijsten voor een mildere smaak.",
+    "Verhit 1 el zonnebloemolie in een koekenpan op middelhoog vuur. Bak de prei ongeveer 5 minuten totdat hij zacht is. Voeg de chilipeper toe en bak nog 1 minuut mee.",
+    "Giet de gare aardappelen af en laat ze een paar minuten uitdampen. Stamp ze tot een stevige, vrij droge puree. Voeg de gebakken prei en chilipeper, de rauwe lente-ui, koriander, gemalen korianderzaad, zwarte peper en het zout toe. Meng alles goed en laat de vulling iets afkoelen.",
+    "Pel de knoflookteen en pers hem fijn. Meng de knoflook met de yoghurt, fijngehakte munt en een snufje zout. Zet de knoflook-muntyoghurt afgedekt in de koelkast.",
+    "Snijd voor de salade de spitskool in fijne reepjes, als die nog niet gesneden is. Schil de wortel en rasp hem grof. Was de komkommer en snijd hem in dunne halve plakjes. Meng de groenten met citroensap, zonnebloemolie, peterselie en een snufje zout. Zet koel weg tot het serveren.",
+    "Verdeel het rustende deeg in acht gelijke stukken en vorm er balletjes van. Houd de deegballetjes waarmee je niet werkt afgedekt onder de licht vochtige theedoek, zodat ze niet uitdrogen.",
+    "Bestuif het werkblad licht met bloem. Rol een deegballetje uit tot een zo rond mogelijke lap van ongeveer 22 cm doorsnede en 1–2 mm dik. Draai het deeg tijdens het uitrollen regelmatig een kwartslag om te voorkomen dat het vastplakt.",
+    "Verdeel ongeveer een achtste van de aardappelvulling over één helft van de deegcirkel. Strijk de vulling gelijkmatig uit en laat langs de rand ongeveer 1½ cm vrij. De vulling moet een relatief dunne laag vormen.",
+    "Vouw de lege helft van het deeg over de vulling, zodat een halve maan ontstaat. Druk voorzichtig eventuele lucht eruit en druk de randen stevig op elkaar. Maak de rand zo nodig met een druppeltje water vochtig om hem beter te laten sluiten. Herhaal met de overige deegballetjes en vulling.",
+    "Verhit een dun laagje zonnebloemolie in een grote koekenpan op middelhoog vuur. Laat de pan goed heet worden voordat je voorzichtig één bolani toevoegt. Bak ongeveer 4–5 minuten per kant, totdat beide zijden goudbruin en knapperig zijn en het deeg volledig gaar is. Druk tijdens het bakken af en toe voorzichtig met een spatel op het brood, zodat ook het midden en de dichtgevouwen randen goed contact met de pan maken. Verlaag het vuur als de buitenkant te snel bruin wordt.",
+    "Laat de gebakken bolani kort uitlekken op keukenpapier. Houd ze op een rooster in een oven van ongeveer 90 °C warm terwijl je de overige bolani bakt. Voeg indien nodig telkens een beetje olie aan de koekenpan toe. Controleer of ook het deeg bij de dichtgevouwen randen gaar is.",
+    "Snijd iedere bolani eventueel in twee of drie punten. Verdeel twee bolani per persoon over de borden. Serveer direct met de koude knoflook-muntyoghurt en de frisse groentesalade."
+  ],
+  "weetje": "Bolani is een van de geliefde gevulde platbroden uit Afghanistan. Een dunne lap deeg wordt met een hartige vulling bestreken, dubbelgevouwen en gebakken op een hete plaat of in een koekenpan. De aardappelvariant heet *bolani-e kachaloo*: *kachaloo* betekent aardappel. Daarnaast bestaan versies met bladgroenten, linzen of pompoen. Vooral *gandana*, een langbladig, preiachtig kruid, is een traditionele vulling; buiten Afghanistan vervangen koks het vaak door knoflookbieslook, prei of lente-ui.\n\nBolani wordt zowel thuis als op straat gegeten. Het verschijnt bij verjaardagen, verlovingen en andere feestelijke gelegenheden, maar is ook een eenvoudig gerecht voor tussendoor. De Afghaans-Amerikaanse schrijfster Humaira Ghilzai beschrijft hoe koks in de Californische wijk die bekendstaat als Little Kabul enorme bolani bakken, bijna zo groot als een pizza. In haar familie worden de deegbroden bovendien al generaties lang samen bereid. Ze smaken het lekkerst warm uit de pan, met yoghurt of een pittige groene chutney.\n\nDe betekenis van bolani gaat verder dan het recept alleen. Farukh Tahery, afkomstig uit de Afghaanse provincie Ghazni, herinnert zich hoe haar moeder en tantes samen de vulling bereidden en het deeg uitrolden. Als klein kind mocht ze eerst met een eigen stukje deeg oefenen; later hielp ze met de groenten en uiteindelijk het bakken. Volgens haar wordt bolani ook gegeten bij de *iftar*, de gezamenlijke maaltijd waarmee tijdens de ramadan het vasten wordt verbroken.\n\nOok onder Afghaanse families die hun land moesten verlaten, blijft bolani een herkenbaar gerecht. In 2021 publiceerde het International Rescue Committee het recept van Hafeza, een Afghaanse vrouw die op het Griekse eiland Lesbos woonde. Zij vertelde hoe ze bolani van haar moeder had leren maken en het gerecht opnieuw bereidde tijdens een kookbijeenkomst met andere vrouwen. Zulke verhalen laten zien hoe een eenvoudig gevuld brood herinneringen aan thuis en familie kan bewaren.\n\nDe precieze oorsprong en ouderdom van bolani zijn niet met zekerheid bekend. Gevulde platbroden bestaan in uiteenlopende keukens van Centraal- en Zuid-Azië, maar bolani heeft in Afghanistan een eigen plaats gekregen. Onze versie gebruikt de goed verkrijgbare combinatie van aardappel, prei en lente-ui en wordt met knoflook-muntyoghurt en frisse groenten een complete vegetarische maaltijd.",
+  "bron": {
+    "receptTitel": "Bolani e Kachaloo – Afghan Potato and Scallion Bread",
+    "auteur": "Humaira Ghilzai – Afghan Culture Unveiled (geïnspireerd op)",
+    "kookboek": null,
+    "jaar": 2009,
+    "url": "https://www.afghancultureunveiled.com/humaira-ghilzai/afghancooking/2009/12/bolani-afghan-potato-and-scallion.html"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Brilliant Bolani with Potato Filling",
+      "auteur": "Afghanaid",
+      "kookboek": null,
+      "jaar": 2019,
+      "url": "https://www.afghanaid.org.uk/brilliant-bolani-with-potato-filling"
+    },
+    {
+      "receptTitel": "Farukh’s Afghan Bolani",
+      "auteur": "Farukh Tahery – Recipes for Ramadan",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://recipesforramadan.com/recipes/farukhs-afghan-bolani/"
+    },
+    {
+      "receptTitel": "Refugee Hafeza’s Delicious Afghan Bolani Recipe",
+      "auteur": "International Rescue Committee",
+      "kookboek": null,
+      "jaar": 2021,
+      "url": "https://www.rescue.org/uk/article/refugee-hafezas-delicious-afghan-bolani-recipe"
+    },
+    {
+      "receptTitel": "Chive Flatbread Stuffing (Gandana Bolani Filling)",
+      "auteur": "Durkhanai Ayubi",
+      "kookboek": "Parwana",
+      "jaar": 2020,
+      "url": "https://app.ckbk.com/recipe/parw24357c01s001r013/chive-flatbread-stuffing/"
+    }
+  ]
+}

@@ -431,19 +431,19 @@
       ],
       "bestand": "data/recepten/kebabTabouleh.json"
     },
-    "chelowKebab": {
-      "titel": "Chelow Kebab",
-      "korteBeschrijving": "Perzische kebab geserveerd met geurige saffraanrijst, boter en gegrilde tomaat.",
-      "afbeelding": "images/recepten/ChelowKebabAI.png",
-      "url": "recepten.html?id=chelowKebab",
+    "bolani": {
+      "titel": "Bolani met aardappel, muntyoghurt en groentesalade",
+      "korteBeschrijving": "Afghaanse, goudbruin gebakken platbroden gevuld met gekruide aardappel, prei en lente-ui, geserveerd met knoflook-muntyoghurt en een frisse groentesalade.",
+      "afbeelding": "images/recepten/BolaniAI.png",
+      "url": "recepten.html?id=bolani",
       "regios": [
         "perzie"
       ],
-      "bestand": "data/recepten/chelowKebab.json"
+      "bestand": "data/recepten/bolani.json"
     },
     "fesenjan": {
-      "titel": "Fesenjan",
-      "korteBeschrijving": "Rijke stoofschotel met walnoten en granaatappel, vaak bereid met kip of eend.",
+      "titel": "Fesenjan met saffraanrijst",
+      "korteBeschrijving": "Perzische kipstoof met een rijke, zoetzure saus van walnoten en granaatappel, geserveerd met geurige saffraanrijst.",
       "afbeelding": "images/recepten/FesenjanAI.png",
       "url": "recepten.html?id=fesenjan",
       "regios": [
@@ -452,8 +452,8 @@
       "bestand": "data/recepten/fesenjan.json"
     },
     "ghormehSabzi": {
-      "titel": "Ghormeh Sabzi",
-      "korteBeschrijving": "Kruidige Perzische stoofpot met verse kruiden, bonen en langzaam gegaard vlees.",
+      "titel": "Ghormeh sabzi met basmatirijst",
+      "korteBeschrijving": "Perzische stoofpot van mals rundvlees, donkergebakken groene kruiden, kidneybonen en gedroogde limoen, geserveerd met basmatirijst.",
       "afbeelding": "images/recepten/GhormehSabziAI.png",
       "url": "recepten.html?id=ghormehSabzi",
       "regios": [
@@ -461,19 +461,19 @@
       ],
       "bestand": "data/recepten/ghormehSabzi.json"
     },
-    "ashReshteh": {
-      "titel": "Ash Reshteh",
-      "korteBeschrijving": "Stevige Perzische kruidensoep met peulvruchten, noedels en een topping van yoghurt of ui.",
-      "afbeelding": "images/recepten/AshReshtehAI.png",
-      "url": "recepten.html?id=ashReshteh",
+    "qabiliPalaw": {
+      "titel": "Qabili palaw met lamsvlees en Afghaanse salata",
+      "korteBeschrijving": "Feestelijke Afghaanse rijstschotel met mals lamsvlees, gekaramelliseerde wortelreepjes, rozijnen en amandelen, geserveerd met een frisse tomaten-komkommersalade.",
+      "afbeelding": "images/recepten/QabiliPalawAI.png",
+      "url": "recepten.html?id=qabiliPalaw",
       "regios": [
         "perzie"
       ],
-      "bestand": "data/recepten/ashReshteh.json"
+      "bestand": "data/recepten/qabiliPalaw.json"
     },
     "kabsa": {
-      "titel": "Kabsa",
-      "korteBeschrijving": "Aromatische rijstschotel met specerijen, vlees en vaak noten of rozijnen.",
+      "titel": "Kabsa met kip en daqoos",
+      "korteBeschrijving": "Saoedische rijstschotel met goudbruin geroosterde kip, geurige specerijen, gedroogde limoen, rozijnen en amandelen, geserveerd met pittige tomatensaus.",
       "afbeelding": "images/recepten/KabsaAI.png",
       "url": "recepten.html?id=kabsa",
       "regios": [
@@ -482,8 +482,8 @@
       "bestand": "data/recepten/kabsa.json"
     },
     "mandi": {
-      "titel": "Mandi",
-      "korteBeschrijving": "Rijstgerecht met mals langzaam gegaard vlees, bekend om zijn rokerige geurige smaak.",
+      "titel": "Mandi met lamsvlees en groene sahawiq",
+      "korteBeschrijving": "Jemenitische rijstschotel met langzaam geroosterde lamsschouder, geurige saffraanrijst en warme specerijen, geserveerd met pittige groene sahawiq en een frisse salade.",
       "afbeelding": "images/recepten/MandiAI.png",
       "url": "recepten.html?id=mandi",
       "regios": [

@@ -3,8 +3,9 @@
   "regios": [
     "arabisch-schiereiland"
   ],
-  "titel": "Kabsa",
-  "korteBeschrijving": "Aromatische rijstschotel met specerijen, vlees en vaak noten of rozijnen.",
+  "titel": "Kabsa met kip en daqoos",
+  "korteBeschrijving": "Saoedische rijstschotel met goudbruin geroosterde kip, geurige specerijen, gedroogde limoen, rozijnen en amandelen, geserveerd met pittige tomatensaus.",
+  "beschrijving": "Kabsa is een traditioneel Saoedisch gerecht waarbij kip langzaam wordt gestoofd met tomaat, wortel, gedroogde limoen en een geurige combinatie van specerijen. De basmatirijst wordt vervolgens in de kruidige kippenbouillon gekookt, zodat de smaken volledig in de rijst trekken. We roosteren de kip nog kort in de oven en serveren het gerecht met rozijnen, geroosterde amandelen en daqoos, een frisse, licht pittige saus van tomaat, knoflook en chilipeper.",
   "afbeelding": "images/recepten/KabsaAI.png",
   "url": "recepten.html?id=kabsa",
   "volgorde": 48,
@@ -12,14 +13,100 @@
     "arabisch-schiereiland": 0
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 105,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de kip en rijst:",
+    "4 kippenbouten (samen circa 1,2 kg)",
+    "350 g basmatirijst",
+    "1 grote ui",
+    "3 tenen knoflook",
+    "2 rijpe tomaten (circa 250 g)",
+    "1 grote wortel (circa 150 g)",
+    "2 el tomatenpuree",
+    "2 gedroogde limoenen (loomi of limoo amani)",
+    "3 el zonnebloemolie",
+    "1 kaneelstokje",
+    "4 kardemompeulen",
+    "3 kruidnagels",
+    "2 laurierblaadjes",
+    "1 tl gemalen komijn",
+    "1 tl gemalen korianderzaad",
+    "1 tl kurkuma",
+    "1 tl versgemalen zwarte peper",
+    "1 tl zout",
+    "Circa 800 ml water voor het stoven (gebruik het kookvocht voor de rijst)",
+    "Voor de garnering:",
+    "40 g amandelschaafsel",
+    "30 g rozijnen",
+    "Voor de daqoos:",
+    "250 g rijpe tomaten",
+    "2 tenen knoflook",
+    "1 kleine groene chilipeper",
+    "1 el citroensap",
+    "1 el fijngehakte verse koriander",
+    "Een snufje zout"
+  ],
+  "bereiding": [
+    "Spoel de 350 g basmatirijst in een zeef onder koud stromend water totdat het spoelwater grotendeels helder is. Doe de rijst in een kom, zet ruim onder koud water en laat 30 minuten weken.",
+    "Pel de ui en snipper hem fijn. Pel de drie knoflooktenen voor de kabsa en hak ze fijn. Snijd de twee tomaten in kleine blokjes en rasp de wortel grof. Dep de kippenbouten droog met keukenpapier.",
+    "Prik met een vork enkele gaatjes in de twee gedroogde limoenen. Leg ze 10 minuten in een kommetje warm water en laat uitlekken.",
+    "Verhit 2 el zonnebloemolie in een ruime stoofpan met dikke bodem op middelhoog vuur. Bak de kippenbouten ongeveer 6–8 minuten, totdat ze aan beide kanten licht goudbruin zijn. Ze hoeven nog niet gaar te zijn. Haal ze uit de pan en zet apart.",
+    "Doe de gesnipperde ui in dezelfde pan en fruit ongeveer 6 minuten tot hij zacht en goudgeel is. Voeg de knoflook toe en bak nog 1 minuut mee.",
+    "Voeg de tomatenblokjes, geraspte wortel en tomatenpuree toe. Doe het kaneelstokje, de kardemompeulen, kruidnagels, laurierblaadjes, komijn, korianderzaad, kurkuma en zwarte peper erbij. Roer goed en laat ongeveer 5 minuten bakken, zodat de tomaten zacht worden en de specerijen hun geur afgeven.",
+    "Leg de kippenbouten terug in de pan. Voeg de gedroogde limoenen, 1 tl zout en 800 ml water toe. Breng aan de kook, zet het vuur laag en laat ongeveer 35–45 minuten zachtjes stoven met het deksel op de pan. Keer de kip halverwege. De kip moet volledig gaar zijn.",
+    "Maak ondertussen de daqoos. Snijd de 250 g tomaten in stukken. Pel de twee knoflooktenen en verwijder het steeltje van de chilipeper. Maal de tomaten, knoflook, chilipeper, citroensap, verse koriander en een snufje zout in de keukenmachine tot een licht grove saus. Zet afgedekt in de koelkast.",
+    "Rooster het amandelschaafsel in een droge koekenpan op middelhoog vuur gedurende 2–3 minuten, totdat het licht goudbruin is. Schud de pan regelmatig en zet apart. Leg de rozijnen 5 minuten in warm water, giet af en laat uitlekken.",
+    "Verwarm de oven voor op 220 °C (boven- en onderwarmte). Haal de gare kippenbouten voorzichtig uit de stoofpan en leg ze met het vel naar boven op een met bakpapier beklede bakplaat. Bestrijk ze met de resterende 1 el zonnebloemolie.",
+    "Verwijder de gedroogde limoenen, het kaneelstokje, de kardemompeulen, kruidnagels en laurierblaadjes uit de stoofpan. Giet de inhoud door een zeef boven een maatbeker en vang de bouillon op. Bewaar de zachte ui, tomaat en wortel uit de zeef.",
+    "Meet 550 ml bouillon af. Vul indien nodig aan met heet water. Heb je juist te veel bouillon, bewaar dan het overschot. Doe de groenten terug in de stoofpan en voeg de afgemeten bouillon toe. Proef of het kookvocht voldoende gekruid is.",
+    "Giet de geweekte basmatirijst af en voeg hem toe aan de stoofpan. Breng voorzichtig aan de kook, roer één keer door en doe het deksel op de pan. Laat ongeveer 12–15 minuten op zeer laag vuur garen, totdat de rijst het vocht heeft opgenomen. Zet het vuur uit en laat nog 10 minuten afgedekt rusten. Roer de rijst daarna voorzichtig los met een vork.",
+    "Zet de kippenbouten tijdens het garen van de rijst in de voorverwarmde oven en rooster ze ongeveer 10–15 minuten, totdat het vel goudbruin en licht knapperig is. Controleer regelmatig of het vel niet te donker wordt.",
+    "Schep de rijst op een grote serveerschaal en leg de geroosterde kippenbouten erop. Strooi het amandelschaafsel en de rozijnen erover. Serveer de kabsa direct, met de koude daqoos in een apart schaaltje."
+  ],
+  "weetje": "Kabsa is een van de bekendste gerechten uit Saoedi-Arabië en staat symbool voor de gastvrijheid van het Arabisch Schiereiland. Het gerecht wordt vaak op een grote gezamenlijke schaal geserveerd, met een berg geurige rijst en daarop stukken kip of lamsvlees. Traditioneel zitten de gasten rondom de schaal en eten zij met hun rechterhand uit het gedeelte dat voor hen ligt. Bij bijzondere gelegenheden wordt soms een heel lam op een enorme schaal rijst geserveerd, een feestelijke bereiding die *al-mufattah* wordt genoemd.\n\nDe naam Kabsa wordt in verband gebracht met het Arabische woord *kabs*, dat 'drukken' of 'samendrukken' betekent. Volgens Saudipedia verwijst dit naar de traditionele bereiding waarbij de ingrediënten samen in één pan worden gegaard. Het belangrijkste kenmerk is dat de rijst kookt in dezelfde kruidige bouillon waarin het vlees is bereid. Daardoor krijgt de rijst een veel rijkere smaak dan wanneer hij afzonderlijk in water wordt gekookt.\n\nDe karakteristieke specerijen vertellen iets over de handelsgeschiedenis van het Arabisch Schiereiland. Eeuwenlang verbonden handelsroutes de havens aan de Rode Zee en de Perzische Golf met India, Zuidoost-Azië en Oost-Afrika. Zo vonden onder andere kardemom en kruidnagel hun weg naar de Arabische keuken. Een bijzonder ingrediënt is de gedroogde zwarte limoen, *loomi*. Volgens Visit Saudi ontstond de traditie om limoenen te drogen in de havens van Oman, zodat ze lange handelsreizen konden doorstaan. De gedroogde vrucht ontwikkelde een diepe, zurige smaak en werd een geliefde smaakmaker in de Golfkeukens.\n\nKabsa heeft nauwe verwanten in de omringende landen. In Koeweit, Bahrein en Qatar wordt een vergelijkbaar gerecht vaak *machboos* of *makbous* genoemd. In Jemen vinden we *mandi*, waarbij het vlees traditioneel boven hete kolen in een ondergrondse oven gaart. Hoewel deze gerechten op het eerste gezicht veel op elkaar lijken, verschillen ze in bereidingswijze, kruidengebruik en smaak. Kabsa onderscheidt zich vooral door de kruidige rijst die rechtstreeks in de vleesbouillon wordt gekookt. De precieze ouderdom en geboorteplaats van Kabsa zijn niet met zekerheid gedocumenteerd.\n\nVandaag de dag kent bijna iedere Saoedische familie een eigen Kabsa-recept. Sommige varianten bevatten lamsvlees, andere kip, rundvlees of zelfs vis. Ook de verhouding tussen tomaat, wortel, rozijnen en specerijen verschilt per streek en huishouden. Vaak wordt het gerecht geserveerd met een pittige tomatensaus, die een fris tegenwicht geeft aan de rijke rijst. Onze versie met geroosterde kip, amandelen, rozijnen en daqoos laat zien waarom Kabsa zo'n geliefd gerecht is voor maaltijden die mensen samenbrengen.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
+    "receptTitel": "Chicken Kabsa – Arabian Chicken and Rice",
+    "auteur": "The Delicious Crescent (geïnspireerd op)",
     "kookboek": null,
-    "url": null
-  }
+    "jaar": null,
+    "url": "https://www.thedeliciouscrescent.com/chicken-kabsa/"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Saudi Kabsa",
+      "auteur": "Saudipedia",
+      "kookboek": null,
+      "jaar": 2020,
+      "url": "https://saudipedia.com/en/saudi-kabsa"
+    },
+    {
+      "receptTitel": "How Is the Saudi Kabsa Prepared?",
+      "auteur": "Saudipedia",
+      "kookboek": null,
+      "jaar": 2023,
+      "url": "https://saudipedia.com/en/how-is-the-saudi-kabsa-prepared"
+    },
+    {
+      "receptTitel": "What Is the Most Famous Saudi Dish?",
+      "auteur": "Saudipedia",
+      "kookboek": null,
+      "jaar": 2023,
+      "url": "https://saudipedia.com/en/what-is-the-most-famous-saudi-dish"
+    },
+    {
+      "receptTitel": "Eating Habits in Saudi Arabia",
+      "auteur": "Saudipedia",
+      "kookboek": null,
+      "jaar": 2020,
+      "url": "https://saudipedia.com/en/eating-habits-in-saudi-arabia"
+    },
+    {
+      "receptTitel": "Spices of Saudi Cuisine",
+      "auteur": "Visit Saudi",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.visitsaudi.com"
+    }
+  ]
 }

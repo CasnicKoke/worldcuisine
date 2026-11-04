@@ -3,8 +3,9 @@
   "regios": [
     "kaukasus"
   ],
-  "titel": "Khinkali",
-  "korteBeschrijving": "Georgische dumplings gevuld met gekruid vlees en aromatische bouillon.",
+  "titel": "Khinkali met spinazie-pkhali",
+  "korteBeschrijving": "Traditionele Georgische deegknoedels gevuld met sappig rund- en varkensgehakt, geserveerd met zwarte peper en koude spinazie-pkhali van walnoten, knoflook en kruiden.",
+  "beschrijving": "Khinkali zijn grote Georgische deegknoedels met karakteristieke plooien en een sappige vleesvulling. Tijdens het koken ontstaat binnenin een smaakvolle bouillon van vleessappen en toegevoegd water. De khinkali worden traditioneel met de hand gegeten en bestrooid met zwarte peper. Daarbij serveren we spinazie-pkhali: koude balletjes van spinazie, walnoten, knoflook en verse kruiden, gegarneerd met granaatappelpitjes.",
   "afbeelding": "images/recepten/KhinkaliAI.png",
   "url": "recepten.html?id=khinkali",
   "volgorde": 33,
@@ -12,14 +13,90 @@
     "kaukasus": 1
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 135,
+  "moeilijkheid": "Moeilijk",
+  "ingredienten": [
+    "Voor het deeg (24–28 khinkali):",
+    "500 g tarwebloem",
+    "250 ml koud water",
+    "1 tl zout",
+    "Voor de vleesvulling:",
+    "300 g rundergehakt",
+    "300 g varkensgehakt",
+    "2 middelgrote uien",
+    "200 ml koud water",
+    "1 tl zout",
+    "1 tl versgemalen zwarte peper",
+    "½ tl chilivlokken",
+    "2 el fijngehakte verse koriander",
+    "Voor de spinazie-pkhali (8 balletjes):",
+    "400 g verse spinazie",
+    "100 g walnoten",
+    "1 kleine teen knoflook",
+    "½ kleine ui",
+    "2 el fijngehakte verse koriander",
+    "1 el fijngehakte platte peterselie",
+    "½ tl gemalen korianderzaad",
+    "2 tl wittewijnazijn",
+    "2 el granaatappelpitjes",
+    "Zout en een snufje chilivlokken",
+    "Voor het serveren:",
+    "Extra versgemalen zwarte peper"
+  ],
+  "bereiding": [
+    "Was de spinazie en breng een pan met ruim water aan de kook. Kook de spinazie ongeveer 2 minuten, totdat hij volledig geslonken is. Giet af en spoel kort met koud water. Laat afkoelen en knijp vervolgens met je handen zoveel mogelijk vocht uit de spinazie.",
+    "Pel de halve ui en de knoflookteen. Maal de walnoten samen met de ui, knoflook, verse koriander, peterselie, gemalen korianderzaad, wittewijnazijn, zout en een snufje chilivlokken in de keukenmachine tot een fijne, licht kleverige massa.",
+    "Voeg de uitgeknepen spinazie toe en maal kort mee, totdat alles goed gemengd is. Het mengsel moet stevig genoeg zijn om er balletjes van te vormen. Proef en voeg eventueel nog wat zout of azijn toe.",
+    "Vorm met licht vochtige handen acht balletjes van ongeveer 4 cm doorsnede, ter grootte van een pingpongbal. Druk in de bovenkant van elk balletje een klein kuiltje en verdeel de granaatappelpitjes erover. Zet de pkhali afgedekt in de koelkast.",
+    "Doe de 500 g bloem en 1 tl zout voor de khinkali in een ruime kom. Voeg geleidelijk 250 ml koud water toe en meng tot een stevig deeg. Kneed ongeveer 10 minuten totdat het deeg glad en elastisch is. Vorm een bal, dek af met een licht vochtige theedoek en laat 30 minuten rusten.",
+    "Pel de twee uien voor de vulling en snipper ze zeer fijn, eventueel met een keukenmachine. Meng de ui met het rundergehakt, varkensgehakt, zout, zwarte peper, chilivlokken en fijngehakte verse koriander.",
+    "Voeg geleidelijk 200 ml koud water toe en meng goed, totdat het vocht door het gehakt is opgenomen. De vulling moet sappig en vrij zacht zijn, maar niet waterig. Zet afgedekt in de koelkast.",
+    "Verdeel het deeg in vier gelijke stukken. Houd de stukken waarmee je niet werkt afgedekt onder de licht vochtige theedoek. Rol een stuk deeg op een licht met bloem bestoven werkblad uit tot ongeveer 2 mm dik.",
+    "Steek met een ronde uitsteker cirkels van circa 12 cm doorsnede uit het deeg. Leg in het midden van iedere cirkel ongeveer 1½ volle eetlepel gehaktvulling, circa 35–40 g.",
+    "Neem een deegcirkel met vulling in je hand. Trek een stukje van de deegrand omhoog en maak een kleine plooi. Werk rondom en vouw telkens een nieuw stukje deeg over de vorige plooi heen. Maak ongeveer 12–15 plooien, totdat alle randen boven de vulling samenkomen.",
+    "Draai het samengevouwen deeg aan de bovenkant stevig dicht tot een klein handvat. Controleer of de khinkali volledig gesloten is. Tijdens het koken vormen het toegevoegde water en de vleessappen samen een kleine hoeveelheid bouillon binnen in de deegknoedel, die niet mag ontsnappen.",
+    "Herhaal met het resterende deeg en de vulling totdat je ongeveer 24–28 khinkali hebt. Leg ze naast elkaar op een licht met bloem bestoven dienblad en dek ze weer af met de licht vochtige theedoek.",
+    "Breng een grote pan met ruim gezouten water aan de kook. Laat de khinkali voorzichtig, in porties van ongeveer 6–8 stuks, in het water glijden. Roer voorzichtig zodat ze niet aan de bodem blijven plakken.",
+    "Laat de khinkali ongeveer 12–14 minuten zachtjes koken. Controleer een exemplaar door het open te snijden: de gehaktvulling moet volledig gaar zijn en het deeg mag geen rauwe kern meer hebben. Schep ze voorzichtig met een schuimspaan uit het water en laat kort uitlekken. Herhaal met de overige khinkali.",
+    "Verdeel de warme khinkali over vier borden en bestrooi royaal met versgemalen zwarte peper. Haal de spinazie-pkhali uit de koelkast en serveer twee koude balletjes per persoon naast de khinkali.",
+    "Eet de khinkali op traditionele Georgische wijze met de hand. Houd een khinkali vast bij het deegknoopje, neem voorzichtig een klein hapje aan de zijkant en drink eerst de hete bouillon op. Eet vervolgens de rest van de knoedel. Het stevige deegknoopje wordt traditioneel vaak op het bord achtergelaten."
+  ],
+  "weetje": "Hoog in de bergen van de Kaukasus ontstond een van de bekendste gerechten van Georgië: khinkali. Deze grote, geplooide deegknoedels werden oorspronkelijk vooral gegeten in bergstreken als Pshavi, Tusheti en Khevsureti. Ze vormden een stevige, voedzame maaltijd voor herders en bergbewoners, die met eenvoudige ingrediënten als vlees, bloem en ui een bijzonder smakelijk gerecht konden bereiden.\n\nOver de precieze oorsprong bestaat discussie. Volgens sommige theorieën kwamen gevulde deegknoedels in de dertiende eeuw via de Mongoolse veroveringen naar de Kaukasus, mogelijk onder invloed van Aziatische gerechten als manty. Overtuigend bewijs voor deze verklaring ontbreekt echter. De Georgiërs ontwikkelden in ieder geval hun eigen karakteristieke khinkali, met een geplooide bovenkant en een sappige vleesvulling.\n\nIn de bergen werden khinkali traditioneel vaak met schapenvlees bereid, eenvoudig gekruid met zout, peper en ui. Toen het gerecht zich naar steden als Tbilisi verspreidde, ontstond een nieuwe variant: *kalakuri khinkali*. Hierin werden rund- en varkensgehakt gecombineerd met verse kruiden, waaronder koriander. Deze stadsvariant vormt de basis voor ons recept.\n\nBijzonder is de manier waarop khinkali worden gegeten. Je pakt de knoedel vast bij het stevige deegknoopje, neemt voorzichtig een hapje aan de zijkant en drinkt eerst de hete bouillon op. Daarna eet je de rest van de khinkali, maar het deegknoopje blijft traditioneel op het bord liggen. Volgens een Georgische overlevering verwijzen de plooien naar de stralen van de zon. Soms wordt zelfs gezegd dat een perfecte khinkali 28 plooien heeft, al is dit vooral een traditionele symbolische voorstelling.\n\nOns bijgerecht, *pkhali*, laat een andere kant van de Georgische keuken zien. Groenten en wilde kruiden worden er al generaties lang gecombineerd met fijngemalen walnoten, knoflook, azijn en specerijen. Pkhali kan worden gemaakt van spinazie, bietengroen, bonen of andere groenten en wordt meestal koud geserveerd. De granaatappelpitjes geven het gerecht een feestelijke uitstraling.\n\nOnze versie combineert de sappige kalakuri khinkali met frisse spinazie-pkhali. Zo brengen we twee heel verschillende, maar karakteristieke Georgische bereidingen samen op één bord.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
+    "receptTitel": "Khinkali",
+    "auteur": "Georgian Recipes – geïnspireerd op",
     "kookboek": null,
-    "url": null
-  }
+    "jaar": null,
+    "url": "https://georgianrecipes.com/recipes/Khinkali/"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Spinach Pkhali",
+      "auteur": "Georgian Recipes – geïnspireerd op",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://georgianrecipes.com/recipes/Spinach-fkhali/"
+    },
+    {
+      "receptTitel": "Khinkali",
+      "auteur": "Georgia Travel",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://georgia.travel/khinkali"
+    },
+    {
+      "receptTitel": "Gastronomy of Georgia",
+      "auteur": "Georgia Travel",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://gulf.georgia.travel/brochure/en/Gastronomy_en.pdf"
+    },
+    {
+      "receptTitel": "Pkhali: Georgia's versatile vegan appetiser",
+      "auteur": "Georgia Travel",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://georgia.travel/pkhali-georgias-versatile-vegan-appetiser"
+    }
+  ]
 }

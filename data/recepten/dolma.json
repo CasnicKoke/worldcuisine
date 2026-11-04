@@ -3,8 +3,9 @@
   "regios": [
     "kaukasus"
   ],
-  "titel": "Dolma",
-  "korteBeschrijving": "Gevulde wijnbladeren of groenten met rijst, kruiden en soms vlees.",
+  "titel": "Yarpaq dolması met knoflookyoghurt",
+  "korteBeschrijving": "Azerbeidzjaanse wijnbladeren gevuld met gekruid lamsgehakt, risottorijst en verse kruiden, langzaam gestoofd en geserveerd met knoflookyoghurt en warm platbrood.",
+  "beschrijving": "Yarpaq dolması is een traditioneel gerecht uit Azerbeidzjan waarbij kleine wijnbladeren worden gevuld met lamsgehakt, rijst, ui en een geurige combinatie van koriander, dille en munt. De zorgvuldig opgerolde pakketjes worden langzaam gestoofd tot de wijnbladeren zacht zijn en de vulling gaar is. We serveren ze met frisse knoflookyoghurt en warm platbrood.",
   "afbeelding": "images/recepten/DolmaAI.png",
   "url": "recepten.html?id=dolma",
   "volgorde": 34,
@@ -12,14 +13,81 @@
     "kaukasus": 2
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 135,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de gevulde wijnbladeren (circa 45–50 stuks):",
+    "500 g lamsgehakt (eventueel rundergehakt)",
+    "80 g ongekookte risottorijst (Arborio)",
+    "1 grote ui",
+    "20 g verse koriander",
+    "20 g verse dille",
+    "10 g verse munt",
+    "1 tl zout",
+    "½ tl versgemalen zwarte peper",
+    "¼ tl gemalen kaneel",
+    "Circa 50 middelgrote wijnbladeren uit pot, op pekelwater",
+    "30 g roomboter",
+    "Circa 200 ml water om te stoven, zo nodig extra",
+    "Voor de knoflookyoghurt:",
+    "250 g volle naturel yoghurt",
+    "2 tenen knoflook",
+    "Een snufje zout",
+    "Voor erbij:",
+    "4 kleine platbroden"
+  ],
+  "bereiding": [
+    "Haal de wijnbladeren voorzichtig uit de pot en spoel ze grondig af onder koud stromend water om het overtollige zout te verwijderen. Laat uitlekken in een vergiet. Snijd eventuele harde steeltjes weg. Zijn de bladeren nog erg stevig, leg ze dan 1–2 minuten in kokend water en laat opnieuw uitlekken.",
+    "Spoel de 80 g ongekookte risottorijst in een zeef onder koud stromend water en laat goed uitlekken. De rijst hoeft niet vooraf gekookt te worden.",
+    "Pel de ui en snipper hem zeer fijn, eventueel met een keukenmachine. Hak de verse koriander, dille en munt fijn.",
+    "Doe het lamsgehakt in een ruime kom. Voeg de ongekookte risottorijst, ui, koriander, dille, munt, zout, zwarte peper en kaneel toe. Meng alles grondig met je handen tot een gelijkmatige vulling.",
+    "Leg een wijnblad met de glanzende kant naar beneden en de nerven naar boven op een snijplank, met de brede kant waar het steeltje zat naar je toe. Schep ongeveer 1 volle theelepel gehaktvulling (circa 15 g) vlak boven de steelaanzet.",
+    "Vouw de onderkant van het wijnblad over de vulling. Vouw vervolgens beide zijkanten naar binnen en rol het blad op tot een compact pakketje van ongeveer 4 cm lang en 2–3 cm breed. Rol stevig genoeg om het pakketje gesloten te houden, maar laat wat ruimte voor de rijst om uit te zetten.",
+    "Herhaal dit met de overige wijnbladeren en vulling tot je ongeveer 45–50 dolma hebt gemaakt.",
+    "Leg eventuele gescheurde of overgebleven wijnbladeren op de bodem van een brede pan met dikke bodem. Leg de dolma er dicht tegen elkaar aan, met de naad naar beneden. Maak indien nodig een tweede laag.",
+    "Verdeel de 30 g roomboter in kleine stukjes over de bovenste laag dolma. Schenk voorzichtig ongeveer 200 ml water langs de rand van de pan, zodat het water tot ongeveer halverwege de totale hoogte van de dolma komt. Gebruik indien nodig wat meer water, afhankelijk van de grootte van de pan en het aantal lagen.",
+    "Leg een klein, hittebestendig bord omgekeerd boven op de dolma, zodat de pakketjes tijdens het koken op hun plaats blijven. Doe het deksel op de pan en breng het water voorzichtig aan de kook.",
+    "Zet het vuur laag en laat de dolma ongeveer 75–90 minuten zachtjes stoven. Controleer af en toe of er nog voldoende vocht in de pan zit en voeg zo nodig een scheutje heet water toe. De dolma zijn klaar wanneer de rijst zacht is, de wijnbladeren mals zijn en het gehakt volledig gaar is.",
+    "Pel ondertussen de twee tenen knoflook en pers ze fijn. Roer ze door de volle yoghurt en breng op smaak met een snufje zout. Zet de knoflookyoghurt afgedekt in de koelkast tot het serveren.",
+    "Haal de pan van het vuur en laat de dolma ongeveer 5 minuten rusten met het deksel erop. Verwijder voorzichtig het bord en schep de dolma met een lepel of tang uit de pan, zodat de pakketjes heel blijven.",
+    "Verwarm de platbroden kort in een droge koekenpan of oven. Verdeel de warme dolma over vier borden en serveer met de koude knoflookyoghurt en het platbrood. Schep de yoghurt naar smaak over de dolma of gebruik hem als dipsaus."
+  ],
+  "weetje": "Het vullen van wijnbladeren is een eeuwenoude culinaire traditie die zich uitstrekt van de Kaukasus en Anatolië tot het Midden-Oosten en de Balkan. In Azerbeidzjan heet het gerecht *yarpaq dolması*. Het Azerbeidzjaanse woord *yarpaq* betekent 'blad', terwijl *dolma* uit de Turkse talen afkomstig is en verwijst naar iets dat gevuld wordt. De naam beschrijft dus precies wat er op tafel komt: gevulde bladeren.\n\nIn Azerbeidzjan worden de wijnbladeren traditioneel gevuld met lamsgehakt, rijst, ui en veel verse kruiden, zoals koriander, dille en munt. De pakketjes zijn doorgaans klein en compact. In het voorjaar gebruikt men jonge, malse wijnbladeren; om het gerecht ook in de winter te kunnen maken, worden bladeren in zout geconserveerd. De dolma worden langzaam gestoofd en warm gegeten, vaak met *qatiq*, een lichtzure yoghurt die met knoflook op smaak wordt gebracht.\n\nWie weleens in Griekenland heeft gegeten, herkent het gerecht onmiddellijk. Daar heten gevulde wijnbladeren *dolmades*, terwijl *dolmadakia* letterlijk kleine dolmades zijn. Beide namen zijn verwant aan het Turkse woord dolma. Vooral de Griekse *dolmadakia yalantzi* zijn bekend: kleine wijnbladrolletjes gevuld met rijst, kruiden en olijfolie, maar zonder vlees. Ze worden vaak met citroen gegeten en kunnen zowel warm als koud worden geserveerd. Er bestaan echter ook Griekse varianten met gehakt, soms geserveerd met *avgolemono*, een romige saus van ei en citroen.\n\nDe overeenkomsten tussen de Azerbeidzjaanse dolma en de Griekse dolmades zijn geen toeval. Eeuwenlang wisselden volkeren rond de Zwarte Zee, de Kaukasus en het oostelijke Middellandse Zeegebied ingrediënten, recepten en kooktechnieken uit. Ook de contacten binnen het Ottomaanse Rijk droegen bij aan de verspreiding van gevulde groenten en bladeren. De precieze oorsprong van het gerecht is moeilijk vast te stellen: verschillende landen kennen hun eigen oude tradities en regionale varianten. Het is daardoor beter om dolma te beschouwen als een gedeeld culinair erfgoed dan als de uitvinding van één land.\n\nIn 2017 werd de Azerbeidzjaanse traditie van het bereiden en delen van dolma opgenomen op de UNESCO-lijst van immaterieel cultureel erfgoed. Die erkenning gaat niet alleen over het recept, maar vooral over de sociale betekenis ervan. Het samen vullen van tientallen wijnbladeren is in Azerbeidzjan een familieactiviteit die van generatie op generatie wordt doorgegeven. Dolma hoort bij feestdagen, bruiloften en gastvrije maaltijden.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
+    "receptTitel": "Yarpaq dolmasi",
+    "auteur": "Azerbaijan Travel – geïnspireerd op",
     "kookboek": null,
-    "url": null
-  }
+    "jaar": null,
+    "url": "https://azerbaijan.travel/dolma"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Dolma making and sharing tradition, a marker of cultural identity",
+      "auteur": "UNESCO Intangible Cultural Heritage",
+      "kookboek": null,
+      "jaar": 2017,
+      "url": "https://ich.unesco.org/en/RL/dolmades-making-and-sharing-tradition-a-marker-of-cultural-identity-01188"
+    },
+    {
+      "receptTitel": "Dolmadakia",
+      "auteur": "Visit Greece – Greek National Tourism Organisation",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.visitgreece.gr/en/experiences/architecture/local-architecture/dolmadakia-stuffed-with-rice"
+    },
+    {
+      "receptTitel": "Dolmadakia",
+      "auteur": "Visit Chania",
+      "kookboek": null,
+      "jaar": 2019,
+      "url": "https://visitchania.gr/en/recipes/dolmadakia/"
+    },
+    {
+      "receptTitel": "Kasiotika dolmadakia (giaprakia)",
+      "auteur": "Greek Gastronomy Guide",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.greekgastronomyguide.gr/en/item/kasiotika-ntolmadakia-kasou-rodos/"
+    }
+  ]
 }

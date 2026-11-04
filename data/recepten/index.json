@@ -312,8 +312,8 @@
       "bestand": "data/recepten/kottuRoti.json"
     },
     "khachapuri": {
-      "titel": "Khachapuri",
-      "korteBeschrijving": "Georgisch brood gevuld met gesmolten kaas, vaak geserveerd met boter of ei.",
+      "titel": "Adjaruli Khachapuri",
+      "korteBeschrijving": "Traditioneel Georgisch kaasbrood in de vorm van een bootje, gevuld met gesmolten mozzarella en feta, afgewerkt met ei en boter en geserveerd met een frisse tomaten-komkommersalade.",
       "afbeelding": "images/recepten/KhachapuriAI.png",
       "url": "recepten.html?id=khachapuri",
       "regios": [
@@ -322,8 +322,8 @@
       "bestand": "data/recepten/khachapuri.json"
     },
     "khinkali": {
-      "titel": "Khinkali",
-      "korteBeschrijving": "Georgische dumplings gevuld met gekruid vlees en aromatische bouillon.",
+      "titel": "Khinkali met spinazie-pkhali",
+      "korteBeschrijving": "Traditionele Georgische deegknoedels gevuld met sappig rund- en varkensgehakt, geserveerd met zwarte peper en koude spinazie-pkhali van walnoten, knoflook en kruiden.",
       "afbeelding": "images/recepten/KhinkaliAI.png",
       "url": "recepten.html?id=khinkali",
       "regios": [
@@ -332,8 +332,8 @@
       "bestand": "data/recepten/khinkali.json"
     },
     "dolma": {
-      "titel": "Dolma",
-      "korteBeschrijving": "Gevulde wijnbladeren of groenten met rijst, kruiden en soms vlees.",
+      "titel": "Yarpaq dolması met knoflookyoghurt",
+      "korteBeschrijving": "Azerbeidzjaanse wijnbladeren gevuld met gekruid lamsgehakt, risottorijst en verse kruiden, langzaam gestoofd en geserveerd met knoflookyoghurt en warm platbrood.",
       "afbeelding": "images/recepten/DolmaAI.png",
       "url": "recepten.html?id=dolma",
       "regios": [
@@ -341,15 +341,15 @@
       ],
       "bestand": "data/recepten/dolma.json"
     },
-    "mtsvadi": {
-      "titel": "Mtsvadi",
-      "korteBeschrijving": "Georgische vleesspiesjes, gegrild boven houtskool en geserveerd met ui en kruiden.",
-      "afbeelding": "images/recepten/MtsvadiAI.png",
-      "url": "recepten.html?id=mtsvadi",
+    "ghapama": {
+      "titel": "Ghapama",
+      "korteBeschrijving": "Feestelijke Armeense ovenpompoen gevuld met basmatirijst, gedroogde abrikozen, pruimen, rozijnen, appel en walnoten, op smaak gebracht met honing en kaneel.",
+      "afbeelding": "images/recepten/GhapamaAI.png",
+      "url": "recepten.html?id=ghapama",
       "regios": [
         "kaukasus"
       ],
-      "bestand": "data/recepten/mtsvadi.json"
+      "bestand": "data/recepten/ghapama.json"
     },
     "hamsiBugulama": {
       "titel": "Hamsi buğulama",

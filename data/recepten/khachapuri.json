@@ -3,8 +3,9 @@
   "regios": [
     "kaukasus"
   ],
-  "titel": "Khachapuri",
-  "korteBeschrijving": "Georgisch brood gevuld met gesmolten kaas, vaak geserveerd met boter of ei.",
+  "titel": "Adjaruli Khachapuri",
+  "korteBeschrijving": "Traditioneel Georgisch kaasbrood in de vorm van een bootje, gevuld met gesmolten mozzarella en feta, afgewerkt met ei en boter en geserveerd met een frisse tomaten-komkommersalade.",
+  "beschrijving": "Adjaruli Khachapuri is een karakteristiek Georgisch kaasbrood uit de Zwarte Zeeregio Adzjarië. Het zachte gistdeeg wordt tot een bootje gevormd en gevuld met een mengsel van mozzarella en feta. Na het bakken wordt een ei toegevoegd en smelt een klontje boter door de warme kaas. Aan tafel worden stukjes brood van de rand gescheurd om in de romige vulling te dopen. Een frisse tomaten-komkommersalade met rode ui en peterselie maakt de maaltijd compleet.",
   "afbeelding": "images/recepten/KhachapuriAI.png",
   "url": "recepten.html?id=khachapuri",
   "volgorde": 32,
@@ -12,14 +13,83 @@
     "kaukasus": 0
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 150,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor het deeg:",
+    "400 g tarwebloem",
+    "240 ml lauwwarm water",
+    "7 g gedroogde gist",
+    "1 tl suiker",
+    "1 tl zout",
+    "2 el zonnebloemolie",
+    "Voor de kaasvulling:",
+    "250 g geraspte mozzarella",
+    "200 g feta",
+    "Voor de afwerking:",
+    "4 eieren",
+    "40 g roomboter",
+    "Voor de tomaten-komkommersalade:",
+    "300 g rijpe tomaten",
+    "1 komkommer",
+    "½ rode ui",
+    "2 el fijngehakte verse platte peterselie",
+    "1 el zonnebloemolie",
+    "1 tl citroensap",
+    "Zout en versgemalen zwarte peper"
+  ],
+  "bereiding": [
+    "Snijd de tomaten in stukken en de komkommer in halve plakjes. Pel de rode ui en snijd hem in flinterdunne halve ringen. Hak de peterselie fijn.",
+    "Meng de tomaten, komkommer, rode ui en peterselie met de zonnebloemolie en het citroensap. Breng op smaak met zout en zwarte peper. Zet de salade afgedekt in de koelkast.",
+    "Verwarm 240 ml water tot het lauwwarm is (circa 35 °C). Voeg de suiker en gedroogde gist toe, roer door en laat ongeveer 5–10 minuten staan.",
+    "Doe 400 g bloem en 1 tl zout in een ruime kom. Voeg het gistmengsel en 2 el zonnebloemolie toe. Meng eerst met een lepel en kneed vervolgens ongeveer 8–10 minuten tot een glad, soepel en elastisch deeg.",
+    "Vorm het deeg tot een bal, leg het in de kom en dek af met een licht vochtige theedoek. Laat ongeveer 60 minuten rijzen op een warme, tochtvrije plaats, totdat het deeg duidelijk in volume is toegenomen.",
+    "Verkruimel ondertussen de feta en meng deze met de geraspte mozzarella. Verdeel de kaasvulling in vier gelijke porties.",
+    "Verdeel het gerezen deeg in vier gelijke stukken. Rol ieder stuk op een licht met bloem bestoven werkblad uit tot een ovaal van ongeveer 22 × 13 cm.",
+    "Rol de twee lange zijden van ieder ovaal een stukje naar binnen, zodat verhoogde randen ontstaan. Draai de uiteinden stevig in elkaar om een bootvorm te maken. Leg de vier deegboten op twee met bakpapier beklede bakplaten.",
+    "Verdeel de kaasvulling over de vier deegboten en druk deze voorzichtig aan. Laat de randen vrij. Dek de broden weer af met de licht vochtige theedoek en laat nog ongeveer 15–20 minuten rijzen.",
+    "Verwarm ondertussen de oven voor op 220 °C (boven- en onderwarmte). Bak de khachapuri ongeveer 15–18 minuten, totdat de deegranden goudbruin beginnen te kleuren en de kaas gesmolten is. Wissel indien nodig halverwege de bakplaten van positie.",
+    "Haal de bakplaten voorzichtig uit de oven. Maak met de achterkant van een lepel een kuiltje in het midden van de gesmolten kaas van ieder brood. Breek in ieder kuiltje een ei.",
+    "Zet de khachapuri terug in de oven en bak ze nog ongeveer 5–8 minuten, totdat het eiwit gestold is maar de dooier nog zacht is. Verleng zo nodig de baktijd als je het ei liever steviger hebt.",
+    "Haal de khachapuri uit de oven en leg op ieder brood 10 g roomboter, naast het ei. Laat de boter door de warmte smelten.",
+    "Serveer de khachapuri direct, met de frisse tomaten-komkommersalade ernaast. Meng aan tafel de zachte eidooier en de gesmolten boter door de warme kaas. Scheur stukjes van de broodrand af en doop ze in de romige vulling."
+  ],
+  "weetje": "Khachapuri is een van de bekendste gerechten van Georgië. Het woord is samengesteld uit *khacho*, een traditionele verse kaas, en *puri*, het Georgische woord voor brood. Bijna iedere Georgische regio heeft een eigen variant. In Imereti wordt de kaas in een rond, gesloten brood gebakken, terwijl in Samegrelo ook kaas boven op het brood wordt gestrooid. De meest opvallende variant komt echter uit Adzjarië, aan de Zwarte Zee: de bootvormige *Adjaruli Khachapuri*.\n\nVolgens een populaire overlevering werd deze bijzondere vorm bedacht door de Laz, een volk van vissers en zeevaarders aan de Zwarte Zeekust. De opstaande deegranden stellen een vissersboot voor, de gesmolten kaas symboliseert de zee en de goudgele eidooier de ondergaande zon. De boter die na het bakken wordt toegevoegd, zou voorspoed en een goede oogst symboliseren. Het is een mooi verhaal, al is de precieze historische oorsprong van deze vorm niet met zekerheid bekend.\n\nDe Adjarische khachapuri werd vooral beroemd in de havenstad Batumi. Daar wordt het brood gloeiend heet geserveerd, met een zachte eidooier en een klontje boter in het midden. Aan tafel meng je deze door de gesmolten kaas. Vervolgens scheur je de puntige uiteinden en de randen van het brood af om ze in de romige vulling te dopen. Bestek is daarbij nauwelijks nodig.\n\nKhachapuri is zo belangrijk voor de Georgische eetcultuur dat de traditie van het bereiden ervan in januari 2019 officieel werd erkend als immaterieel cultureel erfgoed van Georgië.\n\nOnze versie volgt de Adjarische traditie met vier bootvormige kaasbroden. Omdat de oorspronkelijke Georgische kazen *imeruli* en *sulguni* in Nederland moeilijk verkrijgbaar zijn, gebruiken we mozzarella en feta. Met een frisse tomaten-komkommersalade erbij maken we er een complete maaltijd van.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
+    "receptTitel": "Khachapuri (Georgian Cheese Bread)",
+    "auteur": "King Arthur Baking – geïnspireerd op",
     "kookboek": null,
-    "url": null
-  }
+    "jaar": null,
+    "url": "https://www.kingarthurbaking.com/recipes/khachapuri-georgian-cheese-bread-recipe"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Get a taste of Khachapuri",
+      "auteur": "Georgia Travel",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://georgia.travel/get-a-taste-of-khachapuri"
+    },
+    {
+      "receptTitel": "Ship and Sun: The Inspiration for Ajarian Khachapuri",
+      "auteur": "Georgia Travel",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://georgia.travel/ship-and-sun-the-inspiration-for-ajarian-khachapuri"
+    },
+    {
+      "receptTitel": "Ajarian Khachapuri",
+      "auteur": "Visit Batumi",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://visitbatumi.com/en/blog/Ajarian-Khachapuri"
+    },
+    {
+      "receptTitel": "Order No. 02/3 (2019), intangible cultural heritage",
+      "auteur": "UNEP LEAP – Georgische erfgoedregistratie",
+      "kookboek": null,
+      "jaar": 2019,
+      "url": "https://leap.unep.org/en/countries/ge/national-legislation/order-no-023-2019-general-director-national-agency-cultural"
+    }
+  ]
 }

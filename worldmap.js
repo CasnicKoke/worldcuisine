@@ -47,14 +47,14 @@ const continenten = {
 	"arabisch-schiereiland": [ "SA", "YE", "Oman", "AE", "QA", "BH", "KW"],
 
 	//Aziatische continent			
-	"rus-eurazie": ["Russian Federation", "BY", "UA", "MD", "EE", "LV", "LT"],
+	"rus-eurazie": ["Russia-Europe", "Russia-Siberia", "Russia-FarEast", "BY", "UA", "MD", "EE", "LV", "LT"],
     kaukasus: [ "AM", "GE", "Azerbaijan"],
-    "china-oost-azie": [ "China", "TW", "KP", "KR"],
+    "china-oost-azie": [ "China-Other", "TW", "KP", "KR"],
     "indo-chinees": [ "VN", "LA", "KH", "TH", "MM"],
     "maleis-indonesisch": [ "Indonesia", "Malaysia", "BN", "TL"],
     filipijns: [ "Philippines"],
     "zuid-aziatisch": [ "IN", "PK", "BD", "LK", "NP", "BT", "MV" ],
-    "centraal-aziatisch": [ "KZ", "UZ", "KG", "TJ", "TM", "MN"],
+    "centraal-aziatisch": [ "KZ", "UZ", "KG", "TJ", "TM", "MN", "China-Xinjiang", "China-InnerMongolia"],
 	japan: [ "Japan"],
 
     //Afrikaanse continent

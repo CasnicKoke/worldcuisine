@@ -1,0 +1,118 @@
+{
+  "sleutel": "khorkhog",
+  "regios": [
+    "centraal-aziatisch"
+  ],
+  "titel": "Khorkhog",
+  "korteBeschrijving": "Mals Mongools lamsvlees met aardappelen, wortelen en ui, langzaam gegaard in de Crock-Pot met knoflook, laurier, komijn, koriander en zwarte peper.",
+  "beschrijving": "Khorkhog is een traditioneel Mongools vleesgerecht waarbij schapen- of geitenvlees samen met groenten en gloeiend hete stenen in een afgesloten vat wordt gegaard. Voor deze moderne thuisvariant gebruiken we de Crock-Pot, waarin grote stukken lamsvlees langzaam mals worden tussen aardappelen, wortelen, ui en knoflook. Een royale hoeveelheid komijn, koriander, zwarte peper en laurier geeft onze versie een krachtiger aroma dan de oorspronkelijke bereiding. Het resultaat is een stevige, geurige lamsstoof, geïnspireerd op de nomadische keuken van de Mongoolse steppen.",
+  "afbeelding": "images/recepten/KhorkhogAI.png",
+  "url": "recepten.html?id=khorkhog",
+  "volgorde": 26,
+  "regioVolgorde": {
+    "centraal-aziatisch": 2
+  },
+  "porties": 4,
+  "bereidingstijdMinuten": 360,
+  "moeilijkheid": "Gemakkelijk",
+  "ingredienten": [
+    "Voor de khorkhog:",
+    "1 kg lamsschouder zonder bot",
+    "600 g vastkokende aardappelen",
+    "400 g wortelen",
+    "2 grote uien",
+    "5 tenen knoflook",
+    "200 ml water",
+    "2 tl zout",
+    "1 el versgemalen zwarte peper",
+    "1 el komijnzaad",
+    "1 el gemalen korianderzaad",
+    "5 laurierblaadjes",
+    "1 el zonnebloemolie"
+  ],
+  "bereiding": [
+    "Snijd de lamsschouder in grote stukken van ongeveer 5 cm. Verwijder eventuele harde zenen, maar laat een deel van het vet zitten voor de smaak.",
+    "Schil de aardappelen en snijd ze in grote stukken van ongeveer 5 cm.",
+    "Schil de wortelen en snijd ze in stukken van ongeveer 5 cm.",
+    "Pel de uien en snijd ze in vieren.",
+    "Pel de knoflooktenen en halveer ze.",
+    "Meng het lamsvlees met het zout, de zwarte peper, het komijnzaad en de gemalen koriander.",
+    "Zet de Crock-Pot op de sauteerstand, indien beschikbaar. Verhit 1 el zonnebloemolie. Gebruik anders een ruime koekenpan op middelhoog tot hoog vuur.",
+    "Bak het lamsvlees in twee porties ongeveer 3 minuten per kant, zodat het rondom lichtbruin wordt. Het hoeft vanbinnen nog niet gaar te zijn.",
+    "Schep het vlees in de binnenpan van de Crock-Pot.",
+    "Verdeel de ui en knoflook over het lamsvlees. Voeg de vijf laurierblaadjes toe.",
+    "Leg de wortelen en aardappelen erbovenop. Houd de groenten in grote stukken, zodat ze tijdens het langzaam garen niet uit elkaar vallen.",
+    "Schenk 200 ml water langs de rand van de pan. Voeg geen extra bouillon toe: het vlees en de groenten geven zelf vocht en smaak af.",
+    "Sluit het deksel en stel de Crock-Pot in op Slow Cook – High, ongeveer 5 uur.",
+    "Laat het gerecht rustig garen zonder tussendoor te roeren. Het lamsvlees moet uiteindelijk zo zacht zijn dat je het gemakkelijk met een vork uit elkaar kunt trekken. Controleer ook of de aardappelen gaar zijn. Verleng de bereiding indien nodig met 30–60 minuten.",
+    "Laat het gerecht na afloop nog 10 minuten rusten met het deksel op de pan.",
+    "Schep het lamsvlees en de groenten voorzichtig op een grote serveerschaal. Verwijder de laurierblaadjes.",
+    "Schenk een paar lepels van het kookvocht over het vlees en de groenten. Serveer de rest van het kookvocht eventueel afzonderlijk.",
+    "Zet de schaal midden op tafel, zodat iedereen zelf vlees en groenten kan opscheppen."
+  ],
+  "weetje": "Khorkhog is nauw verbonden met de nomadische veehouderscultuur van Mongolië, waarvan de wortels duizenden jaren teruggaan. Op de uitgestrekte steppen waren schapen, geiten, paarden en runderen van levensbelang. Vlees en zuivel vormden de basis van het voedsel, terwijl kookgerei en brandstof tijdens het rondtrekken beperkt beschikbaar waren. Een bijzondere oplossing was het garen van vlees met stenen die eerst in een open vuur werden verhit. Deze techniek is onder meer bekend van boodog, waarbij vlees en hete stenen in de vrijwel intacte huid van een geslacht dier werden gestopt. De verwante Khorkhog wordt tegenwoordig bereid in een afgesloten metalen vat, met stukken schapen- of geitenvlees, aardappelen, wortelen en ui.\n\nHoewel de kooktechniek veel ouder is, lijkt Khorkhog in zijn huidige vorm met metalen melkbussen vooral in de twintigste eeuw te zijn ontstaan, toen dergelijke vaten steeds gemakkelijker beschikbaar werden. Het gerecht wordt in het hele land gegeten, vooral tijdens familiefeesten, zomerse bijeenkomsten en uitstapjes naar de steppe. Het bereiden is vaak een gezamenlijke gebeurtenis rond het vuur. Na afloop worden de nog warme, met vet bedekte stenen traditioneel van hand tot hand doorgegeven. Volgens een Mongools volksgeloof zou het vasthouden ervan goed zijn voor de gezondheid en nieuwe energie geven. Zo weerspiegelt Khorkhog niet alleen de vindingrijkheid van de nomadische keuken, maar ook de Mongoolse tradities van gastvrijheid en gezamenlijk eten.",
+  "bron": {
+    "receptTitel": "Mongolian Traditional Food: Khorkhog",
+    "auteur": null,
+    "kookboek": "Export Mongolia (traditionele bereidingswijze)",
+    "url": "https://www.exportmongolia.org/16/art"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Mongolian Traditional Food: Khorkhog",
+      "auteur": null,
+      "kookboek": "Export Mongolia (traditionele bereidingswijze)",
+      "url": "https://www.exportmongolia.org/16/art"
+    },
+    {
+      "receptTitel": "Mongolian Barbecue Khorkhog",
+      "auteur": null,
+      "kookboek": "Steppe Mongolia (traditionele bereidingswijze)",
+      "url": "https://steppe-mongolia.com/discover-mongolia/eatings/mongolian_barbecue_khorkhog"
+    },
+    {
+      "receptTitel": "How to Cook the Top 10 Mongolian Dishes While at Home",
+      "auteur": null,
+      "kookboek": "Discover Mongolia (bereidingsideeën)",
+      "url": "https://www.discovermongolia.mn/blogs/how-to-cook-the-top-10-mongolian-dishes-while-at-home"
+    },
+    {
+      "receptTitel": "Khorkhog Is the Real Mongolian Barbecue",
+      "auteur": null,
+      "kookboek": "KQED (moderne kruidenvariant)",
+      "url": "https://www.kqed.org/arts/13915312/real-mongolian-barbecue-khorkhog-richmond"
+    }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "In Search of Mongolian Barbecue",
+      "auteur": "Daniel C. Waugh",
+      "kookboek": "The Silk Road (2007)",
+      "url": "https://edspace.american.edu/silkroadjournal/wp-content/uploads/sites/984/2017/09/In-Search-of-Mongolian-Barbecue.pdf"
+    },
+    {
+      "receptTitel": "Khorkhog Is the Real Mongolian Barbecue",
+      "auteur": null,
+      "kookboek": "KQED (2022)",
+      "url": "https://www.kqed.org/arts/13915312/real-mongolian-barbecue-khorkhog-richmond"
+    },
+    {
+      "receptTitel": "In Any Crystalline Land",
+      "auteur": null,
+      "kookboek": "University of California (antropologisch onderzoek)",
+      "url": "https://escholarship.org/uc/item/50b6d4w2"
+    },
+    {
+      "receptTitel": "Mongolia's Nomadic Horse Culture",
+      "auteur": null,
+      "kookboek": "Max Planck Institute",
+      "url": "https://www.shh.mpg.de/398736/mongolias-nomadic-horse-culture"
+    },
+    {
+      "receptTitel": "Boodog making",
+      "auteur": null,
+      "kookboek": "International Research Centre for Intangible Cultural Heritage",
+      "url": "https://www.irci.jp/rdb/item/13417"
+    }
+  ]
+}

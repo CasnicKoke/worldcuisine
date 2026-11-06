@@ -4,7 +4,8 @@
     "centraal-aziatisch"
   ],
   "titel": "Plov",
-  "korteBeschrijving": "Centraal-Aziatisch rijstgerecht met mals vlees, wortel, ui en aromatische specerijen.",
+  "korteBeschrijving": "Oezbeekse rijstschotel met mals lamsvlees, wortel, komijn, knoflook en frisse berberisbessen, geserveerd met een eenvoudige tomaten-uiensalade.",
+  "beschrijving": "Plov is een van de bekendste gerechten uit Oezbekistan. Stukken lamsvlees worden samen met ui, wortel en specerijen langzaam gestoofd tot een geurige basis, de zirvak. Daarbovenop wordt rijst gestoomd, die de rijke smaken van het vlees en de groenten opneemt. Hele knoflookbollen geven het gerecht een zacht, zoet aroma, terwijl berberisbessen voor een friszuur accent zorgen. Met een eenvoudige salade van tomaat en rode ui vormt plov een stevige, hartige maaltijd.",
   "afbeelding": "images/recepten/PlovAI.png",
   "url": "recepten.html?id=plov",
   "volgorde": 24,
@@ -12,14 +13,98 @@
     "centraal-aziatisch": 0
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 135,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de plov:",
+    "600 g lamsschouder zonder bot",
+    "400 g basmatirijst",
+    "500 g wortelen",
+    "2 grote uien",
+    "2 bollen knoflook",
+    "80 ml zonnebloemolie",
+    "2 tl komijnzaad",
+    "1 tl gemalen korianderzaad",
+    "1 el gedroogde berberisbessen (zuurbessen, verkrijgbaar bij de toko)",
+    "1 gedroogde rode chilipeper",
+    "Zout, naar smaak",
+    "Kokend water, naar behoefte",
+    "Voor de achichuk (tomaten-uiensalade):",
+    "3 rijpe tomaten",
+    "1 kleine rode ui",
+    "1 el verse koriander, fijngehakt",
+    "Zout, naar smaak"
+  ],
+  "bereiding": [
+    "Spoel de basmatirijst meerdere keren met koud water totdat het spoelwater vrijwel helder is. Zet de rijst vervolgens 30 minuten onder lauwwarm water.",
+    "Snijd de lamsschouder in stukken van ongeveer 4 cm.",
+    "Pel de uien en snijd ze in dunne halve ringen.",
+    "Schil de wortelen en snijd ze in reepjes van ongeveer 5 cm lang en 5 mm dik. Rasp de wortelen niet: de stevige reepjes zijn kenmerkend voor plov.",
+    "Verwijder de losse buitenste schil van de knoflookbollen, maar laat de bodem van de bollen en de afzonderlijke tenen intact.",
+    "Verhit de zonnebloemolie in een grote, zware braadpan op middelhoog tot hoog vuur.",
+    "Voeg de uien toe en bak ze in ongeveer 8 minuten diep goudbruin. Roer regelmatig.",
+    "Voeg de stukken lamsvlees toe en bak ze in ongeveer 6–8 minuten rondom bruin.",
+    "Voeg de wortelreepjes toe en bak ongeveer 8 minuten mee, totdat ze iets zachter worden maar nog stevig zijn.",
+    "Voeg het komijnzaad, de gemalen koriander, berberisbessen en gedroogde chilipeper toe. Bestrooi met zout.",
+    "Schenk zoveel kokend water in de pan dat het vlees en de groenten net onderstaan. Steek de knoflookbollen tussen het vlees en de groenten.",
+    "Breng aan de kook, draai het vuur laag en laat de zirvak zonder deksel ongeveer 40 minuten zachtjes sudderen. Het lamsvlees moet al behoorlijk mals worden en de bouillon krijgt een rijke smaak.",
+    "Haal de knoflookbollen voorzichtig uit de pan en leg ze tijdelijk apart.",
+    "Giet de geweekte rijst af en verdeel deze voorzichtig in een gelijkmatige laag over het vlees en de groenten. Roer de rijst niet door de zirvak.",
+    "Schenk indien nodig voorzichtig extra kokend water langs de rand van de pan, totdat het vocht ongeveer 1 cm boven de rijst staat. Proef het vocht en voeg eventueel zout toe.",
+    "Breng op middelhoog tot hoog vuur aan de kook, zonder deksel. Laat het water ongeveer 8–12 minuten verdampen totdat er geen vrij water meer boven de rijst staat. Roer niet.",
+    "Zet de knoflookbollen terug in de rijst. Schuif de rijst voorzichtig naar het midden tot een lichte heuvel, zonder de rijst met het vlees te vermengen.",
+    "Prik met de steel van een houten lepel enkele gaten door de rijst tot aan de bodem van de pan. Hierdoor kan de stoom beter circuleren.",
+    "Zet het vuur zo laag mogelijk en plaats het deksel stevig op de pan. Laat de plov 20–25 minuten zachtjes stomen, totdat de rijst gaar is. Controleer tegen het einde of de bodem niet droogkookt.",
+    "Zet het vuur uit en laat de plov nog 10 minuten afgedekt rusten.",
+    "Snijd de tomaten in dunne partjes en de rode ui in flinterdunne halve ringen. Meng met de fijngehakte koriander en zout naar smaak.",
+    "Haal de knoflookbollen uit de plov. Schep de rijst, wortelen en het lamsvlees voorzichtig vanaf de bodem door elkaar.",
+    "Schep de plov op een grote serveerschaal en leg de zachte knoflookbollen bovenop. Serveer met de frisse tomaten-uiensalade."
+  ],
+  "weetje": "Plov, in Oezbekistan ook palov of osh genoemd, behoort tot een eeuwenoude familie van rijstgerechten die zich vanuit West- en Centraal-Azië over grote delen van de wereld verspreidde. De namen plov, pilav, pilaf, pilau en het Perzische polow zijn taalkundig verwant. Via handelsroutes, migratie en de uitwisseling tussen Perzische, Turkse en Centraal-Aziatische culturen ontwikkelden zich talloze regionale varianten, waaronder de Turkse pilav en de Indiase pulao. In Oezbekistan groeide plov uit tot veel meer dan een dagelijkse maaltijd. Het gerecht wordt traditioneel bereid in een grote ketel, de kazan, en speelt een centrale rol bij bruiloften, religieuze feesten, familiebijeenkomsten en herdenkingen. Bij grote vieringen bereiden gespecialiseerde koks, oshpaz, enorme hoeveelheden plov voor honderden gasten. Ook binnen Oezbekistan bestaan verschillende tradities: de plov uit Samarkand wordt bijvoorbeeld vaak in afzonderlijke lagen geserveerd, terwijl die uit de Ferganavallei doorgaans donkerder en rijker is. Het gerecht staat symbool voor gastvrijheid, saamhorigheid en het doorgeven van culinaire kennis. Sinds 2016 staat de Oezbeekse palovcultuur op de UNESCO-lijst van immaterieel cultureel erfgoed.\n\nVolgens een Oezbeekse legende werd de beroemde Perzische arts en geleerde Ibn Sina (Avicenna, circa 980–1037) eens ontboden om een jonge prins te behandelen. De prins was ernstig verzwakt, maar Ibn Sina ontdekte dat hij niet aan een lichamelijke ziekte leed: hij was hopeloos verliefd. Om hem weer op krachten te brengen, schreef de geleerde een voedzame maaltijd voor van rijst, vlees, wortelen en geurige specerijen: plov. De prins herstelde en kon uiteindelijk met zijn geliefde trouwen. Het verhaal is een volkslegende, geen historisch vastgestelde gebeurtenis, maar laat mooi zien hoe plov in Centraal-Azië wordt geassocieerd met kracht, gezondheid en levensgeluk.",
   "bron": {
-    "receptTitel": null,
+    "receptTitel": "Plov (Osh)",
     "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "kookboek": "Explore Uzbekistan (receptenwebsite)",
+    "url": "https://exploreuzbekistan.uz/en/recipes/plov/"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Plov (Osh)",
+      "auteur": null,
+      "kookboek": "Explore Uzbekistan (receptenwebsite)",
+      "url": "https://exploreuzbekistan.uz/en/recipes/plov/"
+    },
+    {
+      "receptTitel": "An Uzbek Plov",
+      "auteur": "Anna Ansari",
+      "kookboek": "Taste Canada (receptenwebsite)",
+      "url": "https://tastecanada.org/an-uzbek-plov/"
+    }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "Palov culture and tradition",
+      "auteur": null,
+      "kookboek": "UNESCO",
+      "url": "https://ich.unesco.org/en/RL/palov-culture-and-tradition-01166"
+    },
+    {
+      "receptTitel": "Pilaf",
+      "auteur": "Alan Davidson",
+      "kookboek": "The Oxford Companion to Food",
+      "url": "https://app.ckbk.com/reference/food77337c16s001e191/pilaf"
+    },
+    {
+      "receptTitel": "Everything you need to know about plov",
+      "auteur": null,
+      "kookboek": "National Geographic",
+      "url": "https://www.nationalgeographic.com/travel/article/everything-you-need-to-know-about-plov"
+    },
+    {
+      "receptTitel": "Pilaf, the Head of Everything",
+      "auteur": null,
+      "kookboek": "Uzbekistan Travel",
+      "url": "https://uzbekistan.travel/en/o/pilaf-the-head-of-everything/"
+    }
+  ]
 }

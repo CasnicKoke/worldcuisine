@@ -233,7 +233,7 @@
     },
     "plov": {
       "titel": "Plov",
-      "korteBeschrijving": "Centraal-Aziatisch rijstgerecht met mals vlees, wortel, ui en aromatische specerijen.",
+      "korteBeschrijving": "Oezbeekse rijstschotel met mals lamsvlees, wortel, komijn, knoflook en frisse berberisbessen, geserveerd met een eenvoudige tomaten-uiensalade.",
       "afbeelding": "images/recepten/PlovAI.png",
       "url": "recepten.html?id=plov",
       "regios": [
@@ -243,7 +243,7 @@
     },
     "lagman": {
       "titel": "Lagman",
-      "korteBeschrijving": "Stevige noedelschotel met vlees, paprika, tomaat en groenten in een kruidige saus.",
+      "korteBeschrijving": "Lange tarwenoedels met mals lamsvlees, paprika, tomaat en groenten in een kruidige saus van komijn, knoflook, gember en chilipeper.",
       "afbeelding": "images/recepten/LagmanAI.png",
       "url": "recepten.html?id=lagman",
       "regios": [
@@ -251,25 +251,25 @@
       ],
       "bestand": "data/recepten/lagman.json"
     },
-    "manty": {
-      "titel": "Manty",
-      "korteBeschrijving": "Gestoomde deegpakketjes gevuld met gekruid vlees en ui, vaak geserveerd met yoghurt.",
-      "afbeelding": "images/recepten/MantyAI.png",
-      "url": "recepten.html?id=manty",
+    "khorkhog": {
+      "titel": "Khorkhog",
+      "korteBeschrijving": "Mals Mongools lamsvlees met aardappelen, wortelen en ui, langzaam gegaard in de Crock-Pot met knoflook, laurier, komijn, koriander en zwarte peper.",
+      "afbeelding": "images/recepten/KhorkhogAI.png",
+      "url": "recepten.html?id=khorkhog",
       "regios": [
         "centraal-aziatisch"
       ],
-      "bestand": "data/recepten/manty.json"
+      "bestand": "data/recepten/khorkhog.json"
     },
-    "shashlik": {
-      "titel": "Shashlik",
-      "korteBeschrijving": "Gegrilde vleesspiesjes, gemarineerd met ui en kruiden en geroosterd boven open vuur.",
-      "afbeelding": "images/recepten/ShashlikAI.png",
-      "url": "recepten.html?id=shashlik",
+    "dimlama": {
+      "titel": "Dimlama",
+      "korteBeschrijving": "Een geurige Oezbeekse stoofschotel van rundvlees, aardappelen, paprika, aubergine, wortel en kool, langzaam gegaard in het eigen groentevocht met komijn, knoflook en verse kruiden.",
+      "afbeelding": "images/recepten/DimlamaAI.png",
+      "url": "recepten.html?id=dimlama",
       "regios": [
         "centraal-aziatisch"
       ],
-      "bestand": "data/recepten/shashlik.json"
+      "bestand": "data/recepten/dimlama.json"
     },
     "meenMoilee": {
       "titel": "Meen Moilee",

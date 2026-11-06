@@ -169,9 +169,16 @@ function toonRecept(data) {
     artikel.append(kader);
   }
   
-  const bron = bronVermelding(data.bron, 'recept');
-  if (bron) artikel.append(bron);
-  // Aanvullende bronnen, naast de bestaande hoofdbron.
+  // Receptbronnen: nieuw formaat krijgt voorrang; oude recepten blijven werken.
+  const receptBronnen = Array.isArray(data.receptBronnen) && data.receptBronnen.length
+    ? data.receptBronnen
+    : (data.bron ? [data.bron] : []);
+  receptBronnen.forEach(bronData => {
+    const bron = bronVermelding(bronData, 'recept');
+    if (bron) artikel.append(bron);
+  });
+
+  // Historische en andere aanvullende bronnen apart weergeven.
   if (Array.isArray(data.extraBronnen)) {
     data.extraBronnen.forEach(bronData => {
       const extra = bronVermelding(bronData, 'aanvullend');

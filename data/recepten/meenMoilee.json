@@ -1,0 +1,106 @@
+{
+  "sleutel": "meenMoilee",
+  "regios": [
+    "zuid-aziatisch"
+  ],
+  "titel": "Meen Moilee",
+  "korteBeschrijving": "Malse zeebaarsfilet in een zachte, aromatische curry van kokosmelk, gember, groene chilipepers en curryblaadjes, geserveerd met geurige basmatirijst.",
+  "beschrijving": "Meen Moilee is een milde viscurry uit Kerala, aan de zuidwestkust van India. Stukken zeebaars worden voorzichtig gegaard in een romige saus van kokosmelk, gember, knoflook, groene chilipepers en aromatische specerijen. De kurkuma geeft de curry zijn warme, goudgele kleur, terwijl limoen voor een frisse toets zorgt. Geserveerd met basmatirijst is het een lichte, geurige maaltijd waarin de delicate smaak van de vis centraal staat.",
+  "afbeelding": "images/recepten/MeenMoileeAI.png",
+  "url": "recepten.html?id=meenMoilee",
+  "volgorde": 28,
+  "regioVolgorde": {
+    "zuid-aziatisch": 4
+  },
+  "porties": 4,
+  "bereidingstijdMinuten": 40,
+  "moeilijkheid": "Gemakkelijk",
+  "ingredienten": [
+    "Voor de viscurry:",
+    "600 g zeebaarsfilet",
+    "400 ml kokosmelk",
+    "1 grote ui",
+    "1 grote tomaat",
+    "4 tenen knoflook",
+    "4 cm verse gember",
+    "2 groene chilipepers",
+    "10 verse curryblaadjes (karapincha)",
+    "1 tl zwart mosterdzaad",
+    "1 tl kurkuma",
+    "1 tl zwarte peper",
+    "4 groene kardemompeulen",
+    "2 el kokosolie",
+    "1 limoen",
+    "100 ml water",
+    "Zout naar smaak",
+    "Voor erbij:",
+    "300 g basmatirijst",
+    "2 el verse koriander, ter garnering"
+  ],
+  "bereiding": [
+    "Snijd de zeebaarsfilet in grote stukken van ongeveer 4–5 cm. Dep ze droog met keukenpapier.",
+    "Meng de vis met 1 tl kurkuma, 1 tl zwarte peper, wat zout en het sap van een halve limoen. Laat 10 minuten marineren.",
+    "Pel de ui en snijd deze in dunne halve ringen. Snijd de tomaat in partjes.",
+    "Pel en hak de knoflook fijn. Schil de gember en snijd deze in dunne reepjes. Halveer de groene chilipepers in de lengte, maar laat de zaadlijsten zitten.",
+    "Kneus de kardemompeulen licht met de platte kant van een mes.",
+    "Spoel de basmatirijst en kook deze volgens de aanwijzingen op de verpakking.",
+    "Verhit de kokosolie in een ruime hapjespan op middelhoog vuur. Voeg het mosterdzaad toe en laat ongeveer 30 seconden poffen.",
+    "Voeg de kardemompeulen en curryblaadjes toe en bak ongeveer 30 seconden mee.",
+    "Voeg de ui toe en bak 4–5 minuten tot deze zacht en glazig is, zonder bruin te worden.",
+    "Voeg de knoflook, gember en groene chilipepers toe en bak ongeveer 2 minuten mee.",
+    "Voeg de tomaat toe en bak 2 minuten mee.",
+    "Schenk 200 ml kokosmelk en 100 ml water in de pan. Breng zachtjes aan de kook en laat 3 minuten pruttelen.",
+    "Leg de stukken vis voorzichtig in de saus. Zet het vuur laag en laat de vis met het deksel op de pan ongeveer 6–8 minuten zachtjes garen, afhankelijk van de dikte. De vis moet net gaar zijn en gemakkelijk uit elkaar vallen.",
+    "Schenk de resterende 200 ml kokosmelk erbij. Beweeg de pan voorzichtig heen en weer om de saus te mengen, zonder de vis te breken.",
+    "Verwarm nog 2 minuten op laag vuur, zonder de saus krachtig te laten koken.",
+    "Proef de saus en voeg eventueel wat zout en het resterende limoensap toe.",
+    "Hak de koriander fijn. Serveer de Meen Moilee met basmatirijst en garneer met de koriander."
+  ],
+  "weetje": "Meen Moilee weerspiegelt de bijzondere culinaire geschiedenis van Kerala, aan de Malabarkust van India. Al in de oudheid was deze kust een belangrijk centrum van de specerijenhandel, vooral vanwege de kostbare zwarte peper. Arabische, Chinese en later Europese handelaren bezochten de havensteden, waar lokale en buitenlandse kooktradities elkaar beïnvloedden. In 1498 bereikte de Portugese ontdekkingsreiziger Vasco da Gama de kust bij Calicut, waarna de Europese invloed verder toenam. Meen Moilee wordt vooral geassocieerd met de keuken van de eeuwenoude christelijke gemeenschappen van Kerala. De milde viscurry combineert twee kenmerkende producten van de streek: verse zeevis en kokosmelk. Ook de naam vertelt mogelijk iets over de internationale contacten: volgens een taalkundige verklaring is moilee afgeleid van het Portugese molho, dat saus betekent. De precieze oorsprong van het gerecht is echter niet met zekerheid bekend. Meen Moilee is daarmee een mooi voorbeeld van hoe de eeuwenlange handel over de Indische Oceaan de keuken van Zuid-India heeft gevormd.",
+  "bron": {
+    "receptTitel": "Kerala Fish Moilee",
+    "auteur": "Maunika Gowardhan",
+    "kookboek": "Olive Magazine (receptenwebsite)",
+    "url": "https://www.olivemagazine.com/recipes/fish-and-seafood/kerala-fish-moilee/"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Kerala Fish Moilee",
+      "auteur": "Maunika Gowardhan",
+      "kookboek": "Olive Magazine (receptenwebsite)",
+      "url": "https://www.olivemagazine.com/recipes/fish-and-seafood/kerala-fish-moilee/"
+    },
+    {
+      "receptTitel": "Kerala Fish Moliee",
+      "auteur": null,
+      "kookboek": "Kerala Tourism (receptenwebsite)",
+      "url": "https://www.keralatourism.org/kerala-food/kerala-fish-moliee/152/"
+    }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "Spice Route",
+      "auteur": null,
+      "kookboek": "Kerala Tourism",
+      "url": "https://www.keralatourism.org/muziris/muziris-project/spice-route"
+    },
+    {
+      "receptTitel": "The Profits of Pepper",
+      "auteur": "Chris Wickham",
+      "kookboek": "Economic History Review (2026)",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/ehr.70125"
+    },
+    {
+      "receptTitel": "Christian Cuisine",
+      "auteur": null,
+      "kookboek": "Kerala Tourism",
+      "url": "https://www.keralatourism.org/christianity/cuisine/32"
+    },
+    {
+      "receptTitel": "Creole Indias",
+      "auteur": "Ananya Jahanara Kabir",
+      "kookboek": "King’s College London",
+      "url": "https://kclpure.kcl.ac.uk/portal/files/175095573/Kabir_Creole_Indias_.pdf"
+    }
+  ]
+}

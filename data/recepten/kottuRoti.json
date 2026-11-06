@@ -4,7 +4,8 @@
     "zuid-aziatisch"
   ],
   "titel": "Kottu Roti",
-  "korteBeschrijving": "Sri Lankaanse roerbakschotel van fijngehakte roti, groenten, ei en kruidige smaakmakers.",
+  "korteBeschrijving": "Fijngehakte Sri Lankaanse godamba-roti, geroerbakt met kruidige kipcurry, groenten en ei, geserveerd met limoen.",
+  "beschrijving": "Kottu Roti is een geliefd Sri Lankaans streetfoodgerecht waarbij dun, zelfgemaakt godamba-platbrood in kleine stukjes wordt gehakt en op hoog vuur geroerbakt met groenten, ei en een geurige kipcurry. De stukjes brood nemen de kruidige saus op en blijven heerlijk sappig, terwijl wortel, prei en witte kool voor beet zorgen. Een partje limoen geeft het gerecht een frisse afwerking.",
   "afbeelding": "images/recepten/KottuRotiAI.png",
   "url": "recepten.html?id=kottuRoti",
   "volgorde": 31,
@@ -12,14 +13,112 @@
     "zuid-aziatisch": 3
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 105,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor 6 godamba-roti:",
+    "300 g tarwebloem",
+    "180 ml lauwwarm water",
+    "1 tl zout",
+    "3 el zonnebloemolie",
+    "Extra zonnebloemolie voor het werkblad en eventueel het bakken",
+    "Voor de kipcurry:",
+    "400 g kippendijenfilet",
+    "1 grote ui",
+    "1 tomaat",
+    "4 tenen knoflook",
+    "3 cm verse gember",
+    "2 groene chilipepers",
+    "10 verse curryblaadjes (karapincha; geen djeroek poeroet)",
+    "1 kaneelstokje van ongeveer 5 cm",
+    "2 tl Sri Lankaans geroosterd currypoeder (thuna paha)",
+    "1 tl kurkuma",
+    "1 tl chilipoeder",
+    "1 tl zwarte peper",
+    "150 ml kokosmelk",
+    "100 ml kippenbouillon",
+    "1 el zonnebloemolie",
+    "Zout, naar smaak",
+    "Voor de groenten en afwerking:",
+    "3 eieren",
+    "1 wortel",
+    "1 kleine prei",
+    "150 g witte kool",
+    "1 el zonnebloemolie",
+    "1 limoen"
+  ],
+  "bereiding": [
+    "Meng de tarwebloem en het zout. Voeg 180 ml lauwwarm water en 1 el zonnebloemolie toe.",
+    "Kneed het deeg met een keukenmachine met deeghaak ongeveer 8 minuten tot een glad, zacht en elastisch deeg.",
+    "Verdeel het deeg in 6 bolletjes. Bestrijk ze rondom met de resterende 2 el olie. Dek af en laat 45 minuten rusten op kamertemperatuur.",
+    "Vet het werkblad licht in. Rol elk deegbolletje met een deegroller zo dun mogelijk uit. Trek het deeg vervolgens voorzichtig met de handen verder uit tot een bijna doorschijnende lap. Vouw de randen naar binnen tot een vierkant. Zorg dat het vierkant klein genoeg is om in de koekenpan te passen.",
+    "Verhit een grote koekenpan op middelhoog vuur. Bak iedere roti ongeveer 1–2 minuten per kant tot er lichtbruine plekken ontstaan. Houd de broden soepel.",
+    "Laat de roti afkoelen. Snijd de broden in reepjes van ongeveer 1 cm breed en vervolgens in stukjes van 3 cm lang.",
+    "Snijd de kippendijenfilet in stukjes van ongeveer 2 cm. Meng met het Sri Lankaanse geroosterde currypoeder, de kurkuma, het chilipoeder, de zwarte peper en wat zout.",
+    "Pel en snipper de ui. Snijd de tomaat in kleine blokjes.",
+    "Pel de knoflook, schil de gember en verwijder de steeltjes van de twee groene chilipepers. Snijd alles grof en maal met een klein scheutje van de voor de curry afgemeten zonnebloemolie in de keukenmachine tot een grove boemboe.",
+    "Verhit de resterende zonnebloemolie voor de curry in een hapjespan op middelhoog vuur. Voeg de curryblaadjes (karapincha) en het kaneelstokje toe en bak ongeveer 30 seconden tot de aroma’s vrijkomen.",
+    "Voeg de gesnipperde ui toe en bak ongeveer 4 minuten tot deze zacht en licht goudbruin is.",
+    "Voeg de boemboe toe en bak 2 minuten mee. Roer regelmatig zodat de knoflook niet verbrandt.",
+    "Voeg de gekruide kip toe en bak ongeveer 4 minuten totdat de buitenkant rondom lichtbruin is.",
+    "Voeg de tomaat toe en bak 2 minuten mee.",
+    "Schenk de kippenbouillon en kokosmelk erbij. Roer goed door en breng zachtjes aan de kook.",
+    "Laat de curry met het deksel schuin op de pan ongeveer 20 minuten zachtjes sudderen. Roer af en toe. De kip moet volledig gaar zijn en de saus iets ingedikt, maar nog voldoende vloeibaar om straks de roti te bevochtigen.",
+    "Verwijder het kaneelstokje. Proef de curry en voeg eventueel zout toe. Zet apart.",
+    "Schil de wortel en snijd hem in dunne reepjes. Maak de prei schoon en snijd hem in dunne halve ringen. Snijd de witte kool in fijne reepjes.",
+    "Verhit 1 el zonnebloemolie in een grote wok of hapjespan op middelhoog tot hoog vuur.",
+    "Voeg de wortel, prei en witte kool toe en roerbak ongeveer 4 minuten, zodat ze iets zachter worden maar nog beet hebben.",
+    "Schuif de groenten naar één kant. Breek de eieren aan de andere kant van de pan en roer ze tot grove stukjes gestold ei. Meng vervolgens door de groenten.",
+    "Voeg de kipcurry met de saus toe aan de groenten en eieren. Schep alles goed door elkaar.",
+    "Voeg de gesneden godamba-roti toe. Zet het vuur hoog en schep en hak het mengsel ongeveer 3–5 minuten met twee spatels, zodat alle stukjes roti de currysaus opnemen.",
+    "Controleer de structuur. De roti moet zacht en sappig zijn, maar niet doorweekt. Voeg eventueel een scheutje water toe als het mengsel te droog wordt.",
+    "Snijd de limoen in partjes en serveer de Kottu Roti onmiddellijk met de limoen ernaast."
+  ],
+  "weetje": "Kottu Roti is een relatief jong gerecht uit Sri Lanka, dat volgens gangbare historische beschrijvingen waarschijnlijk in de jaren zeventig ontstond rond Batticaloa aan de oostkust. In kleine eetgelegenheden werd overgebleven godamba-roti, een dun en soepel tarweplatbrood, fijngehakt en op een hete bakplaat geroerbakt met groenten, ei en restjes curry. Het ritmische gekletter van twee metalen spatels werd het handelsmerk van de straatverkopers. Vanuit het oosten verspreidde Kottu Roti zich naar Colombo en groeide het uit tot een van de populairste streetfoodgerechten van Sri Lanka. Godamba-roti is verwant aan de paratha- en parotta-broden van het Indiase subcontinent. Daarmee bestaat ook een historische verbinding met de roti uit de Surinaamse keuken: die kwam vanaf 1873 met Hindostaanse contractarbeiders vanuit Brits-Indië naar Suriname en ontwikkelde zich daar tot een eigen culinaire traditie. Waar Surinaamse roti doorgaans als groot platbrood bij een curry wordt gegeten en soms met gele spliterwten wordt gevuld, wordt Sri Lankaanse godamba-roti juist in kleine stukjes gehakt en door een curry geroerbakt. Beide gerechten hebben wortels in de bredere Zuid-Aziatische platbroodtraditie, zonder dat een directe afstammingslijn tussen deze twee soorten roti is aangetoond.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Sri Lankan Chicken Kottu Roti",
+    "auteur": "Dini Kodippili",
+    "kookboek": "The Flavor Bender (receptenwebsite)",
+    "url": "https://www.theflavorbender.com/sri-lankan-chicken-kottu-roti-koththu/"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Sri Lankan Chicken Kottu Roti",
+      "auteur": "Dini Kodippili",
+      "kookboek": "The Flavor Bender (receptenwebsite)",
+      "url": "https://www.theflavorbender.com/sri-lankan-chicken-kottu-roti-koththu/"
+    },
+    {
+      "receptTitel": "Sri Lankan Chicken Curry (vergelijkbare bereiding)",
+      "auteur": null,
+      "kookboek": "Hungry Lankan (receptenwebsite)",
+      "url": "https://www.hungrylankan.com/recipes/sri-lankan-chicken-curry/"
+    }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "For Sri Lankans, ‘koththu roti’ sounds like freedom and an echo of home",
+      "auteur": "Marwaan Macan-Makar",
+      "kookboek": "Daily FT / Nikkei Asian Review (2016)",
+      "url": "https://www.ft.lk/article/578278/For-Sri-Lankans--%E2%80%98koththu-roti%E2%80%99-sounds-like-freedom-and-an-echo-of-home"
+    },
+    {
+      "receptTitel": "Muslim contribution to Sri Lankan culture",
+      "auteur": null,
+      "kookboek": "Daily Mirror (2017)",
+      "url": "https://www.dailymirror.lk/News-Features/Muslim-contribution-to-Sri-Lankan-culture/131-135865"
+    },
+    {
+      "receptTitel": "Hindostaanse contractarbeiders in Suriname 1873–1916",
+      "auteur": "Nationaal Archief",
+      "kookboek": "Nationaal Archief",
+      "url": "https://www.nationaalarchief.nl/onderzoeken/zoekhulpen/hindostaanse-contractarbeiders-in-suriname-1873-1916"
+    },
+    {
+      "receptTitel": "Hindostanen",
+      "auteur": "Surinaams Museum",
+      "kookboek": "Surinaams Museum",
+      "url": "https://www.surinaamsmuseum.net/hindostanen/"
+    }
+  ]
 }

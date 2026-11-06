@@ -271,39 +271,39 @@
       ],
       "bestand": "data/recepten/shashlik.json"
     },
-    "biryani": {
-      "titel": "Biryani",
-      "korteBeschrijving": "Aromatische rijstschotel met specerijen, saffraan en mals vlees of groenten.",
-      "afbeelding": "images/recepten/BiryaniAI.png",
-      "url": "recepten.html?id=biryani",
+    "meenMoilee": {
+      "titel": "Meen Moilee",
+      "korteBeschrijving": "Malse zeebaarsfilet in een zachte, aromatische curry van kokosmelk, gember, groene chilipepers en curryblaadjes, geserveerd met geurige basmatirijst.",
+      "afbeelding": "images/recepten/MeenMoileeAI.png",
+      "url": "recepten.html?id=meenMoilee",
       "regios": [
         "zuid-aziatisch"
       ],
-      "bestand": "data/recepten/biryani.json"
+      "bestand": "data/recepten/meenMoilee.json"
     },
-    "masalaDosa": {
-      "titel": "Masala Dosa",
-      "korteBeschrijving": "Knapperige Zuid-Indiase pannenkoek van rijst en linzen, gevuld met gekruide aardappel.",
-      "afbeelding": "images/recepten/MasalaDosaAI.png",
-      "url": "recepten.html?id=masalaDosa",
+    "hyderabadiBiryani": {
+      "titel": "Hyderabadi Biryani",
+      "korteBeschrijving": "Geurige Hyderabadi biryani met malse kip, saffraan, basmatirijst, gebakken uien en Indiase specerijen, langzaam gegaard in een afgesloten pan en geserveerd met frisse komkommerraita.",
+      "afbeelding": "images/recepten/HyderabadiBiryaniAI.png",
+      "url": "recepten.html?id=hyderabadiBiryani",
       "regios": [
         "zuid-aziatisch"
       ],
-      "bestand": "data/recepten/masalaDosa.json"
+      "bestand": "data/recepten/hyderabadiBiryani.json"
     },
-    "momo": {
-      "titel": "Momo",
-      "korteBeschrijving": "Gestoomde Himalaya-dumplings, gevuld met gekruid vlees of groenten en geserveerd met saus.",
-      "afbeelding": "images/recepten/MomoAI.png",
-      "url": "recepten.html?id=momo",
+    "palakPaneer": {
+      "titel": "Palak Paneer",
+      "korteBeschrijving": "Zachte blokjes Indiase paneerkaas in een romige, kruidige spinaziesaus, geserveerd met basmatirijst en versgebakken naanbrood.",
+      "afbeelding": "images/recepten/PalakPaneerAI.png",
+      "url": "recepten.html?id=palakPaneer",
       "regios": [
         "zuid-aziatisch"
       ],
-      "bestand": "data/recepten/momo.json"
+      "bestand": "data/recepten/palakPaneer.json"
     },
     "kottuRoti": {
       "titel": "Kottu Roti",
-      "korteBeschrijving": "Sri Lankaanse roerbakschotel van fijngehakte roti, groenten, ei en kruidige smaakmakers.",
+      "korteBeschrijving": "Fijngehakte Sri Lankaanse godamba-roti, geroerbakt met kruidige kipcurry, groenten en ei, geserveerd met limoen.",
       "afbeelding": "images/recepten/KottuRotiAI.png",
       "url": "recepten.html?id=kottuRoti",
       "regios": [

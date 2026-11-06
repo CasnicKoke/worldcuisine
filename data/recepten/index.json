@@ -491,15 +491,15 @@
       ],
       "bestand": "data/recepten/mandi.json"
     },
-    "harees": {
-      "titel": "Harees",
-      "korteBeschrijving": "Romig hartig gerecht van tarwe en vlees, langzaam gekookt tot een zachte papachtige structuur.",
-      "afbeelding": "images/recepten/HareesAI.png",
-      "url": "recepten.html?id=harees",
+    "saloonaSamak": {
+      "titel": "Saloona samak met witvis",
+      "korteBeschrijving": "Emiratische visstoofpot met malse witvis, tomaat, courgette, wortel, aardappel en gedroogde limoen, geserveerd met warm Libanees platbrood.",
+      "afbeelding": "images/recepten/SaloonaSamakAI.png",
+      "url": "recepten.html?id=saloonaSamak",
       "regios": [
         "arabisch-schiereiland"
       ],
-      "bestand": "data/recepten/harees.json"
+      "bestand": "data/recepten/saloonaSamak.json"
     },
     "machboos": {
       "titel": "Machboos",

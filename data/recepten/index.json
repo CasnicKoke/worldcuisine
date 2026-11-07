@@ -152,8 +152,8 @@
       "bestand": "data/recepten/okonomiyaki.json"
     },
     "adobo": {
-      "titel": "Adobo",
-      "korteBeschrijving": "Filipijns stoofgerecht van kippenvlees gemarineerd in azijn, sojasaus en knoflook.",
+      "titel": "Adobong Manok",
+      "korteBeschrijving": "Malse Filipijnse kip gestoofd in een geurige saus van rijstazijn, sojasaus, knoflook, laurier en zwarte peper, geserveerd met jasmijnrijst en frisse komkommer.",
       "afbeelding": "images/recepten/AdoboAI.webp",
       "url": "recepten.html?id=adobo",
       "regios": [

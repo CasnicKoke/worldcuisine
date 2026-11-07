@@ -1,10 +1,12 @@
+
 {
   "sleutel": "adobo",
   "regios": [
     "filipijns"
   ],
-  "titel": "Adobo",
-  "korteBeschrijving": "Filipijns stoofgerecht van kippenvlees gemarineerd in azijn, sojasaus en knoflook.",
+  "titel": "Adobong Manok",
+  "korteBeschrijving": "Malse Filipijnse kip gestoofd in een geurige saus van rijstazijn, sojasaus, knoflook, laurier en zwarte peper, geserveerd met jasmijnrijst en frisse komkommer.",
+  "beschrijving": "Adobong Manok is een van de bekendste gerechten uit de Filipijnse keuken. Kippendijfilet wordt gemarineerd in rijstazijn, sojasaus, knoflook, laurier en zwarte peper, vervolgens goudbruin gebakken en langzaam gaar gestoofd. De marinade wordt ingekookt tot een donkere, glanzende saus waarin hartige, zure en lichtzoete smaken samenkomen. We serveren de kip met jasmijnrijst, komkommer en lente-ui. Door het gebruik van kippendijfilet blijft het vlees heerlijk sappig.",
   "afbeelding": "images/recepten/AdoboAI.webp",
   "url": "recepten.html?id=adobo",
   "volgorde": 16,
@@ -12,14 +14,93 @@
     "filipijns": 0
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 60,
+  "moeilijkheid": "Gemakkelijk",
+  "ingredienten": [
+    "Voor de kip:",
+    "600 g kippendijfilet, zonder bot en vel",
+    "60 ml lichte sojasaus",
+    "80 ml ongekruide rijstazijn",
+    "8 tenen knoflook",
+    "4 laurierblaadjes",
+    "1 el zwarte peperkorrels",
+    "1 grote ui",
+    "2 el zonnebloemolie",
+    "100 ml water",
+    "1 el donkere basterdsuiker",
+    "Voor de bijgerechten:",
+    "300 g jasmijnrijst",
+    "450 ml water",
+    "1 komkommer",
+    "2 lente-uitjes"
+  ],
+  "bereiding": [
+    "Pel de knoflooktenen en kneus ze met de platte kant van een mes. Kneus ook de zwarte peperkorrels licht, bijvoorbeeld met de onderkant van een steelpan.",
+    "Meng in een ruime kom de sojasaus, rijstazijn, knoflook, peperkorrels en laurierblaadjes.",
+    "Leg de kippendijfilets in de marinade en schep om zodat ze rondom bedekt zijn. Dek af en laat 1 uur in de koelkast marineren. Keer de kip halverwege.",
+    "Haal de kip uit de marinade en dep de buitenkant voorzichtig droog met keukenpapier. Bewaar alle marinade, inclusief de knoflook, peperkorrels en laurierblaadjes.",
+    "Pel de ui en snijd hem in dunne halve ringen.",
+    "Verhit de zonnebloemolie in een ruime stoofpan op middelhoog tot hoog vuur.",
+    "Bak de kippendijfilets ongeveer 2–3 minuten per kant, totdat ze licht goudbruin zijn. Bak indien nodig in twee porties. De kip hoeft nog niet gaar te zijn. Haal uit de pan en zet apart.",
+    "Zet het vuur middelhoog en bak de ui ongeveer 3 minuten in het achtergebleven bakvet, totdat hij zacht begint te worden.",
+    "Leg de kippendijfilets terug in de pan en schenk de bewaarde marinade en 100 ml water erbij. Voeg de basterdsuiker toe.",
+    "Breng het geheel aan de kook en laat de saus ongeveer 3 minuten zachtjes doorkoken, zonder te roeren.",
+    "Zet het vuur laag, doe het deksel op de pan en laat de kip 15–20 minuten zachtjes stoven. Keer de stukken halverwege. Controleer of de kip gaar is, bij voorkeur met een kerntemperatuur van minimaal 74 °C.",
+    "Haal de kip uit de pan en houd warm onder losjes aangebrachte aluminiumfolie.",
+    "Verwijder het deksel en laat de saus op middelhoog vuur 5–10 minuten inkoken, totdat deze donker, glanzend en licht stroperig is. Roer af en toe en proef. Voeg eventueel een scheutje water toe als de saus te zout of te geconcentreerd wordt.",
+    "Leg de kippendijfilets terug in de saus en verwarm nog 1–2 minuten. Schep de saus over het vlees zodat het rondom bedekt is.",
+    "Begin tijdens het stoven met de rijst. Spoel de jasmijnrijst in een zeef onder koud stromend water totdat het spoelwater grotendeels helder is.",
+    "Doe de rijst met 450 ml water in een pan. Breng aan de kook, zet het vuur zo laag mogelijk en laat ongeveer 12 minuten afgedekt garen. Zet het vuur uit en laat nog 10 minuten met het deksel op de pan rusten. Maak de rijst daarna voorzichtig los met een vork.",
+    "Was de komkommer en snijd hem in dunne plakjes. Maak de lente-uitjes schoon en snijd ze in fijne ringetjes.",
+    "Schep de jasmijnrijst op vier borden en verdeel de kippendijfilets erover.",
+    "Lepel de warme, ingekookte adobosaus over de kip en een beetje over de rijst.",
+    "Garneer met de lente-ui en serveer de plakjes komkommer ernaast."
+  ],
+  "weetje": "Hoewel *adobo* een Spaanse naam heeft, liggen de wortels van het gerecht in de Filipijnse keuken van vóór de Spaanse kolonisatie. De bewoners van de eilanden gebruikten al eeuwenlang azijn en zout om vlees en vis op smaak te brengen en langer houdbaar te maken in het warme, vochtige klimaat. Azijn werd onder andere gemaakt van kokos- en palmsap of suikerriet. Toen de Spanjaarden in de zestiende eeuw de Filipijnen koloniseerden, herkenden zij in deze bereidingswijze iets van hun eigen *adobar*, wat 'marineren' of 'kruiden' betekent. De Filipijnse bereiding kreeg daardoor de naam *adobo*, hoewel deze duidelijk verschilt van de Spaanse en Mexicaanse gerechten met dezelfde naam. De benaming werd al in 1613 vastgelegd in een Spaans-Tagalog woordenboek.\n\nDe huidige Adobong Manok laat ook de invloed van Chinese handelscontacten zien. Sojasaus, afkomstig uit de Chinese keuken, werd uiteindelijk een belangrijk ingrediënt en verving in veel recepten het oorspronkelijke zout. Zo ontstond de donkere *adobong itim*, terwijl de lichtere *adobong puti* zonder sojasaus wordt bereid. Een interessante parallel vinden we bij *Shuwa* uit Oman en *Lagman* uit Xinjiang. Bij Shuwa weerspiegelen specerijen zoals kardemom, kaneel en kruidnagel de eeuwenoude handelsverbindingen over de Indische Oceaan. Bij Lagman komen Chinese noedeltechnieken en Centraal-Aziatische ingrediënten samen langs de Zijderoute.\n\nOpmerkelijk genoeg bevatten gepubliceerde Filipijnse adoborecepten uit het begin van de twintigste eeuw nog vaak helemaal geen sojasaus. De tegenwoordig zo vertrouwde combinatie van azijn en soja is dus een ontwikkeling die vermoedelijk veel jonger is dan de oorspronkelijke bereidingswijze.\n\nAdobo kent talloze regionale en familiale varianten. Naast kip en varkensvlees worden ook vis, inktvis, groenten en andere ingrediënten gebruikt. Sommige streken voegen kokosmelk of kurkuma toe, terwijl andere juist een sterk ingekookte, bijna droge adobo bereiden. Het gerecht wordt vaak beschouwd als het onofficiële nationale gerecht van de Filipijnen, maar er bestaat geen algemeen aanvaard standaardrecept. Juist die veelzijdigheid maakt adobo zo typerend voor de Filipijnse eetcultuur.\n\nAdobo vertelt een vergelijkbaar verhaal: een inheemse Filipijnse bereidingswijze die onder invloed van Spaanse kolonisatie en Chinese handelscontacten veranderde, maar haar karakteristieke frisse, hartige smaak behield.",
   "bron": {
-    "receptTitel": null,
+    "receptTitel": "Filipino Chicken Adobo",
     "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "kookboek": "Panlasang Pinoy (geïnspireerd op)",
+    "url": "https://www.panlasangpinoy.com/filipino-chicken-adobo-recipe/"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Filipino Chicken Adobo",
+      "auteur": null,
+      "kookboek": "Panlasang Pinoy",
+      "url": "https://www.panlasangpinoy.com/filipino-chicken-adobo-recipe/"
+    },
+    {
+      "receptTitel": "Filipino Chicken Adobo",
+      "auteur": null,
+      "kookboek": "SBS Food",
+      "url": "https://www.sbs.com.au/food/recipe/filipino-chicken-adobo/jic7cxqff"
+    }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "Culture Ingested: On the Indigenization of Philippine Food",
+      "auteur": "Doreen G. Fernandez",
+      "kookboek": "Onderzoek naar Filipijnse eetcultuur",
+      "url": "https://www.usenix.org/system/files/culture_ingested_doreen_fernandez.pdf"
+    },
+    {
+      "receptTitel": "Gambilà: A Preliminary Framework for the Study of Philippine Culinary History",
+      "auteur": "Felice Prudente Sta. Maria",
+      "kookboek": "Onderzoek naar Filipijnse culinaire geschiedenis",
+      "url": "https://www.ejournals.ph/article.php?id=5263"
+    },
+    {
+      "receptTitel": "Filipijnse culinaire geschiedenis",
+      "auteur": "Natasha Zappia",
+      "kookboek": null,
+      "url": "https://static1.squarespace.com/static/569e8728be7b96b8c1a70288/t/569e8d308b38d4c298dd4781/1453231414689/GFC1502_07_Zappia.pdf"
+    },
+    {
+      "receptTitel": "Adobo: History and Variations",
+      "auteur": null,
+      "kookboek": "Tourism Philippines",
+      "url": "https://www.turismofilipinas.com/en/food-in-philippines/adobo"
+    }
+  ]
 }

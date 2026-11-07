@@ -501,15 +501,15 @@
       ],
       "bestand": "data/recepten/saloonaSamak.json"
     },
-    "machboos": {
-      "titel": "Machboos",
-      "korteBeschrijving": "Kruidige rijstschotel uit de Golfregio met vlees of vis, gedroogde limoen en specerijen.",
-      "afbeelding": "images/recepten/MachboosAI.webp",
-      "url": "recepten.html?id=machboos",
+    "shuwa": {
+      "titel": "Shuwa",
+      "korteBeschrijving": "Langzaam gegaarde Omaanse lamsschouder met een krachtige marinade van tamarinde, zwarte limoen, geroosterde specerijen en knoflook, geserveerd met basmatirijst en een frisse komkommer-tomatensalade.",
+      "afbeelding": "images/recepten/ShuwaAI.webp",
+      "url": "recepten.html?id=shuwa",
       "regios": [
         "arabisch-schiereiland"
       ],
-      "bestand": "data/recepten/machboos.json"
+      "bestand": "data/recepten/shuwa.json"
     },
     "cevapi": {
       "titel": "Ćevapi",

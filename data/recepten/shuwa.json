@@ -1,0 +1,136 @@
+
+{
+  "sleutel": "shuwa",
+  "regios": [
+    "arabisch-schiereiland"
+  ],
+  "titel": "Shuwa",
+  "korteBeschrijving": "Langzaam gegaarde Omaanse lamsschouder met een krachtige marinade van tamarinde, zwarte limoen, geroosterde specerijen en knoflook, geserveerd met basmatirijst en een frisse komkommer-tomatensalade.",
+  "beschrijving": "Shuwa is een traditioneel Omaans feestgerecht waarbij lams- of geitenvlees langdurig wordt gemarineerd en langzaam gegaard totdat het uitzonderlijk mals is. Onze versie is geïnspireerd op een familierecept van de Omaanse kok Mommin Al Rawahi, gedocumenteerd door het Smithsonian Folklife Festival. De lamsschouder marineert een nacht in tamarinde, azijn, zwarte limoen en een rijk mengsel van geroosterde specerijen. In plaats van de traditionele ondergrondse oven gebruiken we een gewone oven, waarin het vlees in bakpapier en aluminiumfolie langzaam gaart. Kort grillen zorgt vervolgens voor een donkere kruidenkorst. We serveren het vlees met basmatirijst en een frisse salade.",
+  "afbeelding": "images/recepten/ShuwaAI.webp",
+  "url": "recepten.html?id=shuwa",
+  "volgorde": 51,
+  "regioVolgorde": {
+    "arabisch-schiereiland": 3
+  },
+  "porties": 4,
+  "bereidingstijdMinuten": 360,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor het lamsvlees en de marinade:",
+    "800 g lamsschouder zonder bot, aan één stuk",
+    "2 el tamarindepasta",
+    "1 el appelazijn (of dadelazijn)",
+    "2 el witte natuurazijn",
+    "5 tenen knoflook",
+    "1 gedroogde zwarte limoen (loomi)",
+    "1 el komijnzaad",
+    "1 el korianderzaad",
+    "1 tl gemalen kaneel",
+    "1 tl gemalen kurkuma",
+    "1 tl chilivlokken",
+    "1 el versgemalen zwarte peper",
+    "2 tl gemalen kardemom",
+    "1 tl gemberpoeder",
+    "2 tl gemalen kruidnagel",
+    "2 tl zout",
+    "Verder nodig:",
+    "Bakpapier en aluminiumfolie",
+    "Voor de rijst:",
+    "300 g basmatirijst",
+    "450 ml water",
+    "1 tl zout",
+    "Voor de komkommer-tomatensalade:",
+    "1 komkommer",
+    "3 rijpe tomaten",
+    "1 rode ui",
+    "2 el citroensap",
+    "2 el olijfolie",
+    "2 el fijngehakte verse peterselie",
+    "Zout en zwarte peper naar smaak"
+  ],
+  "bereiding": [
+    "De avond tevoren: verhit een droge koekenpan op middelhoog vuur. Rooster het komijnzaad en korianderzaad 2–3 minuten, totdat ze beginnen te geuren. Laat kort afkoelen en maal ze in een specerijenmolen of vijzel tot een grof poeder.",
+    "Breek de gedroogde zwarte limoen open en verwijder alle pitten. Maal de schil en het vruchtvlees zo fijn mogelijk in de specerijenmolen. De schil is hard; breek hem zo nodig eerst in kleine stukken.",
+    "Pel de knoflooktenen en doe ze in de keukenmachine. Voeg de tamarindepasta, appelazijn, natuurazijn, gemalen zwarte limoen, geroosterde komijn en koriander, kaneel, kurkuma, chilivlokken, zwarte peper, kardemom, gemberpoeder, kruidnagel en zout toe. Maal tot een dikke, goed smeerbare marinade.",
+    "Dep de lamsschouder droog met keukenpapier. Wrijf het vlees rondom stevig in met de marinade. Masseer de kruidenpasta ook in eventuele plooien en inkepingen.",
+    "Leg het vlees in een schaal, dek af en laat een nacht (ongeveer 12–16 uur) in de koelkast marineren.",
+    "De volgende dag: haal het vlees ongeveer 30 minuten voor het garen uit de koelkast. Verwarm de oven voor op 140 °C (boven- en onderwarmte).",
+    "Leg twee grote vellen aluminiumfolie kruislings over elkaar op het aanrecht. Leg daarop een ruim vel bakpapier. Plaats de lamsschouder met alle aanhangende marinade in het midden.",
+    "Vouw eerst het bakpapier stevig om het vlees. Sluit vervolgens de aluminiumfolie zorgvuldig rondom het pakket, zodat er zo weinig mogelijk vocht en stoom kunnen ontsnappen.",
+    "Leg het pakket in een ovenschaal, met de sluiting naar boven. Schuif de schaal in het midden van de oven.",
+    "Laat het vlees ongeveer 4 uur langzaam garen. Open het pakket tijdens deze eerste vier uur niet.",
+    "Haal de ovenschaal voorzichtig uit de oven en open de folie en het bakpapier. Pas op voor de hete stoom. Controleer met een vork of het vlees gemakkelijk uit elkaar te trekken is. Is het nog te stevig, sluit het pakket dan opnieuw en laat het nog 30–60 minuten verder garen. Herhaal zo nodig.",
+    "Haal de gare lamsschouder voorzichtig uit de verpakking en leg hem in een schone ovenschaal. Vang het braadvocht op in een kommetje of maatbeker.",
+    "Zet de ovengrill op een hoge stand. Plaats het vlees onafgedekt onder de grill en rooster 5–10 minuten, totdat de buitenkant een donkere, licht gekaramelliseerde kruidenkorst krijgt. Controleer regelmatig om te voorkomen dat de specerijen verbranden.",
+    "Haal het vlees uit de oven en laat 10 minuten rusten. Houd het braadvocht warm voor het serveren.",
+    "Begin ongeveer 30 minuten voordat het vlees klaar is met de rijst. Spoel de basmatirijst in een zeef onder koud stromend water, totdat het water grotendeels helder is.",
+    "Doe de rijst met 450 ml water en 1 tl zout in een pan. Breng aan de kook, zet het vuur zo laag mogelijk en laat ongeveer 12 minuten zachtjes garen met het deksel op de pan. Zet het vuur uit en laat de rijst nog 10 minuten afgedekt rusten. Maak daarna los met een vork.",
+    "Snijd de komkommer en tomaten in kleine blokjes. Pel de rode ui en snipper hem fijn. Doe alles in een kom.",
+    "Voeg het citroensap, de olijfolie en fijngehakte peterselie toe. Meng voorzichtig en breng op smaak met zout en zwarte peper.",
+    "Schep de basmatirijst op een grote serveerschaal.",
+    "Trek het lamsvlees met twee vorken in grove stukken of snijd het in dikke plakken. Leg het boven op de rijst, zodat de geroosterde kruidenkorst zichtbaar blijft.",
+    "Schenk enkele lepels van het warme braadvocht over het vlees. Serveer de rest apart, samen met de komkommer-tomatensalade."
+  ],
+  "weetje": "Shuwa is een van de bekendste feestgerechten van Oman en is nauw verbonden met Eid, het islamitische feest waarbij families en gemeenschappen samenkomen. De bereiding is van oudsher een gezamenlijke onderneming. Het vlees van een schaap of geit wordt ingewreven met een krachtige kruidenmarinade, khamar al shuwa, waarvan iedere familie haar eigen recept heeft. Vervolgens wordt het vlees in bananen- of palmbladeren gewikkeld, in een gevlochten zak verpakt en in een ondergrondse oven gelegd, de tannour. Deze wordt met gloeiende houtskool verhit en daarna met een deksel en aarde afgesloten. Het vlees gaart vervolgens 24 tot 48 uur langzaam in de opgesloten warmte.\n\nIn veel Omaanse dorpen delen families een grote gemeenschappelijke tannour. Iedereen brengt zijn eigen pakket vlees mee, voorzien van een herkenningsteken zodat het na het garen weer bij de juiste familie terechtkomt. Het openen van de oven, vaak op de tweede of derde dag van Eid, is een feestelijk moment. Het malse vlees wordt met rijst geserveerd en gedeeld met familieleden, buren en gasten. Shuwa is daarmee niet alleen een gerecht, maar ook een uitdrukking van Omaanse gastvrijheid en gemeenschapszin.\n\nDe techniek om voedsel met verhitte stenen en gloeiende houtskool in een ondergrondse oven langzaam te garen is bijzonder oud. Dergelijke kooktechnieken worden al tienduizenden jaren toegepast; archeologische voorbeelden gaan tot ongeveer 30.000 jaar geleden terug. Hoe lang de Omaanse tannour precies wordt gebruikt en wanneer Shuwa als afzonderlijk feestgerecht ontstond, is echter niet bekend. Een interessante parallel vinden we bij Khorkhog uit Mongolië. Ook daar wordt vlees met opgeslagen warmte bereid, maar terwijl bij Shuwa een afgesloten ondergrondse oven wordt gebruikt, worden bij Khorkhog gloeiend hete stenen samen met het vlees in een afgesloten vat geplaatst.\n\nOok de specerijen vertellen een verhaal. Oman was eeuwenlang een belangrijk knooppunt in de handel over de Indische Oceaan, waar Arabische, Perzische, Indiase en Oost-Afrikaanse invloeden samenkwamen. Kruiden als kardemom, kaneel en kruidnagel weerspiegelen die handelsverbindingen. De Omaanse kok Mommin Al Rawahi presenteerde in 2022 tijdens het Smithsonian Folklife Festival een Shuwa-marinade die via zijn grootvader teruggaat op het recept van zijn overgrootmoeder. Daarmee laat Shuwa zien hoe culinaire tradities van generatie op generatie worden doorgegeven, terwijl moderne bereidingen met een gewone oven het gerecht ook buiten Oman toegankelijk maken.",
+  "bron": {
+    "receptTitel": "Omani Recipe: Slow-Cooked Lamb Shuwa",
+    "auteur": "Mommin Al Rawahi (geïnspireerd op)",
+    "kookboek": "Smithsonian Folklife Festival",
+    "jaar": 2022,
+    "url": "https://festival.si.edu/blog/omani-recipe-slow-cooked-lamb-shuwa"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Omani Recipe: Slow-Cooked Lamb Shuwa",
+      "auteur": "Mommin Al Rawahi",
+      "kookboek": "Smithsonian Folklife Festival",
+      "jaar": 2022,
+      "url": "https://festival.si.edu/blog/omani-recipe-slow-cooked-lamb-shuwa"
+    },
+    {
+      "receptTitel": "Insight: Gastronomy",
+      "auteur": null,
+      "kookboek": "British Omani Society",
+      "jaar": null,
+      "url": "https://www.britishomani.org/news/bos/insight-gastronomy"
+    }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "Omani Recipe: Slow-Cooked Lamb Shuwa",
+      "auteur": "Mommin Al Rawahi",
+      "kookboek": "Smithsonian Folklife Festival",
+      "jaar": 2022,
+      "url": "https://festival.si.edu/blog/omani-recipe-slow-cooked-lamb-shuwa"
+    },
+    {
+      "receptTitel": "How to Make Shuwa for Eid",
+      "auteur": null,
+      "kookboek": "Times of Oman",
+      "jaar": 2020,
+      "url": "https://timesofoman.com/article/3017691/oman/how-to-make-shuwa-for-eid"
+    },
+    {
+      "receptTitel": "It Is Time for Omani Shuwa",
+      "auteur": null,
+      "kookboek": "Oman Observer",
+      "jaar": 2023,
+      "url": "https://www.omanobserver.om/article/1135853/oman/it-is-time-for-omani-shuwa"
+    },
+    {
+      "receptTitel": "Hunter-Gatherer Earth Ovens in the Archaeological Record: Fundamental Concepts",
+      "auteur": "Stephen L. Black en Alston V. Thoms",
+      "kookboek": "American Antiquity",
+      "jaar": 2017,
+      "url": "https://www.cambridge.org/core/journals/american-antiquity/article/abs/huntergatherer-earth-ovens-in-the-archaeological-record-fundamental-concepts/A40FE12321349AA26688D9AFF59A29A2"
+    },
+    {
+      "receptTitel": "Insight: Gastronomy",
+      "auteur": null,
+      "kookboek": "British Omani Society",
+      "jaar": null,
+      "url": "https://www.britishomani.org/news/bos/insight-gastronomy"
+    }
+  ]
+}

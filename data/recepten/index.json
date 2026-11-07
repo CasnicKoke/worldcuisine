@@ -4,7 +4,7 @@
     "rendang": {
       "titel": "Rendang daging sapi",
       "korteBeschrijving": "Langzaam gestoofde sukadelappen met geroosterde kokos, kemirinoten en specerijen.",
-      "afbeelding": "images/recepten/RendangAI.png",
+      "afbeelding": "images/recepten/RendangAI.webp",
       "url": "recepten.html?id=rendang",
       "regios": [
         "maleis-indonesisch"
@@ -14,7 +14,7 @@
     "nasiGoreng": {
       "titel": "Nasi goreng bacon",
       "korteBeschrijving": "Nasi met spek, paprika en lente-ui.",
-      "afbeelding": "images/recepten/NasiGorengAI.png",
+      "afbeelding": "images/recepten/NasiGorengAI.webp",
       "url": "recepten.html?id=nasiGoreng",
       "regios": [
         "maleis-indonesisch"
@@ -24,7 +24,7 @@
     "gadoGado": {
       "titel": "Gado Gado",
       "korteBeschrijving": "Een vegetarisch Indonesisch gerecht met groenten, tofu, ei en zelfgemaakte satésaus.",
-      "afbeelding": "images/recepten/GadoGadoAI.png",
+      "afbeelding": "images/recepten/GadoGadoAI.webp",
       "url": "recepten.html?id=gadoGado",
       "regios": [
         "maleis-indonesisch"
@@ -34,7 +34,7 @@
     "padThai": {
       "titel": "Pad Thai",
       "korteBeschrijving": "Thaise roergebakken rijstnoedels met gamba's, ei en lente-ui, in een zoetzure saus van tamarinde, palmsuiker, vissaus en oestersaus.",
-      "afbeelding": "images/recepten/PadThaiAI.png",
+      "afbeelding": "images/recepten/PadThaiAI.webp",
       "url": "recepten.html?id=padThai",
       "regios": [
         "indo-chinees"
@@ -44,7 +44,7 @@
     "phoBo": {
       "titel": "Phở Bò",
       "korteBeschrijving": "Vietnamese noedelsoep met een aromatische runderbouillon, rijstnoedels, langzaam gegaard rundvlees en dunne plakjes biefstuk, geserveerd met verse kruiden en limoen.",
-      "afbeelding": "images/recepten/PhoBoAI.png",
+      "afbeelding": "images/recepten/PhoBoAI.webp",
       "url": "recepten.html?id=phoBo",
       "regios": [
         "indo-chinees"
@@ -54,7 +54,7 @@
     "amok": {
       "titel": "Amok",
       "korteBeschrijving": "Cambodjaanse kokoscurry met zeebaars, gamba's en spinazie, op smaak gebracht met zelfgemaakte kroeung.",
-      "afbeelding": "images/recepten/AmokAI.png",
+      "afbeelding": "images/recepten/AmokAI.webp",
       "url": "recepten.html?id=amok",
       "regios": [
         "indo-chinees"
@@ -64,7 +64,7 @@
     "gangPitMockNut": {
       "titel": "Gang Pit Mock Nut",
       "korteBeschrijving": "Laotiaanse ananascurry met gamba's, sint-jakobsschelpen en basilicum kokossaus, bereid met zelfgemaakte currypasta.",
-      "afbeelding": "images/recepten/GangPitMockNutAI.png",
+      "afbeelding": "images/recepten/GangPitMockNutAI.webp",
       "url": "recepten.html?id=gangPitMockNut",
       "regios": [
         "indo-chinees"
@@ -74,7 +74,7 @@
     "pekingEend": {
       "titel": "Peking-eend met Chinese pannenkoekjes",
       "korteBeschrijving": "Krokant geroosterde Chinese eend met zelfgemaakte pannenkoekjes, komkommer, lente-ui en hoisinsaus.",
-      "afbeelding": "images/recepten/PekingEendAI.png",
+      "afbeelding": "images/recepten/PekingEendAI.webp",
       "url": "recepten.html?id=pekingEend",
       "regios": [
         "china-oost-azie"
@@ -84,7 +84,7 @@
     "mapoTofu": {
       "titel": "Mapo Tofu",
       "korteBeschrijving": "Pittig Chinees gerecht uit Sichuan met zachte tofu, varkensgehakt, gefermenteerde bonenpasta en Sichuanpeper.",
-      "afbeelding": "images/recepten/MapoTofuAI.png",
+      "afbeelding": "images/recepten/MapoTofuAI.webp",
       "url": "recepten.html?id=mapoTofu",
       "regios": [
         "china-oost-azie"
@@ -94,7 +94,7 @@
     "bibimbap": {
       "titel": "Bibimbap",
       "korteBeschrijving": "Koreaans rijstgerecht met gemarineerde biefstuk, kleurrijke groenten, spiegelei en pittige gochujangsaus.",
-      "afbeelding": "images/recepten/BibimbapAI.png",
+      "afbeelding": "images/recepten/BibimbapAI.webp",
       "url": "recepten.html?id=bibimbap",
       "regios": [
         "china-oost-azie"
@@ -104,7 +104,7 @@
     "xiaolongbao": {
       "titel": "Xiaolongbao",
       "korteBeschrijving": "Chinese gestoomde deegpakketjes met een sappige varkensvulling en hete bouillon, geserveerd met zwarte rijstazijn en verse gember.",
-      "afbeelding": "images/recepten/XiaolongbaoAI.png",
+      "afbeelding": "images/recepten/XiaolongbaoAI.webp",
       "url": "recepten.html?id=xiaolongbao",
       "regios": [
         "china-oost-azie"
@@ -114,7 +114,7 @@
     "sushi": {
       "titel": "Maki sushi",
       "korteBeschrijving": "Japanse sushirolletjes met zalm, komkommer en avocado, omhuld met sushirijst en nori, geserveerd met wasabi, sojasaus en ingelegde gember.",
-      "afbeelding": "images/recepten/SushiAI.png",
+      "afbeelding": "images/recepten/SushiAI.webp",
       "url": "recepten.html?id=sushi",
       "regios": [
         "japan"
@@ -124,7 +124,7 @@
     "sobaWakame": {
       "titel": "Sobanoedels met wakame",
       "korteBeschrijving": "Frisse Japanse noedelsalade met sobanoedels, wakame, komkommer, radijs en verse kruiden, geserveerd met een pittige dressing van limoen, gember en sesamolie.",
-      "afbeelding": "images/recepten/SobaWakameAI.png",
+      "afbeelding": "images/recepten/SobaWakameAI.webp",
       "url": "recepten.html?id=sobaWakame",
       "regios": [
         "japan"
@@ -134,7 +134,7 @@
     "tonkatsu": {
       "titel": "Tonkatsu",
       "korteBeschrijving": "Japanse varkensschnitzel met een krokante pankokorst, geserveerd met witte kool, rijst en zelfgemaakte tonkatsusaus.",
-      "afbeelding": "images/recepten/TonkatsuAI.png",
+      "afbeelding": "images/recepten/TonkatsuAI.webp",
       "url": "recepten.html?id=tonkatsu",
       "regios": [
         "japan"
@@ -144,7 +144,7 @@
     "okonomiyaki": {
       "titel": "Okonomiyaki",
       "korteBeschrijving": "Japanse hartige pannenkoek met witte kool, lente-ui en ontbijtspek, geserveerd met okonomiyakisaus, Japanse mayonaise en bonitovlokken.",
-      "afbeelding": "images/recepten/OkonomiyakiAI.png",
+      "afbeelding": "images/recepten/OkonomiyakiAI.webp",
       "url": "recepten.html?id=okonomiyaki",
       "regios": [
         "japan"
@@ -154,7 +154,7 @@
     "adobo": {
       "titel": "Adobo",
       "korteBeschrijving": "Filipijns stoofgerecht van kippenvlees gemarineerd in azijn, sojasaus en knoflook.",
-      "afbeelding": "images/recepten/AdoboAI.png",
+      "afbeelding": "images/recepten/AdoboAI.webp",
       "url": "recepten.html?id=adobo",
       "regios": [
         "filipijns"
@@ -164,7 +164,7 @@
     "sinigang": {
       "titel": "Sinigang",
       "korteBeschrijving": "Zure Filipijnse soep met vlees of vis en groenten, vaak op smaak gebracht met tamarinde.",
-      "afbeelding": "images/recepten/SinigangAI.png",
+      "afbeelding": "images/recepten/SinigangAI.webp",
       "url": "recepten.html?id=sinigang",
       "regios": [
         "filipijns"
@@ -174,7 +174,7 @@
     "kareKare": {
       "titel": "Kare-Kare",
       "korteBeschrijving": "Rijke Filipijnse stoofpot met pindasaus, groenten en vlees.",
-      "afbeelding": "images/recepten/KareKareAI.png",
+      "afbeelding": "images/recepten/KareKareAI.webp",
       "url": "recepten.html?id=kareKare",
       "regios": [
         "filipijns"
@@ -184,7 +184,7 @@
     "lumpia": {
       "titel": "Lumpia",
       "korteBeschrijving": "Knapperige Filipijnse loempia's gevuld met groenten, vlees of garnalen.",
-      "afbeelding": "images/recepten/LumpiaAI.png",
+      "afbeelding": "images/recepten/LumpiaAI.webp",
       "url": "recepten.html?id=lumpia",
       "regios": [
         "filipijns"
@@ -194,7 +194,7 @@
     "borsjtsj": {
       "titel": "Borsjtsj met pampoesjky",
       "korteBeschrijving": "Traditionele Oekraïense borsjtsj met rundvlees, rode bieten, witte kool en aardappelen, geserveerd met zure room en zelfgebakken pampoesjky met knoflook en dille.",
-      "afbeelding": "images/recepten/BorsjtsjAI.png",
+      "afbeelding": "images/recepten/BorsjtsjAI.webp",
       "url": "recepten.html?id=borsjtsj",
       "regios": [
         "rus-eurazie"
@@ -204,7 +204,7 @@
     "pelmeni": {
       "titel": "Pelmeni",
       "korteBeschrijving": "Traditionele Siberische deegkussentjes gevuld met sappig rund- en varkensgehakt, geserveerd met gesmolten boter, zure room, verse dille en een frisse komkommer-tomatensalade.",
-      "afbeelding": "images/recepten/PelmeniAI.png",
+      "afbeelding": "images/recepten/PelmeniAI.webp",
       "url": "recepten.html?id=pelmeni",
       "regios": [
         "rus-eurazie"
@@ -214,7 +214,7 @@
     "blini": {
       "titel": "Blini met paddenstoelen",
       "korteBeschrijving": "Traditionele Russische dunne pannenkoeken gevuld met gebakken kastanjechampignons, ui en peterselie, licht krokant gebakken en geserveerd met zure room en verse dille.",
-      "afbeelding": "images/recepten/BliniAI.png",
+      "afbeelding": "images/recepten/BliniAI.webp",
       "url": "recepten.html?id=blini",
       "regios": [
         "rus-eurazie"
@@ -224,7 +224,7 @@
     "kugelis": {
       "titel": "Kugelis met komkommer-radijssalade",
       "korteBeschrijving": "Traditionele Litouwse aardappelovenschotel met gerookt spek en ui, goudbruin gebakken en geserveerd met zure room, verse bieslook en een frisse komkommer-radijssalade.",
-      "afbeelding": "images/recepten/KugelisAI.png",
+      "afbeelding": "images/recepten/KugelisAI.webp",
       "url": "recepten.html?id=kugelis",
       "regios": [
         "rus-eurazie"
@@ -234,7 +234,7 @@
     "plov": {
       "titel": "Plov",
       "korteBeschrijving": "Oezbeekse rijstschotel met mals lamsvlees, wortel, komijn, knoflook en frisse berberisbessen, geserveerd met een eenvoudige tomaten-uiensalade.",
-      "afbeelding": "images/recepten/PlovAI.png",
+      "afbeelding": "images/recepten/PlovAI.webp",
       "url": "recepten.html?id=plov",
       "regios": [
         "centraal-aziatisch"
@@ -244,7 +244,7 @@
     "lagman": {
       "titel": "Lagman",
       "korteBeschrijving": "Lange tarwenoedels met mals lamsvlees, paprika, tomaat en groenten in een kruidige saus van komijn, knoflook, gember en chilipeper.",
-      "afbeelding": "images/recepten/LagmanAI.png",
+      "afbeelding": "images/recepten/LagmanAI.webp",
       "url": "recepten.html?id=lagman",
       "regios": [
         "centraal-aziatisch"
@@ -254,7 +254,7 @@
     "khorkhog": {
       "titel": "Khorkhog",
       "korteBeschrijving": "Mals Mongools lamsvlees met aardappelen, wortelen en ui, langzaam gegaard in de Crock-Pot met knoflook, laurier, komijn, koriander en zwarte peper.",
-      "afbeelding": "images/recepten/KhorkhogAI.png",
+      "afbeelding": "images/recepten/KhorkhogAI.webp",
       "url": "recepten.html?id=khorkhog",
       "regios": [
         "centraal-aziatisch"
@@ -264,7 +264,7 @@
     "dimlama": {
       "titel": "Dimlama",
       "korteBeschrijving": "Een geurige Oezbeekse stoofschotel van rundvlees, aardappelen, paprika, aubergine, wortel en kool, langzaam gegaard in het eigen groentevocht met komijn, knoflook en verse kruiden.",
-      "afbeelding": "images/recepten/DimlamaAI.png",
+      "afbeelding": "images/recepten/DimlamaAI.webp",
       "url": "recepten.html?id=dimlama",
       "regios": [
         "centraal-aziatisch"
@@ -274,7 +274,7 @@
     "meenMoilee": {
       "titel": "Meen Moilee",
       "korteBeschrijving": "Malse zeebaarsfilet in een zachte, aromatische curry van kokosmelk, gember, groene chilipepers en curryblaadjes, geserveerd met geurige basmatirijst.",
-      "afbeelding": "images/recepten/MeenMoileeAI.png",
+      "afbeelding": "images/recepten/MeenMoileeAI.webp",
       "url": "recepten.html?id=meenMoilee",
       "regios": [
         "zuid-aziatisch"
@@ -284,7 +284,7 @@
     "hyderabadiBiryani": {
       "titel": "Hyderabadi Biryani",
       "korteBeschrijving": "Geurige Hyderabadi biryani met malse kip, saffraan, basmatirijst, gebakken uien en Indiase specerijen, langzaam gegaard in een afgesloten pan en geserveerd met frisse komkommerraita.",
-      "afbeelding": "images/recepten/HyderabadiBiryaniAI.png",
+      "afbeelding": "images/recepten/HyderabadiBiryaniAI.webp",
       "url": "recepten.html?id=hyderabadiBiryani",
       "regios": [
         "zuid-aziatisch"
@@ -294,7 +294,7 @@
     "palakPaneer": {
       "titel": "Palak Paneer",
       "korteBeschrijving": "Zachte blokjes Indiase paneerkaas in een romige, kruidige spinaziesaus, geserveerd met basmatirijst en versgebakken naanbrood.",
-      "afbeelding": "images/recepten/PalakPaneerAI.png",
+      "afbeelding": "images/recepten/PalakPaneerAI.webp",
       "url": "recepten.html?id=palakPaneer",
       "regios": [
         "zuid-aziatisch"
@@ -304,7 +304,7 @@
     "kottuRoti": {
       "titel": "Kottu Roti",
       "korteBeschrijving": "Fijngehakte Sri Lankaanse godamba-roti, geroerbakt met kruidige kipcurry, groenten en ei, geserveerd met limoen.",
-      "afbeelding": "images/recepten/KottuRotiAI.png",
+      "afbeelding": "images/recepten/KottuRotiAI.webp",
       "url": "recepten.html?id=kottuRoti",
       "regios": [
         "zuid-aziatisch"
@@ -314,7 +314,7 @@
     "khachapuri": {
       "titel": "Adjaruli Khachapuri",
       "korteBeschrijving": "Traditioneel Georgisch kaasbrood in de vorm van een bootje, gevuld met gesmolten mozzarella en feta, afgewerkt met ei en boter en geserveerd met een frisse tomaten-komkommersalade.",
-      "afbeelding": "images/recepten/KhachapuriAI.png",
+      "afbeelding": "images/recepten/KhachapuriAI.webp",
       "url": "recepten.html?id=khachapuri",
       "regios": [
         "kaukasus"
@@ -324,7 +324,7 @@
     "khinkali": {
       "titel": "Khinkali met spinazie-pkhali",
       "korteBeschrijving": "Traditionele Georgische deegknoedels gevuld met sappig rund- en varkensgehakt, geserveerd met zwarte peper en koude spinazie-pkhali van walnoten, knoflook en kruiden.",
-      "afbeelding": "images/recepten/KhinkaliAI.png",
+      "afbeelding": "images/recepten/KhinkaliAI.webp",
       "url": "recepten.html?id=khinkali",
       "regios": [
         "kaukasus"
@@ -334,7 +334,7 @@
     "dolma": {
       "titel": "Yarpaq dolması met knoflookyoghurt",
       "korteBeschrijving": "Azerbeidzjaanse wijnbladeren gevuld met gekruid lamsgehakt, risottorijst en verse kruiden, langzaam gestoofd en geserveerd met knoflookyoghurt en warm platbrood.",
-      "afbeelding": "images/recepten/DolmaAI.png",
+      "afbeelding": "images/recepten/DolmaAI.webp",
       "url": "recepten.html?id=dolma",
       "regios": [
         "kaukasus"
@@ -344,7 +344,7 @@
     "ghapama": {
       "titel": "Ghapama",
       "korteBeschrijving": "Feestelijke Armeense ovenpompoen gevuld met basmatirijst, gedroogde abrikozen, pruimen, rozijnen, appel en walnoten, op smaak gebracht met honing en kaneel.",
-      "afbeelding": "images/recepten/GhapamaAI.png",
+      "afbeelding": "images/recepten/GhapamaAI.webp",
       "url": "recepten.html?id=ghapama",
       "regios": [
         "kaukasus"
@@ -354,7 +354,7 @@
     "hamsiBugulama": {
       "titel": "Hamsi buğulama",
       "korteBeschrijving": "Traditionele Turkse ovenschotel met verse ansjovis, aardappel, tomaat, groene paprika en citroen, zacht gegaard met olijfolie, knoflook en peterselie.",
-      "afbeelding": "images/recepten/HamsiBugulamaAI.png",
+      "afbeelding": "images/recepten/HamsiBugulamaAI.webp",
       "url": "recepten.html?id=hamsiBugulama",
       "regios": [
         "anatolie"
@@ -364,7 +364,7 @@
     "manti": {
       "titel": "Mantı",
       "korteBeschrijving": "Traditionele Turkse mantı: kleine deegpakketjes gevuld met gekruid rundergehakt, geserveerd met romige knoflookyoghurt, warme paprikaboter, munt en sumak.",
-      "afbeelding": "images/recepten/MantiAI.png",
+      "afbeelding": "images/recepten/MantiAI.webp",
       "url": "recepten.html?id=manti",
       "regios": [
         "anatolie"
@@ -374,7 +374,7 @@
     "lahmacun": {
       "titel": "Lahmacun",
       "korteBeschrijving": "Knapperige, dunne Turkse lahmacun met gekruid lamsgehakt, tomaat en paprika, geserveerd met verse peterselie, rode ui, sumak en citroen.",
-      "afbeelding": "images/recepten/LahmacunAI.png",
+      "afbeelding": "images/recepten/LahmacunAI.webp",
       "url": "recepten.html?id=lahmacun",
       "regios": [
         "anatolie"
@@ -384,7 +384,7 @@
     "menemen": {
       "titel": "Menemen",
       "korteBeschrijving": "Romige Turkse menemen van zacht gegaarde eieren, tomaten en groene paprika, geserveerd met warm Turks brood, witte kaas en frisse komkommersalade met munt en citroen.",
-      "afbeelding": "images/recepten/MenemenAI.png",
+      "afbeelding": "images/recepten/MenemenAI.webp",
       "url": "recepten.html?id=menemen",
       "regios": [
         "anatolie"
@@ -394,7 +394,7 @@
     "musakhan": {
       "titel": "Musakhan met Palestijnse salade",
       "korteBeschrijving": "Palestijns gerecht van geroosterde kip met sumak, gekaramelliseerde rode uien en pijnboompitten op Libanees platbrood, geserveerd met een frisse tomaten-komkommersalade.",
-      "afbeelding": "images/recepten/MusakhanAI.png",
+      "afbeelding": "images/recepten/MusakhanAI.webp",
       "url": "recepten.html?id=musakhan",
       "regios": [
         "levant"
@@ -404,7 +404,7 @@
     "falafel": {
       "titel": "Pittige falafel met tahinsaus",
       "korteBeschrijving": "Pittige Libanese falafel van kikkererwten, verse kruiden en chilipeper, geserveerd met platbrood, frisse groenten en romige tahinsaus.",
-      "afbeelding": "images/recepten/FalafelAI.png",
+      "afbeelding": "images/recepten/FalafelAI.webp",
       "url": "recepten.html?id=falafel",
       "regios": [
         "levant"
@@ -414,7 +414,7 @@
     "shakshuka": {
       "titel": "Shakshuka",
       "korteBeschrijving": "Gerecht uit de Levant met gebakken eieren in een kruidige tomatensaus met rode en gele paprika, komijn, saffraan en verse kruiden.",
-      "afbeelding": "images/recepten/ShakshukaAI.png",
+      "afbeelding": "images/recepten/ShakshukaAI.webp",
       "url": "recepten.html?id=shakshuka",
       "regios": [
         "levant"
@@ -424,7 +424,7 @@
     "kebabTabouleh": {
       "titel": "Iraakse kebab met Libanese tabouleh",
       "korteBeschrijving": "Sappige Iraakse kebabs van gekruid runder- en lamsgehakt, geserveerd met frisse Libanese tabouleh, gegrilde tomaten en warm platbrood.",
-      "afbeelding": "images/recepten/KebabTaboulehAI.png",
+      "afbeelding": "images/recepten/KebabTaboulehAI.webp",
       "url": "recepten.html?id=kebabTabouleh",
       "regios": [
         "levant"
@@ -434,7 +434,7 @@
     "bolani": {
       "titel": "Bolani met aardappel, muntyoghurt en groentesalade",
       "korteBeschrijving": "Afghaanse, goudbruin gebakken platbroden gevuld met gekruide aardappel, prei en lente-ui, geserveerd met knoflook-muntyoghurt en een frisse groentesalade.",
-      "afbeelding": "images/recepten/BolaniAI.png",
+      "afbeelding": "images/recepten/BolaniAI.webp",
       "url": "recepten.html?id=bolani",
       "regios": [
         "perzie"
@@ -444,7 +444,7 @@
     "fesenjan": {
       "titel": "Fesenjan met saffraanrijst",
       "korteBeschrijving": "Perzische kipstoof met een rijke, zoetzure saus van walnoten en granaatappel, geserveerd met geurige saffraanrijst.",
-      "afbeelding": "images/recepten/FesenjanAI.png",
+      "afbeelding": "images/recepten/FesenjanAI.webp",
       "url": "recepten.html?id=fesenjan",
       "regios": [
         "perzie"
@@ -454,7 +454,7 @@
     "ghormehSabzi": {
       "titel": "Ghormeh sabzi met basmatirijst",
       "korteBeschrijving": "Perzische stoofpot van mals rundvlees, donkergebakken groene kruiden, kidneybonen en gedroogde limoen, geserveerd met basmatirijst.",
-      "afbeelding": "images/recepten/GhormehSabziAI.png",
+      "afbeelding": "images/recepten/GhormehSabziAI.webp",
       "url": "recepten.html?id=ghormehSabzi",
       "regios": [
         "perzie"
@@ -464,7 +464,7 @@
     "qabiliPalaw": {
       "titel": "Qabili palaw met lamsvlees en Afghaanse salata",
       "korteBeschrijving": "Feestelijke Afghaanse rijstschotel met mals lamsvlees, gekaramelliseerde wortelreepjes, rozijnen en amandelen, geserveerd met een frisse tomaten-komkommersalade.",
-      "afbeelding": "images/recepten/QabiliPalawAI.png",
+      "afbeelding": "images/recepten/QabiliPalawAI.webp",
       "url": "recepten.html?id=qabiliPalaw",
       "regios": [
         "perzie"
@@ -474,7 +474,7 @@
     "kabsa": {
       "titel": "Kabsa met kip en daqoos",
       "korteBeschrijving": "Saoedische rijstschotel met goudbruin geroosterde kip, geurige specerijen, gedroogde limoen, rozijnen en amandelen, geserveerd met pittige tomatensaus.",
-      "afbeelding": "images/recepten/KabsaAI.png",
+      "afbeelding": "images/recepten/KabsaAI.webp",
       "url": "recepten.html?id=kabsa",
       "regios": [
         "arabisch-schiereiland"
@@ -484,7 +484,7 @@
     "mandi": {
       "titel": "Mandi met lamsvlees en groene sahawiq",
       "korteBeschrijving": "Jemenitische rijstschotel met langzaam geroosterde lamsschouder, geurige saffraanrijst en warme specerijen, geserveerd met pittige groene sahawiq en een frisse salade.",
-      "afbeelding": "images/recepten/MandiAI.png",
+      "afbeelding": "images/recepten/MandiAI.webp",
       "url": "recepten.html?id=mandi",
       "regios": [
         "arabisch-schiereiland"
@@ -494,7 +494,7 @@
     "saloonaSamak": {
       "titel": "Saloona samak met witvis",
       "korteBeschrijving": "Emiratische visstoofpot met malse witvis, tomaat, courgette, wortel, aardappel en gedroogde limoen, geserveerd met warm Libanees platbrood.",
-      "afbeelding": "images/recepten/SaloonaSamakAI.png",
+      "afbeelding": "images/recepten/SaloonaSamakAI.webp",
       "url": "recepten.html?id=saloonaSamak",
       "regios": [
         "arabisch-schiereiland"
@@ -504,7 +504,7 @@
     "machboos": {
       "titel": "Machboos",
       "korteBeschrijving": "Kruidige rijstschotel uit de Golfregio met vlees of vis, gedroogde limoen en specerijen.",
-      "afbeelding": "images/recepten/MachboosAI.png",
+      "afbeelding": "images/recepten/MachboosAI.webp",
       "url": "recepten.html?id=machboos",
       "regios": [
         "arabisch-schiereiland"
@@ -514,7 +514,7 @@
     "cevapi": {
       "titel": "Ćevapi",
       "korteBeschrijving": "Gegrilde Balkanworstjes van gekruid gehakt, vaak geserveerd met brood, ui en ajvar.",
-      "afbeelding": "images/recepten/CevapiAI.png",
+      "afbeelding": "images/recepten/CevapiAI.webp",
       "url": "recepten.html?id=cevapi",
       "regios": [
         "balkan"
@@ -524,7 +524,7 @@
     "burek": {
       "titel": "Burek",
       "korteBeschrijving": "Bladerdeeggebak gevuld met vlees, kaas, aardappel of spinazie, populair op de Balkan.",
-      "afbeelding": "images/recepten/BurekAI.png",
+      "afbeelding": "images/recepten/BurekAI.webp",
       "url": "recepten.html?id=burek",
       "regios": [
         "balkan"
@@ -534,7 +534,7 @@
     "sarma": {
       "titel": "Sarma",
       "korteBeschrijving": "Rolletjes van kool- of wijnblad gevuld met rijst, kruiden en vaak gehakt.",
-      "afbeelding": "images/recepten/SarmaAI.png",
+      "afbeelding": "images/recepten/SarmaAI.webp",
       "url": "recepten.html?id=sarma",
       "regios": [
         "balkan"
@@ -544,7 +544,7 @@
     "overvolleGroentetaart": {
       "titel": "Overvolle groentetaart",
       "korteBeschrijving": "Kleurrijke hartige groentetaart met drie soorten paprika, courgette, zoete aardappel, cherrytomaatjes en een romige vulling van verschillende kazen.",
-      "afbeelding": "images/recepten/OvervolleGroentetaartAI.png",
+      "afbeelding": "images/recepten/OvervolleGroentetaartAI.webp",
       "url": "recepten.html?id=overvolleGroentetaart",
       "regios": [
         "balkan"
@@ -554,7 +554,7 @@
     "goulash": {
       "titel": "Gulyásleves",
       "korteBeschrijving": "Traditionele Hongaarse goulashsoep met malse sukadelappen, aardappelen, wortel, pastinaak en paprika, rijk gekruid met Hongaars paprikapoeder en karwijzaad, en geserveerd met zelfgemaakte csipetke.",
-      "afbeelding": "images/recepten/GoulashAI.png",
+      "afbeelding": "images/recepten/GoulashAI.webp",
       "url": "recepten.html?id=goulash",
       "regios": [
         "oost-centraal-europa"
@@ -564,7 +564,7 @@
     "pierogi": {
       "titel": "Pierogi ruskie met rodekoolsalade",
       "korteBeschrijving": "Traditionele Poolse deegkussentjes gevuld met aardappel, verse kaas en gebakken ui, geserveerd met goudbruin gebakken uitjes, zure room en een frisse rodekoolsalade met wortel en appel.",
-      "afbeelding": "images/recepten/PierogiAI.png",
+      "afbeelding": "images/recepten/PierogiAI.webp",
       "url": "recepten.html?id=pierogi",
       "regios": [
         "oost-centraal-europa"
@@ -574,7 +574,7 @@
     "svickova": {
       "titel": "Svíčková na smetaně",
       "korteBeschrijving": "Traditioneel Tsjechisch stoofgerecht van mals rundvlees in een romige, lichtzoetzure saus van wortelgroenten, geserveerd met huisgemaakte broodknoedels en cranberrycompote.",
-      "afbeelding": "images/recepten/SvickovaAI.png",
+      "afbeelding": "images/recepten/SvickovaAI.webp",
       "url": "recepten.html?id=svickova",
       "regios": [
         "oost-centraal-europa"
@@ -584,7 +584,7 @@
     "strapacky": {
       "titel": "Strapačky s kyslou kapustou",
       "korteBeschrijving": "Traditionele Slowaakse aardappelknoedeltjes met gestoofde zuurkool, ui en karwijzaad, geserveerd met krokant gebakken spekblokjes en verse bieslook.",
-      "afbeelding": "images/recepten/StrapackyAI.png",
+      "afbeelding": "images/recepten/StrapackyAI.webp",
       "url": "recepten.html?id=strapacky",
       "regios": [
         "oost-centraal-europa"
@@ -594,7 +594,7 @@
     "bacalao": {
       "titel": "Bacalao",
       "korteBeschrijving": "Traditionele Noorse stoofschotel van bakkeljauw met aardappelen, tomaten, ui, knoflook en zwarte olijven, langzaam gegaard in olijfolie met chilipeper en laurier.",
-      "afbeelding": "images/recepten/BacalaoAI.png",
+      "afbeelding": "images/recepten/BacalaoAI.webp",
       "url": "recepten.html?id=bacalao",
       "regios": [
         "scandinavie"
@@ -604,7 +604,7 @@
     "kottbullar": {
       "titel": "Köttbullar",
       "korteBeschrijving": "Traditionele Zweedse gehaktballetjes van rund- en varkensvlees in een romige bruine jus, geserveerd met aardappelpuree, doperwten en vossenbessenjam.",
-      "afbeelding": "images/recepten/KottbullarAI.png",
+      "afbeelding": "images/recepten/KottbullarAI.webp",
       "url": "recepten.html?id=kottbullar",
       "regios": [
         "scandinavie"
@@ -614,7 +614,7 @@
     "smorrebrod": {
       "titel": "Smørrebrød",
       "korteBeschrijving": "Drie klassieke Deense smørrebrød op stevig roggebrood: met aardappel, radijs en bieslook; ei en garnalen; en gemarineerde haring met rode ui en mosterdsaus.",
-      "afbeelding": "images/recepten/SmorrebrodAI.png",
+      "afbeelding": "images/recepten/SmorrebrodAI.webp",
       "url": "recepten.html?id=smorrebrod",
       "regios": [
         "scandinavie"
@@ -624,7 +624,7 @@
     "lohikeitto": {
       "titel": "Lohikeitto",
       "korteBeschrijving": "Traditionele Finse zalmsoep met malse stukken zalm, aardappelen, wortel en prei in een romige bouillon met dille en piment. Geserveerd met roggebrood en roomboter.",
-      "afbeelding": "images/recepten/LohikeittoAI.png",
+      "afbeelding": "images/recepten/LohikeittoAI.webp",
       "url": "recepten.html?id=lohikeitto",
       "regios": [
         "scandinavie"
@@ -634,7 +634,7 @@
     "runderstoofKaasscones": {
       "titel": "Runderstoofschotel met kaasscones",
       "korteBeschrijving": "Britse runderstoofschotel met rode wijn, spek en wintergroenten, afgebakken met luchtige scones van cheddar of belegen kaas.",
-      "afbeelding": "images/recepten/RunderstoofKaassconesAI.png",
+      "afbeelding": "images/recepten/RunderstoofKaassconesAI.webp",
       "url": "recepten.html?id=runderstoofKaasscones",
       "regios": [
         "britse-eilanden"
@@ -644,7 +644,7 @@
     "shepherdsPie": {
       "titel": "Shepherd’s Pie",
       "korteBeschrijving": "Traditionele Britse ovenschotel met lamsgehakt, prei en doperwten, afgedekt met goudbruine aardappelpuree en gesmolten kaas.",
-      "afbeelding": "images/recepten/ShepherdsPieAI.png",
+      "afbeelding": "images/recepten/ShepherdsPieAI.webp",
       "url": "recepten.html?id=shepherdsPie",
       "regios": [
         "britse-eilanden"
@@ -654,7 +654,7 @@
     "steakAlePie": {
       "titel": "Steak & Ale Pie",
       "korteBeschrijving": "Traditionele Britse pie met langzaam gestoofd rundvlees, gerookt spek, prei en champignons in een rijke saus van Engelse ale, onder een bladerdeegdeksel.",
-      "afbeelding": "images/recepten/SteakAlePieAI.png",
+      "afbeelding": "images/recepten/SteakAlePieAI.webp",
       "url": "recepten.html?id=steakAlePie",
       "regios": [
         "britse-eilanden"
@@ -664,7 +664,7 @@
     "irishStew": {
       "titel": "Irish Stew",
       "korteBeschrijving": "Traditionele Ierse stoofschotel met mals lamsvlees, aardappelen, wortels en bleekselderij, langzaam gegaard in een rijke runderfond.",
-      "afbeelding": "images/recepten/IrishStewAI.png",
+      "afbeelding": "images/recepten/IrishStewAI.webp",
       "url": "recepten.html?id=irishStew",
       "regios": [
         "britse-eilanden"
@@ -674,7 +674,7 @@
     "bratwurst": {
       "titel": "Sauerkraut mit Bratwurst",
       "korteBeschrijving": "Duitse braadworst met kruidig gestoofde zuurkool, romige aardappelpuree en mierikswortel.",
-      "afbeelding": "images/recepten/BratwurstAI.png",
+      "afbeelding": "images/recepten/BratwurstAI.webp",
       "url": "recepten.html?id=bratwurst",
       "regios": [
         "germaans"
@@ -684,7 +684,7 @@
     "stamppot": {
       "titel": "Hutspot met rookworst",
       "korteBeschrijving": "Traditionele Nederlandse hutspot met winterpeen, aardappelen, gebakken uien en rookworst.",
-      "afbeelding": "images/recepten/StamppotAI.png",
+      "afbeelding": "images/recepten/StamppotAI.webp",
       "url": "recepten.html?id=stamppot",
       "regios": [
         "germaans"
@@ -694,7 +694,7 @@
     "sauerbraten": {
       "titel": "Limburgs zuurvlees (zoervleisj)",
       "korteBeschrijving": "Traditioneel Limburgs zuurvlees met een rijke zoetzure saus, geserveerd met rode kool en krokante hertoginnenaardappeltjes.",
-      "afbeelding": "images/recepten/SauerbratenAI.png",
+      "afbeelding": "images/recepten/SauerbratenAI.webp",
       "url": "recepten.html?id=sauerbraten",
       "regios": [
         "germaans"
@@ -704,7 +704,7 @@
     "coqAuVin": {
       "titel": "Coq au vin",
       "korteBeschrijving": "Kip gestoofd in rode wijn met spekblokjes, champignons en groenten.",
-      "afbeelding": "images/recepten/CoqAuVinAI.png",
+      "afbeelding": "images/recepten/CoqAuVinAI.webp",
       "url": "recepten.html?id=coqAuVin",
       "regios": [
         "midden-europa"
@@ -714,7 +714,7 @@
     "fondue": {
       "titel": "Zwitserse kaasfondue",
       "korteBeschrijving": "Traditionele Zwitserse kaasfondue met Gruyère en Emmentaler, geserveerd met brood, krieltjes, broccoli en champignons.",
-      "afbeelding": "images/recepten/FondueAI.png",
+      "afbeelding": "images/recepten/FondueAI.webp",
       "url": "recepten.html?id=fondue",
       "regios": [
         "midden-europa"
@@ -724,7 +724,7 @@
     "tarteFlambee": {
       "titel": "Tarte flambée met spek en gerookte zalm",
       "korteBeschrijving": "Dunne, krokante Elzasser flammkuchen met twee belegvarianten: spek met ui en gerookte zalm met rode ui en kappertjes.",
-      "afbeelding": "images/recepten/TarteFlambeeAI.png",
+      "afbeelding": "images/recepten/TarteFlambeeAI.webp",
       "url": "recepten.html?id=tarteFlambee",
       "regios": [
         "midden-europa"
@@ -734,7 +734,7 @@
     "wienerSchnitzel": {
       "titel": "Wiener schnitzel",
       "korteBeschrijving": "Klassieke Oostenrijkse kalfsschnitzel met een luchtige, goudbruine paneerlaag, geserveerd met peterselieaardappelen en citroen.",
-      "afbeelding": "images/recepten/WienerSchnitzelAI.png",
+      "afbeelding": "images/recepten/WienerSchnitzelAI.webp",
       "url": "recepten.html?id=wienerSchnitzel",
       "regios": [
         "midden-europa"
@@ -744,7 +744,7 @@
     "paella": {
       "titel": "Paella met kip, chorizo en garnalen",
       "korteBeschrijving": "Spaanse paella met saffraanrijst, malse kip, chorizo en garnalen, aangevuld met paprika, doperwten en zwarte olijven.",
-      "afbeelding": "images/recepten/PaellaAI.png",
+      "afbeelding": "images/recepten/PaellaAI.webp",
       "url": "recepten.html?id=paella",
       "regios": [
         "mediterraans"
@@ -754,7 +754,7 @@
     "spanakopita": {
       "titel": "Spanakopita met Griekse salade",
       "korteBeschrijving": "Knapperige Griekse spinazietaart van filodeeg, gevuld met feta, lente-ui en verse dille, geserveerd met een traditionele Griekse salade van tomaat, komkommer, paprika en olijven.",
-      "afbeelding": "images/recepten/SpanakopitaAI.png",
+      "afbeelding": "images/recepten/SpanakopitaAI.webp",
       "url": "recepten.html?id=spanakopita",
       "regios": [
         "mediterraans"
@@ -764,7 +764,7 @@
     "fettuccineAlfredo": {
       "titel": "Fettuccine Alfredo",
       "korteBeschrijving": "Klassieke Romeinse fettuccine met een zachte saus van roomboter en Parmigiano Reggiano, geserveerd met een rucolasalade met cherrytomaten en balsamico.",
-      "afbeelding": "images/recepten/FettuccineAlfredoAI.png",
+      "afbeelding": "images/recepten/FettuccineAlfredoAI.webp",
       "url": "recepten.html?id=fettuccineAlfredo",
       "regios": [
         "mediterraans"
@@ -774,7 +774,7 @@
     "bacalhau": {
       "titel": "Bacalhau à Brás",
       "korteBeschrijving": "Portugese Bacalhau à Brás met bakkeljauw, krokante aardappelreepjes, romige eieren en gebakken ui, gegarneerd met zwarte olijven en peterselie. Geserveerd met een frisse salade.",
-      "afbeelding": "images/recepten/BacalhauAI.png",
+      "afbeelding": "images/recepten/BacalhauAI.webp",
       "url": "recepten.html?id=bacalhau",
       "regios": [
         "mediterraans"
@@ -784,7 +784,7 @@
     "poutine": {
       "titel": "Poutine",
       "korteBeschrijving": "Canadese friet met cheese curds en warme, hartige jus.",
-      "afbeelding": "images/recepten/PoutineAI.png",
+      "afbeelding": "images/recepten/PoutineAI.webp",
       "url": "recepten.html?id=poutine",
       "regios": [
         "canada"
@@ -794,7 +794,7 @@
     "tourtiere": {
       "titel": "Tourtière",
       "korteBeschrijving": "Hartige Québecse vleespastei met gekruid gehakt in een goudbruine deegkorst.",
-      "afbeelding": "images/recepten/TourtiereAI.png",
+      "afbeelding": "images/recepten/TourtiereAI.webp",
       "url": "recepten.html?id=tourtiere",
       "regios": [
         "canada"
@@ -804,7 +804,7 @@
     "mapleSalmon": {
       "titel": "Maple-Glazed Salmon",
       "korteBeschrijving": "Gebakken zalm met een glanzend zoet-hartig glazuur van Canadese ahornsiroop.",
-      "afbeelding": "images/recepten/MapleSalmonAI.png",
+      "afbeelding": "images/recepten/MapleSalmonAI.webp",
       "url": "recepten.html?id=mapleSalmon",
       "regios": [
         "canada"
@@ -814,7 +814,7 @@
     "butterTart": {
       "titel": "Butter Tart",
       "korteBeschrijving": "Kleine Canadese taartjes met een rijke, kleverige vulling van boter en bruine suiker.",
-      "afbeelding": "images/recepten/ButterTartAI.png",
+      "afbeelding": "images/recepten/ButterTartAI.webp",
       "url": "recepten.html?id=butterTarts",
       "regios": [
         "canada"
@@ -824,7 +824,7 @@
     "barbecueRibs": {
       "titel": "Barbecue Ribs",
       "korteBeschrijving": "Langzaam gegaarde spareribs met een rokerige, zoet-kruidige barbecuesaus.",
-      "afbeelding": "images/recepten/BarbecueRibsAI.png",
+      "afbeelding": "images/recepten/BarbecueRibsAI.webp",
       "url": "recepten.html?id=barbecueRibs",
       "regios": [
         "verenigde-staten"
@@ -834,7 +834,7 @@
     "gumbo": {
       "titel": "Gumbo",
       "korteBeschrijving": "Krachtige stoofpot uit Louisiana met roux, groenten, specerijen en vlees of zeevruchten.",
-      "afbeelding": "images/recepten/GumboAI.png",
+      "afbeelding": "images/recepten/GumboAI.webp",
       "url": "recepten.html?id=gumbo",
       "regios": [
         "verenigde-staten"
@@ -844,7 +844,7 @@
     "clamChowder": {
       "titel": "Clam Chowder",
       "korteBeschrijving": "Romige soep uit New England met venusschelpen, aardappel en vaak spek.",
-      "afbeelding": "images/recepten/ClamChowderAI.png",
+      "afbeelding": "images/recepten/ClamChowderAI.webp",
       "url": "recepten.html?id=clamChowder",
       "regios": [
         "verenigde-staten"
@@ -854,7 +854,7 @@
     "hamburger": {
       "titel": "Hamburger",
       "korteBeschrijving": "Klassieke Amerikaanse burger met een gegrilde runderpatty, broodje en rijke toppings.",
-      "afbeelding": "images/recepten/HamburgerAI.png",
+      "afbeelding": "images/recepten/HamburgerAI.webp",
       "url": "recepten.html?id=hamburger",
       "regios": [
         "verenigde-staten"
@@ -864,7 +864,7 @@
     "couscous": {
       "titel": "Couscous met rundvlees en groenten",
       "korteBeschrijving": "Traditionele Marokkaanse couscous met langzaam gestoofd rundvlees, pompoen, meirapen, wortel en courgette, geserveerd met eigengemaakte bouillon.",
-      "afbeelding": "images/recepten/CouscousAI.png",
+      "afbeelding": "images/recepten/CouscousAI.webp",
       "url": "recepten.html?id=couscous",
       "regios": [
         "maghreb"
@@ -874,7 +874,7 @@
     "tajine": {
       "titel": "Tajine met kefta en ei",
       "korteBeschrijving": "Marokkaanse tajine met kruidige rundergehaktballetjes, eieren en een geurige tomatensaus met paprika.",
-      "afbeelding": "images/recepten/TajineAI.png",
+      "afbeelding": "images/recepten/TajineAI.webp",
       "url": "recepten.html?id=tajine",
       "regios": [
         "maghreb"
@@ -884,7 +884,7 @@
     "harira": {
       "titel": "Harira",
       "korteBeschrijving": "Rijkgevulde Marokkaanse maaltijdsoep met rundvlees, kikkererwten, linzen, prei, tomaten en geurige kruiden.",
-      "afbeelding": "images/recepten/HariraAI.png",
+      "afbeelding": "images/recepten/HariraAI.webp",
       "url": "recepten.html?id=harira",
       "regios": [
         "maghreb"
@@ -894,7 +894,7 @@
     "pastilla": {
       "titel": "Pastilla met vis en zeevruchten",
       "korteBeschrijving": "Krokante Marokkaanse hartige taart met witte vis, garnalen, inktvis, groenten en glasnoedels, verpakt in goudbruin filodeeg.",
-      "afbeelding": "images/recepten/PastillaAI.png",
+      "afbeelding": "images/recepten/PastillaAI.webp",
       "url": "recepten.html?id=pastilla",
       "regios": [
         "maghreb"
@@ -904,7 +904,7 @@
     "koshari": {
       "titel": "Koshari",
       "korteBeschrijving": "Egyptisch gerecht van rijst, pasta en linzen, afgemaakt met tomatensaus en krokante ui.",
-      "afbeelding": "images/recepten/KoshariAI.png",
+      "afbeelding": "images/recepten/KoshariAI.webp",
       "url": "recepten.html?id=koshari",
       "regios": [
         "nijlvallei"
@@ -914,7 +914,7 @@
     "fulMedames": {
       "titel": "Ful Medames",
       "korteBeschrijving": "Langzaam gegaarde tuinbonen met olijfolie, citroen en kruiden, populair als ontbijt.",
-      "afbeelding": "images/recepten/FulMedamesAI.png",
+      "afbeelding": "images/recepten/FulMedamesAI.webp",
       "url": "recepten.html?id=fulMedames",
       "regios": [
         "nijlvallei"
@@ -924,7 +924,7 @@
     "molokhia": {
       "titel": "Molokhia",
       "korteBeschrijving": "Fluweelzachte soep van jute-bladeren, vaak geserveerd met rijst en kip of konijn.",
-      "afbeelding": "images/recepten/MolokhiaAI.png",
+      "afbeelding": "images/recepten/MolokhiaAI.webp",
       "url": "recepten.html?id=molokhia",
       "regios": [
         "nijlvallei"
@@ -934,7 +934,7 @@
     "taamia": {
       "titel": "Taamia",
       "korteBeschrijving": "Egyptische falafel van tuinbonen, krokant van buiten en zacht kruidig van binnen.",
-      "afbeelding": "images/recepten/TaamiaAI.png",
+      "afbeelding": "images/recepten/TaamiaAI.webp",
       "url": "recepten.html?id=taamia",
       "regios": [
         "nijlvallei"
@@ -944,7 +944,7 @@
     "thieboudienne": {
       "titel": "Thieboudienne",
       "korteBeschrijving": "Senegalees rijstgerecht met vis, groenten en een rijke tomatensaus.",
-      "afbeelding": "images/recepten/ThieboudienneAI.png",
+      "afbeelding": "images/recepten/ThieboudienneAI.webp",
       "url": "recepten.html?id=thieboudienne",
       "regios": [
         "sahel"
@@ -954,7 +954,7 @@
     "maafe": {
       "titel": "Maafe",
       "korteBeschrijving": "West-Afrikaanse pindastoof met vlees of groenten in een romige, kruidige saus.",
-      "afbeelding": "images/recepten/MaafeAI.png",
+      "afbeelding": "images/recepten/MaafeAI.webp",
       "url": "recepten.html?id=maafe",
       "regios": [
         "sahel"
@@ -964,7 +964,7 @@
     "jollofRice": {
       "titel": "Jollof Rice",
       "korteBeschrijving": "Populaire West-Afrikaanse rijstschotel gekookt in een kruidige tomaten- en pepersaus.",
-      "afbeelding": "images/recepten/JollofRiceAI.png",
+      "afbeelding": "images/recepten/JollofRiceAI.webp",
       "url": "recepten.html?id=jollofRice",
       "regios": [
         "sahel",
@@ -975,7 +975,7 @@
     "fura": {
       "titel": "Fura",
       "korteBeschrijving": "Pittige gierstballetjes of -drank, vaak gecombineerd met gefermenteerde melk.",
-      "afbeelding": "images/recepten/FuraAI.png",
+      "afbeelding": "images/recepten/FuraAI.webp",
       "url": "recepten.html?id=fura",
       "regios": [
         "sahel"
@@ -985,7 +985,7 @@
     "egusiSoup": {
       "titel": "Egusi Soup",
       "korteBeschrijving": "Dikke soep van gemalen meloenpitten, bladgroenten en vaak vlees of vis.",
-      "afbeelding": "images/recepten/EgusiSoupAI.png",
+      "afbeelding": "images/recepten/EgusiSoupAI.webp",
       "url": "recepten.html?id=egusiSoup",
       "regios": [
         "west-afrika"
@@ -995,7 +995,7 @@
     "suya": {
       "titel": "Suya",
       "korteBeschrijving": "Pikant gekruide vleesspiesjes, gegrild boven open vuur en vaak geserveerd met ui.",
-      "afbeelding": "images/recepten/SuyaAI.png",
+      "afbeelding": "images/recepten/SuyaAI.webp",
       "url": "recepten.html?id=suya",
       "regios": [
         "west-afrika"
@@ -1005,7 +1005,7 @@
     "waakye": {
       "titel": "Waakye",
       "korteBeschrijving": "Ghanees gerecht van rijst en bonen, vaak geserveerd met pittige bijgerechten.",
-      "afbeelding": "images/recepten/WaakyeAI.png",
+      "afbeelding": "images/recepten/WaakyeAI.webp",
       "url": "recepten.html?id=waakye",
       "regios": [
         "west-afrika"
@@ -1015,7 +1015,7 @@
     "injera": {
       "titel": "Injera",
       "korteBeschrijving": "Zuurdesem flatbread van teff, gebruikt als basis en eetgerei in Ethiopische maaltijden.",
-      "afbeelding": "images/recepten/InjeraAI.png",
+      "afbeelding": "images/recepten/InjeraAI.webp",
       "url": "recepten.html?id=injera",
       "regios": [
         "hoorn-van-afrika"
@@ -1025,7 +1025,7 @@
     "doroWat": {
       "titel": "Doro Wat",
       "korteBeschrijving": "Ethiopische pittige kipstoof met berbere-specerijen en vaak gekookt ei.",
-      "afbeelding": "images/recepten/DoroWatAI.png",
+      "afbeelding": "images/recepten/DoroWatAI.webp",
       "url": "recepten.html?id=doroWat",
       "regios": [
         "hoorn-van-afrika"
@@ -1035,7 +1035,7 @@
     "shiroWot": {
       "titel": "Shiro Wot",
       "korteBeschrijving": "Romige Ethiopische stoof van kikkererwtenmeel, gekruid met ui, knoflook en specerijen.",
-      "afbeelding": "images/recepten/ShiroWotAI.png",
+      "afbeelding": "images/recepten/ShiroWotAI.webp",
       "url": "recepten.html?id=shiro",
       "regios": [
         "hoorn-van-afrika"
@@ -1045,7 +1045,7 @@
     "kitfo": {
       "titel": "Kitfo",
       "korteBeschrijving": "Ethiopisch fijngehakt rundvlees, gekruid met boter en specerijen, vaak warm geserveerd.",
-      "afbeelding": "images/recepten/KitfoAI.png",
+      "afbeelding": "images/recepten/KitfoAI.webp",
       "url": "recepten.html?id=kitfo",
       "regios": [
         "hoorn-van-afrika"
@@ -1055,7 +1055,7 @@
     "moambe": {
       "titel": "Moambe",
       "korteBeschrijving": "Centraal-Afrikaanse stoofschotel, vaak met kip, bereid in een rijke saus van palmnoten.",
-      "afbeelding": "images/recepten/MoambeAI.png",
+      "afbeelding": "images/recepten/MoambeAI.webp",
       "url": "recepten.html?id=moambe",
       "regios": [
         "centraal-afrika"
@@ -1065,7 +1065,7 @@
     "fufu": {
       "titel": "Fufu",
       "korteBeschrijving": "Elastische puree van cassave, yam of bakbanaan, gegeten als basis bij soepen en stoofschotels.",
-      "afbeelding": "images/recepten/FufuAI.png",
+      "afbeelding": "images/recepten/FufuAI.webp",
       "url": "recepten.html?id=fufu",
       "regios": [
         "centraal-afrika"
@@ -1075,7 +1075,7 @@
     "pondu": {
       "titel": "Pondu",
       "korteBeschrijving": "Stoof van cassavebladeren, vaak bereid met vis, vlees of pinda.",
-      "afbeelding": "images/recepten/PonduAI.png",
+      "afbeelding": "images/recepten/PonduAI.webp",
       "url": "recepten.html?id=pondu",
       "regios": [
         "centraal-afrika"
@@ -1085,7 +1085,7 @@
     "sakaSaka": {
       "titel": "Saka-Saka",
       "korteBeschrijving": "Gestoofde cassavebladeren met olie en kruiden, geliefd in meerdere Centraal-Afrikaanse keukens.",
-      "afbeelding": "images/recepten/SakaSakaAI.png",
+      "afbeelding": "images/recepten/SakaSakaAI.webp",
       "url": "recepten.html?id=sakaSaka",
       "regios": [
         "centraal-afrika"
@@ -1095,7 +1095,7 @@
     "pilau": {
       "titel": "Pilau",
       "korteBeschrijving": "Oost-Afrikaanse kruidige rijstschotel met specerijen, vaak geserveerd met vlees.",
-      "afbeelding": "images/recepten/PilauAI.png",
+      "afbeelding": "images/recepten/PilauAI.webp",
       "url": "recepten.html?id=pilau",
       "regios": [
         "oost-afrika"
@@ -1105,7 +1105,7 @@
     "nyamaChoma": {
       "titel": "Nyama Choma",
       "korteBeschrijving": "Gegrild vlees, vooral geit of rund, simpel gekruid en populair in Oost-Afrika.",
-      "afbeelding": "images/recepten/NyamaChomaAI.png",
+      "afbeelding": "images/recepten/NyamaChomaAI.webp",
       "url": "recepten.html?id=nyamaChoma",
       "regios": [
         "oost-afrika"
@@ -1115,7 +1115,7 @@
     "ugali": {
       "titel": "Ugali",
       "korteBeschrijving": "Stevige maïspap, vaak gegeten als basis bij groenten, saus of gegrild vlees.",
-      "afbeelding": "images/recepten/UgaliAI.png",
+      "afbeelding": "images/recepten/UgaliAI.webp",
       "url": "recepten.html?id=ugali",
       "regios": [
         "oost-afrika"
@@ -1125,7 +1125,7 @@
     "biryaniZanzibar": {
       "titel": "Zanzibar Biryani",
       "korteBeschrijving": "Aromatische Swahili-rijstschotel met specerijen, vlees en duidelijke Indiase en Arabische invloeden.",
-      "afbeelding": "images/recepten/BiryaniZanzibarAI.png",
+      "afbeelding": "images/recepten/BiryaniZanzibarAI.webp",
       "url": "recepten.html?id=biryaniZanzibar",
       "regios": [
         "oost-afrika"
@@ -1135,7 +1135,7 @@
     "braai": {
       "titel": "Braai",
       "korteBeschrijving": "Zuid-Afrikaanse barbecue met gegrild vlees, worst en diverse hartige bijgerechten.",
-      "afbeelding": "images/recepten/BraaiAI.png",
+      "afbeelding": "images/recepten/BraaiAI.webp",
       "url": "recepten.html?id=braai",
       "regios": [
         "zuidelijk-afrika"
@@ -1145,7 +1145,7 @@
     "bunnyChow": {
       "titel": "Bunny Chow",
       "korteBeschrijving": "Zuid-Afrikaanse lamscurry met aardappelen en aromatische specerijen, geserveerd in een uitgeholde Italiaanse bol.",
-      "afbeelding": "images/recepten/BunnyChowAI.png",
+      "afbeelding": "images/recepten/BunnyChowAI.webp",
       "url": "recepten.html?id=bunnyChow",
       "regios": [
         "zuidelijk-afrika"
@@ -1155,7 +1155,7 @@
     "umngqusho": {
       "titel": "Umngqusho",
       "korteBeschrijving": "Traditioneel Xhosa-gerecht van samp en bonen, langzaam gekookt tot een stevige, voedzame stoof.",
-      "afbeelding": "images/recepten/UmngqushoAI.png",
+      "afbeelding": "images/recepten/UmngqushoAI.webp",
       "url": "recepten.html?id=umngqusho",
       "regios": [
         "zuidelijk-afrika"
@@ -1165,7 +1165,7 @@
     "papChakalaka": {
       "titel": "Pap met Chakalaka",
       "korteBeschrijving": "Stevige maïspap geserveerd met pittige chakalaka van groenten, bonen en specerijen.",
-      "afbeelding": "images/recepten/PapChakalakaAI.png",
+      "afbeelding": "images/recepten/PapChakalakaAI.webp",
       "url": "recepten.html?id=papChakalaka",
       "regios": [
         "zuidelijk-afrika"
@@ -1175,7 +1175,7 @@
     "tacos": {
       "titel": "Tacos",
       "korteBeschrijving": "Zachte maïstortilla’s gevuld met vlees, groenten, salsa en frisse toppings.",
-      "afbeelding": "images/recepten/TacosAI.png",
+      "afbeelding": "images/recepten/TacosAI.webp",
       "url": "recepten.html?id=tacos",
       "regios": [
         "mexicaans"
@@ -1185,7 +1185,7 @@
     "molePoblano": {
       "titel": "Mole Poblano",
       "korteBeschrijving": "Rijke Mexicaanse saus met chili, specerijen en chocolade, vaak geserveerd met kip.",
-      "afbeelding": "images/recepten/MolePoblanoAI.png",
+      "afbeelding": "images/recepten/MolePoblanoAI.webp",
       "url": "recepten.html?id=molePoblano",
       "regios": [
         "mexicaans"
@@ -1195,7 +1195,7 @@
     "pozole": {
       "titel": "Pozole",
       "korteBeschrijving": "Traditionele Mexicaanse soep met hominy, vlees en frisse garnituren zoals sla en radijs.",
-      "afbeelding": "images/recepten/PozoleAI.png",
+      "afbeelding": "images/recepten/PozoleAI.webp",
       "url": "recepten.html?id=pozole",
       "regios": [
         "mexicaans"
@@ -1205,7 +1205,7 @@
     "enchiladas": {
       "titel": "Enchiladas",
       "korteBeschrijving": "Opgerolde tortilla’s gevuld met vlees, kaas of bonen, overgoten met saus en gebakken.",
-      "afbeelding": "images/recepten/EnchiladasAI.png",
+      "afbeelding": "images/recepten/EnchiladasAI.webp",
       "url": "recepten.html?id=enchiladas",
       "regios": [
         "mexicaans"
@@ -1215,7 +1215,7 @@
     "galloPinto": {
       "titel": "Gallo Pinto",
       "korteBeschrijving": "Klassiek Centraal-Amerikaans gerecht van rijst en bonen, vaak gegeten als ontbijt of bijgerecht.",
-      "afbeelding": "images/recepten/GalloPintoAI.png",
+      "afbeelding": "images/recepten/GalloPintoAI.webp",
       "url": "recepten.html?id=galloPinto",
       "regios": [
         "centraal-amerika"
@@ -1225,7 +1225,7 @@
     "pupusas": {
       "titel": "Pupusas",
       "korteBeschrijving": "Dikke Salvadoraanse maïspannenkoekjes, gevuld met kaas, bonen of vlees.",
-      "afbeelding": "images/recepten/PupusasAI.png",
+      "afbeelding": "images/recepten/PupusasAI.webp",
       "url": "recepten.html?id=pupusas",
       "regios": [
         "centraal-amerika"
@@ -1235,7 +1235,7 @@
     "vigoron": {
       "titel": "Vigorón",
       "korteBeschrijving": "Nicaraguaans gerecht van cassave, koolsalade en krokante varkenszwoerd.",
-      "afbeelding": "images/recepten/VigoronAI.png",
+      "afbeelding": "images/recepten/VigoronAI.webp",
       "url": "recepten.html?id=vigoron",
       "regios": [
         "centraal-amerika"
@@ -1245,7 +1245,7 @@
     "tamales": {
       "titel": "Tamales",
       "korteBeschrijving": "Maïsdeeg met hartige vulling, gestoomd in een blad, geliefd in heel Centraal-Amerika.",
-      "afbeelding": "images/recepten/TamalesAI.png",
+      "afbeelding": "images/recepten/TamalesAI.webp",
       "url": "recepten.html?id=tamales",
       "regios": [
         "centraal-amerika"
@@ -1255,7 +1255,7 @@
     "jerkChicken": {
       "titel": "Jerk Chicken",
       "korteBeschrijving": "Pittig Jamaicaans gegrild kipgerecht, gemarineerd met kruiden, pepers en specerijen.",
-      "afbeelding": "images/recepten/JerkChickenAI.png",
+      "afbeelding": "images/recepten/JerkChickenAI.webp",
       "url": "recepten.html?id=jerkChicken",
       "regios": [
         "caribisch"
@@ -1265,7 +1265,7 @@
     "ropaVieja": {
       "titel": "Ropa Vieja",
       "korteBeschrijving": "Cubaanse stoofschotel van draadjesvlees in een rijke saus met tomaat, paprika en ui.",
-      "afbeelding": "images/recepten/RopaViejaAI.png",
+      "afbeelding": "images/recepten/RopaViejaAI.webp",
       "url": "recepten.html?id=ropaVieja",
       "regios": [
         "caribisch"
@@ -1275,7 +1275,7 @@
     "ackeeSaltfish": {
       "titel": "Ackee and Saltfish",
       "korteBeschrijving": "Nationaal Jamaicaans gerecht van ackeevrucht en gezouten kabeljauw, vaak met ui en paprika.",
-      "afbeelding": "images/recepten/AckeeSaltfishAI.png",
+      "afbeelding": "images/recepten/AckeeSaltfishAI.webp",
       "url": "recepten.html?id=ackeeSaltfish",
       "regios": [
         "caribisch"
@@ -1285,7 +1285,7 @@
     "mofongo": {
       "titel": "Mofongo",
       "korteBeschrijving": "Puerto Ricaans gerecht van gestampte bakbanaan, vaak geserveerd met knoflook, vlees of zeevruchten.",
-      "afbeelding": "images/recepten/MofongoAI.png",
+      "afbeelding": "images/recepten/MofongoAI.webp",
       "url": "recepten.html?id=mofongo",
       "regios": [
         "caribisch"
@@ -1295,7 +1295,7 @@
     "ceviche": {
       "titel": "Ceviche",
       "korteBeschrijving": "Verse vis gemarineerd in limoensap met rode ui, chili en koriander, een klassieker van de Andes-kust.",
-      "afbeelding": "images/recepten/CevicheAI.png",
+      "afbeelding": "images/recepten/CevicheAI.webp",
       "url": "recepten.html?id=ceviche",
       "regios": [
         "andes"
@@ -1305,7 +1305,7 @@
     "ajiDeGallina": {
       "titel": "Ají de Gallina",
       "korteBeschrijving": "Peruaans gerecht van kip in een romige, licht pittige saus van ají-peper, brood en noten.",
-      "afbeelding": "images/recepten/AjiDeGallinaAI.png",
+      "afbeelding": "images/recepten/AjiDeGallinaAI.webp",
       "url": "recepten.html?id=ajiDeGallina",
       "regios": [
         "andes"
@@ -1315,7 +1315,7 @@
     "llapingachos": {
       "titel": "Llapingachos",
       "korteBeschrijving": "Ecuadoriaanse aardappelkoekjes gevuld met kaas en goudbruin gebakken.",
-      "afbeelding": "images/recepten/LlapingachosAI.png",
+      "afbeelding": "images/recepten/LlapingachosAI.webp",
       "url": "recepten.html?id=llapingachos",
       "regios": [
         "andes"
@@ -1325,7 +1325,7 @@
     "saltenas": {
       "titel": "Salteñas",
       "korteBeschrijving": "Boliviaanse pasteitjes met een sappige, kruidige vulling van vlees, groenten en saus.",
-      "afbeelding": "images/recepten/SaltenasAI.png",
+      "afbeelding": "images/recepten/SaltenasAI.webp",
       "url": "recepten.html?id=saltenas",
       "regios": [
         "andes"
@@ -1335,7 +1335,7 @@
     "feijoada": {
       "titel": "Feijoada",
       "korteBeschrijving": "Rijke Braziliaanse stoofpot van zwarte bonen en verschillende soorten varkens- en rundvlees.",
-      "afbeelding": "images/recepten/FeijoadaAI.png",
+      "afbeelding": "images/recepten/FeijoadaAI.webp",
       "url": "recepten.html?id=feijoada",
       "regios": [
         "brazilie"
@@ -1345,7 +1345,7 @@
     "moqueca": {
       "titel": "Moqueca",
       "korteBeschrijving": "Braziliaanse visstoof met kokosmelk, tomaat, paprika, koriander en palmolie.",
-      "afbeelding": "images/recepten/MoquecaAI.png",
+      "afbeelding": "images/recepten/MoquecaAI.webp",
       "url": "recepten.html?id=moqueca",
       "regios": [
         "brazilie"
@@ -1355,7 +1355,7 @@
     "paoDeQueijo": {
       "titel": "Pão de Queijo",
       "korteBeschrijving": "Kleine Braziliaanse kaasbroodjes van cassavezetmeel, krokant van buiten en zacht van binnen.",
-      "afbeelding": "images/recepten/PaoDeQueijoAI.png",
+      "afbeelding": "images/recepten/PaoDeQueijoAI.webp",
       "url": "recepten.html?id=paoDeQueijo",
       "regios": [
         "brazilie"
@@ -1365,7 +1365,7 @@
     "acaraje": {
       "titel": "Acarajé",
       "korteBeschrijving": "Bahiaans gerecht van gefrituurde bonenballetjes, gevuld met pittige garnalen en smaakvolle sauzen.",
-      "afbeelding": "images/recepten/AcarajeAI.png",
+      "afbeelding": "images/recepten/AcarajeAI.webp",
       "url": "recepten.html?id=acaraje",
       "regios": [
         "brazilie"
@@ -1375,7 +1375,7 @@
     "pepperpot": {
       "titel": "Pepperpot",
       "korteBeschrijving": "Guyanees vleesgerecht, langzaam gestoofd met cassareep, specerijen en warme aromatische smaken.",
-      "afbeelding": "images/recepten/PepperpotAI.png",
+      "afbeelding": "images/recepten/PepperpotAI.webp",
       "url": "recepten.html?id=pepperpot",
       "regios": [
         "amazone-guyanas"
@@ -1385,7 +1385,7 @@
     "cassavaBread": {
       "titel": "Cassava Bread",
       "korteBeschrijving": "Dun traditioneel brood van geraspte cassave, knapperig gebakken en veel gegeten in de Guyana’s.",
-      "afbeelding": "images/recepten/CassavaBreadAI.png",
+      "afbeelding": "images/recepten/CassavaBreadAI.webp",
       "url": "recepten.html?id=cassavaBread",
       "regios": [
         "amazone-guyanas"
@@ -1395,7 +1395,7 @@
     "metemgee": {
       "titel": "Metemgee",
       "korteBeschrijving": "Guyanees stoofgerecht met knolgewassen, bakbanaan en dumplings in een rijke kokossaus.",
-      "afbeelding": "images/recepten/MetemgeeAI.png",
+      "afbeelding": "images/recepten/MetemgeeAI.webp",
       "url": "recepten.html?id=metemgee",
       "regios": [
         "amazone-guyanas"
@@ -1405,7 +1405,7 @@
     "caldeirada": {
       "titel": "Caldeirada",
       "korteBeschrijving": "Rijke visstoof uit het Amazonegebied met verse vis, groenten, kruiden en een geurige bouillon.",
-      "afbeelding": "images/recepten/CaldeiradaAI.png",
+      "afbeelding": "images/recepten/CaldeiradaAI.webp",
       "url": "recepten.html?id=caldeirada",
       "regios": [
         "amazone-guyanas"
@@ -1415,7 +1415,7 @@
     "asado": {
       "titel": "Asado",
       "korteBeschrijving": "Argentijnse en Uruguayaanse barbecue van verschillende stukken vlees, langzaam boven vuur gegrild.",
-      "afbeelding": "images/recepten/AsadoAI.png",
+      "afbeelding": "images/recepten/AsadoAI.webp",
       "url": "recepten.html?id=asado",
       "regios": [
         "pampas"
@@ -1425,7 +1425,7 @@
     "choripan": {
       "titel": "Choripán",
       "korteBeschrijving": "Gegrilde chorizo in knapperig brood, vaak geserveerd met frisse chimichurri.",
-      "afbeelding": "images/recepten/ChoripanAI.png",
+      "afbeelding": "images/recepten/ChoripanAI.webp",
       "url": "recepten.html?id=choripan",
       "regios": [
         "pampas"
@@ -1435,7 +1435,7 @@
     "milanesa": {
       "titel": "Milanesa",
       "korteBeschrijving": "Dun stuk vlees, gepaneerd en goudbruin gebakken, een geliefde klassieker in de Río de la Plata.",
-      "afbeelding": "images/recepten/MilanesaAI.png",
+      "afbeelding": "images/recepten/MilanesaAI.webp",
       "url": "recepten.html?id=milanesa",
       "regios": [
         "pampas"
@@ -1445,7 +1445,7 @@
     "empanadas": {
       "titel": "Empanadas",
       "korteBeschrijving": "Goudbruine deegpasteitjes gevuld met gekruid vlees, ui, kaas of andere hartige vullingen.",
-      "afbeelding": "images/recepten/EmpanadasAI.png",
+      "afbeelding": "images/recepten/EmpanadasAI.webp",
       "url": "recepten.html?id=empanadas",
       "regios": [
         "pampas"
@@ -1455,7 +1455,7 @@
     "meatPie": {
       "titel": "Meat Pie",
       "korteBeschrijving": "Klassieke Australische vleespastei met gekruid gehakt en jus in een goudbruine deegkorst.",
-      "afbeelding": "images/recepten/MeatPieAI.png",
+      "afbeelding": "images/recepten/MeatPieAI.webp",
       "url": "recepten.html?id=meatPie",
       "regios": [
         "australie"
@@ -1465,7 +1465,7 @@
     "barramundi": {
       "titel": "Barramundi",
       "korteBeschrijving": "Australische vis met stevig wit vlees, vaak gegrild en eenvoudig geserveerd met citroen en kruiden.",
-      "afbeelding": "images/recepten/BarramundiAI.png",
+      "afbeelding": "images/recepten/BarramundiAI.webp",
       "url": "recepten.html?id=barramundi",
       "regios": [
         "australie"
@@ -1475,7 +1475,7 @@
     "lamington": {
       "titel": "Lamington",
       "korteBeschrijving": "Australisch cakegebak met chocoladeglazuur en kokos, soms gevuld met room of jam.",
-      "afbeelding": "images/recepten/LamingtonAI.png",
+      "afbeelding": "images/recepten/LamingtonAI.webp",
       "url": "recepten.html?id=lamington",
       "regios": [
         "australie"
@@ -1485,7 +1485,7 @@
     "pavlova": {
       "titel": "Pavlova",
       "korteBeschrijving": "Luchtig meringuedessert met een krokante buitenkant, zachte kern, slagroom en vers fruit.",
-      "afbeelding": "images/recepten/PavlovaAI.png",
+      "afbeelding": "images/recepten/PavlovaAI.webp",
       "url": "recepten.html?id=pavlova",
       "regios": [
         "australie",
@@ -1496,7 +1496,7 @@
     "hangi": {
       "titel": "Hāngī",
       "korteBeschrijving": "Traditionele Māori-bereiding waarbij vlees en groenten langzaam in een ondergrondse oven worden gegaard.",
-      "afbeelding": "images/recepten/HangiAI.png",
+      "afbeelding": "images/recepten/HangiAI.webp",
       "url": "recepten.html?id=hangi",
       "regios": [
         "nieuw-zeeland"
@@ -1506,7 +1506,7 @@
     "greenLippedMussels": {
       "titel": "Green-Lipped Mussels",
       "korteBeschrijving": "Grote Nieuw-Zeelandse groenlipmosselen, vaak gestoomd met kruiden, knoflook en wijn.",
-      "afbeelding": "images/recepten/GreenLippedMusselsAI.png",
+      "afbeelding": "images/recepten/GreenLippedMusselsAI.webp",
       "url": "recepten.html?id=greenLippedMussels",
       "regios": [
         "nieuw-zeeland"
@@ -1516,7 +1516,7 @@
     "roastLamb": {
       "titel": "Roast Lamb",
       "korteBeschrijving": "Langzaam geroosterd Nieuw-Zeelands lamsvlees met kruiden, groenten en rijke jus.",
-      "afbeelding": "images/recepten/RoastLambAI.png",
+      "afbeelding": "images/recepten/RoastLambAI.webp",
       "url": "recepten.html?id=roastLamb",
       "regios": [
         "nieuw-zeeland"
@@ -1526,7 +1526,7 @@
     "kokoda": {
       "titel": "Kokoda",
       "korteBeschrijving": "Fijiaans gerecht van rauwe vis gemarineerd in citrus en kokosmelk, met groenten en chili.",
-      "afbeelding": "images/recepten/KokodaAI.png",
+      "afbeelding": "images/recepten/KokodaAI.webp",
       "url": "recepten.html?id=kokoda",
       "regios": [
         "melanesie"
@@ -1536,7 +1536,7 @@
     "mumu": {
       "titel": "Mumu",
       "korteBeschrijving": "Papoea-Nieuw-Guinees feestgerecht van vlees, groenten en knolgewassen, langzaam ondergronds gegaard.",
-      "afbeelding": "images/recepten/MumuAI.png",
+      "afbeelding": "images/recepten/MumuAI.webp",
       "url": "recepten.html?id=mumu",
       "regios": [
         "melanesie"
@@ -1546,7 +1546,7 @@
     "laplap": {
       "titel": "Laplap",
       "korteBeschrijving": "Gerecht uit Vanuatu van geraspte wortelgewassen met kokosmelk, vaak bereid met vlees of vis.",
-      "afbeelding": "images/recepten/LaplapAI.png",
+      "afbeelding": "images/recepten/LaplapAI.webp",
       "url": "recepten.html?id=laplap",
       "regios": [
         "melanesie"
@@ -1556,7 +1556,7 @@
     "palusami": {
       "titel": "Palusami",
       "korteBeschrijving": "Taro-bladeren gevuld met kokosroom en vaak ui of vlees, langzaam gebakken tot een romig geheel.",
-      "afbeelding": "images/recepten/PalusamiAI.png",
+      "afbeelding": "images/recepten/PalusamiAI.webp",
       "url": "recepten.html?id=palusami",
       "regios": [
         "melanesie"
@@ -1566,7 +1566,7 @@
     "poissonCru": {
       "titel": "Poisson Cru",
       "korteBeschrijving": "Tahitiaans gerecht van rauwe vis gemarineerd met limoen en kokosmelk, met frisse groenten.",
-      "afbeelding": "images/recepten/PoissonCruAI.png",
+      "afbeelding": "images/recepten/PoissonCruAI.webp",
       "url": "recepten.html?id=poissonCru",
       "regios": [
         "polynesie"
@@ -1576,7 +1576,7 @@
     "umu": {
       "titel": "Umu",
       "korteBeschrijving": "Polynesische maaltijd van vlees, vis en groenten, langzaam gegaard in een ondergrondse steenoven.",
-      "afbeelding": "images/recepten/UmuAI.png",
+      "afbeelding": "images/recepten/UmuAI.webp",
       "url": "recepten.html?id=umu",
       "regios": [
         "polynesie"
@@ -1586,7 +1586,7 @@
     "poke": {
       "titel": "Poke",
       "korteBeschrijving": "Hawaïaans gerecht van blokjes rauwe vis, op smaak gebracht met soja, sesam en andere toppings.",
-      "afbeelding": "images/recepten/PokeAI.png",
+      "afbeelding": "images/recepten/PokeAI.webp",
       "url": "recepten.html?id=poke",
       "regios": [
         "polynesie"
@@ -1596,7 +1596,7 @@
     "luau": {
       "titel": "Lūʻau",
       "korteBeschrijving": "Hawaïaans gerecht van taro-bladeren, traditioneel langzaam gegaard met vlees en kokos.",
-      "afbeelding": "images/recepten/LuauAI.png",
+      "afbeelding": "images/recepten/LuauAI.webp",
       "url": "recepten.html?id=luau",
       "regios": [
         "polynesie"
@@ -1606,7 +1606,7 @@
     "tinaktak": {
       "titel": "Tinaktak",
       "korteBeschrijving": "Guamees gerecht van rundvlees, groenten en kokosmelk, vaak gegeten met rijst.",
-      "afbeelding": "images/recepten/TinaktakAI.png",
+      "afbeelding": "images/recepten/TinaktakAI.webp",
       "url": "recepten.html?id=tinaktak",
       "regios": [
         "micronesie"
@@ -1616,7 +1616,7 @@
     "kelaguen": {
       "titel": "Kelaguen",
       "korteBeschrijving": "Guamees gerecht van fijngehakt vlees of vis met citroen, kokos, chili en lente-ui.",
-      "afbeelding": "images/recepten/KelaguenAI.png",
+      "afbeelding": "images/recepten/KelaguenAI.webp",
       "url": "recepten.html?id=kelaguen",
       "regios": [
         "micronesie"
@@ -1626,7 +1626,7 @@
     "coconutCrab": {
       "titel": "Coconut Crab",
       "korteBeschrijving": "Grote Pacifische landkrab, traditioneel bereid met kokos en eenvoudige eilandkruiden.",
-      "afbeelding": "images/recepten/CoconutCrabAI.png",
+      "afbeelding": "images/recepten/CoconutCrabAI.webp",
       "url": "recepten.html?id=coconutCrab",
       "regios": [
         "micronesie"
@@ -1636,7 +1636,7 @@
     "breadfruitChips": {
       "titel": "Breadfruit Chips",
       "korteBeschrijving": "Dunne krokante plakjes broodvrucht, goudbruin gefrituurd en licht gezouten.",
-      "afbeelding": "images/recepten/BreadfruitChipsAI.png",
+      "afbeelding": "images/recepten/BreadfruitChipsAI.webp",
       "url": "recepten.html?id=breadfruitChips",
       "regios": [
         "micronesie"
@@ -1646,7 +1646,7 @@
     "sate-ayam": {
       "titel": "Saté ayam",
       "korteBeschrijving": "Gegrilde kipspiesjes met ketjapmarinade en satésaus.",
-      "afbeelding": "images/recepten/SateAjamAI.png",
+      "afbeelding": "images/recepten/SateAjamAI.webp",
       "url": "recepten.html?id=sate-ayam",
       "regios": [
         "maleis-indonesisch"
@@ -1656,7 +1656,7 @@
     "bloteBilletjes": {
       "titel": "Blote billetjes in het gras",
       "korteBeschrijving": "Traditionele stamppot uit de Lage Landen met snijbonen, witte bonen en krokant gebakken spekreepjes.",
-      "afbeelding": "images/recepten/BloteBilletjesAI.png",
+      "afbeelding": "images/recepten/BloteBilletjesAI.webp",
       "url": "recepten.html?id=bloteBilletjes",
       "regios": [
         "germaans"

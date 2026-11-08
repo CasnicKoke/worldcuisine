@@ -3,8 +3,9 @@
   "regios": [
     "hoorn-van-afrika"
   ],
-  "titel": "Doro Wat",
-  "korteBeschrijving": "Ethiopische pittige kipstoof met berbere-specerijen en vaak gekookt ei.",
+  "titel": "Doro wat met injera",
+  "korteBeschrijving": "Een pittige Ethiopische kipstoofpot met langzaam gegaarde rode uien, zelfgemaakte berbere en gekookte eieren, geserveerd op zacht, lichtzuur injera-platbrood.",
+  "beschrijving": "Doro wat is een van de beroemdste gerechten uit de Ethiopische keuken. Deze dieprode kipstoofpot krijgt zijn rijke smaak van langzaam gegaarde uien, roomboter, knoflook, gember en berbere, een pittig mengsel van chili en geurige specerijen. Voor onze versie gebruiken we malse kippendijfilet en stellen we de berbere zelf samen. De kip wordt zachtjes gegaard in de dikke, kruidige saus, waarna gekookte eieren worden toegevoegd. We serveren het gerecht op kant-en-klare injera, het traditionele lichtzure, sponsachtige platbrood waarmee de saus wordt opgeschept.",
   "afbeelding": "images/recepten/DoroWatAI.webp",
   "url": "recepten.html?id=doroWat",
   "volgorde": 104,
@@ -12,14 +13,111 @@
     "hoorn-van-afrika": 1
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 120,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de kipstoofpot:",
+    "600 g kippendijfilet",
+    "600 g rode uien",
+    "5 tenen knoflook",
+    "30 g verse gember",
+    "60 g ongezouten roomboter",
+    "150 ml water",
+    "4 eieren",
+    "4 grote kant-en-klare injera (bij voorkeur van teff)",
+    "Zout naar smaak",
+    "Voor de zelfgemaakte berbere:",
+    "2 el mild paprikapoeder",
+    "2 tl cayennepeper",
+    "1 tl gemalen korianderzaad",
+    "1 tl gemalen komijn",
+    "1 tl gemalen fenegriek",
+    "1 tl gemalen gember",
+    "1 tl gemalen kardemom",
+    "1 tl versgemalen zwarte peper",
+    "1 tl gemalen kaneel",
+    "1 mespunt gemalen kruidnagel",
+    "1 mespunt gemalen nootmuskaat",
+    "Verder:",
+    "1 citroen"
+  ],
+  "bereiding": [
+    "Dep de kippendijfilets droog met keukenpapier en leg ze in een schaal.",
+    "Pers de citroen uit. Wrijf de kip in met het citroensap en laat ongeveer 20 minuten afgedekt in de koelkast marineren.",
+    "Pel de rode uien en hak ze zeer fijn, bij voorkeur in een keukenmachine. Hak ze in korte pulsen: ze moeten fijn worden, maar niet veranderen in een waterige puree.",
+    "Pel de knoflooktenen en schil de gember. Snijd de gember in grove stukken en doe deze samen met de knoflook in de keukenmachine. Maal in korte pulsen fijn. Schep het mengsel uit de machine en zet apart.",
+    "Meng voor de berbere het paprikapoeder, de cayennepeper, het gemalen korianderzaad, de komijn, de fenegriek, de gemalen gember, de kardemom, de zwarte peper, de kaneel, de kruidnagel en de nootmuskaat in een kommetje tot een egaal roodbruin kruidenmengsel.",
+    "Zet een ruime stoofpan met dikke bodem op middellaag vuur. Voeg de fijngehakte uien toe, zonder boter of olie.",
+    "Laat de uien ongeveer 25–35 minuten zachtjes garen. Roer regelmatig. De uien moeten sterk in volume afnemen en veranderen in een zachte, licht goudbruine massa.",
+    "Voeg zo nodig een klein scheutje water toe wanneer de uien aan de bodem dreigen vast te plakken. Laat ze niet verbranden.",
+    "Voeg de roomboter toe aan de zachte uien en laat op middellaag vuur smelten. Roer goed en bak het geheel nog ongeveer 5 minuten.",
+    "Voeg het knoflook-gembermengsel toe en bak ongeveer 2 minuten mee.",
+    "Voeg de zelfgemaakte berbere toe. Roer voortdurend en bak ongeveer 2 minuten, totdat de kruiden geuren. Voeg zo nodig een klein scheutje water toe om aanbranden te voorkomen.",
+    "Leg de kippendijfilets in de pan en schep de kruidige uienmassa eroverheen, zodat het vlees rondom bedekt is.",
+    "Voeg het water en zout naar smaak toe. Breng het geheel zachtjes aan de kook.",
+    "Zet het vuur laag, doe het deksel op de pan en laat de kip ongeveer 20–25 minuten zachtjes garen. Keer de filets halverwege voorzichtig om. Voeg zo nodig een klein scheutje water toe als de saus te dik wordt.",
+    "Controleer of de kip volledig gaar is. Meet bij voorkeur een kerntemperatuur van minimaal 74 °C in het dikste deel van een filet.",
+    "Haal het deksel van de pan en laat de saus indien nodig nog 5–10 minuten inkoken. Doro wat hoort een dikke, geconcentreerde saus te hebben.",
+    "Leg de eieren in een steelpan met koud water en breng aan de kook.",
+    "Kook de eieren ongeveer 9 minuten, zodat de dooiers stevig zijn. Laat ze schrikken onder koud stromend water en pel ze.",
+    "Maak met een scherp mes enkele ondiepe sneetjes in het eiwit, zonder de dooier te raken.",
+    "Leg de eieren voorzichtig in de Doro wat en laat nog ongeveer 5–10 minuten zachtjes mee verwarmen. Schep tussendoor wat saus over de eieren.",
+    "Haal de kant-en-klare injera uit de verpakking en controleer de verwarmingsinstructies.",
+    "Verwarm de injera één voor één ongeveer 30–60 seconden in een droge koekenpan op laag vuur, of volgens de verpakking. Leg ze direct onder een schone theedoek zodat ze warm, zacht en soepel blijven.",
+    "Leg een grote injera op een serveerschaal en schep de kipstoofpot met de eieren in het midden.",
+    "Serveer de overige injera ernaast. Scheur stukjes brood af en gebruik die om de kip, het ei en de kruidige saus op te scheppen."
+  ],
+  "weetje": "Doro wat behoort tot de meest feestelijke gerechten van Ethiopië. Doro betekent 'kip' en wat (ook geschreven als wot of wett) verwijst naar een kruidige stoofpot. Het gerecht neemt een bijzondere plaats in tijdens belangrijke familiefeesten en religieuze feestdagen, vooral binnen de Ethiopisch-orthodoxe traditie. Tijdens de lange vastenperioden van deze kerk worden dierlijke producten vermeden. Met Pasen (Fasika) en Kerstmis (Genna) vormt een rijkgevulde Doro wat daarom een feestelijke afsluiting van het vasten. Traditioneel wordt hiervoor vaak een hele kip gebruikt, die volgens een vaste gewoonte in twaalf stukken wordt verdeeld. Een populaire uitleg verbindt dit aantal met de twaalf apostelen, al is de precieze oorsprong van het gebruik niet zeker.\n\nDe bereiding van Doro wat is van oudsher tijdrovend. Grote hoeveelheden zeer fijngehakte uien worden langzaam, aanvankelijk vaak zonder vet, gegaard totdat ze een dikke, zoete basis vormen. Daarna worden berbere, knoflook, gember en niter kibbeh toegevoegd. Berbere is een felrood kruidenmengsel waarin gedroogde chilipepers de hoofdrol spelen, aangevuld met onder andere fenegriek, koriander, kardemom en andere specerijen. Traditioneel bereiden families hun eigen mengsel, soms in grote hoeveelheden na de oogst van de chilipepers. Niter kibbeh is geklaarde boter waarin kruiden en specerijen zijn getrokken. Samen geven deze ingrediënten Doro wat zijn karakteristieke dieprode kleur, krachtige geur en rijke smaak. In onze versie gebruiken we gewone roomboter en zelfgemaakte berbere.\n\nDoro wat wordt traditioneel geserveerd op injera, een groot, soepel en sponsachtig platbrood met een lichtzure smaak. Injera wordt meestal gemaakt van teff, een zeer kleine graansoort die al eeuwenlang in de Ethiopische hooglanden wordt verbouwd. Het beslag fermenteert gedurende meerdere dagen en wordt vervolgens op een grote, hete bakplaat gebakken. Tijdens het bakken ontstaan talloze kleine gaatjes aan de bovenkant, waardoor de injera de saus uitstekend kan opnemen. Het brood wordt als ondergrond voor de maaltijd gebruikt, maar ook als eetgerei: met afgescheurde stukjes injera worden de kip, eieren en saus opgeschept. Gezamenlijk eten van één grote schaal is een belangrijk onderdeel van de Ethiopische eetcultuur.\n\nHiermee bestaat een mooie verbinding met Dam'a met Gurasa uit Soedan, dat we eerder in World Cuisine hebben opgenomen. Ook daar wordt een kruidige vleesstoofpot op platbrood geserveerd en met de handen gegeten. Toch verschillen de broden aanzienlijk. De Soedanese Gurasa is dik en zacht en wordt meestal van tarwemeel gemaakt, terwijl Ethiopische injera dunner, sponsachtig en lichtzuur is. Interessant genoeg heeft Soedan nog een tweede broodsoort, kisra, die juist meer overeenkomsten met injera vertoont: beide worden bereid uit gefermenteerd graanbeslag. Ook het Somalische canjeero en het Jemenitische lahoh behoren tot deze bredere familie van gefermenteerde platbroden. De verschillen in graansoorten, fermentatie en baktechniek weerspiegelen eeuwenlange contacten tussen het Nijldal, de Hoorn van Afrika en de handelswereld rond de Rode Zee.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Traditional Doro Wat",
+    "auteur": "Elazar Tamano",
+    "kookboek": "ASIF",
+    "url": "https://asif.org/en/recipes/traditional-doro-wat-ethiopian-shabbat-chicken-stew/"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Traditional Doro Wat",
+      "auteur": "Elazar Tamano",
+      "kookboek": "ASIF",
+      "url": "https://asif.org/en/recipes/traditional-doro-wat-ethiopian-shabbat-chicken-stew/"
+    },
+    {
+      "receptTitel": "Doro Wat",
+      "auteur": null,
+      "kookboek": "Jewish Food Society",
+      "url": "https://www.jewishfoodsociety.org/recipes/doro-wat-ethiopian-shabbat-chicken-stew"
+    }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "Ethiopia's National Dish",
+      "auteur": null,
+      "kookboek": "The Washington Post",
+      "url": "https://www.washingtonpost.com/archive/lifestyle/food/2005/05/18/ethiopias-national-dish/c199dd20-163d-4421-b54f-1602aa139132/"
+    },
+    {
+      "receptTitel": "Research Report - Ethiopian Poultry Sector",
+      "auteur": null,
+      "kookboek": "Dutch Africa Poultry",
+      "url": "https://dutchafricapoultry.com/wp-content/uploads/2021/10/Research-Report-Ethiopian-Poultry-Sector.pdf"
+    },
+    {
+      "receptTitel": "Ethiopia Book Club Toolkit",
+      "auteur": null,
+      "kookboek": "Smithsonian Asian Pacific American Center",
+      "url": "https://apa.si.edu/bookdragon/wp-content/uploads/sites/10/2012/01/2012_01_10x10-ethiopia-book-club-toolkit1.pdf"
+    },
+    {
+      "receptTitel": "Comparative Analysis of Fermented Flatbreads",
+      "auteur": null,
+      "kookboek": "Foods",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13114710/"
+    },
+    {
+      "receptTitel": "Fermented Cereals: A Global Perspective",
+      "auteur": null,
+      "kookboek": "FAO",
+      "url": "https://www.fao.org/4/x2184e/x2184e07.htm"
+    }
+  ]
 }

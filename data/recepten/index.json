@@ -1012,19 +1012,19 @@
       ],
       "bestand": "data/recepten/waakye.json"
     },
-    "injera": {
-      "titel": "Injera",
-      "korteBeschrijving": "Zuurdesem flatbread van teff, gebruikt als basis en eetgerei in Ethiopische maaltijden.",
-      "afbeelding": "images/recepten/InjeraAI.webp",
-      "url": "recepten.html?id=injera",
+    "suqaar": {
+      "titel": "Suqaar met canjeero",
+      "korteBeschrijving": "Malse blokjes rundvlees met paprika, tomaat en ui, gekruid met zelfgemaakte Somalische xawaash (kruidenmengsel) en geserveerd met zacht, lichtzuur canjeero-platbrood.",
+      "afbeelding": "images/recepten/SuqaarAI.webp",
+      "url": "recepten.html?id=suqaar",
       "regios": [
         "hoorn-van-afrika"
       ],
-      "bestand": "data/recepten/injera.json"
+      "bestand": "data/recepten/suqaar.json"
     },
     "doroWat": {
-      "titel": "Doro Wat",
-      "korteBeschrijving": "Ethiopische pittige kipstoof met berbere-specerijen en vaak gekookt ei.",
+      "titel": "Doro wat met injera",
+      "korteBeschrijving": "Een pittige Ethiopische kipstoofpot met langzaam gegaarde rode uien, zelfgemaakte berbere en gekookte eieren, geserveerd op zacht, lichtzuur injera-platbrood.",
       "afbeelding": "images/recepten/DoroWatAI.webp",
       "url": "recepten.html?id=doroWat",
       "regios": [
@@ -1033,24 +1033,24 @@
       "bestand": "data/recepten/doroWat.json"
     },
     "shiroWot": {
-      "titel": "Shiro Wot",
-      "korteBeschrijving": "Romige Ethiopische stoof van kikkererwtenmeel, gekruid met ui, knoflook en specerijen.",
+      "titel": "Shiro met injera en frisse salade",
+      "korteBeschrijving": "Een romige, pittige Ethiopisch-Eritrese stoofschotel van geroosterd kikkererwtenmeel, tomaat en zelfgemaakte berbere, geserveerd met lichtzuur injera-platbrood en een frisse, knapperige salade.",
       "afbeelding": "images/recepten/ShiroWotAI.webp",
-      "url": "recepten.html?id=shiro",
+      "url": "recepten.html?id=shiroWot",
       "regios": [
         "hoorn-van-afrika"
       ],
       "bestand": "data/recepten/shiroWot.json"
     },
-    "kitfo": {
-      "titel": "Kitfo",
-      "korteBeschrijving": "Ethiopisch fijngehakt rundvlees, gekruid met boter en specerijen, vaak warm geserveerd.",
-      "afbeelding": "images/recepten/KitfoAI.webp",
-      "url": "recepten.html?id=kitfo",
+    "skoudehkaris": {
+      "titel": "Skoudehkaris",
+      "korteBeschrijving": "Mals gestoofd lamsvlees met basmatirijst, tomaat en geurige specerijen zoals kardemom, komijn en kaneel, samen bereid in één pan.",
+      "afbeelding": "images/recepten/SkoudehkarisAI.webp",
+      "url": "recepten.html?id=skoudehkaris",
       "regios": [
         "hoorn-van-afrika"
       ],
-      "bestand": "data/recepten/kitfo.json"
+      "bestand": "data/recepten/skoudehkaris.json"
     },
     "moambe": {
       "titel": "Moambe",

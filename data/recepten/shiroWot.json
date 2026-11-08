@@ -1,25 +1,122 @@
+
 {
   "sleutel": "shiroWot",
   "regios": [
     "hoorn-van-afrika"
   ],
-  "titel": "Shiro Wot",
-  "korteBeschrijving": "Romige Ethiopische stoof van kikkererwtenmeel, gekruid met ui, knoflook en specerijen.",
+  "titel": "Shiro met injera en frisse salade",
+  "korteBeschrijving": "Een romige, pittige Ethiopisch-Eritrese stoofschotel van geroosterd kikkererwtenmeel, tomaat en zelfgemaakte berbere, geserveerd met lichtzuur injera-platbrood en een frisse, knapperige salade.",
+  "beschrijving": "Shiro is een geliefd gerecht uit Ethiopië en Eritrea, waarin fijn geroosterd kikkererwtenmeel wordt bereid tot een zachte, romige stoofschotel. De volle smaak ontstaat door langzaam gegaarde rode uien, knoflook, gember, tomaat en berbere, een pittig mengsel van chili en geurige specerijen. We serveren Shiro met kant-en-klare injera, het traditionele sponsachtige platbrood waarmee de saus wordt opgeschept. Een frisse salade van tomaat, komkommer en rode ui zorgt voor een aangenaam knapperig contrast.",
   "afbeelding": "images/recepten/ShiroWotAI.webp",
-  "url": "recepten.html?id=shiro",
+  "url": "recepten.html?id=shiroWot",
   "volgorde": 105,
   "regioVolgorde": {
     "hoorn-van-afrika": 2
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 50,
+  "moeilijkheid": "Gemakkelijk",
+  "ingredienten": [
+    "Voor de Shiro:",
+    "175 g kikkererwtenmeel (besan, van de toko)",
+    "2 grote rode uien",
+    "4 tenen knoflook",
+    "20 g verse gember",
+    "1 grote tomaat",
+    "1 el tomatenpuree",
+    "3 el zonnebloemolie",
+    "850 ml water",
+    "1 tl zout",
+    "1 groene chilipeper",
+    "Voor de zelfgemaakte berbere:",
+    "2 tl mild paprikapoeder",
+    "1 tl cayennepeper",
+    "1 tl gemalen korianderzaad",
+    "1 tl gemalen komijn",
+    "1 tl gemalen fenegriek",
+    "1 mespunt gemalen gember",
+    "1 mespunt gemalen kardemom",
+    "1 mespunt gemalen zwarte peper",
+    "1 mespunt gemalen kaneel",
+    "1 mespunt gemalen kruidnagel",
+    "1 mespunt gemalen nootmuskaat",
+    "Voor de frisse salade:",
+    "2 tomaten",
+    "½ komkommer",
+    "1 kleine rode ui",
+    "1 el citroensap",
+    "1 el olijfolie",
+    "Zout naar smaak",
+    "Voor het serveren:",
+    "4 grote kant-en-klare injera (bij voorkeur van teff)"
+  ],
+  "bereiding": [
+    "Pel de rode uien voor de Shiro en snijd ze in grove stukken. Maal ze in de keukenmachine met korte pulsen zeer fijn, maar niet tot een vloeibare puree.",
+    "Pel de knoflook en schil de gember. Snijd de gember in stukken en maal deze samen met de knoflook fijn in de keukenmachine. Zet apart.",
+    "Snijd de tomaat voor de Shiro in kleine blokjes en verwijder het harde gedeelte bij de steelaanzet.",
+    "Snijd de groene chilipeper in de lengte doormidden. Verwijder eventueel de zaadjes als je het gerecht iets minder scherp wilt maken.",
+    "Meng het paprikapoeder, de cayennepeper, koriander, komijn, fenegriek, gemberpoeder, kardemom, zwarte peper, kaneel, kruidnagel en nootmuskaat voor de berbere in een kommetje tot een egaal kruidenmengsel.",
+    "Zet een ruime, droge koekenpan op middellaag vuur.",
+    "Voeg het kikkererwtenmeel toe en rooster het ongeveer 5 minuten. Roer voortdurend met een houten spatel, zodat het meel gelijkmatig verwarmt en niet aanbrandt.",
+    "Zodra het meel licht goudgeel kleurt en aangenaam nootachtig begint te ruiken, haal je de pan van het vuur. Schep het meel in een kom en laat enkele minuten afkoelen.",
+    "Zet een ruime pan met dikke bodem op middellaag vuur. Voeg de fijngehakte uien toe, zonder olie.",
+    "Laat de uien ongeveer 8–10 minuten zachtjes garen. Roer regelmatig en voeg eventueel een klein scheutje water toe wanneer ze aan de bodem beginnen te kleven. De uien moeten zacht worden en iets kleur krijgen.",
+    "Voeg de zonnebloemolie toe en bak de uien nog ongeveer 3 minuten.",
+    "Voeg het knoflook-gembermengsel toe en bak 1 minuut mee.",
+    "Voeg de zelfgemaakte berbere en de tomatenpuree toe. Roer goed en bak ongeveer 1 minuut, totdat de specerijen beginnen te geuren.",
+    "Voeg de tomatenblokjes voor de Shiro toe en laat ongeveer 5 minuten zachtjes bakken, totdat ze uit elkaar vallen en een dikke, kruidige saus ontstaat.",
+    "Schenk 350 ml koud water bij het afgekoelde kikkererwtenmeel. Roer met een garde totdat een volledig glad, dun beslag ontstaat, zonder klontjes.",
+    "Voeg de resterende 500 ml water toe aan de pan met de uien en specerijen. Roer goed door en breng het geheel zachtjes aan de kook.",
+    "Schenk het kikkererwtenmengsel langzaam in de pan terwijl je voortdurend met een garde roert. Zo voorkom je dat het meel gaat klonteren.",
+    "Zet het vuur laag en laat de Shiro ongeveer 15–20 minuten zachtjes garen. Roer regelmatig met een houten spatel over de bodem om aanbranden te voorkomen.",
+    "De saus wordt tijdens het garen geleidelijk dikker. De juiste structuur lijkt op een gladde, vrij dunne hummus: romig, maar nog gemakkelijk met een lepel te scheppen. Voeg eventueel wat warm water toe wanneer de saus te dik wordt.",
+    "Voeg het zout toe en proef. De Shiro moet vol, kruidig en behoorlijk pittig smaken. Laat nog enkele minuten zachtjes garen als je een rauwe meelsmaak proeft.",
+    "Voeg de gehalveerde groene chilipeper toe en laat nog ongeveer 3 minuten meekoken. Verwijder de peper voor het serveren.",
+    "Snijd terwijl de Shiro gaart de tomaten en komkommer voor de salade in kleine blokjes van ongeveer 1 cm.",
+    "Pel de rode ui voor de salade en snipper hem fijn.",
+    "Meng de tomaten, komkommer en rode ui in een kom. Voeg het citroensap en de olijfolie toe en breng op smaak met zout.",
+    "Zet de salade apart en schep vlak voor het serveren nog eens om, zodat de komkommer knapperig blijft.",
+    "Haal de kant-en-klare injera uit de verpakking en controleer de verwarmingsinstructies.",
+    "Verwarm de injera één voor één ongeveer 30–60 seconden in een droge koekenpan op laag vuur, of volgens de aanwijzingen op de verpakking. Houd ze warm onder een schone theedoek.",
+    "Leg een grote injera op een serveerschaal en schep de warme Shiro in het midden. De saus mag zich enigszins over het brood verspreiden.",
+    "Serveer de overige injera en de frisse tomaten-komkommersalade ernaast. Scheur stukken brood af en gebruik die om de romige, kruidige Shiro op te scheppen."
+  ],
+  "weetje": "Shiro behoort tot de belangrijkste alledaagse gerechten van Ethiopië en Eritrea. Anders dan het feestelijke *Doro wat*, dat traditioneel met kip en eieren wordt bereid, is Shiro een eenvoudige, voedzame stoofschotel van gemalen peulvruchten. Het gerecht is nauw verbonden met de vastentradities van de Ethiopische en Eritrese Koptisch-orthodoxe kerken. Tijdens de vele vastendagen, waaronder de perioden voor Pasen en Kerstmis, worden vlees, zuivel en eieren vermeden. Plantaardige gerechten zoals Shiro, linzenstoofschotels en groenten spelen dan een centrale rol. Shiro wordt echter het hele jaar door gegeten, ongeacht religieuze achtergrond.\n\nDe traditionele bereiding begint lang voordat de stoofschotel op tafel komt. Gedroogde kikkererwten, tuinbonen of andere peulvruchten worden zorgvuldig geselecteerd, geroosterd en fijngemalen. Vaak worden daarbij al gedroogde knoflook, ui, gember, fenegriek en berbere gemengd. Zo ontstaat *shiro-poeder*, een droge kruiden- en meelmix die langere tijd kan worden bewaard. Voor een maaltijd hoeft de kok alleen nog een kruidige basis van uien en tomaat te bereiden en het poeder met water te laten garen. In veel huishoudens wordt het poeder traditioneel in grotere hoeveelheden gemaakt. De samenstelling verschilt per familie en streek, waardoor iedere Shiro een eigen karakter heeft.\n\nIn Eritrea wordt Shiro soms bereid en geserveerd in een traditionele aardewerken pot, een *xahli*. De romige stoofschotel wordt vervolgens over een grote injera geschept, waarna iedereen gezamenlijk van dezelfde schaal eet. Deze gezamenlijke maaltijd wordt *meadi* genoemd. Shiro is daarmee niet alleen praktisch en voedzaam, maar ook verbonden met gastvrijheid en het dagelijkse familieleven. De combinatie van zachte, kruidige saus en lichtzuur injera laat bovendien zien hoe goed de verschillende onderdelen van de Ethiopisch-Eritrese maaltijd op elkaar zijn afgestemd.\n\nEen interessante vergelijking vinden we bij *Ful medames* uit Egypte en Soedan, dat ook in de recepten van World Cuisine is opgenomen. Beide gerechten zijn gebaseerd op peulvruchten, worden vaak met brood gegeten en spelen een belangrijke rol in de dagelijkse voeding. Toch verschilt de bereiding aanzienlijk. Bij Ful medames worden hele bruine tuinbonen langzaam gegaard en gedeeltelijk geprakt, terwijl voor Shiro de peulvruchten eerst worden geroosterd en tot fijn meel vermalen. Het resultaat is bij Shiro een vrijwel gladde, romige saus in plaats van een stoofschotel met herkenbare bonen. Samen laten de gerechten zien hoe dezelfde familie van gewassen in verschillende delen van Noordoost-Afrika tot heel uiteenlopende maaltijden heeft geleid.",
   "bron": {
-    "receptTitel": null,
+    "receptTitel": "Shiro Wat (Chickpea Flour Stew)",
     "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "kookboek": "Forks Over Knives (geïnspireerd op)",
+    "url": "https://www.forksoverknives.com/recipes/vegan-soups-stews/shiro-wat-chickpea-flour-stew/"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Shiro Wat (Chickpea Flour Stew)",
+      "auteur": null,
+      "kookboek": "Forks Over Knives",
+      "url": "https://www.forksoverknives.com/recipes/vegan-soups-stews/shiro-wat-chickpea-flour-stew/"
+    }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "Spicy Shiro Flour and Berbere Powder",
+      "auteur": null,
+      "kookboek": "Journal of Ethnic Foods",
+      "jaar": 2023,
+      "url": "https://link.springer.com/article/10.1186/s42779-023-00175-6"
+    },
+    {
+      "receptTitel": "Shiro: A Timeless, Healthy Eritrean Delight",
+      "auteur": null,
+      "kookboek": "Shabait – Eritrean Ministry of Information",
+      "jaar": 2025,
+      "url": "https://shabait.com/2025/06/04/shiro-a-timeless-healthy-eritrean-delight/"
+    },
+    {
+      "receptTitel": "Injera: Traditional Practice to Scientific Developments",
+      "auteur": null,
+      "kookboek": "Journal of Ethnic Foods",
+      "jaar": 2020,
+      "url": "https://link.springer.com/article/10.1186/s42779-020-00069-x"
+    }
+  ]
 }

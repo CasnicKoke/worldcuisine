@@ -1,10 +1,12 @@
+
 {
   "sleutel": "koshari",
   "regios": [
     "nijlvallei"
   ],
   "titel": "Koshari",
-  "korteBeschrijving": "Egyptisch gerecht van rijst, pasta en linzen, afgemaakt met tomatensaus en krokante ui.",
+  "korteBeschrijving": "Een rijkgevuld Egyptisch straatgerecht van rijst, linzen, macaroni en kikkererwten, met kruidige tomatensaus, krokant gebakken uien en een frisse knoflook-azijnsaus.",
+  "beschrijving": "Koshari is een van de bekendste gerechten uit de Egyptische keuken. Deze stevige vegetarische maaltijd combineert rijst en linzen met goudbruin gebakken vermicelli, macaroni en kikkererwten. Daarover komen een kruidige tomatensaus en een royale laag krokante uien. Een afzonderlijk geserveerde knoflook-azijnsaus, daqqa, zorgt voor een friszuur contrast. De combinatie van verschillende structuren en smaken maakt Koshari tot een bijzonder voedzame en verrassend smaakvolle maaltijd.",
   "afbeelding": "images/recepten/KoshariAI.webp",
   "url": "recepten.html?id=koshari",
   "volgorde": 92,
@@ -12,14 +14,116 @@
     "nijlvallei": 0
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 75,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de rijst, linzen en pasta:",
+    "175 g witte rijst, bij voorkeur rondkorrelig",
+    "150 g gedroogde bruine of groene linzen",
+    "150 g kleine elleboogmacaroni",
+    "40 g dunne tarwevermicelli, in korte stukjes",
+    "1 blik kikkererwten (400 g), uitgelekt",
+    "1 tl gemalen komijn",
+    "350 ml water voor de rijst",
+    "Zout naar smaak",
+    "Voor de krokante uien:",
+    "3 grote uien",
+    "2 el bloem",
+    "150 ml zonnebloemolie",
+    "Voor de tomatensaus:",
+    "500 g gezeefde tomaten (passata)",
+    "2 el tomatenpuree",
+    "4 tenen knoflook",
+    "2 el natuurazijn",
+    "1 tl gemalen komijn",
+    "1 tl gemalen korianderzaad",
+    "1 tl chilivlokken",
+    "Zout naar smaak",
+    "Voor de knoflook-azijnsaus (daqqa):",
+    "2 tenen knoflook",
+    "3 el natuurazijn",
+    "3 el water",
+    "1 el citroensap",
+    "1 tl gemalen komijn",
+    "Zout naar smaak"
+  ],
+  "bereiding": [
+    "Spoel de linzen onder koud stromend water. Controleer of er geen steentjes tussen zitten.",
+    "Pel de uien en snijd ze in zo dun mogelijke halve ringen. Pel de zes knoflooktenen en hak ze fijn. Houd twee tenen apart voor de daqqa.",
+    "Doe de uienringen in een grote kom en strooi de bloem erover. Schep goed om, zodat de ringen een dun laagje bloem krijgen. Schud overtollige bloem eraf.",
+    "Verhit de zonnebloemolie in een ruime koekenpan op middelhoog vuur.",
+    "Bak de uien in twee of drie porties, zodat ze niet te dicht op elkaar liggen. Roer regelmatig en bak ze in ongeveer 10–15 minuten per portie diep goudbruin. Verlaag het vuur als ze te snel kleuren.",
+    "Schep de uien met een schuimspaan uit de olie en spreid ze uit over een bord met keukenpapier. Laat volledig afkoelen; tijdens het afkoelen worden ze krokanter.",
+    "Schenk de achtergebleven uienolie voorzichtig in een hittebestendig schaaltje. We gebruiken deze smaakvolle olie voor de overige onderdelen.",
+    "Breng een pan met ruim water aan de kook. Voeg de linzen toe en kook ze ongeveer 15–20 minuten, totdat ze bijna gaar zijn maar nog stevig blijven. Giet af.",
+    "Spoel de rijst in een zeef totdat het water grotendeels helder is en laat goed uitlekken.",
+    "Verhit 2 el van de bewaarde uienolie in een pan met dikke bodem. Voeg de gebroken tarwevermicelli toe en bak onder voortdurend roeren ongeveer 2–3 minuten, totdat deze goudbruin kleurt.",
+    "Voeg de rijst en de gemalen komijn voor de rijst toe. Roer ongeveer 1 minuut door, zodat de rijstkorrels met de olie worden bedekt.",
+    "Schep de voorgekookte linzen erdoor. Voeg het water voor de rijst en een beetje zout toe en breng aan de kook.",
+    "Zet het vuur laag, doe het deksel op de pan en laat ongeveer 15 minuten zachtjes garen, totdat het water is opgenomen. Zet het vuur uit en laat nog 10 minuten afgedekt rusten. Controleer zo nodig tussendoor of een klein scheutje extra water nodig is.",
+    "Verhit 1 el van de bewaarde uienolie in een steelpan op middelhoog vuur.",
+    "Voeg de vier knoflooktenen voor de tomatensaus toe en bak ongeveer 30 seconden, zonder ze bruin te laten worden.",
+    "Voeg de tomatenpuree toe en bak ongeveer 1 minuut mee.",
+    "Voeg de passata, komijn, koriander en chilivlokken voor de tomatensaus toe. Roer goed door.",
+    "Voeg de natuurazijn voor de tomatensaus toe en laat ongeveer 15–20 minuten zonder deksel zachtjes pruttelen, totdat een dikke, geurige saus ontstaat. Breng op smaak met zout.",
+    "Breng een ruime pan water met wat zout aan de kook. Kook de macaroni volgens de aanwijzingen op de verpakking beetgaar en giet af.",
+    "Schep de macaroni om met 1 el bewaarde uienolie, zodat de pasta niet aan elkaar plakt.",
+    "Spoel de kikkererwten in een zeef onder koud water en laat uitlekken. Verwarm ze in een kleine pan met een scheutje water, ongeveer 3–4 minuten. Giet af.",
+    "Meng de twee apart gehouden knoflooktenen met de natuurazijn, het water, citroensap en gemalen komijn voor de daqqa.",
+    "Roer goed en breng op smaak met een beetje zout. Zet apart, zodat de smaken kunnen mengen. Deze saus is bewust vrij zuur en krachtig.",
+    "Schep de rijst met linzen en vermicelli op een grote schaal of verdeel over vier diepe borden.",
+    "Verdeel de macaroni over de rijst en schep de warme kikkererwten erop.",
+    "Lepel een royale hoeveelheid tomatensaus over het geheel.",
+    "Verdeel de krokante uien over de borden en serveer de daqqa apart, zodat iedereen naar smaak wat van de frisse knoflook-azijnsaus kan toevoegen."
+  ],
+  "weetje": "Koshari wordt vaak beschouwd als het nationale gerecht van Egypte, maar achter deze eenvoudige maaltijd gaat een verrassend internationale geschiedenis schuil. De precieze oorsprong is niet bekend. Een veelgenoemde theorie verbindt Koshari met het Indiase *khichdi*, een gerecht van rijst en linzen dat zich via handelsroutes en reizigers naar Egypte zou hebben verspreid. Halverwege de negentiende eeuw beschreef de Britse ontdekkingsreiziger Richard Burton in Suez al een maaltijd van rijst, linzen, boter en uien, die sterk op de basis van het huidige Koshari leek. Ook het Arabische *mujaddara*, dat we kennen uit de Levant, vertoont duidelijke overeenkomsten. Welke invloed doorslaggevend was, blijft onderwerp van discussie.\n\nDe toevoeging van macaroni en tomatensaus wordt vaak verbonden met de Italiaanse gemeenschappen die zich in de negentiende en vroege twintigste eeuw in steden als Caïro en Alexandrië vestigden. Egyptische koks combineerden deze ingrediënten met de vertrouwde rijst, linzen en kikkererwten en voegden hun eigen smaakmakers toe: komijn, knoflook, azijn, chilipeper en krokant gebakken uien. Zo ontstond geleidelijk het gerecht dat we nu kennen. Koshari laat daarmee zien hoe Indiase, Arabische, Europese en Egyptische culinaire tradities elkaar konden ontmoeten.\n\nIn de twintigste eeuw groeide Koshari uit tot een van de populairste straatgerechten van Egypte. Op markten en straathoeken verschenen gespecialiseerde *koshari*-restaurants en verkoopwagens, waar de verschillende onderdelen in grote pannen klaarstaan. Bij een bestelling worden rijst, linzen, pasta en kikkererwten razendsnel in een kom geschept, waarna de klant naar smaak tomatensaus, krokante uien en *daqqa* toevoegt. Doordat het gerecht goedkoop, vullend en volledig plantaardig is, werd het populair onder vrijwel alle lagen van de bevolking. Het past bovendien goed bij de vastentradities van de Koptisch-orthodoxe kerk, waarin gedurende bepaalde perioden geen dierlijke producten worden gegeten.\n\nIn december 2025 werd Koshari, samen met de bijbehorende bereidings- en eettradities, opgenomen op de UNESCO-lijst van immaterieel cultureel erfgoed. Daarmee kreeg een alledaagse maaltijd internationale erkenning als belangrijk onderdeel van de Egyptische identiteit. Juist dat maakt Koshari zo bijzonder: een gerecht dat ingrediënten en invloeden van verschillende continenten samenbrengt, maar in Egypte is uitgegroeid tot iets volkomen eigens.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Egyptian Koshari",
+    "auteur": "Food Network Kitchen",
+    "kookboek": "Food Network (geïnspireerd op)",
+    "url": "https://www.foodnetwork.com/recipes/food-network-kitchen/koshari-18819208"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Egyptian Koshari",
+      "auteur": "Food Network Kitchen",
+      "kookboek": "Food Network",
+      "url": "https://www.foodnetwork.com/recipes/food-network-kitchen/koshari-18819208"
+    },
+    {
+      "receptTitel": "Egyptian Koshari",
+      "auteur": null,
+      "kookboek": "Middle Eats",
+      "url": "https://www.youtube.com/watch?v=bGM2gh4bxmM"
+    }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "Koshari, everyday dish and associated practices",
+      "auteur": null,
+      "kookboek": "UNESCO Intangible Cultural Heritage",
+      "jaar": 2025,
+      "url": "https://ich.unesco.org/en/RL/koshari-everyday-dish-and-associated-practices-02278"
+    },
+    {
+      "receptTitel": "The Layered History of Koshary, Egypt's Most Beloved Street Food",
+      "auteur": null,
+      "kookboek": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/travel/the-layered-history-of-koshary-egypts-most-beloved-street-food-180988262/"
+    },
+    {
+      "receptTitel": "Why You Should Make Koshari",
+      "auteur": null,
+      "kookboek": "Eater",
+      "jaar": 2020,
+      "url": "https://www.eater.com/2020/5/13/21254981/egyptian-koshari-grain-bowl-how-to"
+    },
+    {
+      "receptTitel": "Egypt's Beloved Koshary Is a Modern Mystery in an Ancient Cuisine",
+      "auteur": null,
+      "kookboek": "NPR",
+      "jaar": 2017,
+      "url": "https://www.nprillinois.org/health-harvest/2017-02-22/egypts-beloved-koshary-is-a-modern-mystery-in-an-ancient-cuisine"
+    }
+  ]
 }

@@ -162,8 +162,8 @@
       "bestand": "data/recepten/adobo.json"
     },
     "sinigang": {
-      "titel": "Sinigang",
-      "korteBeschrijving": "Zure Filipijnse soep met vlees of vis en groenten, vaak op smaak gebracht met tamarinde.",
+      "titel": "Sinigang na Hipon",
+      "korteBeschrijving": "Friszure Filipijnse maaltijdsoep met garnalen, tamarinde, groene mango, tomaat, aubergine, sperziebonen en spinazie, geserveerd met gestoomde jasmijnrijst.",
       "afbeelding": "images/recepten/SinigangAI.webp",
       "url": "recepten.html?id=sinigang",
       "regios": [
@@ -172,8 +172,8 @@
       "bestand": "data/recepten/sinigang.json"
     },
     "kareKare": {
-      "titel": "Kare-Kare",
-      "korteBeschrijving": "Rijke Filipijnse stoofpot met pindasaus, groenten en vlees.",
+      "titel": "Kare-kare",
+      "korteBeschrijving": "Mals rundvlees met aubergine, sperziebonen en paksoi in een romige Filipijnse pindasaus, geserveerd met jasmijnrijst en een hartige trassipasta.",
       "afbeelding": "images/recepten/KareKareAI.webp",
       "url": "recepten.html?id=kareKare",
       "regios": [
@@ -181,15 +181,15 @@
       ],
       "bestand": "data/recepten/kareKare.json"
     },
-    "lumpia": {
-      "titel": "Lumpia",
-      "korteBeschrijving": "Knapperige Filipijnse loempia's gevuld met groenten, vlees of garnalen.",
-      "afbeelding": "images/recepten/LumpiaAI.webp",
-      "url": "recepten.html?id=lumpia",
+    "pancitBihon": {
+      "titel": "Pancit Bihon",
+      "korteBeschrijving": "Dunne Filipijnse rijstnoedels met malse kip, witte kool, wortel, sperziebonen en lente-ui, gebakken in een hartige saus van kippenbouillon, soja en oestersaus, geserveerd met frisse limoen.",
+      "afbeelding": "images/recepten/PancitBihonAI.webp",
+      "url": "recepten.html?id=pancitBihon",
       "regios": [
         "filipijns"
       ],
-      "bestand": "data/recepten/lumpia.json"
+      "bestand": "data/recepten/pancitBihon.json"
     },
     "borsjtsj": {
       "titel": "Borsjtsj met pampoesjky",
@@ -903,7 +903,7 @@
     },
     "koshari": {
       "titel": "Koshari",
-      "korteBeschrijving": "Egyptisch gerecht van rijst, pasta en linzen, afgemaakt met tomatensaus en krokante ui.",
+      "korteBeschrijving": "Een rijkgevuld Egyptisch straatgerecht van rijst, linzen, macaroni en kikkererwten, met kruidige tomatensaus, krokant gebakken uien en een frisse knoflook-azijnsaus.",
       "afbeelding": "images/recepten/KoshariAI.webp",
       "url": "recepten.html?id=koshari",
       "regios": [
@@ -912,8 +912,8 @@
       "bestand": "data/recepten/koshari.json"
     },
     "fulMedames": {
-      "titel": "Ful Medames",
-      "korteBeschrijving": "Langzaam gegaarde tuinbonen met olijfolie, citroen en kruiden, populair als ontbijt.",
+      "titel": "Ful medames",
+      "korteBeschrijving": "Een traditioneel Egyptisch en Soedanees gerecht van zacht gestoofde tuinbonen met komijn, knoflook, citroen en olijfolie, geserveerd met warm platbrood, gekookte eieren en verse groenten.",
       "afbeelding": "images/recepten/FulMedamesAI.webp",
       "url": "recepten.html?id=fulMedames",
       "regios": [
@@ -921,25 +921,25 @@
       ],
       "bestand": "data/recepten/fulMedames.json"
     },
-    "molokhia": {
-      "titel": "Molokhia",
-      "korteBeschrijving": "Fluweelzachte soep van jute-bladeren, vaak geserveerd met rijst en kip of konijn.",
-      "afbeelding": "images/recepten/MolokhiaAI.webp",
-      "url": "recepten.html?id=molokhia",
+    "hawawshi": {
+      "titel": "Hawawshi",
+      "korteBeschrijving": "Knapperig gebakken Egyptisch platbrood gevuld met sappig, kruidig rundergehakt, ui, paprika en peterselie, geserveerd met romige tahinsaus en een frisse salade.",
+      "afbeelding": "images/recepten/HawawshiAI.webp",
+      "url": "recepten.html?id=hawawshi",
       "regios": [
         "nijlvallei"
       ],
-      "bestand": "data/recepten/molokhia.json"
+      "bestand": "data/recepten/hawawshi.json"
     },
-    "taamia": {
-      "titel": "Taamia",
-      "korteBeschrijving": "Egyptische falafel van tuinbonen, krokant van buiten en zacht kruidig van binnen.",
-      "afbeelding": "images/recepten/TaamiaAI.webp",
-      "url": "recepten.html?id=taamia",
+    "damaGurasa": {
+      "titel": "Dam'a met Gurasa",
+      "korteBeschrijving": "Een traditionele Soedanese stoofpot van mals lamsvlees in een rijke tomaten-uiensaus, geserveerd op zacht, versgebakken Gurasa-platbrood met een frisse salade.",
+      "afbeelding": "images/recepten/DamaGurasaAI.webp",
+      "url": "recepten.html?id=damaGurasa",
       "regios": [
         "nijlvallei"
       ],
-      "bestand": "data/recepten/taamia.json"
+      "bestand": "data/recepten/damaGurasa.json"
     },
     "thieboudienne": {
       "titel": "Thieboudienne",

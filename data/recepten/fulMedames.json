@@ -1,10 +1,12 @@
+
 {
   "sleutel": "fulMedames",
   "regios": [
     "nijlvallei"
   ],
-  "titel": "Ful Medames",
-  "korteBeschrijving": "Langzaam gegaarde tuinbonen met olijfolie, citroen en kruiden, populair als ontbijt.",
+  "titel": "Ful medames",
+  "korteBeschrijving": "Een traditioneel Egyptisch en Soedanees gerecht van zacht gestoofde tuinbonen met komijn, knoflook, citroen en olijfolie, geserveerd met warm platbrood, gekookte eieren en verse groenten.",
+  "beschrijving": "Ful medames is een geliefd gerecht uit de Nijlvallei, waarin kleine bruine tuinbonen langzaam worden verwarmd en gedeeltelijk geprakt tot een smeuïge, hartige massa. Komijn, knoflook, citroen en olijfolie geven het gerecht zijn karakteristieke smaak. We serveren de bonen met warme pitabroodjes, gekookte eieren, tomaat, komkommer, rode ui en peterselie. Hoewel Ful medames traditioneel vaak als ontbijt wordt gegeten, vormt deze rijkgevulde versie een uitstekende vegetarische hoofdmaaltijd.",
   "afbeelding": "images/recepten/FulMedamesAI.webp",
   "url": "recepten.html?id=fulMedames",
   "volgorde": 93,
@@ -12,14 +14,85 @@
     "nijlvallei": 1
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 40,
+  "moeilijkheid": "Gemakkelijk",
+  "ingredienten": [
+    "Voor de tuinbonen:",
+    "3 blikken (à 400 g) kleine, bruine favabonen voor Ful medames, voorgekookt en met zachte velletjes (geen grote groene tuinbonen)",
+    "4 tenen knoflook",
+    "1 citroen",
+    "4 el extra vierge olijfolie",
+    "2 tl gemalen komijn",
+    "1 tl gemalen zwarte peper",
+    "150 ml water, indien nodig",
+    "Zout naar smaak",
+    "Voor de garnering en bijgerechten:",
+    "2 tomaten",
+    "1 kleine rode ui",
+    "½ bos platte peterselie",
+    "½ komkommer",
+    "4 eieren",
+    "4 grote pitabroodjes of Egyptische platbroden",
+    "1 groene chilipeper (optioneel)"
+  ],
+  "bereiding": [
+    "Pel de knoflook en hak hem fijn.",
+    "Pers de citroen uit en verwijder eventuele pitjes.",
+    "Snijd de tomaten in kleine blokjes. Pel de rode ui en snipper hem fijn.",
+    "Was de peterselie, schud droog en hak de blaadjes fijn.",
+    "Snijd de komkommer in dunne halve plakjes. Snijd eventueel de groene chilipeper in dunne ringetjes.",
+    "Leg de eieren in een steelpan met koud water en breng aan de kook.",
+    "Kook ze ongeveer 9 minuten, zodat de dooiers stevig zijn.",
+    "Laat de eieren schrikken onder koud stromend water, pel ze en snijd ze doormidden. Zet apart.",
+    "Open de blikken tuinbonen. Giet het vocht van één blik af en bewaar het vocht uit de andere twee blikken bij de bonen.",
+    "Doe de tuinbonen met het bewaarde vocht in een ruime steelpan en verwarm op middelhoog vuur.",
+    "Voeg de knoflook, komijn en zwarte peper toe. Roer voorzichtig door.",
+    "Laat de bonen ongeveer 10–15 minuten zachtjes pruttelen, totdat ze goed warm en zacht zijn. Voeg eventueel wat water toe als het mengsel te droog wordt.",
+    "Controleer of de tuinbonen helemaal zacht zijn, ook de velletjes. Laat ze zo nodig nog enkele minuten zachtjes koken. Prak vervolgens ongeveer de helft van de bonen grof met een vork of pureestamper. Laat de overige bonen heel, zodat een smeuïg gerecht ontstaat met nog herkenbare bonen. De zachte velletjes mogen blijven zitten.",
+    "Roer het citroensap en 2 el olijfolie door de bonen. Proef en breng zo nodig op smaak met zout. De smaak moet hartig, friszuur en duidelijk naar komijn zijn.",
+    "Laat het geheel nog 2 minuten zachtjes doorwarmen. Voeg eventueel wat warm water toe als de bonen te dik zijn geworden.",
+    "Verwarm de oven voor op 180 °C.",
+    "Besprenkel de pitabroodjes licht met water en verwarm ze ongeveer 4–5 minuten in de oven, totdat ze warm en soepel zijn. Laat ze niet knapperig worden: je moet er stukken van kunnen afscheuren om de bonen mee op te scheppen.",
+    "Schep de warme tuinbonen in een grote, ondiepe schaal en maak met een lepel enkele kleine kuiltjes in het oppervlak.",
+    "Verdeel de resterende 2 el olijfolie over de bonen.",
+    "Strooi de tomatenblokjes, rode ui en peterselie erover. Voeg eventueel wat chilipeper toe.",
+    "Leg de halve gekookte eieren op de schaal of serveer ze ernaast.",
+    "Serveer de komkommer en het warme platbrood apart. Scheur stukjes brood af en gebruik ze om de bonen en garnering op te scheppen."
+  ],
+  "weetje": "Ful medames behoort tot de bekendste gerechten van de Nijlvallei en wordt vaak het nationale gerecht van Egypte genoemd. De geschiedenis van tuinbonen in het Middellandse Zeegebied gaat duizenden jaren terug, maar hoe oud Ful medames als gerecht precies is, weten we niet. Hoewel het vaak met het oude Egypte wordt verbonden, zijn er weinig overtuigende aanwijzingen dat de farao's al Ful medames aten. Volgens voedselhistorisch onderzoek werden tuinbonen waarschijnlijk pas in de Grieks-Romeinse periode een belangrijk onderdeel van de Egyptische voeding. In de middeleeuwen waren ze in ieder geval een vertrouwd straatgerecht geworden.\n\nDe naam vertelt iets over de traditionele bereiding. *Ful* is het Arabische woord voor tuinbonen, terwijl *medames* doorgaans wordt verklaard als 'begraven' of 'ondergestopt'. De bonen werden vroeger in een speciale, smalle aardewerken of koperen pot gedaan en urenlang in de hete as van een oven of vuurplaats gegaard. Soms bleven ze daar de hele nacht staan, zodat ze 's ochtends boterzacht waren. De traditionele kookpot, *dammasa* genoemd, heeft een smalle opening waardoor het vocht nauwelijks verdampt. Dat langdurige, zachte garen verklaart waarom ook de velletjes van de kleine bruine bonen bij Ful medames gewoon worden meegegeten.\n\nIn Egypte groeide Ful medames uit tot hét dagelijkse ontbijt van zowel arbeiders als welgestelde families. Straatverkopers bereiden het gerecht in grote koperen potten en serveren de warme bonen met citroen, komijn, olie en vers platbrood. In Soedan is Ful medames minstens zo geliefd, maar worden vaak andere smaakmakers gebruikt. Daar krijgt het gerecht bijvoorbeeld sesamolie, witte kaas, tomaat en groene chilipeper. Ook wordt het regelmatig gezamenlijk uit één grote schaal gegeten, waarbij iedereen met stukjes brood de bonen opschept. Zo laat hetzelfde gerecht zien hoe nauw de Egyptische en Soedanese keukens met elkaar verbonden zijn.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Ful Medames",
+    "auteur": "Claudia Roden",
+    "kookboek": "Epicurious (geïnspireerd op)",
+    "url": "https://www.epicurious.com/recipes/food/views/ful-medames-352993"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Ful Medames",
+      "auteur": "Claudia Roden",
+      "kookboek": "Epicurious",
+      "url": "https://www.epicurious.com/recipes/food/views/ful-medames-352993"
+    },
+    {
+      "receptTitel": "Foul Mudammas",
+      "auteur": "Suzy Karadsheh",
+      "kookboek": "The Mediterranean Dish",
+      "url": "https://www.themediterraneandish.com/foul-mudammas-recipe/"
+    }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "What's for Breakfast in Egypt?",
+      "auteur": null,
+      "kookboek": "RAWI – Egypt's Heritage Review",
+      "url": "https://artsandculture.google.com/story/what-39-s-for-breakfast-in-egypt-rawi-egypts-heritage-review/mwWROoQYaoftPw?hl=en"
+    },
+    {
+      "receptTitel": "Symbolic Meaning and Use of Broad Beans",
+      "auteur": null,
+      "kookboek": "Journal of Ethnic Foods",
+      "jaar": 2020,
+      "url": "https://link.springer.com/article/10.1186/s42779-020-00073-1"
+    }
+  ]
 }

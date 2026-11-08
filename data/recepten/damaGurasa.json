@@ -1,0 +1,114 @@
+
+{
+  "sleutel": "damaGurasa",
+  "regios": [
+    "nijlvallei"
+  ],
+  "titel": "Dam'a met Gurasa",
+  "korteBeschrijving": "Een traditionele Soedanese stoofpot van mals lamsvlees in een rijke tomaten-uiensaus, geserveerd op zacht, versgebakken Gurasa-platbrood met een frisse salade.",
+  "beschrijving": "Dam'a is een hartige Soedanese stoofpot waarin lamsvlees langzaam gaart met uien, tomaten, knoflook en geurige specerijen. De saus wordt ingekookt tot een volle, geconcentreerde smaak. We serveren de stoofpot met Gurasa, een dik, zacht platbrood van tarwemeel dat in een koekenpan wordt gebakken. Het brood neemt de rijke saus op en wordt traditioneel gebruikt om het vlees mee op te scheppen. Een eenvoudige salade van tomaat en komkommer zorgt voor een fris contrast.",
+  "afbeelding": "images/recepten/DamaGurasaAI.webp",
+  "url": "recepten.html?id=damaGurasa",
+  "volgorde": 95,
+  "regioVolgorde": {
+    "nijlvallei": 3
+  },
+  "porties": 4,
+  "bereidingstijdMinuten": 150,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de Dam'a (lamsstoofpot):",
+    "600 g lamsbout zonder bot",
+    "2 grote uien",
+    "4 tenen knoflook",
+    "1 blik tomatenblokjes (400 g)",
+    "2 el tomatenpuree",
+    "3 el zonnebloemolie",
+    "4 kardemompeulen",
+    "2 tl gemalen korianderzaad",
+    "1 tl gemalen zwarte peper",
+    "1 tl gemalen komijn",
+    "350 ml water",
+    "Zout naar smaak",
+    "Voor de Gurasa (Soedanees platbrood):",
+    "300 g volkoren tarwemeel",
+    "400 ml lauwwarm water",
+    "1 tl gedroogde gist",
+    "1 tl suiker",
+    "1 tl zout",
+    "1 el zonnebloemolie",
+    "Voor de frisse salade:",
+    "½ komkommer",
+    "2 tomaten",
+    "1 citroen",
+    "Zout naar smaak"
+  ],
+  "bereiding": [
+    "Snijd de lamsbout in blokjes van ongeveer 3 cm. Dep het vlees droog met keukenpapier.",
+    "Pel de uien en snipper ze fijn. Pel de knoflooktenen en hak ze fijn.",
+    "Kneus de kardemompeulen licht met de platte kant van een mes, zodat de aroma's beter vrijkomen.",
+    "Verhit de zonnebloemolie voor de stoofpot in een ruime stoofpan op middelhoog vuur.",
+    "Bak het lamsvlees in twee porties rondom bruin, ongeveer 4 minuten per portie. Schep het vlees uit de pan en zet apart.",
+    "Zet het vuur middellaag en voeg de uien toe. Bak ze ongeveer 12–15 minuten, totdat ze zacht en diep goudbruin zijn. Roer regelmatig en voeg zo nodig een klein scheutje water toe als ze dreigen aan te bakken.",
+    "Voeg de knoflook, kardemom, koriander, zwarte peper en komijn toe. Bak ongeveer 1 minuut mee.",
+    "Voeg de tomatenpuree toe en bak nog 2 minuten, zodat de zure smaak wat verdwijnt.",
+    "Voeg de tomatenblokjes toe en laat ongeveer 5 minuten zachtjes koken, totdat de tomaten beginnen in te dikken.",
+    "Doe het vlees met de vrijgekomen sappen terug in de pan en voeg het water voor de stoofpot toe. Breng aan de kook.",
+    "Zet het vuur laag, leg het deksel op de pan en laat ongeveer 75–90 minuten zachtjes stoven, totdat het lamsvlees goed mals is. Roer af en toe en voeg zo nodig wat water toe.",
+    "Haal het deksel van de pan en laat de stoofpot nog 10–15 minuten inkoken. De Dam'a moet een dikke, geconcentreerde tomatensaus krijgen die aan het vlees blijft hangen.",
+    "Verwijder de kardemompeulen, proef en breng op smaak met zout. Houd de stoofpot warm.",
+    "Begin met het Gurasa-beslag wanneer het vlees ongeveer 30 minuten heeft gestoofd. Meng het volkorenmeel met de gist, suiker en het zout voor het brood in een ruime kom.",
+    "Voeg geleidelijk het lauwwarme water toe terwijl je met een garde roert. Meng tot een glad, dik beslag dat langzaam van een lepel loopt. Voeg eventueel een klein scheutje water toe als het beslag te stijf is.",
+    "Dek de kom af met een schone theedoek en laat het beslag ongeveer 30–45 minuten rijzen op een warme plek. Het moet iets luchtiger worden en kleine belletjes vertonen.",
+    "Verhit een koekenpan met antiaanbaklaag op middelhoog vuur. Bestrijk de bodem dun met een beetje van de zonnebloemolie voor de Gurasa.",
+    "Schep ongeveer een kwart van het beslag in de pan en spreid het met de achterkant van een lepel uit tot een ronde, dikke pannenkoek van ongeveer 18 cm doorsnede.",
+    "Bak de Gurasa ongeveer 4–5 minuten, totdat de bovenkant grotendeels gestold is en de onderkant goudbruine plekken heeft.",
+    "Keer voorzichtig om en bak de andere kant nog 3–4 minuten. Controleer of het midden gaar is; het brood moet zacht en luchtig blijven.",
+    "Herhaal met het resterende beslag totdat je vier grote Gurasa hebt. Houd de gebakken broden warm onder een schone theedoek.",
+    "Snijd de komkommer en tomaten in kleine blokjes.",
+    "Pers de citroen uit en meng het sap met de groenten. Breng op smaak met een beetje zout.",
+    "Leg op ieder bord een warme Gurasa en schep er een flinke portie Dam'a overheen. Laat de saus gedeeltelijk in het zachte brood trekken.",
+    "Serveer de frisse salade apart. Scheur stukken Gurasa af en gebruik ze om het vlees en de saus op te scheppen."
+  ],
+  "weetje": "De Soedanese keuken is gevormd door eeuwenlange contacten tussen het Nijldal, de Sahara, de Arabische wereld en de Hoorn van Afrika. Al in de oudheid vormde Nubië, het gebied langs de Nijl in het huidige Soedan en Zuid-Egypte, een belangrijke verbinding tussen Centraal-Afrika en Egypte. In de middeleeuwen ontstonden hier handelsroutes waarlangs niet alleen goederen, maar ook ingrediënten en kookgewoonten werden uitgewisseld. Stoofgerechten met vlees, uien en kruiden werden een belangrijk onderdeel van de regionale keuken. De tomaten die tegenwoordig de basis vormen van Dam'a kwamen oorspronkelijk uit Amerika en bereikten Afrika pas na de Europese overzeese expansie.\n\nDe naam *Dam'a* (دمعة) betekent in het Arabisch 'traan'. Volgens een traditionele verklaring verwijst dit naar de kleine druppeltjes olie die tijdens het langzaam inkoken van de tomaten-uiensaus aan het oppervlak verschijnen. Vooral het langdurig bakken van de uien geeft de stoofpot zijn diepe smaak. Dam'a wordt vaak geserveerd met Gurasa, een dik, zacht platbrood dat de saus opneemt. In het noorden van Soedan, waar tarwe van oudsher een belangrijk voedingsgewas is, is Gurasa bijzonder populair. Elders worden stoofgerechten vaker gegeten met *kisra*, een dun, lichtzuur platbrood van gefermenteerd sorghumbeslag, of met *asida*, een stevige pap van graanmeel.\n\nDe manier waarop Dam'a met Gurasa wordt gegeten, weerspiegelt het belang van gezamenlijk eten in Soedan. Het brood wordt op een grote schaal gelegd en de stoofpot wordt eroverheen geschept. De aanwezigen scheuren met de rechterhand stukken brood af en gebruiken die om het vlees en de saus op te pakken. Brood is daarmee niet alleen een begeleidend gerecht, maar vervult ook de functie van bestek. Deze manier van eten is kenmerkend voor verschillende keukens in Noordoost-Afrika.\n\nEen bijzondere verbinding bestaat met Ethiopië en Eritrea. Daar worden kruidige stoofgerechten, zoals *doro wat*, traditioneel op *injera* geserveerd: een groot, sponsachtig en lichtzuur platbrood dat meestal van teff wordt gemaakt. Net als bij Gurasa wordt het brood gebruikt om de saus en andere ingrediënten op te scheppen. Er is echter een belangrijk verschil: Gurasa is dikker, wordt meestal van tarwe gemaakt en is doorgaans minder zuur dan injera. De Soedanese kisra lijkt qua bereidingswijze juist sterker op Ethiopische injera, doordat beide uit een gefermenteerd graanbeslag worden gebakken. Deze overeenkomsten wijzen op een lange geschiedenis van culturele contacten en verwante voedseltradities in het noordoosten van Afrika, zonder dat de ene broodsoort noodzakelijkerwijs rechtstreeks van de andere afstamt.",
+  "bron": {
+    "receptTitel": "Sudanese Dam'a with Gurasa",
+    "auteur": null,
+    "kookboek": "Geïnspireerd op traditionele Soedanese bereidingen",
+    "url": "https://visitsudan.org/en/dish-gurraasa"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Sudanese Dam'a Meat Tomato Stew",
+      "auteur": null,
+      "kookboek": "Eeina",
+      "url": "https://eeina.com/en/recipes/sudanese-damaa-meat-tomato-stew.html"
+    },
+    {
+      "receptTitel": "Gurraasa",
+      "auteur": null,
+      "kookboek": "Visit Sudan",
+      "url": "https://visitsudan.org/en/dish-gurraasa"
+    }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "Sudanese Cuisine",
+      "auteur": null,
+      "kookboek": "Sudanese Embassy in the Netherlands",
+      "url": "https://www.sudanembassy.nl/sudanese-cuisine/"
+    },
+    {
+      "receptTitel": "Gurraasa",
+      "auteur": null,
+      "kookboek": "Visit Sudan",
+      "url": "https://visitsudan.org/en/dish-gurraasa"
+    },
+    {
+      "receptTitel": "Sudanese Dam'a Meat Tomato Stew",
+      "auteur": null,
+      "kookboek": "Eeina",
+      "url": "https://eeina.com/en/recipes/sudanese-damaa-meat-tomato-stew.html"
+    }
+  ]
+}

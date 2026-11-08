@@ -1,10 +1,12 @@
+
 {
   "sleutel": "sinigang",
   "regios": [
     "filipijns"
   ],
-  "titel": "Sinigang",
-  "korteBeschrijving": "Zure Filipijnse soep met vlees of vis en groenten, vaak op smaak gebracht met tamarinde.",
+  "titel": "Sinigang na Hipon",
+  "korteBeschrijving": "Friszure Filipijnse maaltijdsoep met garnalen, tamarinde, groene mango, tomaat, aubergine, sperziebonen en spinazie, geserveerd met gestoomde jasmijnrijst.",
+  "beschrijving": "Sinigang na Hipon is een geliefde Filipijnse maaltijdsoep waarin de frisse, uitgesproken zure smaak van tamarinde centraal staat. In onze versie geeft onrijpe groene mango de bouillon een extra fruitigzuur accent. Rauwe garnalen worden kort gegaard in een geurige bouillon met tomaat, ui, witte rammenas, aubergine, sperziebonen en spinazie. Vissaus zorgt voor een hartige tegenhanger van de tamarinde, terwijl een groene chilipeper een subtiele pittigheid toevoegt. We serveren de groenterijke soep met gestoomde jasmijnrijst, zoals gebruikelijk in de Filipijnen.",
   "afbeelding": "images/recepten/SinigangAI.webp",
   "url": "recepten.html?id=sinigang",
   "volgorde": 17,
@@ -12,14 +14,102 @@
     "filipijns": 1
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 45,
+  "moeilijkheid": "Gemakkelijk",
+  "ingredienten": [
+    "Voor de soep:",
+    "450 g rauwe grote garnalen, gepeld en schoongemaakt",
+    "1,3 liter water",
+    "1 grote ui",
+    "3 rijpe tomaten",
+    "200 g daikon (witte rammenas)",
+    "1 kleine aubergine",
+    "300 g sperziebonen",
+    "150 g verse spinazie",
+    "1 lange groene chilipeper",
+    "1 kleine onrijpe groene mango (circa 150 g vruchtvlees)",
+    "1–2 el ongezoete tamarindepasta",
+    "2 el vissaus",
+    "1 tl versgemalen zwarte peper",
+    "Voor de rijst:",
+    "300 g jasmijnrijst",
+    "450 ml water"
+  ],
+  "bereiding": [
+    "Pel de ui en snijd hem in vieren. Was de tomaten en snijd ze in grove parten.",
+    "Schil de daikon en snijd hem in halve plakjes van ongeveer 5 mm dik. Schil de groene mango, verwijder de pit en snijd het vruchtvlees in dunne reepjes.",
+    "Verwijder de steel van de aubergine en snijd hem in stukken van ongeveer 3 cm.",
+    "Maak de sperziebonen schoon en snijd ze in stukken van ongeveer 5 cm.",
+    "Was de spinazie en laat uitlekken. Was de groene chilipeper en laat hem heel.",
+    "Breng het water voor de soep in een ruime soeppan aan de kook.",
+    "Voeg de ui, tomaten en groene mango toe. Zet het vuur middelhoog en laat ongeveer 10 minuten zachtjes koken, totdat de tomaten zacht beginnen te worden en de mango zijn frisse smaak aan de bouillon afgeeft.",
+    "Druk enkele tomatenparten met een houten lepel tegen de rand van de pan, zodat hun sap zich met de bouillon mengt.",
+    "Voeg de daikon en de hele chilipeper toe. Laat ongeveer 5 minuten zachtjes koken.",
+    "Voeg de aubergine en sperziebonen toe. Laat nog 5–7 minuten koken, totdat de groenten bijna gaar zijn maar nog enige stevigheid hebben.",
+    "Roer eerst 1 el tamarindepasta door de bouillon en voeg de vissaus en zwarte peper toe. Proef en voeg eventueel de tweede eetlepel tamarindepasta toe. De bouillon mag uitgesproken zuur zijn, maar moet in balans blijven met de hartige smaak.",
+    "Voeg de rauwe garnalen toe aan de zacht pruttelende bouillon en laat ze ongeveer 3–4 minuten garen, afhankelijk van hun grootte. Ze moeten roze en ondoorzichtig zijn. Laat de soep niet hard doorkoken, want dan worden de garnalen taai.",
+    "Voeg de spinazie toe, zet het vuur uit en laat de bladeren ongeveer 1 minuut slinken met het deksel op de pan.",
+    "Proef de bouillon nogmaals. Voeg eventueel wat vissaus toe voor een hartiger smaak, tamarinde voor extra zuurheid of een scheutje water als de smaak te geconcentreerd is.",
+    "Begin tijdens het koken van de bouillon met de rijst. Spoel de jasmijnrijst in een zeef onder koud stromend water totdat het spoelwater grotendeels helder is.",
+    "Doe de rijst met het daarvoor bestemde water in een pan. Breng aan de kook, zet het vuur zo laag mogelijk en laat ongeveer 12 minuten afgedekt garen.",
+    "Zet het vuur uit en laat de rijst nog 10 minuten met het deksel op de pan rusten. Maak daarna los met een vork.",
+    "Verdeel de garnalen, groenten en friszure bouillon over vier diepe kommen. Zorg dat iedereen van alle groenten krijgt.",
+    "Serveer de warme jasmijnrijst in aparte kommetjes bij de soep.",
+    "Serveer direct, zodat de garnalen mals blijven en de groenten hun frisse smaak behouden."
+  ],
+  "weetje": "Sinigang behoort tot de oudste kooktradities van de Filipijnen, al is niet bekend wanneer het gerecht precies ontstond. De bereiding van vlees, vis of schaaldieren in een zure bouillon wordt beschouwd als een inheemse kooktechniek die waarschijnlijk al vóór de komst van de Spanjaarden in de zestiende eeuw werd toegepast. De naam *sinigang* is verwant aan het Tagalog-woord *sigang*, dat 'stoven' of 'laten sudderen' betekent. Anders dan veel gerechten die tijdens de koloniale periode nieuwe namen en ingrediënten kregen, behield sinigang zijn Filipijnse karakter.\n\nHet bijzondere aan sinigang is dat niet één specifiek ingrediënt, maar de frisse, zure smaak het gerecht definieert. De bekendste zuurmaker is tamarinde, in het Filipijns *sampalok*, maar afhankelijk van de streek en het seizoen worden ook onrijpe mango's, guaves, calamansi, *kamias* (een bijzonder zure vrucht) en *batuan* gebruikt. Vooral in de Visayas, de eilandengroep in het midden van de Filipijnen, zijn regionale zure vruchten belangrijk. Zo ontstonden talloze varianten die de lokale landbouw, het klimaat en de beschikbaarheid van ingrediënten weerspiegelen.\n\nEen interessante historische verbinding bestaat met *Adobong Manok*, het andere Filipijnse gerecht in World Cuisine. Beide gerechten laten zien hoe belangrijk zure smaken zijn in de Filipijnse keuken, maar de gebruikte technieken verschillen. Bij adobo spelen azijn en het conserveren van voedsel een historische rol, terwijl sinigang zijn karakter vooral ontleent aan de zurigheid van vruchten die rechtstreeks aan de bouillon worden toegevoegd. Ook de keuze van het belangrijkste ingrediënt varieert: aan de kust wordt sinigang vaak bereid met garnalen of vis, terwijl landinwaarts varianten met varkens- of rundvlees populair zijn.\n\nSinigang wordt tegenwoordig in vrijwel de hele Filipijnen gegeten en geldt, net als adobo, als een onofficieel nationaal gerecht. De soep wordt traditioneel met gestoomde rijst geserveerd en is geliefd als verwarmende familiemaaltijd, vooral tijdens het regenseizoen. Onze versie met garnalen, tamarinde en veel groenten laat zien hoe een eenvoudige bereidingswijze kan uitgroeien tot een gerecht met een opvallend rijke regionale verscheidenheid.",
   "bron": {
-    "receptTitel": null,
+    "receptTitel": "Sinigang na Hipon",
     "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "kookboek": "Panlasang Pinoy (geïnspireerd op)",
+    "url": "https://panlasangpinoy.com/filipino-food-sour-shrimp-soup-sinigang-na-hipon-recipe/"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Sinigang na Hipon",
+      "auteur": null,
+      "kookboek": "Panlasang Pinoy",
+      "url": "https://panlasangpinoy.com/filipino-food-sour-shrimp-soup-sinigang-na-hipon-recipe/"
+    },
+    {
+      "receptTitel": "Sinigang na Hipon",
+      "auteur": null,
+      "kookboek": "Mama Sita's",
+      "url": "https://mamasitas.com/recipes/sinigang-na-hipon"
+    }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "Deconstructing Sinigang as a Complete Dish",
+      "auteur": null,
+      "kookboek": "National Nutrition Council Philippines",
+      "url": "https://nnc.gov.ph/mindanao-region/deconstructing-sinigang-as-a-complete-dish/"
+    },
+    {
+      "receptTitel": "Ethnic Foods",
+      "auteur": null,
+      "kookboek": "Food and Nutrition Research Institute",
+      "url": "https://fnri.dost.gov.ph/images/images/foodtech/EthnicFood.pdf"
+    },
+    {
+      "receptTitel": "Savor the Real Asim of Sinigang",
+      "auteur": null,
+      "kookboek": "The Philippine Star",
+      "jaar": 2011,
+      "url": "https://www.philstar.com/lifestyle/modern-living/2011/06/11/694669/savor-real-asim-sinigang"
+    },
+    {
+      "receptTitel": "Unusual Souring Agents Used in Sinigang",
+      "auteur": null,
+      "kookboek": "Manila Bulletin",
+      "jaar": 2023,
+      "url": "https://mb.com.ph/2023/3/8/may-asim-pa-rin-unusual-souring-agents-used-in-sinigang"
+    },
+    {
+      "receptTitel": "Gambilà: A Preliminary Framework for the Study of Philippine Culinary History",
+      "auteur": "Felice Prudente Sta. Maria",
+      "kookboek": "Onderzoek naar Filipijnse culinaire geschiedenis",
+      "url": "https://www.ejournals.ph/article.php?id=5263"
+    }
+  ]
 }

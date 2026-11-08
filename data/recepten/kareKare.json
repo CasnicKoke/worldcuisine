@@ -1,10 +1,12 @@
+
 {
   "sleutel": "kareKare",
   "regios": [
     "filipijns"
   ],
-  "titel": "Kare-Kare",
-  "korteBeschrijving": "Rijke Filipijnse stoofpot met pindasaus, groenten en vlees.",
+  "titel": "Kare-kare",
+  "korteBeschrijving": "Mals rundvlees met aubergine, sperziebonen en paksoi in een romige Filipijnse pindasaus, geserveerd met jasmijnrijst en een hartige trassipasta.",
+  "beschrijving": "Kare-kare is een traditionele Filipijnse stoofschotel waarin langzaam gegaard rundvlees wordt gecombineerd met groenten en een rijke, mild gekruide pindasaus. Onze versie bevat runderriblappen, aubergine, sperziebonen en paksoi. Geroosterd rijstmeel bindt de saus, terwijl mild paprikapoeder voor een warme kleur zorgt. We serveren het gerecht met jasmijnrijst en een apart bereide trassipasta, die met haar krachtige, zoute smaak een heerlijk contrast vormt met de romige pindasaus.",
   "afbeelding": "images/recepten/KareKareAI.webp",
   "url": "recepten.html?id=kareKare",
   "volgorde": 18,
@@ -12,14 +14,109 @@
     "filipijns": 2
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 180,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor het vlees en de pindasaus:",
+    "500 g runderriblappen",
+    "1 grote ui",
+    "6 tenen knoflook",
+    "3 el zonnebloemolie",
+    "750 ml water",
+    "100 g ongezoete pindakaas (bij voorkeur 100% pinda's)",
+    "25 g rijstmeel",
+    "1 tl mild paprikapoeder (niet gerookt)",
+    "1 el vissaus",
+    "1 tl versgemalen zwarte peper",
+    "Zout naar smaak",
+    "Voor de groenten:",
+    "1 grote aubergine (circa 300 g)",
+    "250 g sperziebonen",
+    "300 g paksoi",
+    "Voor de trassipasta:",
+    "1 tl trassi",
+    "1 tl donkere basterdsuiker",
+    "2 el water",
+    "Voor de rijst:",
+    "300 g jasmijnrijst",
+    "450 ml water"
+  ],
+  "bereiding": [
+    "Snijd de runderriblappen in stukken van ongeveer 4 cm. Verwijder eventuele harde zenen, maar laat wat vet zitten.",
+    "Pel de ui en snipper hem fijn. Pel de knoflooktenen en hak ze fijn. Houd één teen apart voor de trassipasta.",
+    "Snijd de aubergine in stukken van ongeveer 3 cm. Maak de sperziebonen schoon en snijd ze in stukken van ongeveer 5 cm.",
+    "Maak de paksoi schoon. Snijd de witte stelen in brede stukken en de groene bladeren grof. Houd de stelen en bladeren apart.",
+    "Verhit 2 el zonnebloemolie in een ruime stoofpan op middelhoog tot hoog vuur.",
+    "Bak het rundvlees in twee porties rondom bruin, ongeveer 5 minuten per portie. Haal het vlees uit de pan en zet apart.",
+    "Zet het vuur middelhoog en fruit de ui ongeveer 4 minuten in het achtergebleven bakvet. Voeg 5 tenen fijngehakte knoflook toe en bak nog 1 minuut mee.",
+    "Doe het vlees terug in de pan. Voeg het water voor het stoven en de zwarte peper toe en breng aan de kook.",
+    "Zet het vuur laag, doe het deksel op de pan en laat het rundvlees ongeveer 2 uur zachtjes stoven, totdat het gemakkelijk met een vork uit elkaar te trekken is. Controleer tussendoor of er voldoende vocht in de pan zit en voeg zo nodig wat heet water toe.",
+    "Rooster tijdens het stoven het rijstmeel in een droge koekenpan op middelhoog vuur gedurende 3–5 minuten. Roer voortdurend totdat het licht goudbruin wordt en nootachtig ruikt. Laat afkoelen.",
+    "Meng het geroosterde rijstmeel met een paar eetlepels koud water tot een glad papje.",
+    "Schep het gare rundvlees tijdelijk uit de stoofpan. Roer de pindakaas en het milde paprikapoeder door het kookvocht totdat een gladde saus ontstaat.",
+    "Voeg het rijstmeelpapje toe en laat de saus 5–10 minuten zachtjes koken terwijl je regelmatig roert. De saus moet romig en voldoende dik worden om aan het vlees en de groenten te blijven hangen.",
+    "Voeg de vissaus toe en proef. Breng eventueel verder op smaak met zout.",
+    "Doe het rundvlees terug in de pindasaus en houd warm op laag vuur.",
+    "Breng in een aparte pan een ruime hoeveelheid water aan de kook. Kook de sperziebonen ongeveer 5 minuten en voeg vervolgens de aubergine en de witte paksoistelen toe. Kook nog 3–4 minuten, totdat de groenten beetgaar zijn.",
+    "Voeg de groene paksoibladeren toe en laat nog 1 minuut slinken.",
+    "Giet de groenten voorzichtig af en laat goed uitlekken. Schep ze vervolgens op het vlees en de pindasaus, zonder alles volledig door elkaar te roeren.",
+    "Verhit de resterende 1 el zonnebloemolie in een kleine koekenpan op middelhoog vuur. Fruit de apart gehouden teen knoflook ongeveer 30 seconden, zonder hem bruin te laten worden.",
+    "Verkruimel de trassi boven de pan en bak ongeveer 1 minuut mee, zodat de geur vrijkomt.",
+    "Voeg de basterdsuiker en het water voor de trassipasta toe. Roer goed en laat 1–2 minuten zachtjes pruttelen, totdat een smeuïge, geconcentreerde pasta ontstaat.",
+    "Schep de trassipasta in een klein schaaltje. Serveer deze straks apart bij de Kare-kare.",
+    "Spoel de jasmijnrijst in een zeef onder koud stromend water totdat het spoelwater grotendeels helder is.",
+    "Doe de rijst met het daarvoor bestemde water in een pan. Breng aan de kook, zet het vuur zo laag mogelijk en laat ongeveer 12 minuten afgedekt garen. Zet het vuur uit en laat nog 10 minuten met het deksel op de pan rusten. Maak de rijst voorzichtig los met een vork.",
+    "Schep het rundvlees en de groenten op een grote serveerschaal en schenk de pindasaus erover.",
+    "Serveer de Kare-kare met de jasmijnrijst en het schaaltje trassipasta, zodat iedereen zelf een beetje van de krachtige smaakmaker kan toevoegen."
+  ],
+  "weetje": "De precieze oorsprong van Kare-kare is niet bekend. Verschillende Filipijnse regio's en gemeenschappen claimen het gerecht als hun eigen uitvinding. Een bekende theorie wijst naar Pampanga, een provincie ten noorden van Manila met een rijke culinaire traditie. Een andere theorie verbindt Kare-kare met Indiase soldaten, de zogenaamde *sepoys*, die in 1762 met het Britse leger naar de Filipijnen kwamen. Tijdens de Britse bezetting van Manila (1762–1764) zouden zij hun vertrouwde curry's hebben proberen na te maken met plaatselijke ingrediënten. Sommige soldaten bleven na het Britse vertrek in de Filipijnen wonen, onder meer in Cainta, ten oosten van Manila. Of Kare-kare daadwerkelijk uit hun keuken voortkwam, is echter niet bewezen.\n\nOok de naam Kare-kare is interessant. Het woord *kari*, dat naar curry of een gekruide saus verwijst, is vermoedelijk via het Maleis ontleend aan het Tamil. De verdubbeling van het woord doet denken aan het Maleis en Indonesisch, maar komt ook in het Filipijnse Tagalog voor. In deze talen wordt woordverdubbeling niet alleen gebruikt om meervoud aan te geven, maar soms ook om gelijkenis of benadering uit te drukken. *Kare-kare* zou daardoor oorspronkelijk ongeveer 'iets wat op kari lijkt' hebben kunnen betekenen. Volgens een lokale overlevering was het gerecht inderdaad een nabootsing van Indiase curry. De precieze etymologie is echter niet met zekerheid vastgesteld. Het huidige Kare-kare lijkt bovendien nauwelijks op een Indiase curry: de saus is mild, romig en uitgesproken nootachtig.\n\nTraditioneel wordt Kare-kare bereid met ossenstaart, pens of andere langzaam te garen delen van rund of varken, aangevuld met aubergine, lange bonen en soms bananenbloesem. Gemalen geroosterde pinda's en rijst zorgen voor de karakteristieke dikke saus, terwijl *atsuete* (annatto) de oranje kleur geeft. Ook deze ingrediënten vertellen iets over de wereldwijde handelsgeschiedenis. Pinda's en annatto komen oorspronkelijk uit Amerika en bereikten Azië na de Europese overzeese expansie. Hun aanwezigheid in Kare-kare laat zien hoe de Filipijnse keuken nieuwe gewassen opnam en verwerkte in eigen gerechten.\n\nDe pindasaus van Kare-kare vormt een interessante verbinding met *Saté ayam* en *Gado-gado* uit Indonesië. Ook daar worden pinda's verwerkt tot een rijke saus en gecombineerd met vlees of groenten. Dat betekent niet dat deze gerechten rechtstreeks van elkaar afstammen, maar ze laten wel zien hoe een oorspronkelijk Amerikaans gewas een belangrijke plaats kreeg in verschillende Zuidoost-Aziatische keukens. De pindasaus van Kare-kare blijft traditioneel relatief mild. Daarom wordt er *bagoong alamang* bij geserveerd, een krachtige, zoute pasta van gefermenteerde garnalen. In onze versie vervangen we die door een zelfbereide smaakmaker op basis van de verwante Indonesische trassi.\n\nTegenwoordig is Kare-kare een geliefd gerecht bij Filipijnse familiefeesten en *fiesta's*. De bereiding vraagt tijd en aandacht, vooral omdat het vlees langdurig moet stoven en de saus afzonderlijk wordt opgebouwd. Het gerecht wordt vaak op een grote schaal geserveerd, met rijst en garnalenpasta ernaast. Zo weerspiegelt Kare-kare niet alleen de eeuwenlange uitwisseling van ingrediënten, talen en kooktradities, maar ook het belang van gezamenlijk eten binnen de Filipijnse cultuur.",
   "bron": {
-    "receptTitel": null,
+    "receptTitel": "Kare-kare",
     "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "kookboek": "Kawaling Pinoy (geïnspireerd op)",
+    "url": "https://www.kawalingpinoy.com/kare-kare/"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Kare-kare",
+      "auteur": null,
+      "kookboek": "Kawaling Pinoy",
+      "url": "https://www.kawalingpinoy.com/kare-kare/"
+    },
+    {
+      "receptTitel": "Kare-kare",
+      "auteur": null,
+      "kookboek": "Panlasang Pinoy",
+      "url": "https://panlasangpinoy.com/kare-kare-recipe/"
+    }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "Kari-kari Takes Over Filipino Cuisine",
+      "auteur": null,
+      "kookboek": "Philippine Information Agency",
+      "url": "https://pia.gov.ph/news/luzon/ncr/kari-kari-takes-over-filipino-cuisine"
+    },
+    {
+      "receptTitel": "The Fascinating History of Kare-kare",
+      "auteur": null,
+      "kookboek": "Esquire Philippines",
+      "jaar": 2019,
+      "url": "https://www.esquiremag.ph/long-reads/features/the-fascinating-history-of-kare-kare-a2386-20190802-lfrm2"
+    },
+    {
+      "receptTitel": "The Three Origins of Kare-kare",
+      "auteur": null,
+      "kookboek": "SBS Filipino",
+      "jaar": 2024,
+      "url": "https://www.sbs.com.au/language/filipino/en/article/the-three-origins-of-kare-kare-and-one-aussiefied-lamb-shank-recipe/8i295vbkp"
+    },
+    {
+      "receptTitel": "From Home to Rome: Filipino Food",
+      "auteur": null,
+      "kookboek": "Filipijnse ambassade",
+      "jaar": 2024,
+      "url": "https://romepe.dfa.gov.ph/images/FoodGuide/FROM_HOME_TO_ROME_Filipino_Food.pdf"
+    }
+  ]
 }

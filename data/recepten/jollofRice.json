@@ -1,7 +1,6 @@
 {
   "sleutel": "jollofRice",
   "regios": [
-    "sahel",
     "west-afrika"
   ],
   "titel": "Jollof Rice",
@@ -10,7 +9,6 @@
   "url": "recepten.html?id=jollofRice",
   "volgorde": 98,
   "regioVolgorde": {
-    "sahel": 2,
     "west-afrika": 0
   },
   "porties": 4,

@@ -4,7 +4,8 @@
     "sahel"
   ],
   "titel": "Thieboudienne",
-  "korteBeschrijving": "Senegalees rijstgerecht met vis, groenten en een rijke tomatensaus.",
+  "korteBeschrijving": "Senegalees rijstgerecht met gekruide visfilet, groenten en rijst die gaart in een rijke tomatenbouillon.",
+  "beschrijving": "Thieboudienne is het nationale gerecht van Senegal. Stevige witvis wordt op smaak gebracht met een pittige kruidenpasta van peterselie, knoflook en chilipeper. De vis en groenten garen in een aromatische tomatenbouillon, waarna de rijst in dezelfde bouillon wordt gekookt en alle smaken opneemt. Traditioneel wordt het gerecht op een grote schaal geserveerd om samen te delen.",
   "afbeelding": "images/recepten/ThieboudienneAI.webp",
   "url": "recepten.html?id=thieboudienne",
   "volgorde": 96,
@@ -12,14 +13,87 @@
     "sahel": 0
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 105,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de vis en kruidenpasta (rof):",
+    "800 g graatvrije zeebaarsfilet (of andere stevige witvisfilet), in 4 grote stukken",
+    "½ bos platte peterselie",
+    "4 tenen knoflook",
+    "2 lente-uitjes",
+    "1 rode chilipeper",
+    "1 tl zwarte peper",
+    "1 tl zout",
+    "Voor de rijst en tomatenbouillon:",
+    "400 g gebroken rijst (breukrijst)",
+    "2 uien",
+    "2 tomaten",
+    "100 g tomatenpuree",
+    "5 el arachideolie",
+    "1,2 liter visbouillon",
+    "2 laurierblaadjes",
+    "1 el vissaus",
+    "Voor de groenten en het serveren:",
+    "2 wortelen",
+    "1 kleine aubergine",
+    "¼ witte kool",
+    "1 zoete aardappel (circa 250 g)",
+    "2 kleine meirapen (circa 200 g)",
+    "1 limoen"
+  ],
+  "bereiding": [
+    "Hak de peterselie, knoflook, lente-uitjes en chilipeper met de zwarte peper en het zout in een keukenmachine tot een grove kruidenpasta (rof).",
+    "Dep de visfilet droog en snijd hem, indien nodig, in vier grote stukken. Maak in elk stuk een ondiepe inkeping en verdeel de kruidenpasta over en in de vis. Zet de vis afgedekt in de koelkast terwijl je de groenten voorbereidt.",
+    "Pel de uien en snipper ze. Snijd de tomaten in blokjes. Schil de wortelen, zoete aardappel en meirapen. Snijd de wortelen en zoete aardappel in grote stukken en de meirapen in vieren. Snijd de aubergine in grove stukken en de witte kool in vier parten.",
+    "Spoel de rijst enkele malen in koud water en laat goed uitlekken.",
+    "Verhit de arachideolie in een grote braadpan op middelhoog vuur. Bak de visfilet ongeveer 1 minuut per kant, zodat hij licht kleurt maar nog niet gaar is. Schep de stukken voorzichtig uit de pan en zet apart.",
+    "Fruit de ui in dezelfde pan ongeveer 5 minuten. Voeg de tomatenpuree toe en bak 4 minuten mee, terwijl je regelmatig roert.",
+    "Voeg de tomatenblokjes toe en bak nog ongeveer 3 minuten. Schenk vervolgens de visbouillon erbij.",
+    "Voeg de laurierblaadjes en vissaus toe en breng de bouillon aan de kook.",
+    "Voeg de wortelen, zoete aardappel, meirapen en witte kool toe. Laat 10 minuten zachtjes koken.",
+    "Voeg de aubergine toe en laat nog ongeveer 10 minuten zachtjes koken. Controleer of de groenten bijna gaar zijn; laat zo nodig iets langer koken.",
+    "Leg de visfilet voorzichtig tussen de groenten in de zacht pruttelende bouillon. Laat de vis afhankelijk van de dikte ongeveer 5–7 minuten garen, tot hij niet meer doorschijnend is en gemakkelijk in vlokken uiteenvalt. Haal de vis en de groenten met een schuimspaan uit de pan en houd afgedekt warm.",
+    "Meet hoeveel bouillon er in de pan is overgebleven. Voor de rijst heb je ongeveer 700 ml nodig. Kook overtollige bouillon zonder deksel in of vul aan met heet water. Proef de bouillon en breng zo nodig verder op smaak.",
+    "Voeg de rijst toe en roer eenmaal goed door. Breng aan de kook, zet het vuur laag en laat met het deksel op de pan ongeveer 20–25 minuten garen, totdat de rijst de bouillon heeft opgenomen. Controleer tegen het einde of de rijst niet droogkookt en voeg zo nodig een scheutje heet water toe.",
+    "Haal de pan van het vuur en laat de rijst nog 5 minuten afgedekt rusten.",
+    "Schep de rijst op een grote serveerschaal. Leg de vis in het midden en verdeel de groenten eromheen. Snijd de limoen in partjes en serveer erbij."
+  ],
+  "weetje": "Thieboudienne, in het Wolof *Ceebu Jën* ('rijst met vis'), ontstond vermoedelijk in de negentiende eeuw in de vissersgemeenschappen van Saint-Louis, aan de Senegalese kust en de westelijke rand van de Sahel. Wolof is een West-Afrikaanse taal die in Senegal, Gambia en Mauritanië wordt gesproken. Het gerecht weerspiegelt de ontmoeting tussen de Atlantische visserij en de landbouw- en handelscultuur van de Sahel. Oorspronkelijk werd vis vaak met gierst gegeten, maar tijdens de Franse koloniale overheersing veranderde dit. De Fransen stimuleerden de pindateelt voor de export en importeerden goedkope gebroken rijst uit hun koloniën in Indochina. Die rijst verdrong geleidelijk de traditionele gierst en werd de basis van Thieboudienne.\n\nVolgens de overlevering speelde Penda Mbaye, een kapster die ook op de markt van Saint-Louis kookte, een belangrijke rol bij de ontwikkeling van het gerecht. Zij zou tomaten met gebakken uien hebben gecombineerd en zo de kenmerkende rode kleur hebben geïntroduceerd. Hoewel haar bestaan niet historisch is bevestigd, leeft haar naam voort in de Senegalese culinaire traditie.\n\nThieboudienne wordt traditioneel gezamenlijk van één grote schaal gegeten, waarbij het laten vallen van rijstkorrels als ongepast geldt. In 2021 erkende UNESCO het gerecht als immaterieel cultureel erfgoed.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
+    "receptTitel": "Senegalese Fish and Rice (Thiéboudienne)",
+    "auteur": "Saveur – geïnspireerd op",
     "kookboek": null,
-    "url": null
-  }
+    "jaar": 2012,
+    "url": "https://www.saveur.com/article/Recipes/Senegal-Fish-Rice/"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Thieboudienne",
+      "auteur": "Koki Afrique",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://kokiafrique.com/en/dishes/thieboudienne/"
+    },
+    {
+      "receptTitel": "Ceebu Jën, a culinary art of Senegal",
+      "auteur": "UNESCO",
+      "kookboek": "Intangible Cultural Heritage",
+      "jaar": 2021,
+      "url": "https://ich.unesco.org/en/RL/ceebu-jen-a-culinary-art-of-senegal-01748"
+    },
+    {
+      "receptTitel": "The origins of Senegal’s dependency on rice imports",
+      "auteur": "Rice Today / International Rice Research Institute",
+      "kookboek": null,
+      "jaar": 2015,
+      "url": "https://ricetoday.irri.org/the-origins-of-senegals-dependency-on-rice-imports-2/"
+    },
+    {
+      "receptTitel": "Le thiéboudiène, délicieux monument sénégalais",
+      "auteur": "Le Monde",
+      "kookboek": null,
+      "jaar": 2023,
+      "url": "https://www.lemonde.fr/afrique/article/2023/07/11/le-thieboudiene-delicieux-monument-senegalais_6181413_3212.html"
+    }
+  ]
 }

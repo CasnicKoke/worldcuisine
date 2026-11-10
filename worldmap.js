@@ -60,8 +60,8 @@ const continenten = {
     //Afrikaanse continent
     maghreb: ["MA", "DZ", "TN", "LY", "EH"],
     nijlvallei: ["EG", "SD"],
-    sahel: ["MR", "ML", "NE", "TD", "BF"],
-    "west-afrika": ["SN", "GM", "GN", "GW", "SL", "LR", "CI", "GH", "TG", "BJ", "NG", "Cape Verde"],
+    sahel: ["MR", "ML", "NE", "TD", "BF", "GM", "SN"],
+    "west-afrika": [ "GN", "GW", "SL", "LR", "CI", "GH", "TG", "BJ", "NG", "Cape Verde"],
     "hoorn-van-afrika": ["ET", "ER", "DJ", "SO"],
     "centraal-afrika": ["CM", "CF", "CG", "CD", "GQ", "GA", "São Tomé and Principe"],
     "oost-afrika": ["KE", "UG", "TZ", "RW", "BI", "SS", "RE", "YT", "Comoros", "Seychelles", "Mauritius"],

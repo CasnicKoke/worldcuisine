@@ -3,8 +3,9 @@
   "regios": [
     "sahel"
   ],
-  "titel": "Maafe",
-  "korteBeschrijving": "West-Afrikaanse pindastoof met vlees of groenten in een romige, kruidige saus.",
+  "titel": "Tigadèguèna (Maafe)",
+  "korteBeschrijving": "Malinese stoofschotel van mals rundvlees, wortel, zoete aardappel en witte kool in een rijke pindasaus met tomaat, geserveerd met witte rijst.",
+  "beschrijving": "Tigadèguèna (Maafe) is een traditionele Malinese stoofschotel waarin rundvlees langzaam gaart in een romige saus van pinda's, tomaten en uien. Wortel, zoete aardappel en witte kool geven het gerecht extra smaak en structuur, terwijl chilipeper voor een subtiele pittigheid zorgt. Door het lange stoven wordt het vlees heerlijk mals en ontstaat een volle, hartige saus die traditioneel met rijst wordt gegeten.",
   "afbeelding": "images/recepten/MaafeAI.webp",
   "url": "recepten.html?id=maafe",
   "volgorde": 97,
@@ -12,14 +13,82 @@
     "sahel": 1
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 150,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de stoofschotel:",
+    "650 g runderriblappen",
+    "2 middelgrote uien",
+    "3 tenen knoflook",
+    "1 blik tomatenblokjes (400 g)",
+    "2 el tomatenpuree",
+    "200 g pindakaas van 100% pinda's (zonder toegevoegde suiker)",
+    "2 wortelen (circa 250 g)",
+    "1 grote zoete aardappel (circa 300 g)",
+    "¼ witte kool (circa 250 g)",
+    "1 rode chilipeper",
+    "2 laurierblaadjes",
+    "2 el arachideolie",
+    "700 ml runderbouillon, bij voorkeur zoutarm",
+    "Versgemalen zwarte peper",
+    "Zout naar smaak",
+    "Voor erbij:",
+    "300 g basmatirijst"
+  ],
+  "bereiding": [
+    "Snijd de runderriblappen in blokjes van ongeveer 3–4 cm. Dep het vlees droog met keukenpapier en bestrooi licht met zout en zwarte peper.",
+    "Pel de uien en snipper ze fijn. Pel de knoflooktenen en hak ze fijn.",
+    "Schil de wortelen en snijd ze in schuine stukken van ongeveer 3 cm. Schil de zoete aardappel en snijd deze in blokken van ongeveer 4 cm. Snijd de witte kool in grove stukken. Laat de chilipeper heel.",
+    "Verhit de arachideolie in een ruime braadpan met dikke bodem op middelhoog tot hoog vuur. Bak het rundvlees in twee porties rondom bruin, ongeveer 5–7 minuten per portie. Schep het vlees uit de pan en zet apart.",
+    "Zet het vuur middelhoog. Voeg de ui toe aan het achtergebleven bakvet en fruit ongeveer 6 minuten tot hij zacht en licht goudbruin is. Roer regelmatig en schraap de aanbaksels van de bodem los. Voeg de knoflook toe en bak nog 1 minuut mee.",
+    "Voeg de tomatenpuree toe en bak ongeveer 2 minuten mee. Doe vervolgens de tomatenblokjes erbij en laat 5 minuten zachtjes pruttelen.",
+    "Schep het rundvlees met het vrijgekomen vocht terug in de pan. Schenk de runderbouillon erbij en voeg de laurierblaadjes en de hele chilipeper toe. Breng aan de kook.",
+    "Zet het vuur laag en leg het deksel op de pan. Laat het vlees ongeveer 75–90 minuten zachtjes stoven. Roer af en toe en controleer of er voldoende vocht in de pan zit.",
+    "Schep een paar soeplepels warme bouillon uit de pan in een kom. Voeg de pindakaas toe en roer met een garde tot een glad, vloeibaar mengsel zonder klontjes.",
+    "Schenk het pindamengsel terug in de stoofpan en roer goed door. De saus krijgt nu geleidelijk zijn karakteristieke romige structuur.",
+    "Voeg de wortelen, zoete aardappel en witte kool toe. Schep de groenten voorzichtig door de saus en breng opnieuw tegen de kook aan.",
+    "Laat het geheel met het deksel schuin op de pan nog ongeveer 30–40 minuten zachtjes stoven, totdat de groenten gaar zijn en het rundvlees gemakkelijk uit elkaar valt. Roer regelmatig over de bodem, want pindasaus kan snel aanbakken. Voeg eventueel wat heet water toe als de saus te dik wordt.",
+    "Spoel de basmatirijst onder koud water totdat het water grotendeels helder blijft. Kook de rijst volgens de aanwijzingen op de verpakking en laat daarna enkele minuten afgedekt rusten.",
+    "Controleer of het vlees volledig mals is. Laat het zo nodig langer zachtjes garen. Is de pindasaus nog te dun, laat deze dan zonder deksel enkele minuten inkoken. De saus moet dik en romig zijn, maar nog gemakkelijk van een lepel lopen.",
+    "Verwijder de laurierblaadjes en de chilipeper. Proef de saus en breng indien nodig op smaak met zout en zwarte peper.",
+    "Schep de rijst op vier borden en verdeel de Tigadèguèna ernaast of eroverheen. Zorg dat iedereen voldoende vlees, groenten en pindasaus krijgt."
+  ],
+  "weetje": "Tigadèguèna, internationaal beter bekend als Maafe, is een van de bekendste stoofgerechten van de West-Afrikaanse Sahel. De oorsprong wordt vaak verbonden met de Bambara en Mandinka uit het huidige Mali. In het Bambara betekent *tiga* pinda, *dègè* pasta en *na* saus: letterlijk 'pindapastasaus'. In Senegal en Gambia bestaan verwante gerechten onder namen als Maafe en Domoda.\n\nOpmerkelijk genoeg komt het belangrijkste ingrediënt oorspronkelijk uit Zuid-Amerika. De gewone pinda werd vermoedelijk in de zestiende eeuw door Portugese handelaren vanuit Brazilië naar West-Afrika gebracht. Daar kende men al de inheemse Bambara-aardnoot. De nieuwe pinda gedijde uitstekend op de zandige bodems van de Sahel en werd dankzij zijn hoge olie- en eiwitgehalte een waardevol voedingsgewas naast gierst en sorghum.\n\nIn de negentiende eeuw stimuleerden de Franse koloniale machthebbers de pindateelt voor de Europese olie-industrie. Vooral in Senegal ontstonden uitgestrekte landbouwgebieden waar pinda's voor de export werden verbouwd. Een oorspronkelijk Zuid-Amerikaans gewas werd zo een belangrijk onderdeel van zowel de West-Afrikaanse economie als de regionale keuken.\n\nDoor handel en migratie verspreidde het gerecht zich over West-Afrika. Tegenwoordig bestaan talloze varianten met rundvlees, lam, kip of groenten, waarbij iedere familie haar eigen bereidingswijze kent.\n\nTigadèguèna heeft een bijzondere historische verbinding met Thieboudienne, het vorige gerecht uit onze Sahelregio. Beide weerspiegelen de invloed van koloniale handelsstromen op de lokale keuken: Thieboudienne door de invoer van Aziatische rijst, Tigadèguèna door de introductie en grootschalige teelt van de Zuid-Amerikaanse pinda.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Meat in Peanut Sauce (Tiguadege Na)",
+    "auteur": "Moussa Diallo (bewerking: Keith Ng-anga-Hackett)",
+    "kookboek": "Together Women Rise (geïnspireerd op)",
+    "jaar": null,
+    "url": "https://togetherwomenrise.org/recipes/tiguadege-na-meat-in-peanut-sauce/"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Uit de Malinese keuken: tigadegena (pindakaasstoofpot)",
+      "auteur": "VPRO",
+      "kookboek": "Mali Blues: Timboektoe",
+      "jaar": null,
+      "url": "https://www.vpro.nl/sahara/artikelen/mali-blues-timboektoe"
+    },
+    {
+      "receptTitel": "Malian Peanut Stew (Tiguadèguèna)",
+      "auteur": "Sixto Carreon",
+      "kookboek": null,
+      "jaar": 2026,
+      "url": "https://sixtocarreon.com/recipes/malian-tiguadeguena/"
+    },
+    {
+      "receptTitel": "Peanut Conservation Strategy",
+      "auteur": "Global Crop Diversity Trust",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.croptrust.org/fileadmin/uploads/croptrust/Documents/Ex_Situ_Crop_Conservation_Strategies/Peanut-Conservation-Strategy-LOWRES_4_04_22.pdf"
+    },
+    {
+      "receptTitel": "The Peanut Trade",
+      "auteur": "University of Chicago",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://knowledge.uchicago.edu/record/1967/files/Cropper_uchicago_0330D_14914.pdf"
+    }
+  ]
 }

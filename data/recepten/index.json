@@ -943,7 +943,7 @@
     },
     "thieboudienne": {
       "titel": "Thieboudienne",
-      "korteBeschrijving": "Senegalees rijstgerecht met vis, groenten en een rijke tomatensaus.",
+      "korteBeschrijving": "Senegalees rijstgerecht met gekruide visfilet, groenten en rijst die gaart in een rijke tomatenbouillon.",
       "afbeelding": "images/recepten/ThieboudienneAI.webp",
       "url": "recepten.html?id=thieboudienne",
       "regios": [
@@ -952,8 +952,8 @@
       "bestand": "data/recepten/thieboudienne.json"
     },
     "maafe": {
-      "titel": "Maafe",
-      "korteBeschrijving": "West-Afrikaanse pindastoof met vlees of groenten in een romige, kruidige saus.",
+      "titel": "Tigadèguèna (Maafe)",
+      "korteBeschrijving": "Malinese stoofschotel van mals rundvlees, wortel, zoete aardappel en witte kool in een rijke pindasaus met tomaat, geserveerd met witte rijst.",
       "afbeelding": "images/recepten/MaafeAI.webp",
       "url": "recepten.html?id=maafe",
       "regios": [
@@ -967,20 +967,19 @@
       "afbeelding": "images/recepten/JollofRiceAI.webp",
       "url": "recepten.html?id=jollofRice",
       "regios": [
-        "sahel",
         "west-afrika"
       ],
       "bestand": "data/recepten/jollofRice.json"
     },
-    "fura": {
-      "titel": "Fura",
-      "korteBeschrijving": "Pittige gierstballetjes of -drank, vaak gecombineerd met gefermenteerde melk.",
-      "afbeelding": "images/recepten/FuraAI.webp",
-      "url": "recepten.html?id=fura",
+    "daraba": {
+      "titel": "Daraba met Kissar",
+      "korteBeschrijving": "Tsjadische groentestoof van aubergine, zoete aardappel, spinazie en tomaat in een licht pittige pindasaus, geserveerd met dunne, gefermenteerde sorghumpannenkoeken.",
+      "afbeelding": "images/recepten/DarabaAI.webp",
+      "url": "recepten.html?id=daraba",
       "regios": [
         "sahel"
       ],
-      "bestand": "data/recepten/fura.json"
+      "bestand": "data/recepten/daraba.json"
     },
     "egusiSoup": {
       "titel": "Egusi Soup",
@@ -1662,6 +1661,16 @@
         "germaans"
       ],
       "bestand": "data/recepten/bloteBilletjes.json"
+    },
+    "dambou": {
+      "titel": "Dambou met lamsbrochettes",
+      "korteBeschrijving": "Traditioneel Nigerese graanbereiding met gierst, spinazie, gebakken ui en chilipeper, geserveerd met kruidige, gegrilde lamsbrochettes.",
+      "afbeelding": "images/recepten/DambouAI.webp",
+      "url": "recepten.html?id=dambou",
+      "regios": [
+        "sahel"
+      ],
+      "bestand": "data/recepten/dambou.json"
     }
   }
 }

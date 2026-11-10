@@ -1,0 +1,96 @@
+{
+  "sleutel": "daraba",
+  "regios": [
+    "sahel"
+  ],
+  "titel": "Daraba met Kissar",
+  "korteBeschrijving": "Tsjadische groentestoof van aubergine, zoete aardappel, spinazie en tomaat in een licht pittige pindasaus, geserveerd met dunne, gefermenteerde sorghumpannenkoeken.",
+  "beschrijving": "Daraba is een traditionele Tsjadische groentestoof, gewoonlijk bereid met okra, tomaten, bladgroenten en pindapasta. In onze versie vervangen we de okra door aubergine en voegen we zoete aardappel, paprika en spinazie toe. De groenten garen in een kruidige tomatensaus die door een bescheiden hoeveelheid pindapasta een zachte, romige structuur krijgt. We serveren de Daraba met Kissar: dunne, lichtzure pannenkoeken van gefermenteerd sorghummeel, waarmee de groenten en saus worden opgeschept.",
+  "afbeelding": "images/recepten/DarabaAI.webp",
+  "url": "recepten.html?id=daraba",
+  "volgorde": 99,
+  "regioVolgorde": {
+    "sahel": 3
+  },
+  "porties": 4,
+  "bereidingstijdMinuten": 75,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de Daraba:",
+    "1 aubergine (circa 300 g)",
+    "1 grote zoete aardappel (circa 350 g)",
+    "250 g verse spinazie",
+    "2 middelgrote uien",
+    "3 tenen knoflook",
+    "4 rijpe tomaten (circa 400 g)",
+    "1 rode paprika",
+    "1 groene chilipeper",
+    "80 g pindakaas van 100% pinda’s, zonder toegevoegde suiker",
+    "2 el arachideolie",
+    "1 tl gemalen korianderzaad",
+    "1 tl zout",
+    "Versgemalen zwarte peper",
+    "400 ml groentebouillon, bij voorkeur zoutarm",
+    "Voor de Kissar (circa 10–12 kleine pannenkoeken):",
+    "250 g sorghummeel",
+    "50 g tarwebloem",
+    "2 el volle yoghurt",
+    "550 ml lauwwarm water",
+    "1 tl zout",
+    "1 el arachideolie, voor het bakken"
+  ],
+  "bereiding": [
+    "Meng het sorghummeel en de tarwebloem in een grote kom. Voeg de yoghurt en 400 ml lauwwarm water toe. Klop met een garde tot een glad, vrij dik beslag zonder klontjes.",
+    "Dek de kom af met een schone theedoek en laat het beslag circa 12–18 uur bij normale kamertemperatuur (20–23 °C) fermenteren. Het beslag hoort een lichtzure geur te ontwikkelen. Let op: gewone yoghurt garandeert niet dat sorghumbeslag voldoende snel verzuurt; gebruik voor een betrouwbare fermentatie bij voorkeur een beproefde sorghum- of zuurdesemstarter en de bijbehorende instructies. Gebruik geen beslag met schimmel of afwijkende geur.",
+    "Pel de uien en snijd ze in dunne halve ringen. Pel de knoflook en hak deze fijn.",
+    "Schil de zoete aardappel en snijd deze in blokjes van ongeveer 2,5 cm. Snijd de aubergine in stukken van ongeveer 3 cm.",
+    "Snijd de tomaten in kleine blokjes. Halveer de paprika, verwijder de zaadlijsten en snijd hem in grove stukken.",
+    "Halveer de groene chilipeper, verwijder de zaadlijsten en hak hem fijn. Wie van pittig houdt, kan de zaadlijsten laten zitten.",
+    "Was de spinazie zorgvuldig en verwijder eventuele dikke stelen. Rol de bladeren in een schone, droge theedoek om ze te drogen. Snijd grote bladeren grof; laat kleine bladeren heel. Spoel de theedoek na gebruik uit.",
+    "Verhit de arachideolie voor de Daraba in een ruime stoofpan met dikke bodem op middelhoog vuur. Voeg de uien toe en fruit ongeveer 6–8 minuten, totdat ze zacht en licht goudbruin zijn.",
+    "Voeg de knoflook en chilipeper toe en bak 1 minuut mee. Strooi het gemalen korianderzaad erover en roer kort door.",
+    "Voeg de tomaten toe en laat ongeveer 6–8 minuten zachtjes koken, totdat ze uiteenvallen en een dikke tomatenbasis vormen.",
+    "Voeg de zoete aardappel en paprika toe. Schenk de groentebouillon erbij en breng aan de kook. Zet het vuur laag en laat met het deksel op de pan ongeveer 10 minuten zachtjes garen.",
+    "Voeg de aubergine toe en laat nog ongeveer 12–15 minuten zachtjes stoven, totdat de zoete aardappel bijna gaar is en de aubergine zacht begint te worden.",
+    "Schep enkele lepels warme bouillon uit de pan in een kommetje. Voeg de pindakaas toe en roer tot een glad, vloeibaar mengsel. Schenk dit terug in de stoofpan en roer voorzichtig door de groenten.",
+    "Voeg de spinazie in porties toe en laat deze al omscheppend slinken. Laat de Daraba vervolgens nog ongeveer 8 minuten zonder deksel zachtjes pruttelen, zodat de saus wat indikt. Roer af en toe over de bodem om aanbakken te voorkomen.",
+    "Breng op smaak met het zout en versgemalen zwarte peper. De Daraba moet een volle groentesaus zijn, niet zo dik als de pindastoof van Tigadèguèna. Voeg eventueel een klein scheutje water toe als de saus te dik wordt. Houd warm.",
+    "Roer het gefermenteerde beslag goed door. Voeg de resterende 150 ml lauwwarm water en het zout toe. Klop tot een dun, vloeibaar beslag, iets dunner dan normaal Nederlands pannenkoekenbeslag. Voeg eventueel nog een klein scheutje water toe als het beslag niet gemakkelijk uitvloeit.",
+    "Verhit een koekenpan met antiaanbaklaag van ongeveer 22–24 cm op middelhoog vuur. Bestrijk de bodem heel dun met de arachideolie voor de Kissar.",
+    "Schenk een kleine soeplepel beslag in de pan en draai de pan onmiddellijk rond, zodat een zo dun mogelijke pannenkoek ontstaat. Bak ongeveer 1–2 minuten, totdat het oppervlak volledig gestold en droog is en de randen beginnen los te laten. Traditioneel wordt Kissar slechts aan één kant gebakken.",
+    "Maak de randen voorzichtig los met een dunne spatel en haal de Kissar uit de pan. Leg hem op een bord en dek af met een schone theedoek om hem zacht en soepel te houden. Herhaal met het resterende beslag. Roer het beslag tussendoor regelmatig door.",
+    "Schep de Daraba in een grote, diepe serveerschaal. Leg de Kissar op een apart bord of vouw de pannenkoeken losjes op.",
+    "Serveer direct. Scheur stukjes Kissar af en gebruik ze om de groenten en saus op te scheppen."
+  ],
+  "weetje": "Daraba met Kissar weerspiegelt de eeuwenoude graan- en landbouwcultuur van Tsjaad, op de overgang tussen de Sahara en de vruchtbare savannes van Centraal-Afrika. Sorghum, het belangrijkste ingrediënt van Kissar, behoort tot de oudste gedomesticeerde graansoorten van Afrika. Archeologische vondsten in het huidige Soedan tonen aan dat sorghum al ruim 5.000 jaar geleden werd verbouwd. Net als gierst is het goed bestand tegen droogte en daardoor bijzonder geschikt voor het wisselvallige klimaat van de Sahel.\n\nHet gebied rond het Tsjaadmeer was eeuwenlang een belangrijk kruispunt van handelsroutes. Vanaf ongeveer de achtste eeuw ontwikkelde zich hier het koninkrijk Kanem, dat later opging in het machtige rijk Kanem-Bornu. Karavanen verbonden de regio met Noord-Afrika en vervoerden onder andere zout, textiel en andere handelswaar. Tegelijkertijd ontwikkelden de landbouwgemeenschappen rond het meer en de rivieren Chari en Logone hun eigen voedseltradities, gebaseerd op sorghum, gierst, groenten en peulvruchten.\n\nDaraba is een voorbeeld van die landbouwkeuken. Traditioneel wordt de stoofschotel bereid met okra, bladgroenten en pindapasta, soms aangevuld met vlees of gedroogde vis. Meestal wordt hij gegeten met *boule*, een stevige graanpap van gierst of sorghum. Wij serveren hem met Kissar, een andere traditionele Tsjadische graanbereiding. Deze dunne pannenkoeken worden gemaakt van een licht gefermenteerd beslag en zijn verwant aan de Soedanese *kisra* en de Ethiopische *injera*.\n\nHet fermenteren van graanbeslag is een eeuwenoude techniek die bijzonder nuttig is in het hete klimaat van de Sahel. Tijdens het fermenteren zetten melkzuurbacteriën en gisten suikers uit het graan om in onder andere melkzuur. Hierdoor wordt het beslag zuurder en krijgen veel ongewenste bacteriën minder kans om zich te vermenigvuldigen. Dat helpt het beslag langer bruikbaar te houden, ook in een omgeving waar koeling van oudsher ontbrak. Fermentatie heeft bovendien andere voordelen: het breekt een deel van het fytinezuur in sorghum af, waardoor mineralen zoals ijzer en zink beter door het lichaam kunnen worden opgenomen. Ook verandert de structuur van het beslag, wat helpt bij het bakken van dunne pannenkoeken. De lichtzure smaak van Kissar is dus het resultaat van een bereidingswijze die zowel de houdbaarheid als de voedingswaarde en smaak van het graan kan verbeteren.",
+  "bron": {
+    "receptTitel": "Daraba (geïnspireerd op traditionele Tsjadische bereidingswijzen)",
+    "auteur": "Tchad Ma Culture",
+    "kookboek": null,
+    "jaar": null,
+    "url": "https://tchad-culture.vercel.app/fr/cuisine/daraba/"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Le Kissar, la galette à la tchadienne",
+      "auteur": "Tchadinfos",
+      "kookboek": null,
+      "jaar": 2024,
+      "url": "https://tchadinfos.com/2024/06/07/societe-le-kissar-la-galette-a-la-tchadienne/"
+    },
+    {
+      "receptTitel": "Sorghum-domesticatie in de oostelijke Sahel",
+      "auteur": null,
+      "kookboek": "Archeologisch onderzoek (PubMed Central)",
+      "jaar": null,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6394749/"
+    },
+    {
+      "receptTitel": "Kanem-Bornu Empire",
+      "auteur": null,
+      "kookboek": "King’s College London",
+      "jaar": null,
+      "url": "https://kclpure.kcl.ac.uk/portal/en/publications/kanem-bornu-empire/"
+    }
+  ]
+}

@@ -1052,8 +1052,8 @@
       "bestand": "data/recepten/skoudehkaris.json"
     },
     "moambe": {
-      "titel": "Moambe",
-      "korteBeschrijving": "Centraal-Afrikaanse stoofschotel, vaak met kip, bereid in een rijke saus van palmnoten.",
+      "titel": "Poulet Moambe met Fufu",
+      "korteBeschrijving": "Congolese kipstoof met malse kippendijfilet in een rijke saus van palmnoten, geserveerd met zachte, elastische Fufu van cassave.",
       "afbeelding": "images/recepten/MoambeAI.webp",
       "url": "recepten.html?id=moambe",
       "regios": [
@@ -1061,35 +1061,35 @@
       ],
       "bestand": "data/recepten/moambe.json"
     },
-    "fufu": {
-      "titel": "Fufu",
-      "korteBeschrijving": "Elastische puree van cassave, yam of bakbanaan, gegeten als basis bij soepen en stoofschotels.",
-      "afbeelding": "images/recepten/FufuAI.webp",
-      "url": "recepten.html?id=fufu",
+    "liboke": {
+      "titel": "Liboké ya Mbisi met rijst",
+      "korteBeschrijving": "Congolese visfilet met tomaat, paprika, ui en aromatische kruiden, zacht gegaard in bananenblad en geserveerd met witte rijst.",
+      "afbeelding": "images/recepten/LibokeAI.webp",
+      "url": "recepten.html?id=liboke",
       "regios": [
         "centraal-afrika"
       ],
-      "bestand": "data/recepten/fufu.json"
+      "bestand": "data/recepten/liboke.json"
     },
-    "pondu": {
-      "titel": "Pondu",
-      "korteBeschrijving": "Stoof van cassavebladeren, vaak bereid met vis, vlees of pinda.",
-      "afbeelding": "images/recepten/PonduAI.webp",
-      "url": "recepten.html?id=pondu",
+    "ndole": {
+      "titel": "Ndolé met garnalen en gebakken bakbanaan",
+      "korteBeschrijving": "Kameroense stoof van spinazie in een romige pindasaus, geserveerd met gebakken garnalen en zoete, goudbruine bakbanaan.",
+      "afbeelding": "images/recepten/NdoleAI.webp",
+      "url": "recepten.html?id=ndole",
       "regios": [
         "centraal-afrika"
       ],
-      "bestand": "data/recepten/pondu.json"
+      "bestand": "data/recepten/ndole.json"
     },
-    "sakaSaka": {
-      "titel": "Saka-Saka",
-      "korteBeschrijving": "Gestoofde cassavebladeren met olie en kruiden, geliefd in meerdere Centraal-Afrikaanse keukens.",
-      "afbeelding": "images/recepten/SakaSakaAI.webp",
-      "url": "recepten.html?id=sakaSaka",
+    "calulu": {
+      "titel": "Calulu de Peixe met rijst en Angú de Banana",
+      "korteBeschrijving": "Traditionele visstoof uit São Tomé en Príncipe met verse en gerookte vis, bladgroenten en rode palmolie, geserveerd met witte rijst en Angú de Banana.",
+      "afbeelding": "images/recepten/CaluluAI.webp",
+      "url": "recepten.html?id=calulu",
       "regios": [
         "centraal-afrika"
       ],
-      "bestand": "data/recepten/sakaSaka.json"
+      "bestand": "data/recepten/calulu.json"
     },
     "pilau": {
       "titel": "Pilau",

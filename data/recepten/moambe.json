@@ -3,8 +3,9 @@
   "regios": [
     "centraal-afrika"
   ],
-  "titel": "Moambe",
-  "korteBeschrijving": "Centraal-Afrikaanse stoofschotel, vaak met kip, bereid in een rijke saus van palmnoten.",
+  "titel": "Poulet Moambe met Fufu",
+  "korteBeschrijving": "Congolese kipstoof met malse kippendijfilet in een rijke saus van palmnoten, geserveerd met zachte, elastische Fufu van cassave.",
+  "beschrijving": "Poulet Moambe is een van de bekendste gerechten uit de Democratische Republiek Congo. Malse stukken kippendijfilet worden gestoofd in een volle, rood-oranje saus. De karakteristieke palmnotensaus heeft een diepe, aardse smaak en wordt traditioneel gegeten met rijst, bakbanaan of Fufu. Wij serveren de Moambe met Fufu van cassavemeel: een zachte, elastische deegmassa die je met je vingers in kleine stukjes verdeelt om de saus mee op te scheppen.",
   "afbeelding": "images/recepten/MoambeAI.webp",
   "url": "recepten.html?id=moambe",
   "volgorde": 107,
@@ -12,14 +13,94 @@
     "centraal-afrika": 0
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 80,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de Poulet Moambe:",
+    "800 g kippendijfilet",
+    "400 g palmnotencrème (sauce graine of palm nut cream, uit blik)",
+    "2 middelgrote uien",
+    "3 tenen knoflook",
+    "2 cm verse gember",
+    "1 rijpe tomaat",
+    "1 rode chilipeper",
+    "2 laurierblaadjes",
+    "2 el zonnebloemolie",
+    "300 ml kippenbouillon, bij voorkeur zoutarm",
+    "1 tl zout",
+    "1 tl versgemalen zwarte peper",
+    "Voor de Fufu:",
+    "350 g cassave-fufumeel (speciaal bereid meel voor Fufu)",
+    "700 ml water, zo nodig iets extra"
+  ],
+  "bereiding": [
+    "Snijd de kippendijfilet in grove stukken van ongeveer 4–5 cm. Dep ze droog met keukenpapier en bestrooi met het zout en de zwarte peper.",
+    "Pel de uien en snijd ze in dunne halve ringen. Snijd de tomaat in kleine blokjes.",
+    "Pel de knoflook en schil de gember. Snijd beide grof en maal ze samen in een kleine keukenmachine tot een fijne pasta.",
+    "Was de chilipeper en laat deze heel. Zo geeft hij tijdens het stoven een milde pittigheid af.",
+    "Verhit de zonnebloemolie in een ruime braadpan met dikke bodem op middelhoog tot hoog vuur. Bak de kippendijfilet in twee porties ongeveer 3–4 minuten per kant, totdat de stukken licht goudbruin zijn. De kip hoeft nog niet gaar te zijn. Schep uit de pan en zet apart.",
+    "Zet het vuur middelhoog. Voeg de uien toe aan het achtergebleven bakvet en fruit ongeveer 6 minuten, totdat ze zacht en licht goudbruin zijn.",
+    "Voeg de knoflook-gemberpasta toe en bak ongeveer 1 minuut mee. Roer regelmatig om aanbakken te voorkomen.",
+    "Voeg de tomaat toe en laat ongeveer 5 minuten zachtjes bakken, totdat hij uiteenvalt en het meeste vocht is verdampt.",
+    "Roer de palmnotencrème in het blik goed door en voeg deze toe aan de pan. Schenk geleidelijk de kippenbouillon erbij en roer tot een gladde, dik vloeibare saus.",
+    "Breng de saus zachtjes aan de kook. Voeg de laurierblaadjes en de hele chilipeper toe. Laat ongeveer 15 minuten op middellaag vuur pruttelen en roer regelmatig. De saus krijgt een diepere rood-oranje kleur en er kan wat rode olie aan het oppervlak verschijnen.",
+    "Leg de kip met het vrijgekomen vocht terug in de saus. Schep de saus voorzichtig over de kip.",
+    "Zet het vuur laag en leg het deksel op de pan. Laat de kippendijfilet ongeveer 20–25 minuten zachtjes stoven, totdat het vlees mals en volledig gaar is. Schep halverwege voorzichtig om.",
+    "Controleer regelmatig of de saus niet aanbrandt. Voeg eventueel een klein scheutje heet water toe als de saus te dik wordt. De bedoeling is een volle saus die goed aan de kip blijft hangen.",
+    "Controleer of de kip gaar is. De kerntemperatuur moet minimaal 75 °C zijn, gemeten in het dikste stuk.",
+    "Verwijder de laurierblaadjes en de chilipeper. Proef de Moambesaus en voeg eventueel wat extra zout of zwarte peper toe. Laat de saus indien nodig nog enkele minuten zonder deksel inkoken.",
+    "Begin ongeveer 15 minuten voordat de kip klaar is met de Fufu. Meng het cassave-fufumeel met 600 ml koud water in een stevige pan met dikke bodem. Roer met een garde tot een glad mengsel zonder klontjes ontstaat.",
+    "Zet de pan op middelhoog vuur en blijf voortdurend roeren met een stevige houten spatel. Het mengsel zal snel dikker worden.",
+    "Zet het vuur laag zodra het mengsel stevig begint te worden. Blijf ongeveer 8–12 minuten krachtig roeren, vouwen en tegen de zijkanten van de pan drukken, totdat een gladde, elastische massa ontstaat. Voeg indien nodig geleidelijk wat van de resterende 100 ml water toe. De Fufu moet zacht en soepel zijn, maar zijn vorm behouden. Volg bij afwijkende instructies de verpakking van het fufumeel.",
+    "Maak een grote lepel nat met water. Verdeel de warme Fufu in vier porties en vorm deze met behulp van een natgemaakte kom tot gladde, ronde bollen. Houd afgedekt warm.",
+    "Verdeel de Poulet Moambe over vier diepe borden en schep er royaal saus bij.",
+    "Leg op ieder bord een bol Fufu, of serveer deze apart. Eet traditioneel door met de vingers kleine stukjes Fufu af te nemen en daarmee de saus op te scheppen."
+  ],
+  "weetje": "Poulet Moambe wordt vaak het nationale gerecht van de Democratische Republiek Congo genoemd, maar maakt deel uit van een veel bredere culinaire traditie rond het Congobekken. Ook in de Republiek Congo, Gabon en Angola worden kipgerechten bereid met een rijke saus van palmvruchten. In Gabon staat een verwant gerecht bekend als *Poulet Nyembwe* en in Angola als *Muamba de Galinha*. De namen verschillen, maar het belangrijkste ingrediënt is hetzelfde: de vrucht van de Afrikaanse oliepalm.\n\nDe oliepalm komt van oorsprong uit tropisch Afrika en werd hier al gebruikt lang voordat Europeanen de regio bereikten. Traditioneel worden de palmvruchten gekookt en gestampt, waarna de zachte, vezelige vruchtenpulp met water wordt uitgeknepen. De dikke, rood-oranje vloeistof vormt de basis van de saus. Dat is iets heel anders dan alleen palmolie gebruiken. Palmnotencrème bevat naast vet ook de bestanddelen uit het vruchtvlees die de saus zijn karakteristieke structuur en smaak geven. De moderne palmnotencrème uit blik maakt dit arbeidsintensieve bereidingsproces voor thuiskoks een stuk eenvoudiger.\n\nDe Fufu waarmee we de Moambe serveren, heeft een verrassend andere geschiedenis. Cassave komt namelijk niet uit Afrika, maar uit tropisch Zuid-Amerika. Portugese handelaren brachten de plant in de zestiende eeuw vanuit Brazilië naar de Afrikaanse kust, onder meer naar het toenmalige koninkrijk Kongo. In de eeuwen daarna verspreidde cassave zich over grote delen van het continent. De plant werd bijzonder belangrijk omdat de wortels veel zetmeel bevatten, ook op relatief arme gronden groeien en vaak lang in de bodem kunnen blijven zitten totdat ze nodig zijn. Cassave nam geleidelijk een deel van de plaats in van oudere basisgewassen, zoals gierst, yam en bakbanaan.\n\nDe gewoonte om zetmeelrijke gewassen tot een stevige, elastische massa te stampen of te roeren, bestond in Afrika al voordat cassave werd geïntroduceerd. Fufu is dus niet simpelweg een geïmporteerd Zuid-Amerikaans gerecht: Afrikaanse koks pasten hun bestaande bereidingstechnieken toe op een nieuw gewas. Traditioneel vraagt dat veel fysieke inspanning. Gekookte knollen worden in grote vijzels met zware stampers bewerkt totdat een gladde, samenhangende massa ontstaat. Tegenwoordig wordt Fufu ook vaak gemaakt door speciaal bereid cassavemeel langdurig met heet water te roeren, zoals in ons recept.\n\nVergelijkbare zetmeelbereidingen vind je onder verschillende namen in vrijwel heel Afrika ten zuiden van de Sahara. In Oost-Afrika wordt bijvoorbeeld *Ugali* gegeten, in Malawi *Nsima*, in Zimbabwe *Sadza* en in Angola *Funge*. Ook buiten Afrika leeft de traditie voort: in Cuba wordt een gerecht van gestampte bakbanaan *Fufú de Plátano* genoemd. Die overeenkomst in naam is geen toeval, maar een herinnering aan de Afrikaanse invloed op de Caribische keuken.\n\nPoulet Moambe met Fufu vertelt daardoor twee verhalen tegelijk. De saus is geworteld in de oude voedseltradities van het Afrikaanse regenwoud, terwijl het tegenwoordig zo belangrijke cassave via de Atlantische handel naar Congo kwam. Samen vormen ze een gerecht dat inmiddels onlosmakelijk met de Congolese keuken is verbonden.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Congolese Moambe Recipe (Chicken in Palm Nut Sauce)",
+    "auteur": "NKOSI",
+    "kookboek": "NKOSI (geïnspireerd op)",
+    "jaar": null,
+    "url": "https://www.nkosiagro.com/en/blogs/blog-and-recipes/congolese-moambe-recipe-chicken-in-palm-nut-sauce"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Fufu: From Scratch",
+      "auteur": null,
+      "kookboek": "Global Food Futures – Deep Roots booklet",
+      "jaar": 2023,
+      "url": "https://www.seedandknowledge.org/wp-content/uploads/2024/03/GFF-2023_Deep-Roots-booklet-for-web-pages.pdf"
+    }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "The cassava transformation in Africa",
+      "auteur": "FAO",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.fao.org/4/a0154e/a0154e02.htm"
+    },
+    {
+      "receptTitel": "Traditional processing and utilization of cassava",
+      "auteur": "FAO",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.fao.org/4/x5458e/x5458e05.htm"
+    },
+    {
+      "receptTitel": "Palm Oil",
+      "auteur": null,
+      "kookboek": "The Cambridge World History of Food",
+      "jaar": null,
+      "url": "https://www.cambridge.org/core/books/abs/cambridge-world-history-of-food/palm-oil/0D4C12BDCA1A1BB57486568E8019691D"
+    },
+    {
+      "receptTitel": "Moambe Chicken: The Democratic Republic of Congo’s National Dish",
+      "auteur": "African Food Changemakers",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.afchub.org/index.php/food/moambe-chicken-the-democratic-republic-of-congos-national-dish"
+    }
+  ]
 }

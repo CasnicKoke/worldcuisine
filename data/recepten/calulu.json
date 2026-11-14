@@ -1,0 +1,107 @@
+{
+  "sleutel": "calulu",
+  "regios": [
+    "centraal-afrika"
+  ],
+  "titel": "Calulu de Peixe met rijst en Angú de Banana",
+  "korteBeschrijving": "Traditionele visstoof uit São Tomé en Príncipe met verse en gerookte vis, bladgroenten en rode palmolie, geserveerd met witte rijst en Angú de Banana.",
+  "beschrijving": "Calulu de Peixe is een traditioneel visgerecht van São Tomé en Príncipe, waarin verse en gerookte vis samen met groenten, bladgroenten en kruiden langzaam worden gestoofd in rode palmolie. De combinatie van zachte witvis, gerookte makreel, aubergine, spinazie en waterkers geeft het gerecht een volle, hartige smaak. Wij serveren de Calulu met witte rijst en Angú de Banana: een stevige puree van gekookte groene bakbananen, die in kleine bollen wordt geserveerd.",
+  "afbeelding": "images/recepten/CaluluAI.webp",
+  "url": "recepten.html?id=calulu",
+  "volgorde": 110,
+  "regioVolgorde": {
+    "centraal-afrika": 3
+  },
+  "porties": 4,
+  "bereidingstijdMinuten": 85,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de Calulu de Peixe:",
+    "700 g stevige witvisfilet zonder graten (bijvoorbeeld zeebaars of kabeljauwhaas)",
+    "150 g gerookte makreelfilet, zonder vel en graten",
+    "1 aubergine",
+    "200 g sperziebonen",
+    "200 g verse spinazie",
+    "100 g waterkers",
+    "3 rijpe tomaten",
+    "1 grote ui",
+    "1 groene paprika",
+    "3 tenen knoflook",
+    "1 rode chilipeper",
+    "1 limoen",
+    "3 el rode, ongeraffineerde palmolie",
+    "1 tl gedroogde marjolein",
+    "1 laurierblaadje",
+    "300 ml water, zo nodig extra",
+    "Versgemalen zwarte peper",
+    "Zout naar smaak",
+    "Voor de rijst en Angú de Banana:",
+    "200 g basmatirijst",
+    "2 groene, onrijpe bakbananen",
+    "Water om de bakbananen te koken",
+    "Een snufje zout voor de Angú"
+  ],
+  "bereiding": [
+    "Dep de witvisfilets droog met keukenpapier en controleer op graatjes. Snijd de vis in grove stukken van ongeveer 5 cm.",
+    "Pers de limoen uit en besprenkel de witvis met het sap. Bestrooi licht met zout en zwarte peper, dek af en laat ongeveer 15 minuten in de koelkast marineren.",
+    "Controleer de gerookte makreel zorgvuldig op achtergebleven graatjes. Verdeel de vis met je vingers in grove stukken en zet apart.",
+    "Pel de ui en snipper deze fijn. Pel de knoflook en hak de tenen fijn.",
+    "Was de tomaten en snijd ze in kleine blokjes. Was de paprika, verwijder de zaadlijsten en snijd het vruchtvlees in dunne reepjes.",
+    "Was de aubergine en snijd deze in blokjes van ongeveer 2 cm. Maak de sperziebonen schoon en halveer ze.",
+    "Was de spinazie en waterkers zorgvuldig. Verwijder eventuele dikke stelen en laat de groenten goed uitlekken. Snijd de spinazie grof en laat de waterkers grotendeels heel.",
+    "Was de chilipeper. Verwijder eventueel de zaadlijsten voor een mildere smaak en hak de peper fijn.",
+    "Verhit de rode palmolie in een ruime stoofpan met dikke bodem op middelhoog vuur. Laat de olie warm worden, maar niet roken.",
+    "Voeg de ui toe en fruit ongeveer 5 minuten totdat deze zacht en glazig is.",
+    "Voeg de knoflook en chilipeper toe en bak ongeveer 1 minuut mee.",
+    "Doe de tomaten en paprika in de pan. Laat ongeveer 8 minuten zachtjes bakken, totdat de tomaten grotendeels uiteenvallen en een dikke saus ontstaat.",
+    "Voeg de aubergine, sperziebonen, marjolein en het laurierblaadje toe. Schep alles zorgvuldig door de saus.",
+    "Schenk het water erbij en breng het geheel aan de kook. Zet het vuur laag, leg het deksel op de pan en laat ongeveer 20 minuten zachtjes stoven. Roer af en toe voorzichtig door. De aubergine moet zacht worden en de sperziebonen moeten bijna gaar zijn.",
+    "Begin tijdens het stoven met de Angú de Banana. Snijd de uiteinden van de groene bakbananen af, kerf de schil in de lengte in en verwijder deze. Snijd het vruchtvlees in grove stukken. Kook de stukken in een pan water met een snufje zout ongeveer 20–25 minuten, totdat ze helemaal zacht zijn.",
+    "Spoel ondertussen de basmatirijst onder koud stromend water totdat het water grotendeels helder blijft. Kook de rijst volgens de aanwijzingen op de verpakking en laat daarna afgedekt rusten.",
+    "Druk na de stooftijd enkele stukjes aubergine met een houten lepel tegen de zijkant van de pan fijn. Daardoor wordt de saus iets dikker zonder bloem toe te voegen.",
+    "Leg de gemarineerde witvis voorzichtig tussen de groenten en schep er wat saus overheen. Zet het vuur laag en laat de vis ongeveer 8 minuten zachtjes garen met het deksel op de pan. Roer niet krachtig, anders valt de vis uiteen.",
+    "Voeg de gerookte makreel toe en verdeel deze voorzichtig door de stoof. Laat nog ongeveer 3 minuten zachtjes verwarmen, zodat de gerookte smaak zich door de saus verspreidt.",
+    "Voeg de spinazie en waterkers in porties toe. Laat de groenten ongeveer 3–5 minuten slinken en garen. Schep voorzichtig om, zodat de stukken vis zoveel mogelijk heel blijven.",
+    "Giet de gare bakbananen af, maar bewaar een beetje kookwater. Stamp de stukken onmiddellijk met een stevige pureestamper tot een gladde, samenhangende massa. Voeg zo nodig enkele eetlepels kookwater toe. Vorm met twee natgemaakte lepels of een natgemaakt kommetje vier duidelijke, ronde bollen en houd ze afgedekt warm.",
+    "Controleer of de verse vis gaar is: het vlees moet ondoorzichtig zijn en gemakkelijk in lamellen uiteenvallen. Een kerntemperatuur van 63 °C is een veilige richtwaarde.",
+    "Proef de saus en breng indien nodig op smaak met zout en zwarte peper. Wees voorzichtig met zout, omdat de gerookte makreel al zout kan zijn. Verwijder het laurierblaadje.",
+    "Verdeel de Calulu de Peixe over vier diepe borden, zodat iedereen zowel verse witvis als gerookte makreel krijgt. Leg op elk bord een kleine ronde bol Angú de Banana en een portie witte rijst. Lepel de geurige groentesaus over de vis en serveer direct."
+  ],
+  "weetje": "Calulu is een van de bekendste traditionele gerechten van São Tomé en Príncipe, een kleine eilandstaat in de Golf van Guinee. Het wordt vooral op São Tomé gegeten en is meer dan een gewone dagelijkse maaltijd. Calulu wordt vaak bereid voor familiefeesten, bruiloften, begrafenissen en religieuze bijeenkomsten. Bij kerkelijke feesten wordt het soms uitgedeeld aan de aanwezigen. De bereiding van een grote pan Calulu is daarmee niet alleen een culinaire activiteit, maar ook een manier om familie- en gemeenschapsbanden te onderhouden.\n\nDe geschiedenis van het gerecht is nauw verbonden met die van de eilanden zelf. Toen Portugese zeevaarders rond 1470 op São Tomé en Príncipe aankwamen, waren de eilanden vermoedelijk onbewoond. Vanaf het einde van de vijftiende eeuw ontstonden er Portugese nederzettingen en plantages, waar tot slaaf gemaakte mensen uit verschillende delen van Afrika moesten werken. In de zestiende eeuw groeide São Tomé uit tot een belangrijk centrum van de suikerproductie. Later werden ook koffie en cacao belangrijke exportgewassen. Rond het begin van de twintigste eeuw behoorden de eilanden zelfs tot de grootste cacaoproducenten ter wereld. De huidige eilandkeuken ontstond uit de ontmoeting van uiteenlopende Afrikaanse voedseltradities, Portugese invloeden en gewassen die via de Atlantische handelsroutes werden verspreid.\n\nCalulu laat die culturele vermenging goed zien. Ook in Angola bestaat een gerecht met dezelfde naam, waarin verse en gedroogde vis samen met groenten wordt gestoofd. De naam heeft vermoedelijk Afrikaanse taalkundige wortels: een Portugees woordenboek verbindt *calulu* met het Umbundu-woord *kalulu*, dat verwijst naar het bladgroen van de zoete aardappel. De precieze geschiedenis van de naam is echter niet helemaal duidelijk. Op São Tomé ontwikkelde Calulu zich tot een eigen gerecht, waarin de grote rijkdom aan lokale planten centraal kwam te staan.\n\nTraditionele Calulu kan een opvallend groot aantal verschillende bladeren, jonge scheuten en aromatische kruiden bevatten. Sommige beschrijvingen noemen zelfs meer dan twintig plantensoorten. Daaronder bevinden zich planten die niet alleen als voedsel, maar ook vanwege hun geneeskrachtige eigenschappen worden gewaardeerd. De samenstelling varieert per familie en naar gelang het seizoen en de beschikbaarheid. Een aantal van deze planten is buiten de eilanden nauwelijks verkrijgbaar. Daarom gebruiken we in ons recept spinazie, waterkers, aubergine en sperziebonen. De sperziebonen vervangen de traditioneel vaak gebruikte okra, die de stoof een wat slijmerige structuur kan geven.\n\nDe visserij is eveneens onlosmakelijk verbonden met de eilandkeuken. Rond São Tomé en Príncipe worden onder andere tonijn, vliegende vis en verschillende kleinere vissoorten gevangen. Door vis te roken kon deze langer worden bewaard, ook zonder koeling. Die techniek heeft bovendien een belangrijke culinaire functie gekregen: de gerookte vis geeft Calulu zijn kenmerkende diepe smaak. In traditionele recepten worden zowel gerookte als verse vis en soms ook schaaldieren gebruikt. Wij combineren daarom verse witvis met gerookte makreel. De rode palmolie, afkomstig van de Afrikaanse oliepalm, verbindt het gerecht met de voedseltradities van het West- en Centraal-Afrikaanse vasteland.\n\nEen bijzonder bijgerecht is *Angú de Banana*. Traditioneel wordt dit gemaakt door gekookte bananen fijn te stampen tot een stevige massa. Op São Tomé worden daarvoor soms twee soorten gecombineerd: *banana-pão*, een zetmeelrijke kookbanaan, en *banana-prata*, een kleinere bananensoort. Na het stampen wordt de massa in kleine bollen gevormd. Angú lijkt daarmee enigszins op de Fufu die we eerder bij de Congolese Moambe bereidden, maar is gemaakt van banaan in plaats van cassave. De Angú wordt naast de Calulu geserveerd om de rijke saus mee op te nemen. Ook witte rijst is een gebruikelijke begeleiding.\n\nCalulu de Peixe brengt zo verschillende aspecten van São Tomé en Príncipe samen: de overvloed aan tropische planten, de visserij van de Atlantische Oceaan, de Afrikaanse traditie van palmolie en gestampte zetmeelrijke gewassen, en de historische invloeden van eeuwenlange uitwisseling tussen continenten. Dat juist een gerecht met zoveel verschillende ingrediënten symbool is geworden voor de eilandkeuken, past goed bij de veelzijdige geschiedenis van deze kleine archipel.",
+  "bron": {
+    "receptTitel": "Calulu de Peixe",
+    "auteur": "UN Tourism",
+    "kookboek": "African Gastronomy – São Tomé and Príncipe (geïnspireerd op)",
+    "url": "https://www.untourism.int/africa/african-gastronomy/sao-tome-and-principe"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Traditional Dishes",
+      "auteur": "São Tomé and Príncipe Tourism",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://turismo.gov.st/en/pourquoi-sao-tome-et-principe/culture-et-patrimoine/traditional-dishes"
+    },
+    {
+      "receptTitel": "Gastronomia",
+      "auteur": "Turismo São Tomé e Príncipe",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.turismostp.com/gastronomia"
+    },
+    {
+      "receptTitel": "São Tomé and Príncipe: The First Plantation Economy in the Tropics",
+      "auteur": null,
+      "kookboek": "Cambridge University Press",
+      "jaar": null,
+      "url": "https://www.cambridge.org/core/books/abs/commercial-agriculture-the-slave-trade-and-slavery-in-atlantic-africa/sao-tome-and-principe-the-first-plantation-economy-in-the-tropics/52D008358F8C3EABF4F10DD5830933AA"
+    },
+    {
+      "receptTitel": "Calulu",
+      "auteur": "Porto Editora",
+      "kookboek": "Infopédia",
+      "jaar": null,
+      "url": "https://www.infopedia.pt/dicionarios/lingua-portuguesa/calulu"
+    }
+  ]
+}

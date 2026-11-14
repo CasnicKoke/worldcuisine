@@ -3,8 +3,9 @@
   "regios": [
     "zuidelijk-afrika"
   ],
-  "titel": "Braai",
-  "korteBeschrijving": "Zuid-Afrikaanse barbecue met gegrild vlees, worst en diverse hartige bijgerechten.",
+  "titel": "Braai met boerewors, chakalaka en roosterkoek",
+  "korteBeschrijving": "Zuid-Afrikaanse barbecue met gegrilde boerewors, pittige chakalaka van groenten en bonen, en zelfgemaakte roosterkoek van de barbecue.",
+  "beschrijving": "Een Braai is in Zuid-Afrika veel meer dan een barbecue: het is een gelegenheid om samen te koken, te eten en verhalen te delen rond een houtvuur. Wij grillen traditionele boerewors, een kruidige Zuid-Afrikaanse worst, en serveren deze met chakalaka van paprika, winterpeen, tomaat en bonen. Daarbij maken we roosterkoek, luchtige broodjes die rechtstreeks boven de gloeiende kolen worden gebakken. De combinatie van sappig vlees, pittige groenten en vers geroosterd brood vormt een volledige Zuid-Afrikaanse maaltijd.",
   "afbeelding": "images/recepten/BraaiAI.webp",
   "url": "recepten.html?id=braai",
   "volgorde": 115,
@@ -12,14 +13,105 @@
     "zuidelijk-afrika": 0
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 135,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de boerewors:",
+    "800 g Zuid-Afrikaanse boerewors (via slager, alternatief: opgerolde braadworst)",
+    "Voor de chakalaka:",
+    "1 grote ui",
+    "2 tenen knoflook",
+    "1 rode paprika",
+    "1 groene paprika",
+    "2 middelgrote winterpenen (circa 250 g)",
+    "1 rode chilipeper",
+    "2 el zonnebloemolie",
+    "2 tl mild kerriepoeder (gemalen specerijenmengsel)",
+    "1 tl gerookt paprikapoeder",
+    "1 el tomatenpuree",
+    "1 blik tomatenblokjes (400 g)",
+    "1 blik witte bonen in tomatensaus (400 g)",
+    "Zout en versgemalen zwarte peper",
+    "Voor de roosterkoek (8 broodjes):",
+    "400 g tarwebloem",
+    "7 g instantgist",
+    "240 ml lauwwarm water",
+    "1 tl suiker",
+    "1 tl zout",
+    "1 el zonnebloemolie",
+    "30 g roomboter, voor het serveren"
+  ],
+  "bereiding": [
+    "Doe de tarwebloem, instantgist, suiker en zout voor de roosterkoek in een ruime mengkom. Meng de droge ingrediënten goed door elkaar.",
+    "Voeg het lauwwarme water en de zonnebloemolie voor het deeg toe. Meng met een houten lepel totdat een samenhangend deeg ontstaat.",
+    "Leg het deeg op een licht bebloemd werkblad en kneed ongeveer 10 minuten, totdat het soepel en elastisch is. Het deeg mag licht kleverig aanvoelen, maar moet goed te hanteren zijn.",
+    "Vorm het deeg tot een bal en leg het in een licht ingevette kom. Dek af met een vochtige theedoek en laat ongeveer 60 minuten rijzen op een warme, tochtvrije plaats, totdat het volume ongeveer is verdubbeld.",
+    "Pel en snipper de ui. Pel de knoflook en hak deze fijn.",
+    "Was de paprika's, verwijder de zaadlijsten en snijd het vruchtvlees in kleine blokjes.",
+    "Schil de winterpenen en rasp ze grof. Snijd de chilipeper fijn. Verwijder eventueel de zaadlijsten als je een mildere chakalaka wilt.",
+    "Verhit de zonnebloemolie voor de chakalaka in een ruime hapjespan op middelhoog vuur.",
+    "Voeg de ui toe en fruit ongeveer 5 minuten, totdat deze zacht en licht goudbruin is.",
+    "Voeg de knoflook en chilipeper toe en bak ongeveer 1 minuut mee.",
+    "Voeg de paprika's en geraspte winterpeen toe. Bak ongeveer 5 minuten en schep regelmatig om.",
+    "Voeg het milde kerriepoeder, gerookte paprikapoeder en de tomatenpuree toe. Roer alles goed door elkaar en bak ongeveer 2 minuten, zodat de specerijen hun aroma afgeven.",
+    "Voeg de tomatenblokjes toe. Breng het geheel zachtjes aan de kook en laat zonder deksel ongeveer 10 minuten sudderen, totdat de groenten gaar zijn en de saus iets is ingedikt.",
+    "Voeg de witte bonen inclusief tomatensaus toe. Schep voorzichtig om en laat nog ongeveer 5 minuten zachtjes verwarmen. Proef en breng op smaak met zout en zwarte peper. Houd de chakalaka warm.",
+    "Steek voor een traditionele braai de barbecue aan. Gebruik bij voorkeur hout of houtskool en laat het vuur rustig terugbranden tot een gelijkmatige laag gloeiende kolen. Zorg voor twee warmtezones: één met middelhoge hitte en één met mildere hitte.",
+    "Maak het grillrooster schoon en plaats het boven de kolen. De roosterkoek moet langzaam kunnen garen zonder direct aan de buitenkant zwart te worden.",
+    "Neem het gerezen deeg uit de kom en druk voorzichtig de grootste luchtbellen eruit. Verdeel het deeg in 8 gelijke stukken.",
+    "Vorm ieder stuk tot een vierkant broodje van ongeveer 2–3 cm dik. Leg de broodjes op een licht bebloemde plank en laat ze afgedekt nog ongeveer 15 minuten rusten.",
+    "Bak de roosterkoek op de barbecue boven de mildere kolen in ongeveer 15–20 minuten gaar. Draai iedere paar minuten zodat alle kanten gelijkmatig kleuren. Alternatief zonder barbecue: verhit een droge koekenpan met dikke bodem op laag tot middellaag vuur. Bak de broodjes met het deksel op de pan ongeveer 6–8 minuten per kant, eventueel in porties, totdat ze goudbruin zijn.",
+    "Controleer of de roosterkoek stevig en gaar is. Een gaar broodje klinkt enigszins hol wanneer je op de onderkant klopt. Bij twijfel kun je de kerntemperatuur meten: rond 93–96 °C is het brood doorgaans gaar. Haal van het vuur en laat enkele minuten rusten onder een schone theedoek.",
+    "Leg de opgerolde boerewors op het rooster boven de middelhete kolen. Laat de worst tijdens het grillen zoveel mogelijk in zijn oorspronkelijke spiraalvorm liggen. Zonder barbecue kun je de worst in een ruime koekenpan of grillpan op middelhoog vuur bereiden.",
+    "Gril de boerewors ongeveer 20–25 minuten en draai de spiraal regelmatig voorzichtig om met een barbecuetang. Gebruik geen vork om in de worst te prikken, omdat daardoor vleessappen verloren gaan.",
+    "Verplaats de worst naar de mildere warmtezone als het vet vlammen veroorzaakt. Laat de worst rustig garen zonder dat de buitenkant verbrandt. Controleer met een kernthermometer of de binnenkant minimaal 71 °C heeft bereikt.",
+    "Haal de worst van het rooster of uit de pan en laat ongeveer 5 minuten rusten. Snijd hem daarna in vier gelijke porties.",
+    "Verwarm de roosterkoek indien nodig nog kort op het rooster of in de droge pan. Snijd de broodjes open en bestrijk de binnenkant met roomboter.",
+    "Verdeel de boerewors over vier borden en schep er een ruime portie warme chakalaka naast. Serveer per persoon twee roosterkoek, zodat de kruidige groentesaus met het brood kan worden opgeschept."
+  ],
+  "weetje": "Het woord *braai* komt uit het Afrikaans en is verwant aan het Nederlandse woord *braden*. Oorspronkelijk verwees het naar het roosteren van vlees boven open vuur, maar tegenwoordig betekent het ook de sociale bijeenkomst die daaromheen ontstaat. De traditie heeft diepe wortels in Zuidelijk Afrika. Lang voordat Europese kolonisten er arriveerden, roosterden inheemse gemeenschappen al vlees boven vuur. Vanaf de zeventiende eeuw vermengden deze bereidingstradities zich met die van Nederlandse kolonisten, andere Europese immigranten en mensen die vanuit Azië naar de Kaap werden gebracht. Daardoor ontstond geleidelijk de veelzijdige Zuid-Afrikaanse grillcultuur.\n\nEen Braai draait niet alleen om het eten, maar minstens zozeer om de gezelligheid. Familie en vrienden verzamelen zich rond het vuur, terwijl het vlees langzaam gaart en er uitgebreid wordt bijgepraat. Het gebruik is zo belangrijk geworden dat 24 september, de Zuid-Afrikaanse *Heritage Day*, ook wel *National Braai Day* wordt genoemd. Deze nationale feestdag is bedoeld om de culturele verscheidenheid van Zuid-Afrika te vieren. De Braai wordt daarbij vaak gepresenteerd als een traditie die mensen uit uiteenlopende gemeenschappen met elkaar verbindt, al verschillen de gerechten en gebruiken per familie en cultuur.\n\nEen van de bekendste onderdelen is *boerewors*, letterlijk 'boerenworst'. Deze worst ontstond binnen de Zuid-Afrikaanse veeteelt- en slagerstraditie en wordt meestal gemaakt van grof gemalen rundvlees, aangevuld met varkensvlees of vet. Het kenmerkende aroma komt vooral van korianderzaad, zwarte peper en andere specerijen. Vaak wordt ook een beetje azijn toegevoegd. Boerewors wordt traditioneel als een lange spiraal verkocht en in zijn geheel boven de kolen geroosterd. Pas na het bakken wordt de worst in porties verdeeld.\n\nDe pittige groenteschotel *chakalaka* heeft een heel andere achtergrond. Volgens een veelvertelde verklaring ontstond het gerecht in de arbeidersverblijven en townships rond de goudmijnen van Johannesburg. Arbeidsmigranten uit verschillende delen van Zuidelijk Afrika, onder wie veel Mozambikanen, zouden er goedkope ingrediënten zoals groenten uit blik, tomaten, bonen en chilipepers hebben gecombineerd tot een smaakvolle maaltijd. De precieze oorsprong is niet gedocumenteerd, maar het verhaal laat goed zien hoe migratie en het samenleven van verschillende gemeenschappen de Zuid-Afrikaanse keuken beïnvloedden. Tegenwoordig kent vrijwel iedere familie een eigen chakalakarecept, van mild tot zeer pittig.\n\nBij de Braai serveren we *roosterkoek*, een broodsoort waarvan de naam letterlijk naar het bakken op een rooster verwijst. Het eenvoudige deeg wordt gevormd tot kleine broodjes die rechtstreeks boven gloeiende kolen worden gebakken. De buitenkant krijgt daardoor een stevige, licht rokerige korst, terwijl de binnenkant zacht blijft. De geschiedenis van het bakken van deeg boven vuur is ouder dan de huidige naam en wordt in verband gebracht met zowel inheemse gemeenschappen als latere koloniale boerentradities. Roosterkoek is nog altijd populair bij Zuid-Afrikaanse barbecues. Vers van het rooster, opengesneden en met boter besmeerd, is het een geliefd bijgerecht.\n\nDe combinatie van boerewors, chakalaka en roosterkoek laat verschillende hoofdstukken uit de Zuid-Afrikaanse geschiedenis samenkomen: de lange traditie van koken boven open vuur, de veeteelt en vleesverwerking van het binnenland, en de stedelijke mengcultuur die ontstond door migratie en industrialisatie. Juist die verscheidenheid maakt de Braai tot een van de meest herkenbare culinaire tradities van Zuid-Afrika.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Chakalaka, amasi beer braai bread and boerewors",
+    "auteur": "Hannah Lewry",
+    "kookboek": "Woolworths TASTE (geïnspireerd op)",
+    "jaar": null,
+    "url": "https://taste.co.za/recipe-guide/chakalaka-recipes/"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Loaded roosterkoek rolls",
+      "auteur": "Woolworths TASTE",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://taste.co.za/recipes/loaded-roosterkoek-rolls/"
+    },
+    {
+      "receptTitel": "Boerewors",
+      "auteur": "Dictionary of South African English",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://dsae.co.za/entry/boerewors/e00992"
+    },
+    {
+      "receptTitel": "Roosterkoek",
+      "auteur": "Dictionary of South African English",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.dsae.co.za/entry/roosterkoek/e06109"
+    },
+    {
+      "receptTitel": "Heritage Day 2026",
+      "auteur": "South African Government",
+      "kookboek": null,
+      "jaar": 2026,
+      "url": "https://www.gov.za/HeritageDay2026"
+    },
+    {
+      "receptTitel": "South Africa's mother sauce: Chakalaka",
+      "auteur": "Woolworths TASTE",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://taste.co.za/south-africa-mother-sauce-chakalaka/"
+    }
+  ]
 }

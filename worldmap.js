@@ -58,16 +58,18 @@ const continenten = {
 	japan: [ "Japan"],
 
     //Afrikaanse continent
+    
     maghreb: ["MA", "DZ", "TN", "LY", "EH"],
     nijlvallei: ["EG", "SD"],
     sahel: ["MR", "ML", "NE", "TD", "BF", "GM", "SN"],
-    "west-afrika": [ "GN", "GW", "SL", "LR", "CI", "GH", "TG", "BJ", "NG", "Cape Verde"],
+    "west-afrika": ["GN", "GW", "SL", "LR", "CI", "GH", "TG", "BJ", "NG", "Cape Verde"],
     "hoorn-van-afrika": ["ET", "ER", "DJ", "SO"],
-    "centraal-afrika": ["CM", "CF", "CG", "CD", "GQ", "GA", "São Tomé and Principe"],
+    "centraal-afrika": ["CM", "CF", "CG", "CD", "GQ", "GA", "São Tomé and Principe", "Angola"],
     "oost-afrika": ["KE", "UG", "TZ", "RW", "BI", "SS"],
     "eilanden-indische-oceaan": ["MG", "RE", "YT", "Comoros", "Seychelles", "Mauritius"],
-    "zuidelijk-afrika": ["Angola", "ZM", "ZW", "MW", "NA", "BW", "LS", "SZ", "MZ", "ZA"],
-    
+    "zambezi-zuidoost-afrika": ["ZM", "ZW", "MW", "MZ"],
+    "zuidelijk-afrika": ["NA", "BW", "LS", "SZ", "ZA"],
+       
     //"noord-amerika"
     canada: ["Canada"],
     "verenigde-staten": ["United States"],
@@ -118,16 +120,19 @@ const kleuren = {
 	perzie: "#279B44",
 	"arabisch-schiereiland": "#1D7A35", 		
     
-    //afrika
-    maghreb:           "#F7E76A",
-    nijlvallei:        "#F3D500",
-    sahel:             "#E6C96A",
-    "west-afrika":     "#D9B44A",
-    "hoorn-van-afrika":"#CFA235",
-    "centraal-afrika": "#BD9024",
-    "oost-afrika":     "#A97D19",
-    "zuidelijk-afrika":"#8F6612", 
+    
+    // Afrika
+    maghreb:                  "#F7E76A",
+    nijlvallei:               "#F3D500",
+    sahel:                    "#E6C96A",
+    "west-afrika":            "#D9B44A",
+    "hoorn-van-afrika":       "#CFA235",
+    "centraal-afrika":        "#BD9024",
+    "oost-afrika":            "#A97D19",
+    "zambezi-zuidoost-afrika":"#9C7216",
+    "zuidelijk-afrika":       "#8F6612",
     "eilanden-indische-oceaan":"#7A4D0B",
+
 
     //noord-amerika
     canada: "#C97A73",
@@ -187,6 +192,7 @@ const werelddeelPerRegio = {
     "centraal-afrika": "afrika",
     "oost-afrika": "afrika",
     "zuidelijk-afrika": "afrika",
+    "zambezi-zuidoost-afrika": "afrika",
     "eilanden-indische-oceaan": "afrika",
 
     // Noord-Amerika
@@ -420,15 +426,31 @@ const regioBeschrijving = {
         ingredienten:
             "teff, berbere, linzen, kikkererwten, kardemom, kaneel, geitenvlees, rundvlees, boter, koffie"
     },
-
+    
     "centraal-afrika": {
         titel: "Centraal-Afrika",
         beschrijving:
-            "Het Congobekken en de omliggende tropische gebieden vormen de basis van deze keuken. Lokale groenten, knollen, rivierproducten en bosproducten spelen een belangrijke rol in het dagelijks voedsel.",
+            "Van het tropische Congobekken tot de Atlantische kust van Angola delen de keukens van Centraal-Afrika een rijke traditie van stoofgerechten, bladgroenten en zetmeelrijke knollen. Cassave, bakbananen, palmolie en vis vormen belangrijke ingrediënten, terwijl regionale handelscontacten en Portugese invloeden voor culinaire variatie zorgen.",
         ingredienten:
             "cassave, bakbananen, palmolie, pinda's, vis, rivierkreeftjes, yam, kokos, bladgroenten, pepers"
     },
-
+    
+    "zambezi-zuidoost-afrika": {
+        titel: "Zambezi en Zuidoost-Afrika",
+        beschrijving:
+            "Van de vruchtbare hooglanden rond de Zambezi en het Malawimeer tot de kust van Mozambique verbinden graangerechten, bladgroenten, bonen en pinda's de keukens van deze regio. Stevige maïspap vormt vaak de basis van de maaltijd, terwijl zoetwatervis, kokosmelk en pittige kruiden de invloed van meren, rivieren en de handel over de Indische Oceaan weerspiegelen.",
+        ingredienten:
+            "maïs, sorghum, cassave, bonen, pinda's, bladgroenten, pompoen, zoetwatervis, kokosmelk, piri-piri"
+    },
+    
+    "zuidelijk-afrika": {
+        titel: "Zuidelijk Afrika",
+        beschrijving:
+            "De keukens van Zuidelijk Afrika weerspiegelen de uitgestrekte savannes, droge binnenlanden en vruchtbare kustgebieden. Veeteelt, vleesbereiding boven open vuur en stevige gerechten van maïs en sorghum vormen een belangrijke basis. In Zuid-Afrika voegen Europese, Kaapse en Indiase invloeden een bijzondere verscheidenheid aan smaken en bereidingen toe.",
+        ingredienten:
+            "maïs, sorghum, rundvlees, lamsvlees, wild, bonen, pompoen, bladgroenten, chilipepers, specerijen"
+    },
+    
     "oost-afrika": {
         titel: "Oost-Afrika en de Grote Meren",
         beschrijving:
@@ -445,14 +467,6 @@ const regioBeschrijving = {
             "rijst, vis, schaaldieren, kokosmelk, gember, kurkuma, chilipepers, vanille, kruidnagel, bakbananen, tropische vruchten"
     },
     
-    "zuidelijk-afrika": {
-        titel: "Zuidelijk Afrika",
-        beschrijving:
-            "De keuken van Zuidelijk Afrika combineert inheemse voedseltradities met invloeden uit Europa en Azië. Gegrild en gestoofd vlees, stevige maïsgerechten en lokale groenten vormen de basis, terwijl specerijen en uiteenlopende bereidingstechnieken de culturele verscheidenheid van de regio weerspiegelen.",
-        ingredienten:
-            "maïs, rundvlees, lamsvlees, wild, bonen, pompoen, bladgroenten, pinda's, chilipepers, specerijen"
-    },
-
     canada: {
         titel: "Canada",
         beschrijving:
@@ -787,12 +801,29 @@ const regioIngredientIconen = {
         { naam: "Kardemom", bestand: "icon-herbs.png" }
     ],
 
+    
+    "eilanden-indische-oceaan": [
+        { naam: "Rijst", bestand: "icon-rice.png" },
+        { naam: "Vis", bestand: "icon-fish.png" },
+        { naam: "Kokosmelk", bestand: "icon-coconut.png" },
+        { naam: "Chilipepers", bestand: "icon-chili.png" },
+        { naam: "Specerijen", bestand: "icon-herbs.png" }
+    ],
+
+    "zambezi-zuidoost-afrika": [
+        { naam: "Maïs", bestand: "icon-corn.png" },
+        { naam: "Pinda's", bestand: "icon-beans.png" },
+        { naam: "Bladgroenten", bestand: "icon-leaf.png" },
+        { naam: "Vis", bestand: "icon-fish.png" },
+        { naam: "Kokosmelk", bestand: "icon-coconut.png" }
+    ],
+
     "zuidelijk-afrika": [
         { naam: "Maïs", bestand: "icon-corn.png" },
+        { naam: "Sorghum", bestand: "icon-grain.png" },
         { naam: "Gegrild vlees", bestand: "icon-meat.png" },
         { naam: "Bonen", bestand: "icon-beans.png" },
-        { naam: "Pompoen", bestand: "icon-bowl.png" },
-        { naam: "Kruiden", bestand: "icon-herbs.png" }
+        { naam: "Pompoen", bestand: "icon-bowl.png" }
     ],
 
     // Noord-Amerika
@@ -949,6 +980,7 @@ const regioFotos = {
     "centraal-afrika": "feature-centraal-afrikaAI.jpg",
     "oost-afrika": "feature-oost-afrikaAI.jpg",
     "eilanden-indische-oceaan": "feature-eilanden-indische-oceaanAI.jpg",
+    "zambezi-zuidoost-afrika": "feature-zambezi-zuidoost-afrikaAI.jpg",
     "zuidelijk-afrika": "feature-zuidelijk-afrikaAI.jpg",
 
     // Noord-Amerika

@@ -1132,8 +1132,8 @@
       "bestand": "data/recepten/ibihaza.json"
     },
     "braai": {
-      "titel": "Braai",
-      "korteBeschrijving": "Zuid-Afrikaanse barbecue met gegrild vlees, worst en diverse hartige bijgerechten.",
+      "titel": "Braai met boerewors, chakalaka en roosterkoek",
+      "korteBeschrijving": "Zuid-Afrikaanse barbecue met gegrilde boerewors, pittige chakalaka van groenten en bonen, en zelfgemaakte roosterkoek van de barbecue.",
       "afbeelding": "images/recepten/BraaiAI.webp",
       "url": "recepten.html?id=braai",
       "regios": [
@@ -1151,25 +1151,25 @@
       ],
       "bestand": "data/recepten/bunnyChow.json"
     },
-    "umngqusho": {
-      "titel": "Umngqusho",
-      "korteBeschrijving": "Traditioneel Xhosa-gerecht van samp en bonen, langzaam gekookt tot een stevige, voedzame stoof.",
-      "afbeelding": "images/recepten/UmngqushoAI.webp",
-      "url": "recepten.html?id=umngqusho",
+    "mogatla": {
+      "titel": "Mogatla met Madombi en Morogo",
+      "korteBeschrijving": "Botswaanse ossenstaartstoof met een rijke tomatensaus, luchtige gestoomde deegbroodjes en gestoofde spinazie met ui en tomaat.",
+      "afbeelding": "images/recepten/MogatlaAI.webp",
+      "url": "recepten.html?id=mogatla",
       "regios": [
         "zuidelijk-afrika"
       ],
-      "bestand": "data/recepten/umngqusho.json"
+      "bestand": "data/recepten/mogatla.json"
     },
-    "papChakalaka": {
-      "titel": "Pap met Chakalaka",
-      "korteBeschrijving": "Stevige maïspap geserveerd met pittige chakalaka van groenten, bonen en specerijen.",
-      "afbeelding": "images/recepten/PapChakalakaAI.webp",
-      "url": "recepten.html?id=papChakalaka",
+    "oshingali": {
+      "titel": "Oshingali met Mahangu-roti en frisse salade",
+      "korteBeschrijving": "Namibische puree van zwartoogbonen met licht gekruide, romige smaak, geserveerd met platbroden van parelgierst en een frisse salade.",
+      "afbeelding": "images/recepten/OshingaliAI.webp",
+      "url": "recepten.html?id=oshingali",
       "regios": [
         "zuidelijk-afrika"
       ],
-      "bestand": "data/recepten/papChakalaka.json"
+      "bestand": "data/recepten/oshingali.json"
     },
     "tacos": {
       "titel": "Tacos",

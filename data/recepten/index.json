@@ -1671,6 +1671,46 @@
         "sahel"
       ],
       "bestand": "data/recepten/dambou.json"
+    },
+    "ifisashi": {
+      "titel": "Ifisashi met Nshima",
+      "korteBeschrijving": "Zambiaanse groentestoof van spinazie, spitskool en zoete aardappel in een romige pindasaus, geserveerd met stevige maïspap.",
+      "afbeelding": "images/recepten/IfisashiAI.webp",
+      "url": "recepten.html?id=ifisashi",
+      "regios": [
+        "zambezi-zuidoost-afrika"
+      ],
+      "bestand": "data/recepten/ifisashi.json"
+    },
+    "sadzaNyama": {
+      "titel": "Sadza ne Nyama met Muriwo",
+      "korteBeschrijving": "Zimbabwaanse rundvleesstoof met winterpeen, sperziebonen en een rijke tomatensaus, geserveerd met stevige Sadza van maïsmeel en gestoofde snijbiet.",
+      "afbeelding": "images/recepten/SadzaNyamaAI.webp",
+      "url": "recepten.html?id=sadzaNyama",
+      "regios": [
+        "zambezi-zuidoost-afrika"
+      ],
+      "bestand": "data/recepten/sadzaNyama.json"
+    },
+    "chambo": {
+      "titel": "Chambo met Nsima en groenten",
+      "korteBeschrijving": "Gebakken tilapiafilet met knoflook, gember en citroen, geserveerd met stevige Malawische maïspap en gestoofde spitskool met tomaat en ui.",
+      "afbeelding": "images/recepten/chamboAI.webp",
+      "url": "recepten.html?id=chambo",
+      "regios": [
+        "zambezi-zuidoost-afrika"
+      ],
+      "bestand": "data/recepten/chambo.json"
+    },
+    "galinhaZambeziana": {
+      "titel": "Galinha à Zambeziana met Mucapata",
+      "korteBeschrijving": "Goudbruin geroosterde kip met een marinade van kokosmelk, citroen, knoflook en chilipeper, geserveerd met romige mucapata van rijst, mungbonen en kokosmelk.",
+      "afbeelding": "images/recepten/GalinhaZambezianaAI.webp",
+      "url": "recepten.html?id=galinhaZambeziana",
+      "regios": [
+        "zambezi-zuidoost-afrika"
+      ],
+      "bestand": "data/recepten/galinhaZambeziana.json"
     }
   }
 }

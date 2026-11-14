@@ -137,7 +137,10 @@ function toonRecept(data) {
       else if (ing && typeof ing === 'object') {
         tekst = [ing.hoeveelheid, ing.eenheid, ing.naam || ing.ingredient || ing.id].filter(isAanwezig).join(' ');
       }
-      if (tekst) lijst.append(element('li', '', tekst));
+      if (tekst) {
+        const isGroepskop = typeof ing === 'string' && tekst.trim().endsWith(':');
+        lijst.append(element('li', isGroepskop ? 'ingredient-group-heading' : '', tekst));
+      }
     });
     ingredientenSectie.append(lijst);
   } else {

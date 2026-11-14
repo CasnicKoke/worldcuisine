@@ -64,8 +64,9 @@ const continenten = {
     "west-afrika": [ "GN", "GW", "SL", "LR", "CI", "GH", "TG", "BJ", "NG", "Cape Verde"],
     "hoorn-van-afrika": ["ET", "ER", "DJ", "SO"],
     "centraal-afrika": ["CM", "CF", "CG", "CD", "GQ", "GA", "São Tomé and Principe"],
-    "oost-afrika": ["KE", "UG", "TZ", "RW", "BI", "SS", "RE", "YT", "Comoros", "Seychelles", "Mauritius"],
-    "zuidelijk-afrika": ["Angola", "ZM", "ZW", "MW", "NA", "BW", "LS", "SZ", "MZ", "MG", "ZA"],
+    "oost-afrika": ["KE", "UG", "TZ", "RW", "BI", "SS"],
+    "eilanden-indische-oceaan": ["MG", "RE", "YT", "Comoros", "Seychelles", "Mauritius"],
+    "zuidelijk-afrika": ["Angola", "ZM", "ZW", "MW", "NA", "BW", "LS", "SZ", "MZ", "ZA"],
     
     //"noord-amerika"
     canada: ["Canada"],
@@ -126,6 +127,8 @@ const kleuren = {
     "centraal-afrika": "#BD9024",
     "oost-afrika":     "#A97D19",
     "zuidelijk-afrika":"#8F6612", 
+    "eilanden-indische-oceaan":"#7A4D0B",
+
     //noord-amerika
     canada: "#C97A73",
     "verenigde-staten": "#B95A52",
@@ -184,6 +187,7 @@ const werelddeelPerRegio = {
     "centraal-afrika": "afrika",
     "oost-afrika": "afrika",
     "zuidelijk-afrika": "afrika",
+    "eilanden-indische-oceaan": "afrika",
 
     // Noord-Amerika
     canada: "noord-amerika",
@@ -426,21 +430,29 @@ const regioBeschrijving = {
     },
 
     "oost-afrika": {
-        titel: "Oost-Afrika",
+        titel: "Oost-Afrika en de Grote Meren",
         beschrijving:
-            "De Oost-Afrikaanse keuken weerspiegelt eeuwen van handel langs de Indische Oceaan. Arabische, Indiase en Afrikaanse tradities komen hier samen in geurige en vaak mild gekruide gerechten.",
+            "De keuken van Oost-Afrika verbindt de savannes en hooglanden van het binnenland met de handelssteden aan de Swahilikust. Gegrild vlees, maïs, bonen en bakbananen kenmerken het binnenland, terwijl rijst, kokos en aromatische specerijen de eeuwenoude handel met Arabië en India weerspiegelen.",
         ingredienten:
-            "kokosmelk, rijst, kardemom, kruidnagel, cassave, bakbananen, rundvlees, linzen, mango, kokos"
+            "maïs, bonen, bakbananen, cassave, rundvlees, bladgroenten, rijst, kokosmelk, kardemom, kruidnagel"
     },
-
+    
+    "eilanden-indische-oceaan": {
+        titel: "Eilanden van de Indische Oceaan",
+        beschrijving:
+            "De eilandkeukens van de Indische Oceaan vormen een bijzondere mengeling van Afrikaanse, Aziatische en Europese tradities. Eeuwen van migratie en zeehandel brachten rijst, specerijen en nieuwe bereidingswijzen samen met lokale vis, tropische vruchten en kruiden, waaruit veelzijdige Creoolse keukens ontstonden.",
+        ingredienten:
+            "rijst, vis, schaaldieren, kokosmelk, gember, kurkuma, chilipepers, vanille, kruidnagel, bakbananen, tropische vruchten"
+    },
+    
     "zuidelijk-afrika": {
         titel: "Zuidelijk Afrika",
         beschrijving:
-            "De keuken van Zuidelijk Afrika combineert inheemse tradities met invloeden uit Europa en Azië. Gegrild vlees, maïsgerechten en robuuste ingrediënten vormen de basis van veel maaltijden.",
-        ingredienten: 
-        "maïs, rundvlees, wild"
+            "De keuken van Zuidelijk Afrika combineert inheemse voedseltradities met invloeden uit Europa en Azië. Gegrild en gestoofd vlees, stevige maïsgerechten en lokale groenten vormen de basis, terwijl specerijen en uiteenlopende bereidingstechnieken de culturele verscheidenheid van de regio weerspiegelen.",
+        ingredienten:
+            "maïs, rundvlees, lamsvlees, wild, bonen, pompoen, bladgroenten, pinda's, chilipepers, specerijen"
     },
-    
+
     canada: {
         titel: "Canada",
         beschrijving:
@@ -936,6 +948,7 @@ const regioFotos = {
     "hoorn-van-afrika": "feature-hoorn-van-afrikaAI.jpg",
     "centraal-afrika": "feature-centraal-afrikaAI.jpg",
     "oost-afrika": "feature-oost-afrikaAI.jpg",
+    "eilanden-indische-oceaan": "feature-eilanden-indische-oceaanAI.jpg",
     "zuidelijk-afrika": "feature-zuidelijk-afrikaAI.jpg",
 
     // Noord-Amerika

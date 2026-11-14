@@ -3,8 +3,9 @@
   "regios": [
     "oost-afrika"
   ],
-  "titel": "Pilau",
-  "korteBeschrijving": "Oost-Afrikaanse kruidige rijstschotel met specerijen, vaak geserveerd met vlees.",
+  "titel": "Pilau ya Nyama met Kachumbari",
+  "korteBeschrijving": "Tanzaniaanse rijstschotel met mals rundvlees, aardappel en aromatische specerijen, geserveerd met frisse Kachumbari van tomaat, komkommer en rode ui.",
+  "beschrijving": "Pilau ya Nyama is een traditioneel rijstgerecht uit de Swahilikeuken van Tanzania en Zanzibar, waarin rundvlees en rijst samen worden gegaard in een geurige bouillon met kaneel, kardemom, kruidnagel, komijn en zwarte peper. Diep goudbruin gebakken uien geven de rijst zijn karakteristieke kleur en volle smaak, terwijl stukjes aardappel de aromatische bouillon opnemen. Wij bereiden de Pilau met langzaam gegaarde runderriblappen en serveren hem met Kachumbari: een frisse salade van tomaat, komkommer, rode ui, limoen en koriander.",
   "afbeelding": "images/recepten/PilauAI.webp",
   "url": "recepten.html?id=pilau",
   "volgorde": 111,
@@ -12,14 +13,105 @@
     "oost-afrika": 0
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 150,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de Pilau ya Nyama:",
+    "600 g runderriblappen",
+    "350 g basmatirijst",
+    "2 grote uien",
+    "2 middelgrote vastkokende aardappelen (circa 250 g)",
+    "4 tenen knoflook",
+    "3 cm verse gember",
+    "3 el zonnebloemolie",
+    "Circa 800 ml water om het rundvlees te koken, zo nodig extra",
+    "1 tl zout, zo nodig extra",
+    "Voor de Pilau-specerijen:",
+    "1 kaneelstokje van ongeveer 5 cm",
+    "6 groene kardemompeulen",
+    "5 kruidnagels",
+    "2 tl komijnzaad",
+    "8 zwarte peperkorrels",
+    "1 tl gemalen korianderzaad",
+    "Voor de Kachumbari:",
+    "2 rijpe tomaten",
+    "1 kleine rode ui",
+    "½ komkommer",
+    "1 limoen",
+    "2 el fijngehakte verse koriander",
+    "1 rode chilipeper (optioneel)",
+    "Zout naar smaak"
+  ],
+  "bereiding": [
+    "Snijd de runderriblappen in blokjes van ongeveer 3–4 cm. Verwijder eventuele grote stukken hard vet of zeen.",
+    "Doe het rundvlees in een pan met het water en breng aan de kook. Schep eventueel schuim van het oppervlak.",
+    "Zet het vuur laag en leg het deksel op de pan. Laat het rundvlees ongeveer 75–100 minuten zachtjes koken, totdat het bijna helemaal mals is. Controleer af en toe of er nog voldoende vocht aanwezig is en voeg zo nodig wat heet water toe.",
+    "Schep het vlees uit de pan. Bewaar het kookvocht zorgvuldig: dit is de bouillon waarin straks de rijst wordt bereid.",
+    "Pel de uien en snijd ze in dunne halve ringen.",
+    "Pel de knoflook en schil de gember. Snijd beide grof en maal ze samen in een kleine keukenmachine tot een fijne pasta.",
+    "Schil de aardappelen en snijd ze in stukken van ongeveer 2–3 cm.",
+    "Kneus de kardemompeulen licht met de platte kant van een mes, zodat de schil openspringt. Laat de zaadjes erin zitten. Leg het kaneelstokje, de kardemom, kruidnagels, het komijnzaad en de peperkorrels klaar.",
+    "Spoel de basmatirijst onder koud stromend water totdat het water grotendeels helder blijft. Laat goed uitlekken.",
+    "Verhit de zonnebloemolie in een ruime braadpan met dikke bodem op middelhoog vuur. Voeg de uien toe en bak ze ongeveer 12–15 minuten, terwijl je regelmatig roert, totdat ze diep goudbruin zijn. Laat ze niet zwart worden. De gebruinde uien geven de Pilau zijn karakteristieke bruine kleur en volle smaak.",
+    "Voeg het kaneelstokje, de kardemompeulen, kruidnagels, het komijnzaad en de peperkorrels toe. Bak ongeveer 1 minuut mee totdat de specerijen beginnen te geuren.",
+    "Voeg de knoflook-gemberpasta en het gemalen korianderzaad toe. Bak nog ongeveer 1 minuut mee en roer regelmatig.",
+    "Schep het voorgekookte rundvlees in de pan. Bak ongeveer 4–5 minuten mee, zodat het vlees licht bruint en de specerijen goed opneemt.",
+    "Voeg de aardappelen toe en bak ongeveer 2 minuten mee.",
+    "Voeg de uitgelekte rijst toe. Schep voorzichtig gedurende 1–2 minuten om, zodat alle rijstkorrels worden bedekt met de gekruide olie.",
+    "Meet 650 ml van de bewaarde runderbouillon af. Vul zo nodig aan met heet water tot deze hoeveelheid. Schenk de bouillon in de pan, voeg het zout toe en roer eenmaal voorzichtig door. Breng aan de kook.",
+    "Zet het vuur zeer laag zodra het vocht kookt en sluit de pan goed af met het deksel. Laat de Pilau ongeveer 20–25 minuten zachtjes garen, totdat de rijst en aardappelen gaar zijn en het vocht is opgenomen. Roer tijdens het garen niet. Controleer tegen het einde of een klein scheutje heet water nodig is.",
+    "Zet het vuur uit en laat de Pilau nog 10 minuten afgedekt rusten. Hierdoor worden de rijstkorrels steviger en kunnen de smaken zich verder verdelen.",
+    "Was de tomaten en snijd ze in kleine blokjes. Pel de rode ui en snijd deze in heel dunne halve ringen. Was de komkommer en snijd deze in kleine blokjes.",
+    "Pers de limoen uit. Was de chilipeper, verwijder eventueel de zaadlijsten en hak hem fijn.",
+    "Meng de tomaat, rode ui en komkommer in een kom met het limoensap en de verse koriander. Voeg eventueel de chilipeper en wat zout toe. Schep goed om en laat ongeveer 10 minuten staan.",
+    "Verwijder indien mogelijk het kaneelstokje en de grotere hele specerijen uit de Pilau. Maak de rijst voorzichtig los met een vork, zonder de aardappelen en het rundvlees stuk te roeren.",
+    "Schep de Pilau op vier borden en zorg dat iedereen voldoende rundvlees en aardappel krijgt. Serveer de frisse Kachumbari ernaast."
+  ],
+  "weetje": "Pilau ya Nyama is een van de bekendste rijstgerechten van de Swahilikust, het gebied langs de Indische Oceaan dat zich uitstrekt van het huidige Somalië tot Mozambique. De naam betekent in het Swahili 'pilau met vlees', waarbij *nyama* vlees betekent. Het gerecht is nauw verwant aan de Perzische *Polow*, de Turkse *Pilav*, de Indiase *Pulao* en de Centraal-Aziatische *Plov*. Al deze namen behoren tot dezelfde culinaire familie. Het woord wordt vaak herleid tot het middeleeuwse Perzische *pulaw*, al ligt de verdere oorsprong mogelijk in India. De geschiedenis is complex: het gerecht ontwikkelde zich gedurende vele eeuwen in verschillende keukens, waarbij ingrediënten en bereidingswijzen voortdurend werden uitgewisseld.\n\nDe komst van Pilau naar Oost-Afrika hangt samen met de eeuwenoude handelsroutes over de Indische Oceaan. Al vanaf het eerste millennium na Christus onderhielden de havensteden van de Swahilikust contacten met handelaren uit Arabië, Perzië en India. Schepen vervoerden niet alleen ivoor, goud, textiel en andere handelswaren, maar brachten ook nieuwe ingrediënten, religieuze gebruiken en kooktechnieken mee. De moessonwinden maakten regelmatige zeereizen mogelijk: een deel van het jaar waaiden de winden in de ene richting en in het andere deel van het jaar terug. Zo ontstonden duurzame verbindingen tussen havens als Kilwa, Mombasa, Zanzibar en de handelssteden rond de Perzische Golf en de westkust van India.\n\nDe Oost-Afrikaanse Pilau werd geen exacte kopie van een Perzisch of Indiaas gerecht. Lokale koks pasten het recept aan hun eigen smaak en beschikbare ingrediënten aan. Rundvlees of geitenvlees werd gecombineerd met rijst, aardappelen en specerijen als komijn, kardemom, kaneel en kruidnagel. Een belangrijk kenmerk is het langdurig bakken van de uien totdat ze diep goudbruin zijn. Daardoor krijgt de rijst zijn karakteristieke bruine kleur en een licht gekaramelliseerde smaak. Anders dan bij veel Indiase Biryani-varianten worden vlees, rijst en specerijen samen in één pan gegaard. De rijst neemt daarbij de smaak van de vleesbouillon op.\n\nEen bijzondere rol in deze geschiedenis speelt Zanzibar, dat tegenwoordig bekendstaat als het 'specerijeneiland'. Vooral kruidnagel is nauw met de geschiedenis van het eiland verbonden. Opmerkelijk genoeg komt kruidnagel oorspronkelijk uit de Molukken in Indonesië, duizenden kilometers verderop. Pas in het begin van de negentiende eeuw werden kruidnagelbomen via eilanden als Réunion naar Zanzibar gebracht. Onder de sultans van Oman groeide Zanzibar vervolgens uit tot een van de grootste kruidnagelproducenten ter wereld. Die productie was echter nauw verbonden met plantages waarop tot slaaf gemaakte mensen moesten werken. De geurige specerij in onze Pilau weerspiegelt daarmee niet alleen een geschiedenis van handel en culinaire uitwisseling, maar ook de schaduwzijde van de koloniale en Atlantische en Indische-Oceaanhandel.\n\nPilau is in Tanzania en Zanzibar meer dan een gewone rijstmaaltijd. Het gerecht wordt traditioneel bereid bij bruiloften, religieuze feesten, familiebezoeken en andere belangrijke bijeenkomsten. Een grote pan Pilau maakt het mogelijk veel gasten tegelijk te bedienen. De kostbare rijst, het vlees en de specerijen waren vroeger bovendien tekenen van gastvrijheid en welvaart. Op Zanzibar en het nabijgelegen Pemba werd een overvloed aan rijst en rundvlees in de herinneringen van oudere generaties zelfs verbonden met tijden van voorspoed. Pilau werd zo niet alleen een geliefd gerecht, maar ook een symbool van feestelijkheid en gemeenschapsleven.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Pilau with Meat/Chicken",
+    "auteur": "TaTEDO",
+    "kookboek": "The Tanzania eCookbook (geïnspireerd op)",
+    "jaar": 2022,
+    "url": "https://tatedo.or.tz/attachments/article/71/Ecook%20Book%20-%20TANZANIA%20TEXT%20ENG%2028%20Oct%202022%20FINAL.pdf"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Authentic Swahili Beef Pilau",
+      "auteur": "Chef Ali Mandhry",
+      "kookboek": "The Standard",
+      "jaar": 2024,
+      "url": "https://www.standardmedia.co.ke/amp/food/article/2001505070/easy-recipe-authentic-swahili-beef-pilau"
+    }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "Pilaf",
+      "auteur": null,
+      "kookboek": "The Oxford Companion to Food",
+      "jaar": null,
+      "url": "https://app.ckbk.com/reference/food77337c16s001e191/pilaf"
+    },
+    {
+      "receptTitel": "Food Culture, Swahili Coast",
+      "auteur": null,
+      "kookboek": "University of Dar es Salaam / Wiley",
+      "jaar": null,
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/9781119399919.eahaa00477"
+    },
+    {
+      "receptTitel": "Zanzibar's Commercial Empire, 1800–1880",
+      "auteur": null,
+      "kookboek": "College Board",
+      "jaar": null,
+      "url": "https://apcentral.collegeboard.org/series/east-africa-indian-ocean-basin-world-economy-1760-1880/2-zanzibars-commercial-empire-1800-1880"
+    },
+    {
+      "receptTitel": "Food, History and Community Well-being in Twentieth-century Pemba",
+      "auteur": null,
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.academia.edu/97920813/Ikiwa_kuna_shibe_maziwa_hayauzwi_food_history_and_community_well_being_in_twentieth_century_Pemba_Zanzibar"
+    }
+  ]
 }

@@ -1092,8 +1092,8 @@
       "bestand": "data/recepten/calulu.json"
     },
     "pilau": {
-      "titel": "Pilau",
-      "korteBeschrijving": "Oost-Afrikaanse kruidige rijstschotel met specerijen, vaak geserveerd met vlees.",
+      "titel": "Pilau ya Nyama met Kachumbari",
+      "korteBeschrijving": "Tanzaniaanse rijstschotel met mals rundvlees, aardappel en aromatische specerijen, geserveerd met frisse Kachumbari van tomaat, komkommer en rode ui.",
       "afbeelding": "images/recepten/PilauAI.webp",
       "url": "recepten.html?id=pilau",
       "regios": [
@@ -1102,8 +1102,8 @@
       "bestand": "data/recepten/pilau.json"
     },
     "nyamaChoma": {
-      "titel": "Nyama Choma",
-      "korteBeschrijving": "Gegrild vlees, vooral geit of rund, simpel gekruid en populair in Oost-Afrika.",
+      "titel": "Nyama Choma met Ugali, Sukuma Wiki en Kachumbari",
+      "korteBeschrijving": "Keniaans gegrild rundvlees met stevige Ugali van maïsmeel, gestoofde boerenkool en frisse Kachumbari van tomaat, rode ui en avocado.",
       "afbeelding": "images/recepten/NyamaChomaAI.webp",
       "url": "recepten.html?id=nyamaChoma",
       "regios": [

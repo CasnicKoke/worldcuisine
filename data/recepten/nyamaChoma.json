@@ -3,8 +3,9 @@
   "regios": [
     "oost-afrika"
   ],
-  "titel": "Nyama Choma",
-  "korteBeschrijving": "Gegrild vlees, vooral geit of rund, simpel gekruid en populair in Oost-Afrika.",
+  "titel": "Nyama Choma met Ugali, Sukuma Wiki en Kachumbari",
+  "korteBeschrijving": "Keniaans gegrild rundvlees met stevige Ugali van maïsmeel, gestoofde boerenkool en frisse Kachumbari van tomaat, rode ui en avocado.",
+  "beschrijving": "Nyama Choma is een van de bekendste gerechten van Kenia en betekent in het Swahili letterlijk 'geroosterd vlees'. Traditioneel wordt geiten- of rundvlees langzaam boven houtskool geroosterd en met verschillende bijgerechten gedeeld. Wij bereiden Nyama Choma met gegrilde runderbavette, eenvoudig gekruid met zout en peper. Daarbij serveren we Ugali, een stevige maïspap waarmee je het vlees en de groenten kunt opscheppen, Sukuma Wiki van gestoofde boerenkool en Kachumbari, een frisse salade van tomaat, rode ui, avocado, limoen en koriander.",
   "afbeelding": "images/recepten/NyamaChomaAI.webp",
   "url": "recepten.html?id=nyamaChoma",
   "volgorde": 112,
@@ -12,14 +13,103 @@
     "oost-afrika": 1
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 75,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de Nyama Choma:",
+    "800 g runderbavette, bij voorkeur in één stuk",
+    "1 el zonnebloemolie",
+    "1 tl grof zout",
+    "Versgemalen zwarte peper",
+    "Voor de Ugali:",
+    "300 g fijn wit maïsmeel, geschikt voor Ugali",
+    "750 ml water",
+    "1 tl zout",
+    "Voor de Sukuma Wiki:",
+    "400 g fijngesneden verse boerenkool, zonder harde stelen",
+    "1 grote ui",
+    "2 tenen knoflook",
+    "2 rijpe tomaten",
+    "2 el zonnebloemolie",
+    "100 ml water",
+    "Zout en versgemalen zwarte peper",
+    "Voor de Kachumbari:",
+    "3 rijpe tomaten",
+    "1 kleine rode ui",
+    "1 rijpe avocado",
+    "1 limoen",
+    "2 el fijngehakte verse koriander",
+    "1 rode chilipeper (optioneel)",
+    "Zout naar smaak"
+  ],
+  "bereiding": [
+    "Dep de bavette droog met keukenpapier. Verwijder eventueel losse vliezen aan de buitenkant, maar laat het vet zoveel mogelijk zitten.",
+    "Bestrijk het vlees met zonnebloemolie en wrijf het rondom in met grof zout en zwarte peper. Dek af en laat ongeveer 30 minuten in de koelkast rusten.",
+    "Pel de rode ui voor de Kachumbari en snijd deze in zeer dunne halve ringen. Leg de ui ongeveer 10 minuten in koud water om de scherpe smaak wat te verminderen. Giet af en dep droog.",
+    "Was de tomaten voor de Kachumbari en snijd ze in kleine blokjes. Was eventueel de chilipeper, verwijder de zaadlijsten en hak hem fijn.",
+    "Pers de limoen uit en meng het sap met de tomaat, rode ui, koriander en eventueel de chilipeper.",
+    "Halveer de avocado, verwijder de pit en snijd het vruchtvlees in blokjes. Schep deze voorzichtig door de salade. Breng op smaak met wat zout en zet koel weg tot het serveren.",
+    "Pel de ui voor de Sukuma Wiki en snipper deze fijn. Pel de knoflook en hak de tenen fijn. Snijd de tomaten in kleine blokjes.",
+    "Verhit de zonnebloemolie voor de Sukuma Wiki in een ruime hapjespan op middelhoog vuur. Voeg de ui toe en fruit ongeveer 5 minuten, totdat hij zacht wordt.",
+    "Voeg de knoflook toe en bak ongeveer 1 minuut mee.",
+    "Voeg de tomaten toe en laat ongeveer 5 minuten zachtjes bakken, totdat ze grotendeels uiteen zijn gevallen.",
+    "Voeg de boerenkool in porties toe en schep goed om. Schenk het water erbij, zet het vuur laag en leg het deksel op de pan.",
+    "Laat ongeveer 12–15 minuten zachtjes stoven, totdat de boerenkool gaar maar nog mooi groen is. Schep regelmatig om. Verwijder het deksel de laatste paar minuten als er nog veel vocht in de pan zit. Breng op smaak met zout en zwarte peper. Houd warm.",
+    "Verwarm de barbecue voor op middelhoge tot hoge hitte. Gebruik bij voorkeur een combinatie van directe en indirecte hitte. Gebruik je een grillpan, verhit deze dan goed op middelhoog tot hoog vuur.",
+    "Leg de bavette op het rooster of in de grillpan. Gril ongeveer 4–6 minuten per kant, afhankelijk van de dikte. Draai het vlees tijdens het grillen zo weinig mogelijk. Verplaats het op de barbecue indien nodig naar indirecte hitte om verbranden te voorkomen.",
+    "Controleer de kerntemperatuur. Voor rosé rundvlees kun je het vlees rond 55–58 °C van de grill nemen; voor een conservatievere voedselveiligheidsrichtlijn houd je 63 °C aan met minstens 3 minuten rusttijd. De uiteindelijke temperatuur loopt tijdens het rusten nog iets op.",
+    "Leg het vlees op een plank, dek losjes af met aluminiumfolie en laat ongeveer 10 minuten rusten.",
+    "Breng het water voor de Ugali met het zout aan de kook in een stevige pan met dikke bodem.",
+    "Strooi ongeveer de helft van het maïsmeel geleidelijk in het kokende water en roer voortdurend met een stevige garde, totdat een gladde, dikke pap ontstaat.",
+    "Zet het vuur middellaag en voeg geleidelijk het resterende maïsmeel toe. Blijf krachtig roeren met een houten spatel en druk eventuele klontjes tegen de zijkant van de pan fijn.",
+    "Laat de Ugali ongeveer 8–12 minuten op laag vuur garen. Blijf regelmatig roeren en vouwen, totdat een stevige, gladde massa ontstaat die van de zijkanten van de pan loskomt.",
+    "Haal de pan van het vuur. Maak een kom of grote lepel nat met water en verdeel de Ugali in vier stevige, afgeronde porties. Houd afgedekt warm.",
+    "Snijd de bavette dwars op de draad in plakken van ongeveer 1 cm dik. Snijd deze eventueel in kleinere stukken, zoals bij Nyama Choma gebruikelijk is.",
+    "Verdeel het vlees over vier borden of een grote serveerschaal. Serveer met de Ugali, Sukuma Wiki en frisse Kachumbari."
+  ],
+  "weetje": "Nyama Choma is veel meer dan een manier om vlees te bereiden: in Kenia is het ook een sociale traditie. De naam betekent in het Swahili 'geroosterd vlees', waarbij *nyama* vlees betekent en *choma* verwijst naar roosteren of grillen. Het gebruik om vlees boven open vuur te bereiden is eeuwenoud, maar wanneer Nyama Choma precies zijn huidige vorm kreeg, is niet bekend. Volgens een traditionele verklaring ontstond het gebruik doordat jagers tijdens hun tochten vlees boven een vuur roosterden. Later werd het ook onderdeel van het dagelijkse leven en van feestelijke bijeenkomsten.\n\nTegenwoordig wordt Nyama Choma gegeten bij familiefeesten, bruiloften en ontmoetingen met vrienden. Vooral in Keniaanse steden bestaan talloze gespecialiseerde grillrestaurants, de zogenoemde *nyama choma joints*. Gasten kiezen daar vaak zelf hun vlees, meestal geit of rund, dat vervolgens langzaam boven houtskool wordt geroosterd. Het vlees wordt in stukken gesneden en op een grote schaal geserveerd, zodat iedereen ervan kan nemen. Traditioneel wordt het vaak met de handen gegeten. Het bereiden kan uren duren, maar juist dat maakt het onderdeel van de gezelligheid: terwijl het vlees gaart, praten de gasten bij en delen ze alvast de eerste geroosterde stukjes.\n\nEen vrijwel onmisbaar bijgerecht is *Ugali*, een stevige massa van gekookt maïsmeel. Opmerkelijk genoeg is maïs helemaal geen oorspronkelijk Afrikaans gewas. Het werd in Amerika gedomesticeerd en bereikte Afrika vanaf de zestiende eeuw via verschillende handelsroutes. In Oost-Afrika werden daarvoor al vergelijkbare stevige bereidingen gemaakt van inheemse granen, vooral sorghum en gierst. Maïs werd pas geleidelijk belangrijker en groeide tijdens de negentiende en twintigste eeuw uit tot een van de belangrijkste voedselgewassen van Kenia. De kooktechniek bleef echter herkenbaar: meel wordt met water verhit en langdurig geroerd totdat een stevige massa ontstaat. Ugali behoort daarmee tot dezelfde grote familie van Afrikaanse zetmeelgerechten als de Congolese Fufu en de Zuid-Afrikaanse Pap.\n\nDe tweede traditionele begeleider is *Sukuma Wiki*. Deze naam heeft een bijzondere betekenis: in het Swahili betekent hij ongeveer 'de week doorkomen' of 'de week rekken'. De naam verwijst naar de betaalbare bladgroenten waarmee gezinnen hun maaltijden konden aanvullen wanneer er weinig geld beschikbaar was. De groente is verwant aan boerenkool en wordt meestal fijngesneden en met ui en tomaat gestoofd. Sukuma Wiki is tegenwoordig niet alleen voedsel voor huishoudens met een beperkt budget, maar een geliefd onderdeel van de dagelijkse Keniaanse keuken. Het wordt vaak met Ugali gegeten, ook wanneer er geen vlees op tafel staat.\n\nBij Nyama Choma wordt bovendien vaak *Kachumbari* geserveerd, een frisse salade van rauwe tomaat, ui en soms chilipeper, komkommer of avocado. De naam is waarschijnlijk verwant aan het Indiase *Kachumber*, een vergelijkbare salade van fijngesneden groenten. Die verbinding past bij de eeuwenlange contacten tussen Oost-Afrika en het Indiase subcontinent. Tijdens de Britse koloniale periode vestigden zich bovendien veel mensen uit India in Oost-Afrika, waardoor beide keukens elkaar verder beïnvloedden. De frisse, lichtzure Kachumbari vormt een aangenaam tegenwicht voor het rijke, geroosterde vlees.\n\nNyama Choma laat zo verschillende kanten van de Keniaanse keuken samenkomen. Het vlees weerspiegelt de lange traditie van veeteelt en het roosteren boven open vuur, Ugali en Sukuma Wiki vertegenwoordigen de dagelijkse landbouwkeuken, en Kachumbari herinnert aan de culturele uitwisseling met de landen rond de Indische Oceaan. Wat op het eerste gezicht een eenvoudige maaltijd van gegrild vlees lijkt, vertelt daarmee een veel groter verhaal over de geschiedenis en eetcultuur van Kenia.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Nyama Choma with Kachumbari and Ugali",
+    "auteur": "Smithsonian Folklife Festival",
+    "kookboek": "Smithsonian Institution (geïnspireerd op)",
+    "jaar": 2014,
+    "url": "https://festival.si.edu/2014/kenya/nyama-choma-with-kachumbari-and-ugali/smithsonian"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Sukuma Wiki (Kale)",
+      "auteur": "Boston Medical Center",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.bmc.org/recipes/sukuma-wiki-kale"
+    },
+    {
+      "receptTitel": "The Introduction and Spread of Maize in Africa",
+      "auteur": null,
+      "kookboek": "The Journal of African History",
+      "jaar": null,
+      "url": "https://www.cambridge.org/core/journals/journal-of-african-history/article/abs/introduction-and-spread-of-maize-in-africa/472E970A12F35FD3C2A30EF0B63B2864"
+    },
+    {
+      "receptTitel": "Colonial Crop, Maize",
+      "auteur": null,
+      "kookboek": "University of California",
+      "jaar": null,
+      "url": "https://escholarship.org/uc/item/7x80s8cr"
+    },
+    {
+      "receptTitel": "Sukuma Wiki Recipe",
+      "auteur": "Kiano Moju",
+      "kookboek": "Los Angeles Times",
+      "jaar": null,
+      "url": "https://www.latimes.com/recipe/sukuma-wiki-recipe-africali-cookbook-kiano-moju"
+    },
+    {
+      "receptTitel": "Kachumbari / Kachumber Salad",
+      "auteur": null,
+      "kookboek": "Metro South Health",
+      "jaar": null,
+      "url": "https://www.metrosouth.health.qld.gov.au/__data/assets/pdf_file/0039/476877/healthy-new-communites-complete-cookbook.pdf"
+    }
+  ]
 }

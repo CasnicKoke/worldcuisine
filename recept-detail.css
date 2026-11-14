@@ -340,6 +340,19 @@ body::after {
     line-height: 1.4;
 }
 
+.ingredients-list li.ingredient-group-heading {
+    font-weight: 700;
+    color: var(--rust);
+    margin-top: 14px;
+    padding-top: 8px;
+    border-bottom: none;
+}
+
+.ingredients-list li.ingredient-group-heading:first-child {
+    margin-top: 0;
+    padding-top: 0;
+}
+
 .recipe-method {
     padding: 16px 0 0;
 }

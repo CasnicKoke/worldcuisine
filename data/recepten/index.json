@@ -1111,25 +1111,25 @@
       ],
       "bestand": "data/recepten/nyamaChoma.json"
     },
-    "ugali": {
-      "titel": "Ugali",
-      "korteBeschrijving": "Stevige maïspap, vaak gegeten als basis bij groenten, saus of gegrild vlees.",
-      "afbeelding": "images/recepten/UgaliAI.webp",
-      "url": "recepten.html?id=ugali",
+    "katogo": {
+      "titel": "Katogo met groene bakbanaan en bonen",
+      "korteBeschrijving": "Oegandese eenpansmaaltijd van groene kookbananen en rode kidneybonen in een kruidige tomatensaus, geserveerd met verse avocado.",
+      "afbeelding": "images/recepten/KatogoAI.webp",
+      "url": "recepten.html?id=katogo",
       "regios": [
         "oost-afrika"
       ],
-      "bestand": "data/recepten/ugali.json"
+      "bestand": "data/recepten/katogo.json"
     },
-    "biryaniZanzibar": {
-      "titel": "Zanzibar Biryani",
-      "korteBeschrijving": "Aromatische Swahili-rijstschotel met specerijen, vlees en duidelijke Indiase en Arabische invloeden.",
-      "afbeelding": "images/recepten/BiryaniZanzibarAI.webp",
-      "url": "recepten.html?id=biryaniZanzibar",
+    "ibihaza": {
+      "titel": "Ibihaza met pompoen en bruine bonen",
+      "korteBeschrijving": "Rwandese stoofschotel van zachte pompoen en bruine bonen, licht gekruid met koriander en dragon en geserveerd met een frisse lepel crème fraîche.",
+      "afbeelding": "images/recepten/IbihazaAI.webp",
+      "url": "recepten.html?id=ibihaza",
       "regios": [
         "oost-afrika"
       ],
-      "bestand": "data/recepten/biryaniZanzibar.json"
+      "bestand": "data/recepten/ibihaza.json"
     },
     "braai": {
       "titel": "Braai",

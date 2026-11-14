@@ -962,8 +962,8 @@
       "bestand": "data/recepten/maafe.json"
     },
     "jollofRice": {
-      "titel": "Jollof Rice",
-      "korteBeschrijving": "Populaire West-Afrikaanse rijstschotel gekookt in een kruidige tomaten- en pepersaus.",
+      "titel": "Jollof Rice met kip",
+      "korteBeschrijving": "Nigeriaanse rijstschotel met tomaat, paprika, chilipeper en aromatische kruiden, geserveerd met goudbruin geroosterde kippenbouten.",
       "afbeelding": "images/recepten/JollofRiceAI.webp",
       "url": "recepten.html?id=jollofRice",
       "regios": [
@@ -981,29 +981,29 @@
       ],
       "bestand": "data/recepten/daraba.json"
     },
-    "egusiSoup": {
-      "titel": "Egusi Soup",
-      "korteBeschrijving": "Dikke soep van gemalen meloenpitten, bladgroenten en vaak vlees of vis.",
-      "afbeelding": "images/recepten/EgusiSoupAI.webp",
-      "url": "recepten.html?id=egusiSoup",
+    "amiwo": {
+      "titel": "Amiwo met gegrilde zeebaars en groene salade",
+      "korteBeschrijving": "Traditioneel Beninees gerecht van rood-oranje maïsmeel met tomaat en kruiden, geserveerd met gegrilde zeebaarsfilet, pittige tomaten-uiensaus en een frisse groene salade.",
+      "afbeelding": "images/recepten/AmiwoAI.webp",
+      "url": "recepten.html?id=amiwo",
       "regios": [
         "west-afrika"
       ],
-      "bestand": "data/recepten/egusiSoup.json"
+      "bestand": "data/recepten/amiwo.json"
     },
-    "suya": {
-      "titel": "Suya",
-      "korteBeschrijving": "Pikant gekruide vleesspiesjes, gegrild boven open vuur en vaak geserveerd met ui.",
-      "afbeelding": "images/recepten/SuyaAI.webp",
-      "url": "recepten.html?id=suya",
+    "kedjenou": {
+      "titel": "Kedjenou de Poulet met Attiéké",
+      "korteBeschrijving": "Ivoriaanse kipstoofschotel met tomaat, aubergine, paprika, gember en kruiden, langzaam gegaard in eigen vocht en geserveerd met lichtzure couscous van gefermenteerde cassave.",
+      "afbeelding": "images/recepten/KedjenouAI.webp",
+      "url": "recepten.html?id=kedjenou",
       "regios": [
         "west-afrika"
       ],
-      "bestand": "data/recepten/suya.json"
+      "bestand": "data/recepten/kedjenou.json"
     },
     "waakye": {
-      "titel": "Waakye",
-      "korteBeschrijving": "Ghanees gerecht van rijst en bonen, vaak geserveerd met pittige bijgerechten.",
+      "titel": "Waakye met Shito, ei en gebakken bakbanaan",
+      "korteBeschrijving": "Ghanees rijstgerecht met zwartoogbonen, geserveerd met pittige Shito-saus, gekookt ei, goudbruin gebakken bakbanaan en verse rauwkost.",
       "afbeelding": "images/recepten/WaakyeAI.webp",
       "url": "recepten.html?id=waakye",
       "regios": [

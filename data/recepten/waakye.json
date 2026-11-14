@@ -3,8 +3,9 @@
   "regios": [
     "west-afrika"
   ],
-  "titel": "Waakye",
-  "korteBeschrijving": "Ghanees gerecht van rijst en bonen, vaak geserveerd met pittige bijgerechten.",
+  "titel": "Waakye met Shito, ei en gebakken bakbanaan",
+  "korteBeschrijving": "Ghanees rijstgerecht met zwartoogbonen, geserveerd met pittige Shito-saus, gekookt ei, goudbruin gebakken bakbanaan en verse rauwkost.",
+  "beschrijving": "Waakye is een van de bekendste gerechten van Ghana. Rijst en zwartoogbonen worden samen gekookt, traditioneel met gedroogde sorghumbladeren die het gerecht een karakteristieke roodbruine kleur geven. De milde rijst en bonen vormen de basis voor een kleurrijke maaltijd met verschillende bijgerechten. Wij serveren de Waakye met zelfgemaakte Shito, een donkere, pittige saus van chilipeper, ui, gember, knoflook, trassi en vissaus. Gekookte eieren, zoete gebakken bakbanaan en frisse rauwkost van tomaat, komkommer en rode ui maken de maaltijd compleet.",
   "afbeelding": "images/recepten/WaakyeAI.webp",
   "url": "recepten.html?id=waakye",
   "volgorde": 102,
@@ -12,14 +13,110 @@
     "west-afrika": 3
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 90,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de Waakye:",
+    "300 g langkorrelige witte rijst",
+    "200 g gedroogde zwartoogbonen",
+    "4–6 gedroogde sorghumbladscheden (waakye leaves, indien verkrijgbaar)",
+    "Circa 1,2 liter water, zo nodig extra",
+    "1 tl zout",
+    "Voor de Shito (pittige Ghanese saus):",
+    "1 grote ui",
+    "3 tenen knoflook",
+    "3 cm verse gember",
+    "2 el tomatenpuree",
+    "1 tl trassi (gefermenteerde garnalenpasta)",
+    "1 tl vissaus",
+    "1 tl chilipoeder",
+    "1 tl paprikapoeder",
+    "100 ml zonnebloemolie",
+    "Versgemalen zwarte peper",
+    "Zout naar smaak",
+    "Voor de bijgerechten:",
+    "4 eieren",
+    "2 rijpe bakbananen (gele schil met bruine vlekken)",
+    "3 el zonnebloemolie",
+    "1 tomaat",
+    "½ komkommer",
+    "1 kleine rode ui"
+  ],
+  "bereiding": [
+    "Spoel de zwartoogbonen onder koud water. Doe ze in een ruime kom, schenk er voldoende koud water over en laat ze 8–12 uur afgedekt in de koelkast weken.",
+    "Giet de geweekte bonen af en spoel ze opnieuw. Was de sorghumbladscheden, indien gebruikt, zorgvuldig om stof en zand te verwijderen.",
+    "Doe de bonen samen met de sorghumbladscheden en 800 ml water in een ruime pan met dikke bodem. Breng aan de kook en laat ongeveer 30–45 minuten zachtjes koken, totdat de bonen bijna gaar zijn, maar nog stevig blijven. De sorghumbladeren geven het kookwater geleidelijk een roodbruine kleur. Voeg zo nodig wat heet water toe om droogkoken te voorkomen.",
+    "Spoel ondertussen de rijst in een fijne zeef onder koud stromend water totdat het water grotendeels helder blijft. Laat goed uitlekken.",
+    "Verwijder de sorghumbladscheden uit de pan. Controleer hoeveel kookvocht er nog aanwezig is en vul dit aan tot ongeveer 600 ml. Voeg de rijst en het zout toe en roer voorzichtig door. Het vocht moet de rijst en bonen net bedekken.",
+    "Breng opnieuw aan de kook. Zet het vuur laag en leg het deksel op de pan. Laat de Waakye ongeveer 20–25 minuten zachtjes garen, totdat rijst en bonen gaar zijn en het vocht is opgenomen. Controleer tegen het einde of een klein scheutje heet water nodig is.",
+    "Zet het vuur uit en laat de Waakye nog 10 minuten afgedekt rusten. Maak de rijst en bonen voorzichtig los met een vork en houd warm.",
+    "Pel de ui en knoflook en schil de gember. Snijd alles grof en maal in een keukenmachine tot een fijne pasta. Voeg eventueel een klein scheutje water toe als dat nodig is.",
+    "Verhit de zonnebloemolie voor de Shito in een kleine pan met dikke bodem op middellaag vuur. Voeg de ui-knoflook-gemberpasta toe en bak ongeveer 15 minuten, terwijl je regelmatig roert. Het mengsel moet geleidelijk donkerder kleuren en het meeste vocht moet verdampen.",
+    "Voeg de tomatenpuree en de trassi toe. Bak ongeveer 5 minuten mee en roer regelmatig, zodat de trassi volledig wordt opgenomen en zijn scherpe geur wat afneemt.",
+    "Voeg de vissaus, het chilipoeder en het paprikapoeder toe. Roer alles goed door en zet het vuur laag.",
+    "Laat de Shito ongeveer 25–30 minuten zachtjes bakken. Roer regelmatig over de bodem. De saus moet geleidelijk donkerbruin worden en een dikke, enigszins korrelige structuur krijgen. Laat de saus niet zwart verbranden.",
+    "Proef voorzichtig een afgekoeld beetje Shito. Voeg naar smaak zwarte peper en eventueel wat zout toe. Trassi en vissaus kunnen al behoorlijk zout zijn. Zet de saus apart en laat enigszins afkoelen.",
+    "Breng een pan water aan de kook. Voeg de eieren voorzichtig toe en kook ze ongeveer 9 minuten. Spoel ze daarna onder koud stromend water, pel ze en snijd ze vlak voor het serveren doormidden.",
+    "Pel de bakbananen en snijd ze in plakken van ongeveer 1 cm dik.",
+    "Verhit de zonnebloemolie voor de bakbanaan in een ruime koekenpan op middelhoog vuur. Bak de plakken ongeveer 3 minuten per kant goudbruin en licht gekaramelliseerd, eventueel in twee porties.",
+    "Schep de gebakken bakbanaan uit de pan en laat kort uitlekken op keukenpapier.",
+    "Was de tomaat en komkommer en snijd ze in dunne plakjes. Pel de rode ui en snijd deze in dunne halve ringen.",
+    "Schep de Waakye op een grote serveerschaal of verdeel over vier borden.",
+    "Leg op ieder bord een gekookt ei en enkele plakken gebakken bakbanaan. Verdeel de tomaat, komkommer en rode ui ernaast.",
+    "Schep een kleine hoeveelheid Shito naast de rijst. Serveer de resterende saus apart, zodat iedereen zelf de pittigheid kan bepalen. Bewaar overgebleven Shito met trassi en vissaus in de koelkast en gebruik deze binnen enkele dagen of vries porties in."
+  ],
+  "weetje": "Waakye vindt zijn oorsprong in het noorden van Ghana, waar de landbouw en voedseltradities nauw verbonden zijn met die van de West-Afrikaanse savanne en Sahel. Het gerecht wordt vaak geassocieerd met de Mole-Dagbon en Hausa-gemeenschappen. Ook de naam weerspiegelt die verbinding: in het Hausa betekent *shinkafa da wake* letterlijk 'rijst en bonen'. Het woord *wake* betekent bonen en wordt vaak in verband gebracht met de naam Waakye, hoewel er ook verklaringen bestaan vanuit het Dagbani, een taal uit Noord-Ghana. De precieze ouderdom van het gerecht is onbekend.\n\nBijzonder aan Waakye is de manier waarop de rijst zijn karakteristieke roodbruine kleur krijgt. Traditioneel worden gedroogde bladscheden van rode sorghum meegekookt met de bonen. De bladeren bevatten natuurlijke kleurstoffen die aan het kookwater worden afgegeven en vervolgens door de rijst worden opgenomen. Sorghum is een eeuwenoud Afrikaans graan dat uitstekend bestand is tegen droogte. In Waakye worden niet de graankorrels, maar juist de bladeren gebruikt. Zo krijgt zelfs een eenvoudig gerecht van rijst en bonen een eigen kleur en smaak, zonder dat daarvoor tomaten of chilipepers nodig zijn.\n\nVanuit Noord-Ghana verspreidde Waakye zich naar het zuiden, onder andere via de handelsgemeenschappen in de zogenoemde *zongo's*: stadswijken waar zich van oudsher veel mensen uit Noord-Ghana en andere delen van West-Afrika vestigden. In steden als Accra en Kumasi groeide Waakye uit tot een geliefd ontbijt- en lunchgerecht. Op straat wordt het vaak verkocht door vrouwen die grote pannen rijst en bonen bereiden. Klanten kiezen zelf hun bijgerechten: van gekookte eieren en gebakken bakbanaan tot spaghetti, vlees, vis en pittige sauzen. Traditioneel werd de maaltijd vaak in grote groene bladeren verpakt, een praktische manier om voedsel mee te nemen voordat wegwerpverpakkingen gebruikelijk werden.\n\nEen van de populairste smaakmakers bij Waakye is *Shito*, een donkere, pittige saus die oorspronkelijk verbonden is met de Ga-bevolking van de Ghanese kust. In het Ga betekent *shito* simpelweg 'peper'. De saus wordt traditioneel gemaakt door ui, knoflook, gember, chilipeper en gedroogde vis of garnalen langdurig in olie te bakken. Daardoor ontstaat een bijna zwarte, sterk geconcentreerde smaakmaker. Het bakken en de lage hoeveelheid vocht helpen bovendien de houdbaarheid te verbeteren, wat in een warm klimaat bijzonder waardevol is. Onze versie gebruikt trassi en vissaus als praktisch alternatief voor gedroogde garnalen en vis.\n\nWaakye brengt zo verschillende Ghanese voedseltradities samen: de rijst, bonen en sorghum uit het noorden, de pittige Shito van de kust en de grote verscheidenheid aan bijgerechten die kenmerkend is voor de stedelijke straatkeuken. Het gerecht laat daarmee zien hoe regionale keukens binnen één land elkaar kunnen beïnvloeden en samen iets nieuws kunnen vormen.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Waakye: A popular dish from Ghana made with rice and beans",
+    "auteur": "Rice Today",
+    "kookboek": "International Rice Research Institute (geïnspireerd op)",
+    "jaar": 2013,
+    "url": "https://ricetoday.irri.org/waakye-a-popular-dish-from-ghana-made-with-rice-and-beans/"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Waakye",
+      "auteur": "Ghana Investment Promotion Centre (CIC Ghana)",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.cic.com.gh/waakye"
+    },
+    {
+      "receptTitel": "How to prepare Shito (Ghana pepper sauce)",
+      "auteur": "Pulse Ghana",
+      "kookboek": null,
+      "jaar": 2020,
+      "url": "https://www.pulse.com.gh/story/diy-recipes-how-to-prepare-shito-ghana-pepper-sauce-2024081118113578152"
+    }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "History and origin of Waakye",
+      "auteur": "Pulse Ghana",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.pulse.com.gh/story/history-and-origin-of-waakye-2024072415555869556"
+    },
+    {
+      "receptTitel": "Bioactive constituents of Waakye",
+      "auteur": null,
+      "kookboek": "Scientific African",
+      "jaar": 2019,
+      "url": "https://www.sciencedirect.com/science/article/pii/S2468227618301947"
+    },
+    {
+      "receptTitel": "Street-Vended Local Foods Transformation",
+      "auteur": null,
+      "kookboek": null,
+      "jaar": 2016,
+      "url": "https://scirp.org/journal/paperinformation?paperid=64380"
+    },
+    {
+      "receptTitel": "Niikai Shito",
+      "auteur": null,
+      "kookboek": "Institute of Chartered Accountants Ghana",
+      "jaar": null,
+      "url": "https://www.icagh.org/wp-content/uploads/2024/01/STRATEGIC-CASE-STUDY-PAPER-3.4Nov-2023.pdf"
+    }
+  ]
 }

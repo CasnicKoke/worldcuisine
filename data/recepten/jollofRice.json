@@ -3,8 +3,9 @@
   "regios": [
     "west-afrika"
   ],
-  "titel": "Jollof Rice",
-  "korteBeschrijving": "Populaire West-Afrikaanse rijstschotel gekookt in een kruidige tomaten- en pepersaus.",
+  "titel": "Jollof Rice met kip",
+  "korteBeschrijving": "Nigeriaanse rijstschotel met tomaat, paprika, chilipeper en aromatische kruiden, geserveerd met goudbruin geroosterde kippenbouten.",
+  "beschrijving": "Jollof Rice is een van de populairste gerechten van West-Afrika. In deze Nigeriaanse variant wordt langkorrelige rijst langzaam gegaard in een rijke, kruidige saus van tomaten, rode paprika, ui en chilipeper. Door de saus eerst goed in te koken, krijgt de rijst zijn karakteristieke dieprode kleur en intense smaak. We serveren de Jollof met geroosterde kippenbouten die in een marinade van knoflook, gember en specerijen goudbruin worden geroosterd. Door de rijst aan het einde kort op de bodem van de pan te laten roosteren, ontstaat de licht rokerige smaak die kenmerkend is voor Nigeriaanse *Party Jollof*.",
   "afbeelding": "images/recepten/JollofRiceAI.webp",
   "url": "recepten.html?id=jollofRice",
   "volgorde": 98,
@@ -12,14 +13,97 @@
     "west-afrika": 0
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 100,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de Jollof Rice:",
+    "350 g langkorrelige parboiled rijst",
+    "3 rijpe tomaten (circa 300 g)",
+    "2 rode paprika's",
+    "2 middelgrote uien",
+    "1 rode chilipeper (of 1 Scotch bonnet voor een pittigere versie)",
+    "3 tenen knoflook",
+    "3 el tomatenpuree",
+    "4 el zonnebloemolie",
+    "400 ml kippenbouillon, bij voorkeur zoutarm",
+    "2 laurierblaadjes",
+    "1 tl gedroogde tijm",
+    "1 tl kerriepoeder",
+    "1 tl paprikapoeder",
+    "1 tl zout",
+    "Versgemalen zwarte peper",
+    "Voor de geroosterde kip:",
+    "4 kippenbouten (circa 1,2 kg totaal)",
+    "2 tenen knoflook",
+    "2 cm verse gember",
+    "2 el zonnebloemolie",
+    "1 el citroensap",
+    "1 tl kerriepoeder",
+    "1 tl gedroogde tijm",
+    "1 tl paprikapoeder",
+    "1 tl zout",
+    "Versgemalen zwarte peper"
+  ],
+  "bereiding": [
+    "Verwarm de oven voor op 200 °C (boven- en onderwarmte). Dep de kippenbouten droog met keukenpapier.",
+    "Pel de knoflook voor de kip en schil de gember. Snijd beide grof en doe ze samen met de zonnebloemolie, het citroensap, kerriepoeder, tijm, paprikapoeder, zout en zwarte peper voor de kip in een kleine keukenmachine. Maal tot een gladde marinade.",
+    "Wrijf de kippenbouten rondom goed in met de marinade, ook onder het vel waar dat mogelijk is. Laat bij voorkeur 20–30 minuten afgedekt in de koelkast marineren.",
+    "Leg de kippenbouten naast elkaar in een ovenschaal, met de bolle, vlezige kant naar boven. Rooster ze ongeveer 40–50 minuten in het midden van de oven, totdat ze goudbruin en volledig gaar zijn. Keer ze halverwege om en draai ze voor de laatste 15 minuten weer met de bolle kant naar boven, zodat het vel mooi krokant wordt. Controleer of de kerntemperatuur in het dikste deel van het vlees, zonder het bot te raken, minimaal 75 °C is. Bereid ondertussen de tomatenbasis en de rijst volgens de volgende stappen.",
+    "Haal de kip uit de oven zodra deze gaar is en laat ongeveer 5 minuten rusten. Houd de kip zo nodig warm tot de rijst klaar is.",
+    "Pel de uien. Snijd één ui in grove stukken en snipper de andere fijn. Was de tomaten en paprika's, verwijder de steeltjes en zaadlijsten van de paprika's en snijd alles in grove stukken. Verwijder het steeltje van de chilipeper en eventueel de zaadlijsten. Pel de knoflook voor de rijst.",
+    "Doe de tomaten, paprika's, grof gesneden ui, chilipeper en knoflook voor de rijst in een blender of keukenmachine. Maal tot een glad mengsel zonder water toe te voegen.",
+    "Verhit de zonnebloemolie voor de rijst in een ruime pan met dikke bodem op middelhoog vuur. Voeg de gesnipperde ui toe en fruit ongeveer 5 minuten, totdat deze zacht en licht goudbruin is.",
+    "Voeg de tomatenpuree toe en bak 3–4 minuten mee. Roer regelmatig, zodat de puree iets donkerder wordt maar niet aanbrandt.",
+    "Schenk het tomaten-paprikamengsel in de pan. Breng aan de kook en laat ongeveer 20–25 minuten zonder deksel op middelhoog vuur inkoken. Roer regelmatig, vooral over de bodem. De saus moet duidelijk dikker worden, dieprood kleuren en haar rauwe tomatensmaak verliezen.",
+    "Voeg de tijm, het kerriepoeder, paprikapoeder, laurierblaadjes en zout voor de rijst toe. Breng op smaak met wat zwarte peper en roer goed door.",
+    "Spoel de rijst in een fijne zeef onder koud stromend water totdat het water grotendeels helder blijft. Laat goed uitlekken. Gebruik de rijst ongekookt; parboiled rijst is tijdens de productie al gedeeltelijk voorgegaard.",
+    "Schenk de kippenbouillon bij de ingekookte tomatensaus en breng het geheel opnieuw aan de kook. Proef de saus: deze moet vrij krachtig smaken, omdat de rijst nog veel smaak zal opnemen.",
+    "Voeg de rijst toe en schep voorzichtig om, zodat alle korrels met de saus bedekt zijn. De vloeistof moet de rijst net bedekken. Voeg indien nodig een klein beetje heet water toe.",
+    "Zet het vuur zo laag mogelijk. Dek de pan goed af met een passend deksel, eventueel met een vel aluminiumfolie tussen pan en deksel om de stoom beter vast te houden. Laat de rijst ongeveer 30–35 minuten zachtjes garen. Til het deksel zo weinig mogelijk op.",
+    "Controleer na ongeveer 25 minuten of de rijst bijna gaar is. Maak eventueel voorzichtig een opening tot op de bodem om te controleren of er nog voldoende vocht aanwezig is. Is de rijst nog hard en de bodem droog, voeg dan een klein scheutje kokend water toe. Dek weer af en laat verder garen.",
+    "Wanneer de rijst gaar is, kun je voor een lichte *Party Jollof*-smaak het vuur nog 2–3 minuten iets hoger zetten, zodat onderin een dun geroosterd laagje ontstaat. Let goed op: de rijst mag licht roosteren, maar niet zwart verbranden.",
+    "Zet het vuur uit en laat de rijst nog 10 minuten afgedekt rusten. Verwijder de laurierblaadjes en maak de korrels voorzichtig los met een vork.",
+    "Schep de Jollof Rice op een grote serveerschaal of verdeel over vier borden. Leg de geroosterde kippenbouten erbij en serveer direct."
+  ],
+  "weetje": "Hoewel Jollof Rice tegenwoordig sterk met Nigeria en Ghana wordt geassocieerd, liggen de historische wortels waarschijnlijk veel verder naar het westen, in het gebied van het huidige Senegal en Gambia. De naam verwijst naar het middeleeuwse koninkrijk Jolof, dat vanaf de veertiende eeuw een belangrijk machtscentrum vormde in de Senegambiaanse regio. De naam Jolof is nauw verbonden met de Wolof, een bevolkingsgroep die ook haar naam gaf aan de taal waarin *Ceebu Jën* letterlijk 'rijst met vis' betekent. Dit Senegalese gerecht, dat we in de Sahelregio tegenkwamen als Thieboudienne, wordt vaak beschouwd als een voorloper van Jollof Rice. Hoe de verschillende rijstgerechten zich precies uit elkaar ontwikkelden, is echter niet met zekerheid bekend.\n\nVia handelsroutes en migratie verspreidden verwante rijstbereidingen zich door West-Afrika. Overal ontstonden eigen varianten, afhankelijk van plaatselijke ingrediënten en voorkeuren. Tomaten en chilipepers, tegenwoordig onmisbaar in Jollof, kwamen oorspronkelijk uit Amerika en bereikten West-Afrika vanaf de zestiende eeuw via de zeehandel. De huidige Jollof Rice is daardoor niet simpelweg een middeleeuws recept, maar het resultaat van eeuwenlange culinaire uitwisseling.\n\nIn Nigeria groeide Jollof uit tot een onmisbaar gerecht bij bruiloften, verjaardagen en andere feestelijke gelegenheden. Vooral *Party Jollof* is beroemd. Traditioneel wordt deze rijst in grote pannen boven houtvuur bereid. De rook en het licht aanbakken van de onderste rijstlaag geven het gerecht een karakteristieke smaak die thuis moeilijk precies na te bootsen is. In sommige Nigeriaanse families zijn juist de licht geroosterde rijstkorrels onderin de pan bijzonder geliefd.\n\nJollof Rice is bovendien het middelpunt van een van de beroemdste culinaire rivaliteiten van Afrika: de *Jollof Wars*. Nigerianen en Ghanezen discussiëren met veel humor en nationale trots over de vraag wie de beste Jollof maakt. Nigerianen gebruiken vaak langkorrelige, voorgekookte rijst en een stevig ingekookte tomatensaus, terwijl Ghanezen veelal geurende rijstsoorten zoals basmati gebruiken. De discussie speelt zich af op sociale media, tijdens kookwedstrijden en zelfs bij internationale evenementen. Wie de beste Jollof maakt, blijft een kwestie van smaak, maar de rivaliteit laat vooral zien hoeveel het gerecht betekent voor de identiteit en verbondenheid van West-Afrikaanse gemeenschappen.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Nigerian Jollof Rice",
+    "auteur": "Nigerian Food TV",
+    "kookboek": "Geïnspireerd op Nigerian Food TV",
+    "url": "https://www.nigerianfoodtv.com/jollof-rice-how-to-cook-nigerian-jollof/"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Nigerian Jollof Rice",
+      "auteur": "Nigerian Food TV",
+      "kookboek": null,
+      "url": "https://www.nigerianfoodtv.com/jollof-rice-how-to-cook-nigerian-jollof/"
+    },
+    {
+      "receptTitel": "Nigerian Jollof Rice with Chicken",
+      "auteur": "Nourish Generation",
+      "kookboek": null,
+      "url": "https://nourishgeneration.org/nigerian-jollof-rice-with-chicken/"
+    }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "Ceebu Jën, a culinary art of Senegal",
+      "auteur": "UNESCO",
+      "kookboek": "Intangible Cultural Heritage",
+      "url": "https://ich.unesco.org/en/RL/ceebu-jen-a-culinary-art-of-senegal-01748"
+    },
+    {
+      "receptTitel": "Nigerian Party Jollof: The King of Rice",
+      "auteur": "Pan-Atlantic University",
+      "kookboek": "Google Arts & Culture",
+      "url": "https://artsandculture.google.com/story/nigerian-party-jollof-the-king-of-rice-pan-atlantic-university/FgVBNgJDD3KMJg"
+    },
+    {
+      "receptTitel": "Breaking Bread",
+      "auteur": "University of Nottingham",
+      "kookboek": null,
+      "url": "https://www.nottingham.ac.uk/policy-and-engagement/documents/blogs/breaking-bread-the-book.pdf"
+    }
+  ]
 }

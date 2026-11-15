@@ -1452,8 +1452,8 @@
       "bestand": "data/recepten/empanadas.json"
     },
     "meatPie": {
-      "titel": "Meat Pie",
-      "korteBeschrijving": "Klassieke Australische vleespastei met gekruid gehakt en jus in een goudbruine deegkorst.",
+      "titel": "Australian Meat Pie – Australische rundvleespastei",
+      "korteBeschrijving": "Traditionele Australische rundvleespastei met een rijke vulling van gehakt in kruidige jus, een krokante korstdeegbodem en een goudbruin bladerdeegdeksel, geserveerd met erwtenpuree en een frisse salade.",
       "afbeelding": "images/recepten/MeatPieAI.webp",
       "url": "recepten.html?id=meatPie",
       "regios": [
@@ -1462,8 +1462,8 @@
       "bestand": "data/recepten/meatPie.json"
     },
     "barramundi": {
-      "titel": "Barramundi",
-      "korteBeschrijving": "Australische vis met stevig wit vlees, vaak gegrild en eenvoudig geserveerd met citroen en kruiden.",
+      "titel": "Barramundi met macadamiakorst en geroosterde zoete aardappel",
+      "korteBeschrijving": "Australische barramundifilet met een krokante korst van macadamianoten, panko, citroen en kruiden, geserveerd met geroosterde zoete aardappel en sperziebonen in citroenboter.",
       "afbeelding": "images/recepten/BarramundiAI.webp",
       "url": "recepten.html?id=barramundi",
       "regios": [
@@ -1471,30 +1471,29 @@
       ],
       "bestand": "data/recepten/barramundi.json"
     },
-    "lamington": {
-      "titel": "Lamington",
-      "korteBeschrijving": "Australisch cakegebak met chocoladeglazuur en kokos, soms gevuld met room of jam.",
-      "afbeelding": "images/recepten/LamingtonAI.webp",
-      "url": "recepten.html?id=lamington",
+    "kangarooStew": {
+      "titel": "Kangaroo Stew met Damper – Australische kangoeroestoof met kampvuurbrood",
+      "korteBeschrijving": "Australische stoofpot van mager kangoeroevlees met aardappelen, pompoen en wortelen in een kruidige tomatensaus, geserveerd met zelfgebakken damper (Australisch kampvuurbrood).",
+      "afbeelding": "images/recepten/KangarooStewAI.webp",
+      "url": "recepten.html?id=kangarooStew",
       "regios": [
         "australie"
       ],
-      "bestand": "data/recepten/lamington.json"
+      "bestand": "data/recepten/kangarooStew.json"
     },
-    "pavlova": {
-      "titel": "Pavlova",
-      "korteBeschrijving": "Luchtig meringuedessert met een krokante buitenkant, zachte kern, slagroom en vers fruit.",
-      "afbeelding": "images/recepten/PavlovaAI.webp",
-      "url": "recepten.html?id=pavlova",
+    "aussieBBQ": {
+      "titel": "Aussie BBQ – Gegrilde lamskoteletten met pompoen, maïs en aardappelsalade",
+      "korteBeschrijving": "Australische barbecue met gegrilde lamskoteletten, geserveerd met geroosterde pompoen, gegrilde maïskolven en aardappelsalade.",
+      "afbeelding": "images/recepten/AussieBBQAI.webp",
+      "url": "recepten.html?id=aussieBBQ",
       "regios": [
-        "australie",
-        "nieuw-zeeland"
+        "australie"
       ],
-      "bestand": "data/recepten/pavlova.json"
+      "bestand": "data/recepten/aussieBBQ.json"
     },
     "hangi": {
-      "titel": "Hāngī",
-      "korteBeschrijving": "Traditionele Māori-bereiding waarbij vlees en groenten langzaam in een ondergrondse oven worden gegaard.",
+      "titel": "Hāngī – Māori-stoomgerecht uit de aardoven",
+      "korteBeschrijving": "Traditioneel Māori-stoomgerecht met kip, varkensvlees, kūmara, aardappelen, pompoen en groenten.",
       "afbeelding": "images/recepten/HangiAI.webp",
       "url": "recepten.html?id=hangi",
       "regios": [
@@ -1503,8 +1502,8 @@
       "bestand": "data/recepten/hangi.json"
     },
     "greenLippedMussels": {
-      "titel": "Green-Lipped Mussels",
-      "korteBeschrijving": "Grote Nieuw-Zeelandse groenlipmosselen, vaak gestoomd met kruiden, knoflook en wijn.",
+      "titel": "Green-Lipped Mussels – Nieuw-Zeelandse groenlipmosselen in kokosbouillon",
+      "korteBeschrijving": "Nieuw-Zeelandse groenlipmosselen in een geurige kokosbouillon met knoflook, gember, bosui en limoen, geserveerd met knapperig geroosterd brood.",
       "afbeelding": "images/recepten/GreenLippedMusselsAI.webp",
       "url": "recepten.html?id=greenLippedMussels",
       "regios": [
@@ -1831,6 +1830,46 @@
         "noordoost-azie"
       ],
       "bestand": "data/recepten/di-san-xian.json"
+    },
+    "groenlandseLamsschouder": {
+      "titel": "Groenlandse lamsschouder met wilde tijm en bessensaus",
+      "korteBeschrijving": "Langzaam gegaarde lamsschouder met wilde tijm en jeneverbessen, geserveerd met geroosterde wortelgroenten en een frisse cranberrysaus.",
+      "afbeelding": "images/recepten/GroenlandseLamsschouderAI.webp",
+      "url": "recepten.html?id=groenlandseLamsschouder",
+      "regios": [
+        "arctische-wereld"
+      ],
+      "bestand": "data/recepten/groenlandseLamsschouder.json"
+    },
+    "arcticCharBannock": {
+      "titel": "Gepocheerde Arctic char met zelfgemaakte bannock",
+      "korteBeschrijving": "Zacht gepocheerde Arctic char in knoflookboter, geserveerd met zelfgebakken bannock, gekookte aardappelen en gestoomde groene asperges.",
+      "afbeelding": "images/recepten/ArcticCharBannockAI.webp",
+      "url": "recepten.html?id=arcticCharBannock",
+      "regios": [
+        "arctische-wereld"
+      ],
+      "bestand": "data/recepten/arcticCharBannock.json"
+    },
+    "salmonPerok": {
+      "titel": "Salmon Perok – Alaskaanse zalmpastei",
+      "korteBeschrijving": "Alaskaanse hartige pastei met verse zalm, rijst, witte kool en wortelgroenten, gebakken tussen twee lagen goudbruin, zelfgemaakt deeg.",
+      "afbeelding": "images/recepten/SalmonPerokAI.webp",
+      "url": "recepten.html?id=salmonPerok",
+      "regios": [
+        "arctische-wereld"
+      ],
+      "bestand": "data/recepten/salmonPerok.json"
+    },
+    "caribouStew": {
+      "titel": "Caribou Stew met Bannock",
+      "korteBeschrijving": "Stevige Arctische wildstoofpot van kariboe met wortelgroenten en parelgort, geserveerd met warm, zelfgebakken bannockbrood.",
+      "afbeelding": "images/recepten/CaribouStewAI.webp",
+      "url": "recepten.html?id=caribouStew",
+      "regios": [
+        "arctische-wereld"
+      ],
+      "bestand": "data/recepten/caribouStew.json"
     }
   }
 }

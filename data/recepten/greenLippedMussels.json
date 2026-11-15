@@ -3,8 +3,9 @@
   "regios": [
     "nieuw-zeeland"
   ],
-  "titel": "Green-Lipped Mussels",
-  "korteBeschrijving": "Grote Nieuw-Zeelandse groenlipmosselen, vaak gestoomd met kruiden, knoflook en wijn.",
+  "titel": "Green-Lipped Mussels – Nieuw-Zeelandse groenlipmosselen in kokosbouillon",
+  "korteBeschrijving": "Nieuw-Zeelandse groenlipmosselen in een geurige kokosbouillon met knoflook, gember, bosui en limoen, geserveerd met knapperig geroosterd brood.",
+  "beschrijving": "Green-Lipped Mussels zijn grote Nieuw-Zeelandse mosselen die herkenbaar zijn aan de groene rand van hun schelp. In dit moderne Nieuw-Zeelandse gerecht worden de mosselen zachtjes gegaard in een geurige bouillon van kokosmelk, knoflook, gember, bosui en limoen, met verse koriander en peterselie. De romige kokosmelk vormt een mooie tegenhanger voor de zilte smaak van de mosselen, terwijl de limoen voor frisheid zorgt. We gebruiken diepgevroren groenlipmosselen op de halve schelp en serveren ze met knapperig geroosterd brood om de bouillon mee op te nemen. Zo ontstaat een lichte, smaakvolle maaltijd waarin de kustkeuken van Nieuw-Zeeland en moderne Pacifische en Aziatische invloeden samenkomen.",
   "afbeelding": "images/recepten/GreenLippedMusselsAI.webp",
   "url": "recepten.html?id=greenLippedMussels",
   "volgorde": 152,
@@ -12,14 +13,105 @@
     "nieuw-zeeland": 1
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 35,
+  "moeilijkheid": "Gemakkelijk",
+  "ingredienten": [
+    "Voor de mosselen en kokosbouillon:",
+    "1,6–2 kg Nieuw-Zeelandse groenlipmosselen, diepgevroren op de halve schelp (circa 32–40 stuks; viswinkel)",
+    "400 ml kokosmelk",
+    "200 ml water",
+    "4 bosuien",
+    "4 tenen knoflook",
+    "20 g verse gember",
+    "1 rode chilipeper (optioneel)",
+    "1 limoen",
+    "15 g verse koriander",
+    "15 g verse platte peterselie",
+    "1 el vissaus",
+    "1 el zonnebloemolie",
+    "Versgemalen zwarte peper naar smaak",
+    "Voor erbij:",
+    "400–500 g stokbrood of ander knapperig brood",
+    "1 el olijfolie"
+  ],
+  "bereiding": [
+    "Laat de diepgevroren groenlipmosselen volgens de aanwijzingen op de verpakking ontdooien, bij voorkeur afgedekt in de koelkast. Leg ze daarvoor in een ruime schaal of vergiet boven een opvangbak, zodat overtollig vocht kan weglopen. Houd de mosselen gekoeld totdat je ze gaat bereiden.",
+    "Controleer de ontdooide mosselen op beschadigde schelpen en eventuele achtergebleven baarddraden. Spoel ze indien nodig kort af onder koud stromend water. Laat goed uitlekken. Bij mosselen op de halve schelp hoef je niet te wachten totdat de schelp opengaat: ze zijn tijdens de verwerking al geopend.",
+    "Maak de bosuien schoon en snijd ze in dunne ringen. Houd het donkergroene gedeelte apart voor de garnering. Pel de knoflook en hak deze fijn. Schil de gember en rasp hem fijn. Verwijder eventueel de zaadlijsten van de chilipeper en snijd hem in dunne ringen.",
+    "Was de limoen en rasp de groene schil fijn. Pers vervolgens het sap uit. Hak de koriander en peterselie grof en houd een klein gedeelte apart om het gerecht straks te garneren.",
+    "Verhit de zonnebloemolie in een grote, diepe hapjespan of mosselpan op middelhoog vuur. Voeg het witte en lichtgroene deel van de bosuien toe en bak ongeveer 2 minuten, totdat ze zacht beginnen te worden.",
+    "Voeg de knoflook, gember en eventueel de chilipeper toe. Bak ongeveer 1 minuut mee en roer regelmatig, zodat de knoflook niet bruin wordt.",
+    "Schenk de kokosmelk en het water in de pan. Voeg de vissaus en limoenrasp toe en breng het mengsel al roerend tegen de kook aan. Zet het vuur iets lager en laat ongeveer 5 minuten zachtjes trekken, zodat de smaken zich ontwikkelen.",
+    "Leg de groenlipmosselen voorzichtig in de warme kokosbouillon, met het vlees naar boven. Verdeel ze zo gelijkmatig mogelijk over de pan en schep wat bouillon over de mosselen. Gebruik zo nodig twee pannen of bereid ze in porties, zodat alle mosselen goed worden verhit.",
+    "Plaats het deksel op de pan en laat de mosselen zachtjes garen. Bij reeds voorgekookte mosselen is doorgaans ongeveer 4–6 minuten voldoende om ze door en door te verhitten. Rauwe mosselen hebben mogelijk langer nodig. Volg de aanwijzingen op de verpakking en controleer of het mosselvlees volledig gaar en goed heet is. Laat de bouillon niet hard doorkoken, omdat de mosselen daardoor taai kunnen worden.",
+    "Haal de pan van het vuur zodra de mosselen gaar zijn. Voeg het limoensap en de gehakte koriander en peterselie toe. Schep voorzichtig wat bouillon over de schelpen en breng op smaak met zwarte peper. Proef de saus voordat je eventueel extra zout toevoegt, want de vissaus en mosselen zijn van zichzelf al zout.",
+    "Snijd het brood in dikke plakken. Verhit een grillpan op middelhoog vuur en bestrijk de plakken licht met olijfolie. Rooster ze ongeveer 2 minuten per kant, totdat ze goudbruin zijn en lichte grillstrepen hebben. Je kunt ze ook in een panini-tosti-ijzer roosteren of enkele minuten in een oven van 200 °C.",
+    "Verdeel de mosselen over vier ruime, diepe borden of kommen en schep de warme kokosbouillon erover. Bestrooi met de achtergehouden groene bosui en kruiden. Serveer met het knapperige brood om in de geurige bouillon te dopen."
+  ],
+  "weetje": "De Nieuw-Zeelandse groenlipmossel (*Perna canaliculus*) is een schelpdiersoort die van nature uitsluitend rond Nieuw-Zeeland voorkomt. Hij dankt zijn Engelse naam *green-lipped mussel* aan de opvallende groene rand langs de schelp. De mosselen kunnen aanzienlijk groter worden dan de Europese mosselen die wij kennen. In het Māori worden mosselen onder andere *kuku* en *kūtai* genoemd. Ze vormen al sinds de eerste Polynesische bewoning van Aotearoa, zoals de Māori Nieuw-Zeeland noemen, een belangrijk onderdeel van *kaimoana*: voedsel uit de zee. Vooral langs rotsachtige kusten werden mosselen, zee-egels, zeewier en andere schelpdieren verzameld. Archeologen vinden op veel plaatsen langs de Nieuw-Zeelandse kust grote hoeveelheden oude schelpen, as en visgraten. Deze zogenoemde *middens* laten zien waar vroegere bewoners voedsel verzamelden en aten.\n\nHet verzamelen van schelpdieren was binnen de Māori-cultuur meer dan een manier om voedsel te verkrijgen. Verschillende families en *hapū*, plaatselijke verwantschapsgroepen, hadden eigen gebieden waar zij mochten vissen en schelpdieren verzamelen. Het beheer van zulke gebieden viel onder de verantwoordelijkheid van *kaitiaki*, de traditionele beschermers. Wie uit een andere gemeenschap schelpdieren wilde verzamelen, vroeg daarvoor gewoonlijk toestemming. Mosselen speelden ook een rol bij grote bijeenkomsten, waar het aanbieden van overvloedig voedsel een uiting was van *manaakitanga*: gastvrijheid, zorg en respect voor gasten. Bij traditionele voedseluitwisselingen, *kaihaukai* genoemd, brachten kustgemeenschappen onder andere mosselen, vis en zeewier mee, terwijl gemeenschappen uit het binnenland daar bijvoorbeeld paling, vogels of andere plaatselijke producten tegenover stelden. Zo verbonden mosselen niet alleen mensen met de zee, maar ook verschillende Māori-gemeenschappen met elkaar.\n\nNa de Europese kolonisatie groeide de commerciële vraag naar mosselen. Aanvankelijk werden ze vooral met de hand van de rotsen verzameld, maar in de twintigste eeuw ontstond een grootschaligere visserij op de natuurlijke mosselbanken. Vooral in de Hauraki Gulf bij Auckland en in Tasman Bay werden mosselen met grote sleepnetten en dreggen van de zeebodem gehaald. Dat bleek op den duur desastreus. In de Hauraki Gulf bereikte de aanvoer in 1965 ongeveer tweeduizend ton, maar slechts twee jaar later was de oogst ingestort tot minder dan twintig ton. Niet alleen de mosselen verdwenen: ook de natuurlijke riffen die zij vormden raakten ernstig beschadigd. Zulke riffen boden bescherming en voedsel aan allerlei andere zeedieren. De commerciële visserij op wilde groenlipmosselen was daarmee binnen enkele decennia grotendeels aan haar eigen succes ten onder gegaan.\n\nDie ecologische achteruitgang leidde tot een nieuwe ontwikkeling: het kweken van mosselen. Vanaf het midden van de jaren zestig experimenteerden Nieuw-Zeelandse ondernemers met technieken die waren geïnspireerd op de Spaanse mosselkweek. In plaats van de mosselen van de zeebodem te halen, lieten zij jonge exemplaren groeien aan touwen die onder drijvende vlotten hingen. Vooral de beschutte baaien van de Marlborough Sounds en de Hauraki Gulf bleken daarvoor bijzonder geschikt. De eerste gekweekte groenlipmosselen kwamen in 1971 op de markt. Een opvallende anekdote uit dat jaar vertelt hoe een oude tractor op een ponton werd gereden om de zware mosseltouwen uit het water te kunnen hijsen. De eerste commerciële oogst leverde ruim zeven ton mosselen op. Wat met eenvoudige hulpmiddelen was begonnen, groeide later uit tot een belangrijke Nieuw-Zeelandse bedrijfstak.\n\nEen tweede doorbraak volgde in 1974, toen een onderzoeker ontdekte dat grote hoeveelheden piepkleine mosselen zich hadden vastgehecht aan zeewier dat aanspoelde op Ninety Mile Beach, in het uiterste noorden van Nieuw-Zeeland. Deze jonge mosselen, *spat* genoemd, waren vaak nauwelijks groter dan een zandkorrel. Het zeewier werd verzameld, in emmers verpakt en zelfs per vliegtuig naar mosselkwekers vervoerd. Daar werden de jonge mosselen met behulp van afbreekbare katoenen netten tegen kweeklijnen bevestigd. Zodra de mosseltjes zich zelf stevig hadden vastgezet, verging het katoen en konden ze verder groeien. Deze ontdekking maakte het mogelijk veel meer mosselen te kweken dan voorheen. Het is opmerkelijk dat een moderne aquacultuurindustrie nog altijd voor een belangrijk deel afhankelijk is van jonge mosselen die op natuurlijke wijze op aangespoeld zeewier terechtkomen.\n\nTegenwoordig worden groenlipmosselen vooral gekweekt aan lange touwen die onder drijvende boeien in zee hangen. De mosselen voeden zich met microscopisch plankton dat ze uit het omringende zeewater filteren. Ze hoeven daardoor niet te worden gevoerd zoals bijvoorbeeld gekweekte zalm. De kweek heeft een relatief geringe behoefte aan zoet water en landbouwgrond, maar is niet zonder ecologische aandachtspunten. In verschillende kustgebieden wordt onderzocht hoe verdwenen natuurlijke mosselriffen kunnen worden hersteld. Die riffen vormen namelijk een belangrijk leefgebied voor vissen en andere zeedieren, terwijl een commerciële mosselkwekerij niet automatisch dezelfde ecologische functies vervult.\n\nIn de moderne Nieuw-Zeelandse keuken zijn groenlipmosselen uitgegroeid tot een herkenbare nationale specialiteit. Ze worden gestoomd, gegratineerd, verwerkt in soepen of geserveerd met knoflook, kruiden en citrus. Onze bereiding met kokosmelk, gember en limoen is geen traditioneel Māori-recept, maar weerspiegelt de hedendaagse Nieuw-Zeelandse keuken, waarin plaatselijke ingrediënten worden gecombineerd met invloeden uit Azië en de andere eilanden van de Stille Oceaan. Zo verbindt een eenvoudig mosselgerecht een eeuwenoude Māori-voedseltraditie met de moderne geschiedenis van aquacultuur en de zoektocht naar een duurzamere omgang met de zee.",
   "bron": {
-    "receptTitel": null,
+    "receptTitel": "Mussels in Coconut Broth",
     "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "kookboek": "Aquaculture New Zealand",
+    "jaar": null,
+    "url": "https://www.aquaculture.org.nz/recipes-list/mussels-in-coconut-broth"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Coconut and coriander mussels",
+      "auteur": null,
+      "kookboek": "Jess’s Underground Kitchen",
+      "jaar": null,
+      "url": "https://www.juk.co.nz/blogs/recipes/coconut-and-coriander-mussels"
+    },
+    {
+      "receptTitel": "Traditional patterns of shellfish gathering",
+      "auteur": null,
+      "kookboek": "Te Ara – The Encyclopedia of New Zealand",
+      "jaar": null,
+      "url": "https://teara.govt.nz/en/mataitai-shellfish-gathering/page-2"
+    },
+    {
+      "receptTitel": "Greenshell™ mussel",
+      "auteur": null,
+      "kookboek": "NIWA",
+      "jaar": null,
+      "url": "https://niwa.co.nz/aquaculture/greenshelltm-mussel"
+    },
+    {
+      "receptTitel": "Aquaculture",
+      "auteur": null,
+      "kookboek": "New Zealand Geographic",
+      "jaar": null,
+      "url": "https://www.nzgeo.com/stories/aquaculture/"
+    },
+    {
+      "receptTitel": "Green-lipped mussels",
+      "auteur": null,
+      "kookboek": "Te Ara – The Encyclopedia of New Zealand",
+      "jaar": null,
+      "url": "https://teara.govt.nz/en/aquaculture/page-1"
+    },
+    {
+      "receptTitel": "Greenshell mussels: solving the case of the disappearing spat",
+      "auteur": null,
+      "kookboek": "NIWA",
+      "jaar": null,
+      "url": "https://niwa.co.nz/water-atmosphere/vol14-no3-september-2006/greenshell-mussels-solving-case-disappearing-spat"
+    },
+    {
+      "receptTitel": "Rewilding green-lipped mussels",
+      "auteur": null,
+      "kookboek": "NIWA",
+      "jaar": null,
+      "url": "https://niwa.co.nz/news/rewilding-green-lipped-mussels"
+    },
+    {
+      "receptTitel": "Recipes and preparation advice",
+      "auteur": null,
+      "kookboek": "OP Columbia",
+      "jaar": null,
+      "url": "https://www.opcolumbia.co.nz/recipes/"
+    }
+  ]
 }

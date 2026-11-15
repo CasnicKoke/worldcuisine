@@ -230,14 +230,13 @@
   "australie": [
     "meatPie",
     "barramundi",
-    "lamington",
-    "pavlova"
+    "kangarooStew",
+    "aussieBBQ"
   ],
   "nieuw-zeeland": [
     "hangi",
     "greenLippedMussels",
-    "roastLamb",
-    "pavlova"
+    "roastLamb"
   ],
   "melanesie": [
     "kokoda",
@@ -274,5 +273,11 @@
     "pyanse",
     "tieguo-dun-ji",
     "di-san-xian"
+  ],
+  "arctische-wereld": [
+    "groenlandseLamsschouder",
+    "arcticCharBannock",
+    "salmonPerok",
+    "caribouStew"
   ]
 }

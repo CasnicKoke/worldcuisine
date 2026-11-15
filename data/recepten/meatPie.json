@@ -3,8 +3,9 @@
   "regios": [
     "australie"
   ],
-  "titel": "Meat Pie",
-  "korteBeschrijving": "Klassieke Australische vleespastei met gekruid gehakt en jus in een goudbruine deegkorst.",
+  "titel": "Australian Meat Pie – Australische rundvleespastei",
+  "korteBeschrijving": "Traditionele Australische rundvleespastei met een rijke vulling van gehakt in kruidige jus, een krokante korstdeegbodem en een goudbruin bladerdeegdeksel, geserveerd met erwtenpuree en een frisse salade.",
+  "beschrijving": "De Australian Meat Pie is een van de bekendste gerechten uit de Australische keuken. Deze hartige pastei heeft een stevige bodem van korstdeeg en een luchtig, goudbruin bladerdeegdeksel, met daartussen een sappige vulling van rundergehakt, ui en een rijke jus met tomaat en worcestersaus. In Australië worden Meat Pies meestal als kleine, individuele pasteitjes gegeten, vaak met een flinke scheut tomatensaus. Wij maken één grote pastei voor vier personen, die we na het bakken in punten snijden en serveren met romige erwtenpuree en een frisse salade. Zo verandert deze geliefde Australische snack in een volledige maaltijd.",
   "afbeelding": "images/recepten/MeatPieAI.webp",
   "url": "recepten.html?id=meatPie",
   "volgorde": 147,
@@ -12,14 +13,109 @@
     "australie": 0
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 135,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de rundvleesvulling:",
+    "600 g rundergehakt",
+    "1 grote ui",
+    "1 el zonnebloemolie",
+    "2 el bloem",
+    "300 ml runderbouillon",
+    "1 el tomatenpuree",
+    "2 el tomatenketchup",
+    "1 el worcestersaus",
+    "1 tl gedroogde tijm",
+    "Zwarte peper naar smaak",
+    "Zout naar smaak",
+    "Voor het deeg:",
+    "350 g hartig taartdeeg (korstdeeg), kant-en-klaar",
+    "250 g roomboterbladerdeeg",
+    "1 ei",
+    "10 g boter, om de vorm in te vetten",
+    "Voor de erwtenpuree:",
+    "400 g diepvriesdoperwten",
+    "20 g roomboter",
+    "1 tl citroensap",
+    "Zout en zwarte peper naar smaak",
+    "Voor de salade:",
+    "100 g gemengde sla",
+    "200 g cherrytomaten",
+    "½ komkommer",
+    "1 el olijfolie",
+    "1 el citroensap",
+    "Zout en zwarte peper naar smaak",
+    "Verder nodig:",
+    "1 ronde metalen taartvorm van circa 24 cm doorsnede en 3–4 cm diep",
+    "Bakpapier en blindbakbonen of gedroogde peulvruchten"
+  ],
+  "bereiding": [
+    "Pel de ui en snipper deze fijn. Verhit de zonnebloemolie in een ruime hapjespan op middelhoog vuur en bak de ui ongeveer 5 minuten, totdat deze zacht en licht goudbruin is.",
+    "Voeg het rundergehakt toe en bak het ongeveer 7–8 minuten op middelhoog tot hoog vuur. Maak het gehakt tijdens het bakken met een houten spatel los, zodat kleine stukjes ontstaan. Laat eventueel vrijgekomen vocht grotendeels verdampen, zodat het vlees goed kan bruinen.",
+    "Voeg de tomatenpuree toe en bak deze ongeveer 1 minuut mee om de zure smaak te verminderen. Roer vervolgens de tomatenketchup, worcestersaus en tijm erdoor.",
+    "Strooi de bloem over het gehakt en meng alles zorgvuldig. Bak ongeveer 1 minuut mee, zodat de bloem gaart en straks de jus kan binden.",
+    "Schenk de runderbouillon geleidelijk bij het gehakt terwijl je blijft roeren. Breng het geheel zachtjes aan de kook en laat ongeveer 15–20 minuten zonder deksel sudderen. Roer regelmatig, totdat een dikke, glanzende jus ontstaat die het gehakt goed bij elkaar houdt. De vulling moet stevig genoeg zijn om op een lepel te blijven liggen en mag niet waterig zijn.",
+    "Proef de vulling en breng indien nodig verder op smaak met zout en zwarte peper. Haal de pan van het vuur, schep het gehaktmengsel in een brede schaal en laat eerst kort uitdampen. Zet daarna ongeveer 30 minuten in de koelkast, totdat de vulling volledig is afgekoeld. Een koude vulling voorkomt dat het deeg tijdens het vullen zacht wordt.",
+    "Verwarm de oven voor op 200 °C boven- en onderwarmte. Vet een ronde metalen taartvorm van ongeveer 24 cm doorsnede en 3–4 cm diep licht in met boter. Rol het hartige taartdeeg uit tot een ronde lap van ongeveer 3 mm dik, groot genoeg om de bodem en zijkanten van de vorm te bekleden. Druk het deeg voorzichtig in de vorm en snijd het overtollige deeg langs de rand weg. Zet de vorm 15 minuten in de koelkast.",
+    "Prik met een vork enkele gaatjes in de deegbodem. Leg een vel bakpapier over het deeg en vul de vorm met blindbakbonen. Bak de bodem ongeveer 15 minuten in het onderste deel van de oven.",
+    "Verwijder het bakpapier en de blindbakbonen en bak de bodem nog ongeveer 5 minuten, totdat het deeg droog aanvoelt en licht begint te kleuren. Neem de vorm uit de oven.",
+    "Schep de volledig afgekoelde rundvleesvulling in de voorgebakken bodem. Verdeel gelijkmatig en strijk de bovenkant glad.",
+    "Rol het bladerdeeg uit en snijd een cirkel die iets groter is dan de taartvorm. Klop het ei los en bestrijk de deegrand met een beetje ei. Leg het bladerdeeg over de vulling en druk de randen stevig tegen elkaar. Snijd overtollig deeg weg en maak in het midden een klein sneetje, zodat stoom kan ontsnappen. Bestrijk de bovenkant met het resterende ei.",
+    "Zet de taartvorm op een voorverwarmde metalen bakplaat in het onderste deel van de oven. Bak de Meat Pie ongeveer 35–40 minuten, totdat het bladerdeeg mooi gerezen en goudbruin is en de vulling door en door heet is.",
+    "Breng ongeveer 10 minuten voordat de pastei klaar is een pan water aan de kook. Voeg de doperwten toe en kook ze ongeveer 4–5 minuten, totdat ze gaar zijn. Giet af en laat kort uitdampen. Doe de erwten terug in de pan en voeg de roomboter en het citroensap toe. Stamp met een pureestamper tot een grove puree waarin nog enkele hele erwten zichtbaar blijven. Breng op smaak met zout en zwarte peper en houd warm.",
+    "Was de sla en laat goed uitlekken. Halveer de cherrytomaten en snijd de komkommer in dunne halve plakjes. Meng de olijfolie en het citroensap met een beetje zout en zwarte peper tot een eenvoudige dressing. Schep deze vlak voor het serveren door de salade.",
+    "Neem de Meat Pie uit de oven en laat ongeveer 10 minuten rusten. Haal hem voorzichtig uit de vorm en snijd hem in vier punten. Serveer iedere punt met erwtenpuree en een frisse salade. Zet eventueel extra tomatenketchup op tafel."
+  ],
+  "weetje": "De Australian Meat Pie is zo sterk verbonden met de Australische identiteit dat het moeilijk voor te stellen is dat het gerecht oorspronkelijk uit Europa komt. De wortels liggen in de Britse traditie van hartige pasteien, die teruggaat tot de middeleeuwen. Destijds werd vlees vaak gebakken in een dikke, stevige deegkorst die vooral diende als verpakking en bescherming. Het deeg was soms zo hard dat het nauwelijks werd gegeten. De pastei was bijzonder praktisch: het vlees bleef bij elkaar en kon gemakkelijk worden meegenomen. Toen in 1788 de eerste Britse kolonisten en veroordeelden in Australië arriveerden, brachten zij deze eetcultuur mee. Al tijdens de viering van de verjaardag van koning George III op 4 juni 1788 werden in de jonge kolonie pasteien geserveerd. Vlees en bloem behoorden bovendien tot de gebruikelijke rantsoenen, zodat pasteien al vroeg een plaats kregen in de koloniale keuken.\n\nIn de negentiende eeuw ontwikkelde de Meat Pie zich tot populair straatvoedsel. Met de groei van de Australische steden ontstonden bakkerijen en rondreizende verkopers die warme pasteien aanboden aan arbeiders, reizigers en bezoekers van markten en sportwedstrijden. Een van de opmerkelijkste figuren uit die tijd was William Francis King (1807–1873), beter bekend als *The Flying Pieman*. Hij verkocht vanaf de jaren dertig van de negentiende eeuw pasteien in Sydney en werd beroemd om zijn uitzonderlijke snelheid en uithoudingsvermogen. Volgens de overlevering verkocht hij zijn pasteien aan passagiers die in Sydney aan boord gingen van de veerboot naar Parramatta, om vervolgens de ongeveer dertig kilometer over land af te leggen en dezelfde passagiers bij aankomst opnieuw zijn overgebleven pasteien aan te bieden. Zijn merkwaardige combinatie van straatverkoop en atletische prestaties maakte hem tot een bekende persoonlijkheid in het koloniale Australië.\n\nAan het begin van de twintigste eeuw veranderde de productie ingrijpend. Waar pasteien voorheen vooral met de hand in kleine bakkerijen werden gemaakt, verschenen steeds grotere bedrijven. Een belangrijke pionier was George Sargent, die in 1906 in Sydney een pasteibedrijf oprichtte en in 1909 een grote fabriek in Darlinghurst opende. Door mechanisering, koeling en transport konden Meat Pies op steeds grotere schaal worden geproduceerd. Toch bleven ook de plaatselijke bakkerijen belangrijk. De klassieke Australische uitvoering kreeg een stevige bodem van korstdeeg, een vulling van rundvlees in dikke jus en een luchtig bladerdeegdeksel. Vooral de combinatie van knapperig deeg en sappig vlees maakte de pastei bijzonder geschikt om zonder bord of bestek te eten.\n\nDe band met de Australische sportcultuur werd in de twintigste eeuw steeds sterker. Vooral tijdens wedstrijden van Australian Rules Football werd een warme Meat Pie met tomatensaus een geliefde versnapering. Een belangrijke rol speelde de ondernemer Leslie Thompson McClure, die in 1947 in Bendigo de eerste *Four'N Twenty*-pasteien produceerde. De merknaam verwees naar het oude Engelse kinderliedje *Sing a Song of Sixpence*, waarin vierentwintig merels in een pastei worden gebakken. Dankzij de verkoop bij sportwedstrijden groeide Four'N Twenty uit tot een begrip. Tegenwoordig is voor veel Australiërs het eten van een Meat Pie tijdens een footballwedstrijd bijna even vanzelfsprekend als een hotdog bij een Amerikaanse honkbalwedstrijd.\n\nNaast de bekende handzame Meat Pie bestaan er allerlei regionale varianten. Een van de merkwaardigste is de *pie floater* uit Zuid-Australië, vooral bekend uit Adelaide. Daarbij wordt een warme vleespastei geserveerd in een kom dikke groene erwtensoep, meestal met tomatensaus bovenop. Dit gerecht werd vanaf de late negentiende eeuw populair bij straatverkopers en avondlijke bezoekers van de stad. De combinatie lijkt misschien ongewoon, maar is verwant aan Britse tradities waarin pasteien met erwten werden gegeten. In 2003 werd de pie floater zelfs erkend als een bijzonder onderdeel van het Zuid-Australische culinaire erfgoed. Onze grote Meat Pie met erwtenpuree verwijst naar deze traditie, al serveren we de erwten naast de pastei in plaats van eronder. Daarmee combineren we een klassieke Australische rundvleespastei met een regionale gewoonte uit Adelaide.",
   "bron": {
-    "receptTitel": null,
+    "receptTitel": "Geïnspireerd op de klassieke Australian Meat Pie",
     "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "kookboek": "ABC Australia",
+    "jaar": null,
+    "url": "https://www.abc.net.au/news/2020-10-23/aussie-meat-pie/12806552"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Australian Meat Pie – klassieke bereidingswijze",
+      "auteur": null,
+      "kookboek": "Reader's Digest Australia",
+      "jaar": null,
+      "url": "https://www.readersdigest.com.au/recipes/australian-meat-pie"
+    },
+    {
+      "receptTitel": "The history of the pie",
+      "auteur": null,
+      "kookboek": "ABC Australia",
+      "jaar": 2022,
+      "url": "https://www.abc.net.au/news/2022-07-18/history-of-the-pie-from-ancient-egypt-to-the-first-fleet/101219720"
+    },
+    {
+      "receptTitel": "The Flying Pieman",
+      "auteur": null,
+      "kookboek": "State Library of New South Wales",
+      "jaar": null,
+      "url": "https://www.sl.nsw.gov.au/stories/flying-pieman-sydney-en-pointe"
+    },
+    {
+      "receptTitel": "Meat pie exhibition tracks history of Australia iconic fast food",
+      "auteur": null,
+      "kookboek": "ABC Australia",
+      "jaar": 2016,
+      "url": "https://www.abc.net.au/news/2016-04-04/meat-pie-exhibition-tracks-history-of-australia-iconic-fast-food/7297216"
+    },
+    {
+      "receptTitel": "Leslie Thompson McClure",
+      "auteur": null,
+      "kookboek": "Australian Dictionary of Biography",
+      "jaar": null,
+      "url": "https://adb.anu.edu.au/biography/mcclure-leslie-thompson-les-10913"
+    },
+    {
+      "receptTitel": "Curious Adelaide – How did the pie floater come about?",
+      "auteur": null,
+      "kookboek": "ABC Australia",
+      "jaar": 2017,
+      "url": "https://www.abc.net.au/news/2017-10-06/curious-adelaide-how-did-the-pie-floater-come-about/9018094"
+    }
+  ]
 }

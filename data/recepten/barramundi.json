@@ -3,8 +3,9 @@
   "regios": [
     "australie"
   ],
-  "titel": "Barramundi",
-  "korteBeschrijving": "Australische vis met stevig wit vlees, vaak gegrild en eenvoudig geserveerd met citroen en kruiden.",
+  "titel": "Barramundi met macadamiakorst en geroosterde zoete aardappel",
+  "korteBeschrijving": "Australische barramundifilet met een krokante korst van macadamianoten, panko, citroen en kruiden, geserveerd met geroosterde zoete aardappel en sperziebonen in citroenboter.",
+  "beschrijving": "Barramundi met macadamiakorst is een moderne Australische visbereiding waarin twee karakteristieke ingrediënten van het continent samenkomen. Barramundi, een stevige witte vis uit de tropische wateren van Noord-Australië, wordt bedekt met een krokant mengsel van fijngehakte macadamianoten, panko, citroenrasp en verse kruiden. De vis gaart in de oven, zodat het vlees sappig blijft en de notenkorst goudbruin wordt. We serveren de filets met geroosterde zoete aardappel en sperziebonen in citroenboter, waardoor een kleurrijke, frisse en complete maaltijd ontstaat. Wie geen barramundi kan vinden, kan ook zeebaarsfilet gebruiken.",
   "afbeelding": "images/recepten/BarramundiAI.webp",
   "url": "recepten.html?id=barramundi",
   "volgorde": 148,
@@ -12,14 +13,98 @@
     "australie": 1
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 55,
+  "moeilijkheid": "Gemakkelijk",
+  "ingredienten": [
+    "Voor de vis:",
+    "4 barramundifilets van 180–200 g per stuk (of zeebaarsfilet als alternatief), zonder graten",
+    "100 g ongezouten macadamianoten",
+    "40 g panko (Japans paneermeel)",
+    "25 g roomboter",
+    "2 el fijngehakte verse platte peterselie",
+    "2 citroenen",
+    "Zout en versgemalen zwarte peper naar smaak",
+    "Voor de geroosterde zoete aardappel:",
+    "800 g zoete aardappelen",
+    "2 el olijfolie",
+    "1 tl mild paprikapoeder",
+    "Zout en versgemalen zwarte peper naar smaak",
+    "Voor de sperziebonen met citroenboter:",
+    "400 g sperziebonen",
+    "20 g roomboter",
+    "Zout en versgemalen zwarte peper naar smaak"
+  ],
+  "bereiding": [
+    "Verwarm de oven voor op 200 °C (boven- en onderwarmte). Bekleed een grote bakplaat met bakpapier. Schil de zoete aardappelen en snijd ze in stukken van ongeveer 2–3 cm.",
+    "Doe de zoete aardappel in een ruime kom en voeg de olijfolie, het paprikapoeder, zout en zwarte peper toe. Schep alles goed om, zodat de aardappelstukken rondom bedekt zijn. Verdeel ze in één laag over de bakplaat, met voldoende ruimte ertussen.",
+    "Schuif de bakplaat in het midden van de oven en rooster de zoete aardappel ongeveer 30–35 minuten, totdat de stukken gaar zijn en aan de randen goudbruin beginnen te kleuren. Schep halverwege voorzichtig om.",
+    "Hak ondertussen de macadamianoten in de keukenmachine met enkele korte pulsen tot grove kruimels. Maal ze niet te fijn, want dan ontstaat een vettige notenpasta. De stukjes mogen ongeveer zo groot zijn als grove broodkruimels.",
+    "Smelt de roomboter voor de vis kort in de magnetron. Was een citroen, rasp de gele schil fijn en hak de peterselie. Meng de macadamianoten met de panko, gesmolten boter, citroenrasp en peterselie. Breng op smaak met een beetje zout en zwarte peper. Het mengsel moet licht vochtig en kruimelig zijn, zodat je het straks op de vis kunt aandrukken.",
+    "Controleer de barramundifilets (of zeebaarsfilets) zorgvuldig op achtergebleven graten en dep ze droog met keukenpapier. Leg de filets met de huidzijde, indien aanwezig, naar beneden in een licht ingevette ovenschaal of op een tweede met bakpapier beklede bakplaat. Bestrooi de bovenzijde licht met zout en zwarte peper.",
+    "Verdeel het macadamiamengsel gelijkmatig over de vier visfilets. Druk het voorzichtig met de achterkant van een lepel aan tot een laag van ongeveer 5 mm dik, zodat de notenkorst goed blijft zitten. Zorg dat de vis grotendeels bedekt is.",
+    "Schuif de vis na ongeveer 20 minuten roostertijd van de zoete aardappel in de oven. Bak de filets ongeveer 12–15 minuten, afhankelijk van hun dikte, totdat het visvlees gemakkelijk in vlokken uiteenvalt en de macadamiakorst licht goudbruin is. Controleer bij voorkeur of het dikste deel van de vis een kerntemperatuur van 63 °C heeft bereikt. Dek de vis eventueel losjes af met aluminiumfolie wanneer de notenkorst te snel bruin wordt.",
+    "Maak ondertussen de sperziebonen schoon en verwijder de uiteinden. Breng een pan water aan de kook en kook de bonen ongeveer 8–10 minuten, totdat ze gaar zijn maar nog een lichte beet hebben. Giet af en laat kort uitdampen.",
+    "Smelt de roomboter voor de sperziebonen in een kleine pan of kort in de magnetron. Pers een halve citroen uit en roer het sap door de gesmolten boter. Schep de citroenboter door de warme sperziebonen en breng op smaak met zout en zwarte peper.",
+    "Controleer of de zoete aardappel volledig gaar is. De stukken moeten gemakkelijk met een vork door te prikken zijn en aan de buitenkant licht gekaramelliseerd zijn. Laat ze eventueel nog enkele minuten in de oven staan als de vis al gaar is.",
+    "Verdeel de geroosterde zoete aardappel en sperziebonen over vier borden. Leg op ieder bord een barramundifilet met de macadamiakorst naar boven. Snijd de overgebleven citroen in partjes en serveer deze bij de vis. Serveer direct, zodat de notenkorst lekker krokant blijft."
+  ],
+  "weetje": "Barramundi (*Lates calcarifer*) is een van de bekendste vissen van Australië en speelt al duizenden jaren een belangrijke rol in de voedselcultuur van Aboriginal-gemeenschappen in het tropische noorden. De vis komt voor in de rivieren, estuaria en kustwateren van onder meer het Noordelijk Territorium, Queensland en de Kimberley in West-Australië. Voor verschillende Aboriginal-gemeenschappen is barramundi niet alleen een belangrijke voedselbron, maar heeft de vis ook een spirituele betekenis. In de overlevering van de Dambimangari, de traditionele eigenaren van een deel van de noordwestelijke Kimberley, is barramundi zelfs verbonden met het ontstaan van Walcott Inlet, een diepe zeearm aan de kust. De vis maakt daarmee deel uit van zowel het dagelijkse bestaan als de verhalen over het ontstaan van het landschap.\n\nDe naam barramundi heeft een verrassende geschiedenis. Hij is afkomstig van het Aboriginal-woord *burramundi*, uit de Gangulu-taal in Centraal-Queensland. De naam wordt doorgaans uitgelegd als 'vis met grote schubben'. Toen de Duitse ontdekkingsreiziger Ludwig Leichhardt in de jaren 1840 langs de Dawson River reisde, hoorde hij deze naam voor een zoetwatervis die tegenwoordig bekendstaat als de zuidelijke saratoga (*Scleropages leichardti*). Dat was dus een heel andere soort dan de barramundi die wij nu eten. In de loop van de negentiende en twintigste eeuw werd de naam ook op andere grote vissen toegepast. Pas in de jaren tachtig werd barramundi als commerciële naam nadrukkelijk verbonden aan *Lates calcarifer*, een vis die internationaal ook bekendstaat als Asian sea bass. Een eeuwenoude Aboriginal-naam kreeg zo een nieuwe betekenis in de moderne Australische voedselcultuur.\n\nOok biologisch is barramundi een opmerkelijke vis. Hij kan zowel in zoet als in zout water leven en legt tijdens zijn levenscyclus grote afstanden af. Jonge barramundi groeien vaak op in rivieren en moerassen, maar trekken later richting de kust om zich voort te planten. Daarbij doet zich iets bijzonders voor: barramundi worden doorgaans eerst als mannetje geslachtsrijp en kunnen op latere leeftijd in vrouwtjes veranderen. De grootste exemplaren zijn daarom vaak vrouwtjes, die tijdens één voortplantingsseizoen miljoenen eitjes kunnen produceren. Hoe ver deze vissen kunnen reizen, blijkt uit onderzoek in West-Australië, waar een gemerkte barramundi maar liefst 622 kilometer van zijn oorspronkelijke vangplaats werd teruggevangen. Deze bijzondere levenswijze maakt de vis tot een belangrijk onderdeel van de ecosystemen van tropische rivieren en kustwateren.\n\nHet tweede karakteristieke ingrediënt van ons gerecht, de macadamianoot, heeft een al even interessante geschiedenis. Macadamiabomen groeien van nature in de subtropische regenwouden van Queensland en het noorden van New South Wales. Voor de Aboriginal-volken in deze gebieden waren de voedzame noten al lang vóór de Europese kolonisatie een gewaardeerde lekkernij. Onder de Kabi Kabi waren ze onder andere bekend als *Kindal Kindal*, terwijl andere gemeenschappen namen als *Jindilli* en *Boombera* gebruikten. De uitzonderlijk harde dop werd met behulp van speciaal gevormde stenen opengebroken. Daarbij werd de noot op een steen met een uitholling geplaatst en met een tweede steen voorzichtig gekraakt, zodat de kostbare kern niet beschadigde. Macadamianoten werden gegeten, bewaard en tussen gemeenschappen uitgewisseld, soms ook als geschenk tijdens bijzondere bijeenkomsten.\n\nDe Europese naam ontstond pas in 1857, toen de Duitse botanicus Ferdinand von Mueller het geslacht *Macadamia* beschreef en vernoemde naar zijn vriend John Macadam, een Schots-Australische scheikundige en bestuurder. Vanaf de jaren 1870 begonnen Australische kolonisten de bomen op grotere schaal aan te planten. In de jaren 1880 bereikte de Australische macadamia Hawaï dankzij de Schotse plantenverzamelaar William Herbert Purvis, die er een suikerplantage beheerde. Hij liet bij Kapulena macadamiazaden planten, aanvankelijk vooral om de bomen als sierplant en windscherm te gebruiken. Pas vanaf de jaren twintig van de twintigste eeuw ontwikkelde Hawaï een commerciële macadamia-industrie. Van daaruit werden nieuwe teeltmethoden en geselecteerde boomrassen over de wereld verspreid. Zo werd een Australische bosnoot internationaal bekend als de 'Hawaiian nut', terwijl zijn oorsprong duizenden kilometers verderop lag.\n\nDe combinatie van barramundi en macadamianoten is een betrekkelijk moderne ontwikkeling in de Australische keuken. In de twintigste eeuw gingen Australische koks steeds meer aandacht besteden aan plaatselijke producten, waaronder ingrediënten die tegenwoordig vaak onder de verzamelnaam *bushfood* worden gepresenteerd. De milde, stevige barramundi leent zich uitstekend voor een krokante korst van de romige macadamianoot. Met geroosterde zoete aardappel en sperziebonen ontstaat een gerecht waarin de moderne Australische keuken en de veel oudere voedselgeschiedenis van het continent samenkomen. Het is geen overgeleverd Aboriginal-recept, maar wel een mooi voorbeeld van hoe inheemse Australische ingrediënten tegenwoordig een nieuwe plaats krijgen in de keuken.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Baked Macadamia Crusted Barramundi – recept van Guy Turland",
+    "auteur": "Guy Turland",
+    "kookboek": "Australian Good Food Guide",
+    "jaar": null,
+    "url": "https://www.agfg.com.au/recipe/baked-macadamia-crusted-barramundi-recipe-by-guy-turland"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Baked Macadamia Crusted Fish",
+      "auteur": null,
+      "kookboek": "Australian Macadamias",
+      "jaar": null,
+      "url": "https://www.australian-macadamias.org/recipe/baked-macadamia-crusted-fish/"
+    },
+    {
+      "receptTitel": "Barramundi: What's in a name?",
+      "auteur": null,
+      "kookboek": "State Library of Queensland",
+      "jaar": null,
+      "url": "https://www.slq.qld.gov.au/blog/barramundi-whats-name"
+    },
+    {
+      "receptTitel": "Flora and fauna – State of the Environment",
+      "auteur": null,
+      "kookboek": "Australian Government",
+      "jaar": null,
+      "url": "https://soe.dcceew.gov.au/biodiversity/environment/flora-and-fauna"
+    },
+    {
+      "receptTitel": "Fact Sheet: Barramundi",
+      "auteur": null,
+      "kookboek": "Department of Primary Industries and Regional Development, Western Australia",
+      "jaar": null,
+      "url": "https://marinewaters.fish.wa.gov.au/resource/fact-sheet-barramundi-swt/"
+    },
+    {
+      "receptTitel": "Wild Macadamias – History",
+      "auteur": null,
+      "kookboek": "Wild Macadamia Conservation",
+      "jaar": null,
+      "url": "https://wildmacadamia.org.au/wild-macadamias/history/"
+    },
+    {
+      "receptTitel": "History and Industry",
+      "auteur": null,
+      "kookboek": "Australian Macadamias",
+      "jaar": null,
+      "url": "https://www.australian-macadamias.org/an-australian-legend/history-and-industry/"
+    },
+    {
+      "receptTitel": "Wild Origins of Macadamia Domestication",
+      "auteur": null,
+      "kookboek": "Frontiers in Plant Science",
+      "jaar": 2019,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6438079/"
+    }
+  ]
 }

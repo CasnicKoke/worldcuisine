@@ -3,8 +3,9 @@
   "regios": [
     "nieuw-zeeland"
   ],
-  "titel": "Hāngī",
-  "korteBeschrijving": "Traditionele Māori-bereiding waarbij vlees en groenten langzaam in een ondergrondse oven worden gegaard.",
+  "titel": "Hāngī – Māori-stoomgerecht uit de aardoven",
+  "korteBeschrijving": "Traditioneel Māori-stoomgerecht met kip, varkensvlees, kūmara, aardappelen, pompoen en groenten.",
+  "beschrijving": "Hāngī is een traditionele Māori-bereidingswijze waarbij vlees en groenten langzaam worden gegaard met de hitte en stoom van hete stenen in een ondergrondse oven. Voor onze thuisversie gebruiken we een goed afgesloten braadslede met kipdijfilet, varkensschouder, kūmara (zoete aardappel), gewone aardappelen, pompoen, wortelen en kool. De ingrediënten garen onder een laag koolbladeren, waardoor het vlees mals en sappig wordt en de groenten hun natuurlijke smaak behouden. Zo ontstaat een voedzame, gezamenlijke maaltijd die de traditionele kooktechniek vertaalt naar een gewone keuken.",
   "afbeelding": "images/recepten/HangiAI.webp",
   "url": "recepten.html?id=hangi",
   "volgorde": 151,
@@ -12,14 +13,91 @@
     "nieuw-zeeland": 0
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 150,
+  "moeilijkheid": "Gemakkelijk",
+  "ingredienten": [
+    "Voor het vlees:",
+    "700 g kipdijfilet, zonder bot en vel",
+    "500 g varkensschouder, zonder bot",
+    "2 el zonnebloemolie",
+    "1 tl gerookt paprikapoeder (optioneel)",
+    "1 tl gedroogde tijm",
+    "Zout en versgemalen zwarte peper naar smaak",
+    "Voor de groenten:",
+    "500 g vastkokende aardappelen",
+    "500 g kūmara (alternatief: gewone zoete aardappel)",
+    "400 g flespompoen",
+    "2 wortelen",
+    "½ kleine witte kool",
+    "1 grote ui",
+    "200 ml water of lichte kippenbouillon",
+    "Verder nodig:",
+    "Een ruime diepe braadslede of ovenschaal, bij voorkeur met deksel, en aluminiumfolie"
+  ],
+  "bereiding": [
+    "Verwarm de oven voor op 180 °C boven- en onderwarmte. Neem een grote, diepe braadslede waarin het vlees en de groenten in enkele lagen passen, zonder dat de schaal helemaal vol raakt.",
+    "Snijd de varkensschouder in stukken van ongeveer 4 cm. Laat de kipdijfilets heel, zodat ze tijdens het stomen sappig blijven. Dep het vlees droog met keukenpapier.",
+    "Meng de zonnebloemolie met het gerookte paprikapoeder (indien gebruikt), de tijm, het zout en de zwarte peper. Wrijf de kip en het varkensvlees rondom in met dit mengsel. Laat het vlees staan terwijl je de groenten voorbereidt.",
+    "Schil de aardappelen en kūmara en snijd ze in grote stukken van ongeveer 4–5 cm. Schil de pompoen, verwijder de pitten en snijd het vruchtvlees in stukken van dezelfde grootte. Schil de wortelen en snijd ze in grove stukken.",
+    "Pel de ui en snijd hem in vieren. Verwijder eventuele beschadigde buitenbladeren van de kool en maak vier tot zes grote bladeren voorzichtig los. Snijd de resterende kool in brede repen.",
+    "Breng een ruime pan water aan de kook en blancheer de grote koolbladeren ongeveer 2 minuten, totdat ze soepel zijn. Schep ze uit het water en laat ze uitlekken. Hierdoor kun je ze straks gemakkelijker over de andere ingrediënten vouwen.",
+    "Verdeel de koolrepen over de bodem van de braadslede en leg de stukken kip en varkensvlees erop. Verdeel de aardappelen, kūmara, pompoen, wortelen en ui over en tussen het vlees. Zo liggen de stevige ingrediënten bij elkaar en kunnen de vleessappen tijdens het garen door de groenten lopen.",
+    "Leg de geblancheerde koolbladeren over de ingrediënten, zodat ze zoveel mogelijk zijn afgedekt. Schenk het water of de bouillon voorzichtig langs de rand van de braadslede, zonder de kruiden van het vlees te spoelen.",
+    "Dek de braadslede zeer stevig af met twee lagen aluminiumfolie. Druk de randen rondom goed aan, zodat zo min mogelijk stoom kan ontsnappen. Gebruik je een braadslede met deksel, leg dan eerst een laag aluminiumfolie over de schaal en plaats daarna het deksel.",
+    "Schuif de braadslede in het midden van de oven en laat ongeveer 2 uur garen. Open de folie tijdens het garen bij voorkeur niet: de opgesloten stoom is juist essentieel voor deze bereidingswijze. Bij een goed afgesloten schaal en voldoende vocht ontstaat een warme, vochtige omgeving waarin vlees en groenten langzaam mals worden.",
+    "Neem de braadslede voorzichtig uit de oven en til een hoek van de folie van je af op, zodat de hete stoom kan ontsnappen. Controleer of de kip volledig gaar is, het varkensvlees mals is en de aardappelen en kūmara gemakkelijk met een vork kunnen worden doorgeprikt. Controleer bij de kip een kerntemperatuur van minstens 75 °C. Zijn het vlees of de groenten nog niet gaar, sluit de schaal dan opnieuw af en zet hem nog 15–20 minuten in de oven.",
+    "Laat het gerecht ongeveer 5 minuten afgedekt rusten. Verdeel de kip, het varkensvlees en de verschillende groenten over vier grote borden. Schep eventueel wat van het vocht uit de braadslede over het vlees en serveer direct."
+  ],
+  "weetje": "Hāngī is een van de oudste kooktechnieken van Nieuw-Zeeland en vormt een belangrijk onderdeel van de voedselcultuur van de Māori, de oorspronkelijke Polynesische bewoners van Aotearoa. Toen hun voorouders zich vanaf de dertiende eeuw op de Nieuw-Zeelandse eilanden vestigden, brachten zij de Polynesische traditie van koken in een aardoven mee. In het Māori wordt zo'n oven ook *umu* genoemd, een woord dat verwant is aan benamingen voor aardovens elders in Polynesië. De techniek was bijzonder geschikt om grote hoeveelheden voedsel tegelijk te bereiden. In een ondiepe kuil werden stenen met een houtvuur verhit, waarna het voedsel boven de hete stenen werd geplaatst en de kuil met vochtige bladeren, gevlochten matten en aarde werd afgesloten. Het water veranderde in stoom, die gedurende enkele uren door het voedsel trok en alles langzaam gaarde.\n\nDe keuze van de stenen was daarbij van groot belang. Niet iedere steen is geschikt om sterk te verhitten: sommige gesteenten kunnen door de hitte barsten of zelfs met kracht uiteenspatten. Māori-koks ontwikkelden daarom een uitgebreide kennis van de eigenschappen van verschillende steensoorten. Vooral bepaalde vulkanische gesteenten waren geschikt om warmte vast te houden en geleidelijk af te geven. Goede kookstenen waren zo waardevol dat ze soms als geschenk tussen gemeenschappen werden uitgewisseld. In Ruarangi, in het noorden van Nieuw-Zeeland, waren de stenen volgens de overlevering zelfs zo geschikt voor de aardoven dat men ze *ngā kōwhatu tangi kai o Ruarangi* noemde: 'de stenen van Ruarangi die om voedsel huilen'. Deze opmerkelijke uitdrukking laat zien hoe belangrijk de keuze van het juiste materiaal was voor een geslaagde Hāngī.\n\nHet voedsel dat in de oorspronkelijke aardovens werd bereid, verschilde sterk van de huidige samenstelling. Vóór de komst van Europeanen bestond het dieet van de Māori onder andere uit vis, schelpdieren, vogels, paling, varenwortels en kūmara. Vooral kūmara speelde een bijzondere rol. De Polynesische voorouders van de Māori hadden deze zoete aardappel meegenomen naar Nieuw-Zeeland, waar de teelt veel moeilijker was dan op de warmere eilanden van de Stille Oceaan. Māori-boeren ontwikkelden daarom speciale akkers op zonnige hellingen en verbeterden de bodem met zand en grind. Omdat kūmara niet tegen de koude winters bestand was, werden de knollen na de oogst opgeslagen in zorgvuldig aangelegde ondergrondse voorraadkuilen, *rua kūmara* genoemd. Hier konden ze maandenlang worden bewaard en bleef er voldoende plantmateriaal over voor het volgende groeiseizoen. De kūmara was zo belangrijk dat de teelt verbonden was met religieuze gebruiken en met Rongomātāne, de godheid van de landbouw en gecultiveerde voedselgewassen.\n\nEen grote verandering volgde aan het einde van de achttiende eeuw, toen Europese ontdekkingsreizigers en kolonisten nieuwe voedselbronnen introduceerden. Varkens, kippen en later ook schapen werden opgenomen in de Māori-keuken, terwijl aardappelen, pompoenen, wortelen en kool de bestaande landbouwgewassen aanvulden. Vooral de gewone aardappel werd snel populair: hij leverde veel voedsel op, was gemakkelijker te verbouwen dan kūmara en groeide ook in koudere delen van Nieuw-Zeeland. Māori-gemeenschappen begonnen zelfs aardappelen en varkens te verhandelen en bouwden daarmee een belangrijke positie op in de voedselvoorziening van de jonge Europese nederzettingen. De nieuwe ingrediënten vonden ook hun weg naar de Hāngī. Daardoor ontstond geleidelijk de combinatie van vlees, aardappelen, kūmara, pompoen en kool die tegenwoordig zo kenmerkend is voor het gerecht.\n\nDe Hāngī was echter nooit uitsluitend een praktische kookmethode. Omdat het voorbereiden van een grote aardoven veel tijd en gezamenlijk werk vergde, was de bereiding nauw verbonden met gastvrijheid en gemeenschapsleven. Het delen van voedsel is binnen de Māori-cultuur een belangrijk onderdeel van *manaakitanga*: het tonen van zorg, respect en gastvrijheid aan anderen. Grote Hāngī werden bereid bij bijeenkomsten op de *marae*, de traditionele ontmoetingsplaats van een gemeenschap, maar ook bij huwelijken, herdenkingen en *tangihanga*, de Māori-rouwceremonies. De ovens konden zo groot zijn dat er voor tientallen of zelfs honderden gasten tegelijk werd gekookt. Een historische foto uit Northland, gemaakt in de jaren 1910, laat bijvoorbeeld een omvangrijke Hāngī zien die werd bereid voor zowel Māori als Europese Nieuw-Zeelanders. Het gerecht bracht dus ook mensen uit verschillende gemeenschappen samen.\n\nTegenwoordig blijft Hāngī een levendige traditie, al is de bereiding in veel huishoudens eenvoudiger geworden. Voor bijzondere gelegenheden worden nog steeds traditionele aardovens gegraven, terwijl elders gebruik wordt gemaakt van stoomkasten of aangepaste ovens. In Rotorua, waar de aarde op sommige plaatsen van nature wordt verwarmd door vulkanische activiteit, wordt voedsel bovendien met geothermische stoom bereid. Hāngī speelt ook een rol bij de viering van Matariki, het Māori-nieuwjaar, wanneer families samenkomen om de oogst te vieren, overleden dierbaren te herdenken en vooruit te kijken naar het nieuwe jaar. Onze ovenversie met kip, varkensvlees, kūmara en groenten is een praktische aanpassing van deze eeuwenoude traditie. Hoewel de kenmerkende aardse smaak van een echte Hāngī niet volledig kan worden nagebootst, blijft het oorspronkelijke principe behouden: eenvoudige ingrediënten worden samen, langzaam en met behulp van stoom bereid tot een maaltijd die bedoeld is om te delen.",
   "bron": {
-    "receptTitel": null,
+    "receptTitel": "Oven Style Hangi",
     "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "kookboek": "Heart Foundation New Zealand",
+    "jaar": null,
+    "url": "https://www.heartfoundation.org.nz/wellbeing/healthy-recipes/oven-style-hangi"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Traditional cooking and preserving",
+      "auteur": null,
+      "kookboek": "Te Ara – The Encyclopedia of New Zealand",
+      "jaar": null,
+      "url": "https://teara.govt.nz/en/maori-foods-kai-maori/page-2"
+    },
+    {
+      "receptTitel": "Kōhatu: Māori use of stone",
+      "auteur": null,
+      "kookboek": "Te Ara – The Encyclopedia of New Zealand",
+      "jaar": null,
+      "url": "https://teara.govt.nz/en/kohatu-maori-use-of-stone/print"
+    },
+    {
+      "receptTitel": "Kūmara",
+      "auteur": null,
+      "kookboek": "Te Ara – The Encyclopedia of New Zealand",
+      "jaar": null,
+      "url": "https://teara.govt.nz/en/kumara"
+    },
+    {
+      "receptTitel": "Kai Pākehā: Introduced foods",
+      "auteur": null,
+      "kookboek": "Te Ara – The Encyclopedia of New Zealand",
+      "jaar": null,
+      "url": "https://teara.govt.nz/en/kai-pakeha-introduced-foods"
+    },
+    {
+      "receptTitel": "Hāngī, Northland, 1910s",
+      "auteur": null,
+      "kookboek": "Te Ara – The Encyclopedia of New Zealand",
+      "jaar": null,
+      "url": "https://teara.govt.nz/en/photograph/38510/hangi-northland-1910s"
+    },
+    {
+      "receptTitel": "Hautapu: ceremonial oven and offerings",
+      "auteur": null,
+      "kookboek": "Museum of New Zealand Te Papa Tongarewa",
+      "jaar": null,
+      "url": "https://www.tepapa.govt.nz/digital-museum/explore-digital-museum/matariki-maori-new-year/hautapu-ceremonial-oven-and-offerings-1"
+    }
+  ]
 }

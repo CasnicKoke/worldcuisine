@@ -34,7 +34,7 @@ const continenten = {
 	//Europese continent
 	balkan: [ "HR", "SI", "RS", "BA", "ME", "MK", "AL", "XK", "BG", "RO" ],
 	"oost-centraal-europa": [ "PL", "CZ", "SK", "HU" ],
-	scandinavie: [ "Denmark", "SE", "Norway", "FI", "IS", "GL", "Faeroe Islands" ],
+	scandinavie: [ "Denmark", "SE", "Norway", "FI", "IS", "Faeroe Islands" ],
 	"britse-eilanden": [ "United Kingdom", "IE"],
 	germaans: [ "DE", "NL", "BE", "LU"],
 	"midden-europa": [ "France", "CH", "AT"],
@@ -73,6 +73,7 @@ const continenten = {
     "zuidelijk-afrika": ["NA", "BW", "LS", "SZ", "ZA"],
        
     //"noord-amerika"
+    "arctische-wereld": ["GL", "Alaska", "Canada-Arctic"],
     canada: ["Canada"],
     "verenigde-staten": ["United States"],
 
@@ -104,7 +105,7 @@ const kleuren = {
 	germaans: "#B86F13",
 	"midden-europa": "#92580F",
 	"mediterraans": "#6C410B",
-    "noord-oost-europa": "#D5AD77",
+    "noord-oost-europa": "#C18A42",
     
     //azie
     "siberie": "#1E5F8A",
@@ -139,9 +140,11 @@ const kleuren = {
 
 
     //noord-amerika
+    // Noord-Amerika
     canada: "#C97A73",
     "verenigde-staten": "#B95A52",
-    
+    "arctische-wereld": "#D99A94",
+
     //latijns-amerika
     mexicaans:          "#D8C4E8",
     "centraal-amerika": "#CDB3E0",
@@ -202,6 +205,7 @@ const werelddeelPerRegio = {
     "eilanden-indische-oceaan": "afrika",
 
     // Noord-Amerika
+    "arctische-wereld": "noord-amerika",
     canada: "noord-amerika",
     "verenigde-staten": "noord-amerika",
 
@@ -489,6 +493,14 @@ const regioBeschrijving = {
             "rijst, vis, schaaldieren, kokosmelk, gember, kurkuma, chilipepers, vanille, kruidnagel, bakbananen, tropische vruchten"
     },
     
+    "arctische-wereld": {
+        titel: "Arctische Wereld",
+        beschrijving:
+            "De Arctische Wereld omvat Groenland, Alaska en de drie noordelijke territoria van Canada. De keukens van Inuit, Yupik, Inuvialuit, Dene en andere gemeenschappen zijn sterk verbonden met visvangst, jacht, seizoenen, conservering en lokale ecosystemen. De culturele gebieden lopen deels door de gekozen bestuurlijke grenzen heen.",
+        ingredienten:
+            "Arctische vis, wild, rendier en kariboe, bessen, zeevruchten, traditioneel geconserveerde producten"
+    },
+
     canada: {
         titel: "Canada",
         beschrijving:
@@ -866,6 +878,12 @@ const regioIngredientIconen = {
     ],
 
     // Noord-Amerika
+    "arctische-wereld": [
+        { naam: "Vis", bestand: "icon-fish.png" },
+        { naam: "Wild", bestand: "icon-meat.png" },
+        { naam: "Bessen", bestand: "icon-avocado.png" }
+    ],
+
     canada: [
         { naam: "Zalm", bestand: "icon-fish.png" },
         { naam: "Esdoornsiroop", bestand: "icon-bowl.png" },
@@ -1027,6 +1045,7 @@ const regioFotos = {
     "zuidelijk-afrika": "feature-zuidelijk-afrikaAI.jpg",
 
     // Noord-Amerika
+    "arctische-wereld": "feature-arctische-wereldAI.jpg", 
     canada: "feature-canadaAI.jpg",
     "verenigde-staten": "feature-verenigde-statenAI.jpg",
 

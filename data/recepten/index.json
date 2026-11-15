@@ -1711,6 +1711,46 @@
         "zambezi-zuidoost-afrika"
       ],
       "bestand": "data/recepten/galinhaZambeziana.json"
+    },
+    "romazava": {
+      "titel": "Romazava met rijst",
+      "korteBeschrijving": "Traditionele Malagassische stoofschotel van mals rundvlees in een geurige bouillon met gember, knoflook, tomaat en verschillende bladgroenten, geserveerd met witte rijst.",
+      "afbeelding": "images/recepten/RomazavaAI.webp",
+      "url": "recepten.html?id=romazava",
+      "regios": [
+        "eilanden-indische-oceaan"
+      ],
+      "bestand": "data/recepten/romazava.json"
+    },
+    "rougailSaucisses": {
+      "titel": "Rougail Saucisses met rijst",
+      "korteBeschrijving": "Gerookte varkensworst in een kruidige, licht pittige tomatensaus met ui, knoflook, gember en chilipeper, geserveerd met witte rijst.",
+      "afbeelding": "images/recepten/RougailSaucissesAI.webp",
+      "url": "recepten.html?id=rougailSaucisses",
+      "regios": [
+        "eilanden-indische-oceaan"
+      ],
+      "bestand": "data/recepten/rougailSaucisses.json"
+    },
+    "dhollPuri": {
+      "titel": "Dholl Puri met Cari Gros Pois en korianderchutney",
+      "korteBeschrijving": "Dunne Mauritiaanse platbroden gevuld met gekruide gele spliterwten, geserveerd met een romige curry van grote witte bonen en een frisse, pittige korianderchutney.",
+      "afbeelding": "images/recepten/DhollPuriAI.webp",
+      "url": "recepten.html?id=dhollPuri",
+      "regios": [
+        "eilanden-indische-oceaan"
+      ],
+      "bestand": "data/recepten/dhollPuri.json"
+    },
+    "kariZourit": {
+      "titel": "Kari Zourit met rijst en pompoenchutney",
+      "korteBeschrijving": "Seychelse octopuscurry met aubergine, kokosmelk, gember, curryblaadjes en warme specerijen, geserveerd met basmatirijst en een frisse, licht pittige pompoenchutney.",
+      "afbeelding": "images/recepten/KariZouritAI.webp",
+      "url": "recepten.html?id=kariZourit",
+      "regios": [
+        "eilanden-indische-oceaan"
+      ],
+      "bestand": "data/recepten/kariZourit.json"
     }
   }
 }

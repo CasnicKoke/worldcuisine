@@ -3,8 +3,9 @@
   "regios": [
     "canada"
   ],
-  "titel": "Tourtière",
-  "korteBeschrijving": "Hartige Québecse vleespastei met gekruid gehakt in een goudbruine deegkorst.",
+  "titel": "Tourtière – Canadese vleespastei uit Québec",
+  "korteBeschrijving": "Traditionele Québecse vleespastei met gekruid varkens- en rundergehakt in een goudbruine deegkorst, geserveerd met sperziebonen, sjalot en mosterdvinaigrette.",
+  "beschrijving": "Tourtière is een van de bekendste gerechten uit de Frans-Canadese keuken en staat in Québec vooral tijdens de kerstperiode op tafel. Voor onze versie vullen we een zelfgemaakte, brosse deegkorst met varkens- en rundergehakt, ui, aardappel en een subtiele combinatie van bonenkruid, kaneel, nootmuskaat en kruidnagel. De aardappel bindt de sappige vleesvulling, terwijl de goudbruine korst voor een aangenaam contrast zorgt. We serveren de pastei met warme sperziebonen, sjalot en een frisse mosterdvinaigrette, die het rijke gerecht mooi in balans brengt.",
   "afbeelding": "images/recepten/TourtiereAI.webp",
   "url": "recepten.html?id=tourtiere",
   "volgorde": 81,
@@ -12,14 +13,115 @@
     "canada": 1
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 150,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor het deeg:",
+    "320 g tarwebloem",
+    "160 g koude roomboter",
+    "1 tl zout",
+    "100–120 ml ijskoud water",
+    "1 ei, om het deeg te bestrijken",
+    "Voor de vleesvulling:",
+    "350 g varkensgehakt",
+    "300 g rundergehakt",
+    "200 g kruimige aardappelen",
+    "1 grote ui",
+    "2 tenen knoflook",
+    "1 el zonnebloemolie",
+    "100 ml runderbouillon, bij voorkeur zoutarm",
+    "1 tl gedroogd bonenkruid (alternatief: gedroogde tijm)",
+    "1 mespunt gemalen kaneel",
+    "1 mespunt gemalen nootmuskaat",
+    "1 mespunt gemalen kruidnagel",
+    "1 tl zout",
+    "Versgemalen zwarte peper naar smaak",
+    "1 el fijn paneermeel, voor de deegbodem",
+    "Voor de sperziebonen met sjalot en mosterdvinaigrette:",
+    "500 g sperziebonen",
+    "1 sjalot",
+    "20 g roomboter",
+    "1 el appelazijn",
+    "1 tl Dijonmosterd",
+    "Zout en versgemalen zwarte peper naar smaak",
+    "Verder nodig:",
+    "Een ronde metalen taartvorm van ongeveer 24 cm doorsnede, met een rand van minimaal 3,5 cm",
+    "Een beetje extra roomboter om de taartvorm in te vetten",
+    "Deegroller",
+    "Metalen bakplaat"
+  ],
+  "bereiding": [
+    "Snijd de koude roomboter voor het deeg in kleine blokjes. Doe de bloem en het zout in een ruime kom.",
+    "Voeg de boterblokjes toe en wrijf ze met je vingertoppen door de bloem totdat een kruimelig mengsel ontstaat. Er mogen nog kleine stukjes boter zichtbaar zijn.",
+    "Voeg het ijskoude water geleidelijk toe en meng met een vork totdat het deeg net samenkomt. Gebruik alleen zoveel water als nodig is om een samenhangend deeg te krijgen.",
+    "Kneed het deeg heel kort met de hand, vorm er een platte schijf van en verpak deze in vershoudfolie.",
+    "Laat het deeg minimaal 30 minuten in de koelkast rusten. Zo wordt het gemakkelijker uit te rollen en blijft de korst tijdens het bakken bros.",
+    "Schil de aardappelen en snijd ze in blokjes van ongeveer 2 cm. Doe ze in een pan met koud water en breng aan de kook.",
+    "Kook de aardappelen ongeveer 15 minuten, totdat ze helemaal gaar zijn. Giet af, laat goed uitdampen en stamp fijn tot een droge puree. Voeg geen melk of boter toe.",
+    "Pel de ui en snipper deze fijn. Pel de knoflook en hak de tenen fijn.",
+    "Verhit de zonnebloemolie in een grote hapjespan op middelhoog vuur. Voeg de ui toe en bak ongeveer 5 minuten, totdat deze zacht en glazig is.",
+    "Voeg de knoflook toe en bak ongeveer 1 minuut mee.",
+    "Voeg het varkensgehakt en rundergehakt toe. Bak ongeveer 8–10 minuten terwijl je het vlees met een houten lepel in kleine stukjes verdeelt. Het gehakt moet zijn rauwe kleur verliezen en licht beginnen te bruinen.",
+    "Voeg het bonenkruid, de kaneel, nootmuskaat, kruidnagel, zout en zwarte peper toe. Meng zorgvuldig door het vlees.",
+    "Schenk de runderbouillon erbij en laat het geheel 15–20 minuten zachtjes sudderen zonder deksel. Roer regelmatig. Het grootste deel van het vocht moet verdampen, maar de vulling mag niet uitdrogen.",
+    "Voeg de aardappelpuree toe en meng zorgvuldig door het gehakt. De aardappel bindt het overgebleven vocht en zorgt ervoor dat de vulling straks goed samenhangt.",
+    "Proef de vulling en voeg indien nodig wat extra zout of peper toe. Schep het mengsel in een brede schaal en laat volledig afkoelen. Een koude vulling is belangrijk voor een krokante deegbodem.",
+    "Plaats een lege metalen bakplaat in het onderste deel van de oven en verwarm de oven voor op 200 °C (boven- en onderwarmte).",
+    "Vet de metalen taartvorm licht in met boter.",
+    "Haal het deeg uit de koelkast en verdeel het in twee stukken: ongeveer 60% voor de bodem en zijkanten en 40% voor het deegdeksel.",
+    "Rol het grootste deel op een licht bebloemd werkblad uit tot een ronde lap van ongeveer 3 mm dik. Bekleed hiermee de bodem en de zijkanten van de taartvorm. Laat het deeg iets over de rand hangen.",
+    "Strooi het paneermeel gelijkmatig over de deegbodem. Dit helpt voorkomen dat de korst zacht wordt door het vocht uit de vleesvulling.",
+    "Verdeel de volledig afgekoelde vleesvulling over de deegbodem en strijk de bovenkant glad. Druk licht aan, maar maak de vulling niet te compact.",
+    "Rol het tweede deel van het deeg uit tot een ronde lap die iets groter is dan de taartvorm.",
+    "Leg het deegdeksel voorzichtig over de vulling. Druk de boven- en onderrand stevig tegen elkaar en snijd overtollig deeg weg. Vouw de rand naar binnen en druk met een vork of je vingers een decoratieve rand.",
+    "Maak met een scherp mes drie kleine inkepingen in het deegdeksel, zodat stoom tijdens het bakken kan ontsnappen.",
+    "Klop het ei los en bestrijk de bovenkant van de pastei met een dun laagje ei.",
+    "Plaats de taartvorm voorzichtig op de voorverwarmde bakplaat, onder in de oven. Bak de Tourtière 15 minuten op 200 °C.",
+    "Verlaag de temperatuur naar 185 °C en bak nog ongeveer 30–35 minuten, totdat de bovenkant goudbruin is en de korst volledig gaar is. Dek de bovenkant eventueel losjes af met aluminiumfolie als deze te snel donker wordt.",
+    "Haal de Tourtière uit de oven en laat 15 minuten rusten voordat je hem aansnijdt. Daardoor wordt de vulling steviger en kun je mooie punten snijden.",
+    "Maak ongeveer 20 minuten voordat de Tourtière klaar is de sperziebonen schoon. Breng een pan met water en een beetje zout aan de kook en kook de sperziebonen 7–9 minuten, totdat ze beetgaar zijn. Giet ze af.",
+    "Pel de sjalot en snipper deze fijn. Smelt de roomboter in een koekenpan op middelhoog vuur en fruit de sjalot ongeveer 3 minuten.",
+    "Voeg de uitgelekte sperziebonen toe en bak nog ongeveer 2 minuten mee. Meng de appelazijn met de Dijonmosterd, schep door de warme bonen en breng op smaak met zout en zwarte peper.",
+    "Snijd de Tourtière in vier grote punten. Leg op ieder bord een punt vleespastei en serveer met de warme sperziebonen en sjalot."
+  ],
+  "weetje": "De geschiedenis van de Tourtière gaat terug tot de eerste Franse kolonisten die zich in de zeventiende eeuw langs de Saint Lawrencerivier vestigden. Zij brachten hun vertrouwde recepten voor hartige vleespasteien mee naar Nieuw-Frankrijk, waar ze werden aangepast aan de plaatselijke ingrediënten. Varkensvlees van de eigen boerderij werd gecombineerd met rundvlees, kalfsvlees of wild, terwijl specerijen als kaneel, kruidnagel en nootmuskaat een bijzondere smaak aan de vulling gaven. De Tourtière werd al in 1646 genoemd in de geschriften van Franse jezuïeten en groeide uit tot een vast onderdeel van de Québecse eetcultuur.\n\nVooral tijdens het *réveillon*, het uitgebreide feestmaal dat traditioneel na de nachtmis op kerstavond werd gehouden, mocht de Tourtière niet ontbreken. Families kwamen laat op de avond samen voor een feestelijke maaltijd met vleespasteien, bonengerechten, stoofschotels en andere specialiteiten. Omdat de pasteien van tevoren konden worden bereid en in de oven opgewarmd, waren ze bijzonder geschikt voor grote gezelschappen. Ook tegenwoordig heeft vrijwel iedere familie in Québec haar eigen recept, dat vaak van generatie op generatie wordt doorgegeven. Over de juiste ingrediënten kan daarbij stevig worden gediscussieerd.\n\nDie discussies worden nog heftiger wanneer de vraag opkomt wat eigenlijk een échte Tourtière is. In Montréal en een groot deel van Québec bedoelt men doorgaans een relatief platte pastei met gekruid gehakt, zoals wij die maken. Maar in de regio Saguenay–Lac-Saint-Jean wordt onder dezelfde naam een heel ander gerecht bereid: een grote, diepe pastei met blokjes vlees, aardappelen en ui, die urenlang langzaam wordt gebakken. Sommige inwoners van Lac-Saint-Jean vinden dat alleen hun versie de naam Tourtière verdient en noemen de gehaktvariant eenvoudigweg *pâté à la viande*. Een culinaire familieruzie die al generaties meegaat!\n\nNog opmerkelijker is het verhaal achter de naam. Volgens een populaire overlevering zou Tourtière zijn genoemd naar de *tourte voyageuse*, de Amerikaanse trekduif (*Ectopistes migratorius*). Deze vogel kwam ooit in onvoorstelbare aantallen voor in Noord-Amerika. Er waren naar schatting drie tot vijf miljard exemplaren, die in zulke enorme zwermen vlogen dat ze soms urenlang de hemel verduisterden. De vogels werden massaal gevangen en gegeten, ook in vleespasteien. Door grootschalige jacht en verlies van leefgebied stortte hun populatie in de negentiende eeuw dramatisch in. Op 1 september 1914 stierf Martha, de laatste bekende trekduif, in de dierentuin van Cincinnati. Daarmee was een van de talrijkste vogelsoorten ter wereld uitgestorven.\n\nToch blijkt de bekende verklaring van de naam waarschijnlijk een misverstand. Het Franse woord *tourtière* bestond namelijk al in de zestiende eeuw, lang voordat de Franse kolonisten zich in Canada vestigden. Oorspronkelijk verwees het naar de ronde bakvorm waarin een *tourte*, een hartige of zoete pastei, werd gebakken. Pas later ging de naam van de bakvorm over op het gerecht zelf. Hoewel trekduiven vroeger daadwerkelijk werden gegeten en mogelijk ook in Tourtières belandden, is de pastei dus vrijwel zeker niet naar deze uitgestorven vogel vernoemd.\n\nDe Tourtière verbindt daarmee op een bijzondere manier de Franse koloniale geschiedenis, de kersttradities van Québec en zelfs het verhaal van een verdwenen diersoort. Wat ooit begon als een praktische manier om vlees in deeg te bereiden, is uitgegroeid tot een culinair symbool van de Frans-Canadese identiteit.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Pâtés à la viande (aussi appelés tourtières)",
+    "auteur": "Ricardo (geïnspireerd op)",
+    "kookboek": "Ricardo Cuisine",
+    "jaar": null,
+    "url": "https://www.ricardocuisine.com/recettes/4924-pates-a-la-viande-aussi-appeles-tourtieres"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Step-by-step Tourtière",
+      "auteur": null,
+      "kookboek": "Canadian Living",
+      "jaar": null,
+      "url": "https://www.canadianliving.com/article/step-by-step-tourtiere-recipe-1450192533"
+    }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "L’œuf, la poule et… la tourtière",
+      "auteur": null,
+      "kookboek": "Commission de toponymie du Québec",
+      "jaar": 2023,
+      "url": "https://toponymie.gouv.qc.ca/ct/salle-de-presse/chroniques-toponymiques/semaine-2023-12-19.html"
+    },
+    {
+      "receptTitel": "Tourte voyageuse",
+      "auteur": null,
+      "kookboek": "Gouvernement du Québec",
+      "jaar": null,
+      "url": "https://mffp.gouv.qc.ca/jeunesse/tourte-voyageuse/"
+    },
+    {
+      "receptTitel": "Cipaille, tourtière, pâté à la viande",
+      "auteur": null,
+      "kookboek": "Gouvernement du Canada",
+      "jaar": null,
+      "url": "https://nos-langues.canada.ca/fr/cles-de-la-redaction/cipaille-tourtiere-pate-a-la-viande"
+    }
+  ]
 }

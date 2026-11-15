@@ -792,8 +792,8 @@
       "bestand": "data/recepten/poutine.json"
     },
     "tourtiere": {
-      "titel": "Tourtière",
-      "korteBeschrijving": "Hartige Québecse vleespastei met gekruid gehakt in een goudbruine deegkorst.",
+      "titel": "Tourtière – Canadese vleespastei uit Québec",
+      "korteBeschrijving": "Traditionele Québecse vleespastei met gekruid varkens- en rundergehakt in een goudbruine deegkorst, geserveerd met sperziebonen, sjalot en mosterdvinaigrette.",
       "afbeelding": "images/recepten/TourtiereAI.webp",
       "url": "recepten.html?id=tourtiere",
       "regios": [
@@ -801,15 +801,15 @@
       ],
       "bestand": "data/recepten/tourtiere.json"
     },
-    "mapleSalmon": {
-      "titel": "Maple-Glazed Salmon",
-      "korteBeschrijving": "Gebakken zalm met een glanzend zoet-hartig glazuur van Canadese ahornsiroop.",
-      "afbeelding": "images/recepten/MapleSalmonAI.webp",
-      "url": "recepten.html?id=mapleSalmon",
+    "westCoastSeafoodChowder": {
+      "titel": "West Coast Seafood Chowder",
+      "korteBeschrijving": "Romige, rijkgevulde vissoep uit British Columbia met kabeljauw, mosselen, garnalen, aardappelen en groenten, geserveerd met warm zuurdesembrood en roomboter.",
+      "afbeelding": "images/recepten/WestCoastSeafoodChowderAI.webp",
+      "url": "recepten.html?id=westCoastSeafoodChowder",
       "regios": [
         "canada"
       ],
-      "bestand": "data/recepten/mapleSalmon.json"
+      "bestand": "data/recepten/westCoastSeafoodChowder.json"
     },
     "butterTart": {
       "titel": "Butter Tart",
@@ -1511,15 +1511,15 @@
       ],
       "bestand": "data/recepten/greenLippedMussels.json"
     },
-    "roastLamb": {
-      "titel": "Roast Lamb",
-      "korteBeschrijving": "Langzaam geroosterd Nieuw-Zeelands lamsvlees met kruiden, groenten en rijke jus.",
-      "afbeelding": "images/recepten/RoastLambAI.webp",
-      "url": "recepten.html?id=roastLamb",
+    "maoriBoilUp": {
+      "titel": "Māori Boil-Up – Varkensstoof met waterkers, kūmara en deegballetjes",
+      "korteBeschrijving": "Traditionele Māori-maaltijdsoep met langzaam gegaard varkensvlees, aardappelen, kūmara, wortelen, kool en waterkers en doughboys.",
+      "afbeelding": "images/recepten/MaoriBoilUpAI.webp",
+      "url": "recepten.html?id=maoriBoilUp",
       "regios": [
         "nieuw-zeeland"
       ],
-      "bestand": "data/recepten/roastLamb.json"
+      "bestand": "data/recepten/maoriBoilUp.json"
     },
     "kokoda": {
       "titel": "Kokoda",
@@ -1870,6 +1870,16 @@
         "arctische-wereld"
       ],
       "bestand": "data/recepten/caribouStew.json"
+    },
+    "southlandCheeseRolls": {
+      "titel": "Southland Cheese Rolls met geroosterde pompoensoep",
+      "korteBeschrijving": "Traditionele Nieuw-Zeelandse kaasrolletjes van witbrood, gevuld met een romig mengsel van cheddar en ui, goudbruin gebakken en geserveerd met een stevige soep van geroosterde pompoen.",
+      "afbeelding": "images/recepten/SouthlandCheeseRollsAI.webp",
+      "url": "recepten.html?id=southlandCheeseRolls",
+      "regios": [
+        "nieuw-zeeland"
+      ],
+      "bestand": "data/recepten/southlandCheeseRolls.json"
     }
   }
 }

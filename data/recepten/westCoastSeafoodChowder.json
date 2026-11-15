@@ -1,0 +1,138 @@
+{
+  "sleutel": "westCoastSeafoodChowder",
+  "regios": [
+    "canada"
+  ],
+  "titel": "West Coast Seafood Chowder",
+  "korteBeschrijving": "Romige, rijkgevulde vissoep uit British Columbia met kabeljauw, mosselen, garnalen, aardappelen en groenten, geserveerd met warm zuurdesembrood en roomboter.",
+  "beschrijving": "West Coast Seafood Chowder is een romige maaltijdsoep uit British Columbia, geïnspireerd op de rijke visserijtradities van de Canadese Pacifische kust. Voor onze versie combineren we kabeljauw, mosselen en garnalen met aardappelen, prei, wortel en een beetje venkel in een zacht gebonden visbouillon. Gerookt spek geeft de soep extra diepte, terwijl citroen en peterselie voor een frisse tegenhanger zorgen. De zeevruchten worden afzonderlijk gegaard, zodat ze mals blijven. We serveren deze rijkgevulde chowder met warm zuurdesembrood en roomboter, naar een recept van chef Justin Labossiere van het Wickaninnish Inn in Tofino.",
+  "afbeelding": "images/recepten/WestCoastSeafoodChowderAI.webp",
+  "url": "recepten.html?id=westCoastSeafoodChowder",
+  "volgorde": 82,
+  "regioVolgorde": {
+    "canada": 2
+  },
+  "porties": 4,
+  "bereidingstijdMinuten": 60,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de vis en zeevruchten:",
+    "450 g kabeljauwfilet, zonder huid en graten (alternatief: andere stevige witte vis, zoals schelvis)",
+    "750 g verse mosselen in de schelp",
+    "200 g rauwe, gepelde garnalen, eventueel diepgevroren en ontdooid",
+    "Voor de chowder:",
+    "75 g gerookte spekblokjes",
+    "1 grote ui",
+    "1 middelgrote prei",
+    "2 winterwortelen (circa 200 g)",
+    "½ venkelknol (circa 100 g)",
+    "450 g vastkokende aardappelen",
+    "2 tenen knoflook",
+    "25 g roomboter",
+    "25 g tarwebloem",
+    "500 ml visbouillon, bij voorkeur zoutarm",
+    "350 ml halfvolle melk",
+    "100 ml kookroom",
+    "2 laurierblaadjes",
+    "1 tl gedroogde tijm",
+    "2 el fijngehakte verse peterselie",
+    "1 el citroensap",
+    "Versgemalen zwarte peper naar smaak",
+    "Zout naar smaak",
+    "Voor erbij:",
+    "1 klein rustiek zuurdesembrood (circa 300 g)",
+    "40 g roomboter, voor bij het brood"
+  ],
+  "bereiding": [
+    "Spoel de mosselen onder koud stromend water. Verwijder eventuele baarden en controleer de schelpen. Gooi beschadigde mosselen weg, evenals exemplaren die open blijven staan wanneer je er voorzichtig tegen tikt.",
+    "Doe ongeveer een derde van de visbouillon in een grote pan en breng aan de kook.",
+    "Voeg de mosselen toe, sluit de pan met het deksel en laat ze ongeveer 4–5 minuten op hoog vuur stomen. Schud de pan halverwege voorzichtig om, totdat de mosselen zijn geopend.",
+    "Schep de mosselen uit de pan. Gooi exemplaren die na het koken gesloten zijn gebleven weg. Laat de overige mosselen kort afkoelen.",
+    "Zeef het mosselkookvocht door een fijne zeef, bij voorkeur bekleed met een schone doek, zodat eventueel zand achterblijft. Bewaar het gezeefde vocht.",
+    "Haal het mosselvlees uit de schelpen. Bewaar eventueel vier mooie mosselen in de schelp voor de garnering. Zet het mosselvlees afgedekt in de koelkast.",
+    "Schil de aardappelen en snijd ze in blokjes van ongeveer 1,5 cm.",
+    "Pel de ui en snipper deze fijn. Pel de knoflook en hak de tenen fijn.",
+    "Snijd de prei in de lengte doormidden, spoel het zand tussen de bladeren goed weg en snijd in dunne halve ringen.",
+    "Schil de wortelen en snijd ze in kleine blokjes van ongeveer 1 cm.",
+    "Verwijder de harde onderkant en eventuele stugge buitenste delen van de venkel. Snijd de venkel in kleine blokjes.",
+    "Zet een grote soeppan met dikke bodem op middelhoog vuur. Voeg de spekblokjes toe en bak ongeveer 5 minuten, totdat ze lichtbruin worden en wat vet hebben afgegeven.",
+    "Voeg de roomboter toe en laat deze smelten.",
+    "Voeg de ui, prei, wortel en venkel toe. Bak ongeveer 8 minuten op middelhoog vuur, terwijl je regelmatig omschept. De groenten moeten zacht beginnen te worden, maar hoeven niet bruin te kleuren.",
+    "Voeg de knoflook en tijm toe en bak nog ongeveer 1 minuut mee.",
+    "Strooi de bloem over de groenten en roer goed door. Laat ongeveer 2 minuten zachtjes garen, zodat de bloemsmaak verdwijnt.",
+    "Schenk geleidelijk de resterende visbouillon erbij, terwijl je voortdurend roert. Voeg daarna beetje bij beetje de melk toe en roer totdat een gelijkmatige, licht gebonden soep ontstaat.",
+    "Voeg het gezeefde mosselkookvocht en de laurierblaadjes toe. Breng de soep rustig tegen de kook aan.",
+    "Voeg de aardappelblokjes toe en laat de soep ongeveer 15 minuten zachtjes pruttelen, totdat de aardappelen bijna gaar zijn. Roer af en toe over de bodem om aanbakken te voorkomen.",
+    "Controleer de kabeljauwfilet op graten en snijd de vis in stukken van ongeveer 3 cm. Dep de garnalen indien nodig droog.",
+    "Voeg de kookroom toe en roer voorzichtig door. Zet het vuur laag, zodat de soep net tegen de kook aan blijft.",
+    "Leg de stukken kabeljauw in de soep en laat ze ongeveer 4 minuten zachtjes garen. Roer zo weinig mogelijk, zodat de visstukken heel blijven.",
+    "Voeg de rauwe garnalen toe en laat nog ongeveer 2–3 minuten zachtjes garen, totdat ze roze en ondoorzichtig zijn. Controleer ook of de kabeljauw gaar is en gemakkelijk in laagjes uiteenvalt.",
+    "Voeg het reeds gekookte mosselvlees toe en warm het nog ongeveer 1 minuut mee. Laat de soep niet meer krachtig koken, anders kunnen de zeevruchten taai worden.",
+    "Verwijder de laurierblaadjes. Roer het citroensap en de fijngehakte peterselie voorzichtig door de soep.",
+    "Proef en breng op smaak met zwarte peper en eventueel zout. Wees voorzichtig met zout: het mosselkookvocht kan al behoorlijk zout zijn.",
+    "Snijd het zuurdesembrood in dikke plakken en verwarm het eventueel kort in de oven, totdat de korst knapperig is. Serveer het warme brood met de roomboter apart, zodat iedereen zelf kan smeren.",
+    "Verdeel de warme chowder over vier diepe borden of kommen. Zorg dat iedereen voldoende kabeljauw, garnalen, mosselen en groenten krijgt.",
+    "Garneer eventueel met een mossel in de schelp en een beetje extra peterselie. Serveer direct met het warme zuurdesembrood."
+  ],
+  "weetje": "Aan de westkust van Vancouver Island, waar het gematigde regenwoud bijna tot aan de Stille Oceaan reikt, leven de Nuu-chah-nulth al duizenden jaren van de rijkdom van de zee. De Tla-o-qui-aht, een van de Nuu-chah-nulth-volkeren, bewonen het gebied rond het huidige Tofino al minstens 5.000 jaar. Zalm, heilbot, haring, krabben, mosselen en andere schelpdieren vormden belangrijke onderdelen van hun voedselvoorziening. De visserij was nauw verweven met de seizoenen, de getijden en uitgebreide kennis van de kustwateren. Ook vandaag blijft de verbinding met de zee van grote culturele en economische betekenis.\n\nToch heeft chowder, de romige vissoep die tegenwoordig zo kenmerkend is voor de Canadese kustkeuken, zijn oorsprong aan de andere kant van het continent. Europese vissers brachten de traditie van stevige visstoofpotten naar de Atlantische kust van Noord-Amerika, waar chowder vooral in Newfoundland, Nova Scotia en New England populair werd. De naam is mogelijk afgeleid van het Franse chaudière, een grote kookketel waarin vissers gezamenlijk hun vangst bereidden. In de oorspronkelijke chowders gingen verse vis, gezouten varkensvlees, uien en scheepsbeschuit: voedzame, lang houdbare ingrediënten die op een vissersschip voorhanden waren.\n\nEen bijzonder kijkje in deze vroege keuken biedt de Boston Evening Post van 23 september 1751. Daarin verscheen een van de oudste bekende gedrukte chowderrecepten, en opmerkelijk genoeg was het volledig op rijm geschreven! De instructies beschreven hoe eerst uien en dunne plakken varkensvlees in een pan moesten worden gelegd, gevolgd door vis, kruiden en scheepsbeschuit. Door de ingrediënten steeds opnieuw in lagen op te bouwen, kon volgens de dichter zelfs een maaltijd voor duizend mensen worden bereid. Aardappelen, melk en room kwamen in dit recept nog helemaal niet voor. De oorspronkelijke chowder leek daardoor waarschijnlijk meer op een stevige visstoofschotel dan op de romige soep die we tegenwoordig kennen.\n\nToen de chowder zich over Noord-Amerika verspreidde, ontstonden allerlei regionale varianten. Aan de Canadese Pacifische kust kwamen de Europese soeptradities samen met de overvloed aan plaatselijke vis en schelpdieren. Waar de Atlantische keuken vooral bekendstaat om kabeljauw en venusschelpen, kregen aan de westkust onder andere Pacifische heilbot, zalm, oesters, mosselen en krab een belangrijke plaats. In British Columbia ontwikkelde zich zo een eigen West Coast Seafood Chowder, waarbij de samenstelling afhankelijk is van de vangst en de voorkeuren van de kok.\n\nOns recept heeft een bijzondere herkomst. In Tofino staat het Wickaninnish Inn, een hotel aan de ruige kust van Vancouver Island, vernoemd naar een erfelijke leidersnaam van de Tla-o-qui-aht. Het bijbehorende restaurant, The Pointe, werd bekend om zijn gerechten met lokale producten uit zee en bos. In 2018 verscheen The Wickaninnish Cookbook: Rustic Elegance on Nature's Edge, waarin chef Justin Labossiere zijn West Coast Seafood Chowder presenteerde. Hij gebruikte onder andere mosselen van Salt Spring Island, Pacifische heilbot, oesters, spek, venkel, melk en room. Onze versie vervangt de heilbot door kabeljauw en de oesters door garnalen, en gebruikt wat minder room. Daarmee blijft het karakter van de oorspronkelijke soep behouden, maar wordt het gerecht ook buiten Canada goed te bereiden.\n\nWest Coast Seafood Chowder laat zo zien hoe een eenvoudige maaltijd van Europese vissers kon uitgroeien tot een regionale specialiteit aan de andere kant van Noord-Amerika. De soep verenigt eeuwenoude visserijtradities met de moderne kustkeuken van British Columbia, waarin de kwaliteit en herkomst van vis en schelpdieren nog altijd centraal staan.",
+  "bron": {
+    "receptTitel": "West Coast Seafood Chowder",
+    "auteur": "Justin Labossiere (geïnspireerd op)",
+    "kookboek": "The Wickaninnish Cookbook: Rustic Elegance on Nature’s Edge",
+    "jaar": 2018,
+    "url": "https://www.wickinn.com/on-pointe/wickaninnish-cookbook-offers-a-taste-of-tofino/"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "West Coast Seafood Chowder",
+      "auteur": "Justin Labossiere (geïnspireerd op)",
+      "kookboek": "The Wickaninnish Cookbook: Rustic Elegance on Nature’s Edge",
+      "jaar": 2018,
+      "url": "https://www.wickinn.com/on-pointe/wickaninnish-cookbook-offers-a-taste-of-tofino/"
+    },
+    {
+      "receptTitel": "West Coast Seafood Chowder",
+      "auteur": null,
+      "kookboek": "Wild Pacific Halibut",
+      "jaar": null,
+      "url": "https://www.wildpacifichalibut.com/recipes/west-coast-seafood-chowder"
+    },
+    {
+      "receptTitel": "Locals’ Seafood Chowder",
+      "auteur": null,
+      "kookboek": "Edible Vancouver Island",
+      "jaar": null,
+      "url": "https://ediblevancouverisland.ediblecommunities.com/recipe/recipes-locals-seafood-chowder/"
+    }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "Our Community – About Tofino",
+      "auteur": null,
+      "kookboek": "District of Tofino",
+      "jaar": null,
+      "url": "https://tofino.ca/our-community/about-tofino/"
+    },
+    {
+      "receptTitel": "Nuu-chah-nulth culture",
+      "auteur": null,
+      "kookboek": "Parks Canada",
+      "jaar": null,
+      "url": "https://parks.canada.ca/pn-np/bc/pacificrim/culture"
+    },
+    {
+      "receptTitel": "Chowder – word origin",
+      "auteur": null,
+      "kookboek": "Online Etymology Dictionary",
+      "jaar": null,
+      "url": "https://www.etymonline.com/word/chowder"
+    },
+    {
+      "receptTitel": "Melville’s Chowder",
+      "auteur": null,
+      "kookboek": "The American Scholar",
+      "jaar": null,
+      "url": "https://theamericanscholar.org/melvilles-chowder/"
+    }
+  ]
+}

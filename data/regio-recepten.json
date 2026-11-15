@@ -29,11 +29,17 @@
     "kareKare",
     "pancitBihon"
   ],
-  "rus-eurazie": [
+  "noord-oost-europa": [
     "borsjtsj",
-    "pelmeni",
     "blini",
-    "kugelis"
+    "kugelis",
+    "mulgikapsad"
+  ],
+  "siberie": [
+    "pelmeni",
+    "shulen",
+    "rybnik",
+    "aardappelenBospaddenstoelen"
   ],
   "centraal-aziatisch": [
     "plov",
@@ -79,9 +85,9 @@
   ],
   "balkan": [
     "cevapi",
-    "burek",
+    "tavceGravce",
     "sarma",
-    "overvolleGroentetaart"
+    "taveKosi"
   ],
   "oost-centraal-europa": [
     "goulash",
@@ -262,5 +268,11 @@
     "rougailSaucisses",
     "dhollPuri",
     "kariZourit"
+  ],
+  "noordoost-azie": [
+    "telnoye",
+    "pyanse",
+    "tieguo-dun-ji",
+    "di-san-xian"
   ]
 }

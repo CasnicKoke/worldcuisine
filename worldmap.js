@@ -39,6 +39,7 @@ const continenten = {
 	germaans: [ "DE", "NL", "BE", "LU"],
 	"midden-europa": [ "France", "CH", "AT"],
 	"mediterraans": ["PT", "ES", "Greece", "Italy", "Malta", "Cyprus", "Canary Islands (Spain)"],
+    "noord-oost-europa": ["Russia-Europe", "BY", "UA", "MD", "EE", "LV", "LT"],
 	
 	//Midden-Oosten
 	anatolie: ["Turkey"],
@@ -47,7 +48,8 @@ const continenten = {
 	"arabisch-schiereiland": [ "SA", "YE", "Oman", "AE", "QA", "BH", "KW"],
 
 	//Aziatische continent			
-	"rus-eurazie": ["Russia-Europe", "Russia-Siberia", "Russia-FarEast", "BY", "UA", "MD", "EE", "LV", "LT"],
+	"siberie": ["Russia-Siberia"],
+    "noordoost-azie": [ "Russia-FarEast", "China-Dongbei"],
     kaukasus: [ "AM", "GE", "Azerbaijan"],
     "china-oost-azie": [ "China-Other", "TW", "KP", "KR"],
     "indo-chinees": [ "VN", "LA", "KH", "TH", "MM"],
@@ -102,9 +104,11 @@ const kleuren = {
 	germaans: "#B86F13",
 	"midden-europa": "#92580F",
 	"mediterraans": "#6C410B",
+    "noord-oost-europa": "#D5AD77",
     
     //azie
-    "rus-eurazie": "#1E5F8A", 			
+    "siberie": "#1E5F8A",
+    "noordoost-azie": "#1A4D6E",			
     kaukasus: "#2A6B96", 				
     "china-oost-azie": "#3577A2", 		
     "indo-chinees": "#4183AE", 			
@@ -165,6 +169,7 @@ const werelddeelPerRegio = {
     germaans: "europa",
     "midden-europa": "europa",
     mediterraans: "europa",
+    "noord-oost-europa": "europa",
 
     // Midden-Oosten
     anatolie: "midden-oosten",
@@ -173,7 +178,8 @@ const werelddeelPerRegio = {
     "arabisch-schiereiland": "midden-oosten",
 
     // Azië
-    "rus-eurazie": "azie",
+    "siberie": "azie",
+    "noordoost-azie": "azie",
     kaukasus: "azie",
     "china-oost-azie": "azie",
     "indo-chinees": "azie",
@@ -315,14 +321,30 @@ const regioBeschrijving = {
 			"dadels, rijst, lamsvlees, kardemom, saffraan, kaneel, gedroogde limoen, yoghurt, sesam, noten"
 	},
 	
-    "rus-eurazie": {
-        titel: "Noordoost-Europa en Noord-Azië",
+    "noord-oost-europa": {
+        titel: "Noordoost-Europa",
         beschrijving:
-            "Deze culinaire regio omvat Rusland, Oekraïne, Belarus, Moldavië en de Baltische landen. Lange winters, visserij, landbouw en conservering hebben de uiteenlopende regionale keukens gevormd. Polen en de Balkan komen elders in WorldCuisine aan bod.",
+            "Deze culinaire regio omvat Europees Rusland, Oekraïne, Belarus, Moldavië en de Baltische landen. Lange winters, landbouw, visserij en conservering hebben de regionale keukens gevormd. Soepen, stoofgerechten en gerechten met granen en wortelgroenten spelen een belangrijke rol. Polen en de Balkan komen elders in WorldCuisine aan bod.",
         ingredienten:
-            "rogge, aardappelen, kool, bieten, zure room, paddestoelen, dille, boekweit, ingelegde groenten, gerookte vis"
+            "rogge, aardappelen, kool, bieten, zure room, paddenstoelen, dille, boekweit, ingelegde groenten, gerookte vis"
     },
-
+    
+    "siberie": {
+        titel: "Siberië",
+        beschrijving:
+            "De Siberische keuken is gevormd door het uitgestrekte landschap van taiga, toendra en grote rivieren, en door de tradities van Russische kolonisten en inheemse volken. Het koude klimaat stimuleerde het invriezen, drogen en roken van voedsel. Vlees, zoetwatervis, wilde bessen en paddenstoelen vormen de basis van stevige, voedzame gerechten.",
+        ingredienten:
+            "wild, rundvlees, zoetwatervis, deegwaren, pijnboompitten, paddenstoelen, wilde bessen, aardappelen, kool, boekweit"
+    },
+    
+    "noordoost-azie": {
+        titel: "Noordoost-Azië",
+        beschrijving:
+            "Deze culinaire regio verbindt het Russische Verre Oosten met Mantsjoerije, het noordoosten van China. Langs de Amoer en de Pacifische kust ontmoeten Russische, Chinese, Koreaanse en inheemse voedseltradities elkaar. Vis, zeevruchten, dumplings en stevige stoofgerechten kenmerken een keuken waarin zowel het koude landklimaat als de rijkdom van de Stille Oceaan doorklinkt.",
+        ingredienten:
+            "zalm, krab, zeevruchten, rijst, tarwedeeg, kool, paddenstoelen, sojasaus, knoflook, gefermenteerde groenten"
+    },
+    
     kaukasus: {
         titel: "Kaukasus",
         beschrijving:
@@ -638,6 +660,14 @@ const regioIngredientIconen = {
         { naam: "Vis", bestand: "icon-fish.png" }
     ],
 
+    "noord-oost-europa": [
+        { naam: "Rogge", bestand: "icon-bread.png" },
+        { naam: "Biet", bestand: "icon-root.png" },
+        { naam: "Aardappelen", bestand: "icon-potato.png" },
+        { naam: "Paddenstoelen", bestand: "icon-mushroom.png" },
+        { naam: "Dille", bestand: "icon-herbs.png" }
+    ],
+
     // Midden-Oosten
     anatolie: [
         { naam: "Yoghurt", bestand: "icon-yogurt.png" },
@@ -672,14 +702,23 @@ const regioIngredientIconen = {
     ],
 
     // Azië
-    "rus-eurazie": [
-        { naam: "Rogge", bestand: "icon-bread.png" },
-        { naam: "Biet", bestand: "icon-root.png" },
-        { naam: "Aardappelen", bestand: "icon-potato.png" },
+        
+    siberie: [
+        { naam: "Zoetwatervis", bestand: "icon-fish.png" },
+        { naam: "Wild", bestand: "icon-meat.png" },
         { naam: "Paddenstoelen", bestand: "icon-mushroom.png" },
-        { naam: "Dille", bestand: "icon-herbs.png" }
+        { naam: "Boekweit", bestand: "icon-grain.png" },
+        { naam: "Aardappelen", bestand: "icon-potato.png" }
     ],
-
+    
+    "noordoost-azie": [
+        { naam: "Zeevruchten", bestand: "icon-fish.png" },
+        { naam: "Noedels", bestand: "icon-noodles.png" },
+        { naam: "Chinese kool", bestand: "icon-leaf.png" },
+        { naam: "Paddenstoelen", bestand: "icon-mushroom.png" },
+        { naam: "Sojasaus", bestand: "icon-bowl.png" }
+    ],
+    
     kaukasus: [
         { naam: "Walnoten", bestand: "icon-beans.png" },
         { naam: "Granaatappel", bestand: "icon-avocado.png" },
@@ -953,6 +992,7 @@ const regioFotos = {
     germaans: "feature-duitsland-beneluxAI.jpg",
     "midden-europa": "feature-frankrijk-alpenlandenAI.jpg",
     mediterraans: "feature-mediterraansAI.jpg",
+    "noord-oost-europa": "feature-noord-eurazieAI.jpg",
 
     // Midden-Oosten
     anatolie: "feature-anatolieAI.jpg",
@@ -961,7 +1001,8 @@ const regioFotos = {
     "arabisch-schiereiland": "feature-arabisch-schiereilandAI.jpg",
 
     // Azië
-    "rus-eurazie": "feature-noord-eurazieAI.jpg",
+    siberie: "feature-siberieAI.jpg",
+    "noordoost-azie": "feature-noordoost-azieAI.jpg",
     kaukasus: "feature-kaukasusAI.jpg",
     "centraal-aziatisch": "feature-centraal-azieAI.jpg",
     "china-oost-azie": "feature-china-oost-azieAI.jpg",
@@ -970,6 +1011,8 @@ const regioFotos = {
     "maleis-indonesisch": "feature-maleis-indonesischAI.jpg",
     filipijns: "feature-filipijnenAI.jpg",
     "zuid-aziatisch": "feature-zuid-aziatischAI.jpg",
+    siberie: "feature-siberieAI.jpg",
+    "noordoost-azie": "feature-noordoost-azieAI.jpg",
 
     // Afrika
     maghreb: "feature-maghrebAI.jpg",

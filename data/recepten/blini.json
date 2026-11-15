@@ -1,7 +1,7 @@
 {
   "sleutel": "blini",
   "regios": [
-    "rus-eurazie"
+    "noord-oost-europa"
   ],
   "titel": "Blini met paddenstoelen",
   "korteBeschrijving": "Traditionele Russische dunne pannenkoeken gevuld met gebakken kastanjechampignons, ui en peterselie, licht krokant gebakken en geserveerd met zure room en verse dille.",
@@ -10,7 +10,7 @@
   "url": "recepten.html?id=blini",
   "volgorde": 22,
   "regioVolgorde": {
-    "rus-eurazie": 2
+    "noord-oost-europa": 1
   },
   "porties": 4,
   "bereidingstijdMinuten": 65,

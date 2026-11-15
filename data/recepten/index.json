@@ -197,7 +197,7 @@
       "afbeelding": "images/recepten/BorsjtsjAI.webp",
       "url": "recepten.html?id=borsjtsj",
       "regios": [
-        "rus-eurazie"
+        "noord-oost-europa"
       ],
       "bestand": "data/recepten/borsjtsj.json"
     },
@@ -207,7 +207,7 @@
       "afbeelding": "images/recepten/PelmeniAI.webp",
       "url": "recepten.html?id=pelmeni",
       "regios": [
-        "rus-eurazie"
+        "siberie"
       ],
       "bestand": "data/recepten/pelmeni.json"
     },
@@ -217,7 +217,7 @@
       "afbeelding": "images/recepten/BliniAI.webp",
       "url": "recepten.html?id=blini",
       "regios": [
-        "rus-eurazie"
+        "noord-oost-europa"
       ],
       "bestand": "data/recepten/blini.json"
     },
@@ -227,7 +227,7 @@
       "afbeelding": "images/recepten/KugelisAI.webp",
       "url": "recepten.html?id=kugelis",
       "regios": [
-        "rus-eurazie"
+        "noord-oost-europa"
       ],
       "bestand": "data/recepten/kugelis.json"
     },
@@ -512,8 +512,8 @@
       "bestand": "data/recepten/shuwa.json"
     },
     "cevapi": {
-      "titel": "Ćevapi",
-      "korteBeschrijving": "Gegrilde Balkanworstjes van gekruid gehakt, vaak geserveerd met brood, ui en ajvar.",
+      "titel": "Ćevapi met somun, ajvar en ui",
+      "korteBeschrijving": "Gegrilde Bosnische gehaktrolletjes van sappig rundergehakt, geserveerd in zelfgebakken somun-platbrood met rauwe ui, huisgemaakte ajvar van geroosterde paprika en eventueel romige kajmak.",
       "afbeelding": "images/recepten/CevapiAI.webp",
       "url": "recepten.html?id=cevapi",
       "regios": [
@@ -521,19 +521,19 @@
       ],
       "bestand": "data/recepten/cevapi.json"
     },
-    "burek": {
-      "titel": "Burek",
-      "korteBeschrijving": "Bladerdeeggebak gevuld met vlees, kaas, aardappel of spinazie, populair op de Balkan.",
-      "afbeelding": "images/recepten/BurekAI.webp",
-      "url": "recepten.html?id=burek",
+    "tavceGravce": {
+      "titel": "Tavče Gravče met Šopska salade",
+      "korteBeschrijving": "Traditionele Macedonische ovenschotel van zachte witte bonen in een kruidige paprikasaus, geserveerd met een frisse Šopska.",
+      "afbeelding": "images/recepten/TavceGravceAI.webp",
+      "url": "recepten.html?id=tavceGravce",
       "regios": [
         "balkan"
       ],
-      "bestand": "data/recepten/burek.json"
+      "bestand": "data/recepten/tavceGravce.json"
     },
     "sarma": {
-      "titel": "Sarma",
-      "korteBeschrijving": "Rolletjes van kool- of wijnblad gevuld met rijst, kruiden en vaak gehakt.",
+      "titel": "Sarmale met Mămăligă en Smântână",
+      "korteBeschrijving": "Traditionele Roemeense koolrolletjes gevuld met varkensgehakt, rijst en kruiden, langzaam gestoofd met zuurkool en gerookt vlees, geserveerd met mămăligă en zure room.",
       "afbeelding": "images/recepten/SarmaAI.webp",
       "url": "recepten.html?id=sarma",
       "regios": [
@@ -541,15 +541,15 @@
       ],
       "bestand": "data/recepten/sarma.json"
     },
-    "overvolleGroentetaart": {
-      "titel": "Overvolle groentetaart",
-      "korteBeschrijving": "Kleurrijke hartige groentetaart met drie soorten paprika, courgette, zoete aardappel, cherrytomaatjes en een romige vulling van verschillende kazen.",
-      "afbeelding": "images/recepten/OvervolleGroentetaartAI.webp",
-      "url": "recepten.html?id=overvolleGroentetaart",
+    "taveKosi": {
+      "titel": "Tavë Kosi",
+      "korteBeschrijving": "Albanese ovenschotel van mals lamsvlees en rijst onder een romige, goudbruin gebakken laag van yoghurt en ei.",
+      "afbeelding": "images/recepten/TaveKosiAI.webp",
+      "url": "recepten.html?id=taveKosi",
       "regios": [
         "balkan"
       ],
-      "bestand": "data/recepten/overvolleGroentetaart.json"
+      "bestand": "data/recepten/taveKosi.json"
     },
     "goulash": {
       "titel": "Gulyásleves",
@@ -1751,6 +1751,86 @@
         "eilanden-indische-oceaan"
       ],
       "bestand": "data/recepten/kariZourit.json"
+    },
+    "mulgikapsad": {
+      "titel": "Mulgikapsad met gekookte aardappelen",
+      "korteBeschrijving": "Traditionele Estse stoofschotel van zuurkool, parelgort en langzaam gegaard varkensvlees, op smaak gebracht met karwijzaad en geserveerd met gekookte aardappelen.",
+      "afbeelding": "images/recepten/MulgikapsadAI.webp",
+      "url": "recepten.html?id=mulgikapsad",
+      "regios": [
+        "noord-oost-europa"
+      ],
+      "bestand": "data/recepten/mulgikapsad.json"
+    },
+    "shulen": {
+      "titel": "Shulen – Boerjatische rundvleessoep met zelfgemaakte noedels",
+      "korteBeschrijving": "Traditionele Boerjatische maaltijdsoep met langzaam gegaard rundvlees, zelfgemaakte eiernoedels en ui in een krachtige vleesbouillon, afgewerkt met verse bosui.",
+      "afbeelding": "images/recepten/ShulenAI.webp",
+      "url": "recepten.html?id=shulen",
+      "regios": [
+        "siberie"
+      ],
+      "bestand": "data/recepten/shulen.json"
+    },
+    "rybnik": {
+      "titel": "Rybnik – Siberische vispastei met zalmfilet",
+      "korteBeschrijving": "Traditionele Siberische vispastei van goudbruin gistdeeg, gevuld met sappige zalmfilet, aardappelen, ui en verse dille, gebakken tot een stevige, hartige maaltijd.",
+      "afbeelding": "images/recepten/RybnikAI.webp",
+      "url": "recepten.html?id=rybnik",
+      "regios": [
+        "siberie"
+      ],
+      "bestand": "data/recepten/rybnik.json"
+    },
+    "aardappelenBospaddenstoelen": {
+      "titel": "Aardappelen met bospaddenstoelen",
+      "korteBeschrijving": "Traditionele Siberische ovenschotel van aardappelen, kastanjechampignons, oesterzwammen en eekhoorntjesbrood, in lagen gestoofd met ui en zure room en afgewerkt met verse dille.",
+      "afbeelding": "images/recepten/AardappelenBospaddenstoelenAI.webp",
+      "url": "recepten.html?id=aardappelenBospaddenstoelen",
+      "regios": [
+        "siberie"
+      ],
+      "bestand": "data/recepten/aardappelenBospaddenstoelen.json"
+    },
+    "telnoye": {
+      "titel": "Telnoye po-kamtsjatski – Gevulde zalmkoekjes uit Kamtsjatka",
+      "korteBeschrijving": "Traditionele Kamtsjatkaanse viskoekjes van fijngehakte zalmfilet, gevuld met romige aardappelpuree en goudbruin gebakken, geserveerd met een frisse komkommer-wortelsalade.",
+      "afbeelding": "images/recepten/TelnoyeAI.webp",
+      "url": "recepten.html?id=telnoye",
+      "regios": [
+        "noordoost-azie"
+      ],
+      "bestand": "data/recepten/telnoye.json"
+    },
+    "pyanse": {
+      "titel": "Pyanse – Gestoomde broodjes met varkensvlees en kool",
+      "korteBeschrijving": "Traditionele Koreaans-Russische gestoomde broodjes met een sappige vulling van varkensgehakt, witte kool, ui en knoflook, geserveerd met een frisse komkommer-wortelsalade.",
+      "afbeelding": "images/recepten/PyanseAI.webp",
+      "url": "recepten.html?id=pyanse",
+      "regios": [
+        "noordoost-azie"
+      ],
+      "bestand": "data/recepten/pyanse.json"
+    },
+    "tieguo-dun-ji": {
+      "titel": "Tieguo Dun Ji – Kipstoof met maïsbroodjes uit Dongbei",
+      "korteBeschrijving": "Traditionele kipstoof uit Noordoost-China met aardappelen, sperziebonen en paddenstoelen in een kruidige sojasaus, geserveerd met maïsbroodjes die tegen de binnenwand van de pan garen.",
+      "afbeelding": "images/recepten/TieguoDunJiAI.webp",
+      "url": "recepten.html?id=tieguo-dun-ji",
+      "regios": [
+        "noordoost-azie"
+      ],
+      "bestand": "data/recepten/tieguo-dun-ji.json"
+    },
+    "di-san-xian": {
+      "titel": "Di San Xian – Drie schatten van de aarde",
+      "korteBeschrijving": "Traditioneel vegetarisch gerecht uit Noordoost-China met goudbruin gebakken aardappelen, zachte aubergine en knapperige groene paprika in een geurige knoflook-sojasaus, geserveerd met jasmijnrijst.",
+      "afbeelding": "images/recepten/DiSanXianAI.webp",
+      "url": "recepten.html?id=di-san-xian",
+      "regios": [
+        "noordoost-azie"
+      ],
+      "bestand": "data/recepten/di-san-xian.json"
     }
   }
 }

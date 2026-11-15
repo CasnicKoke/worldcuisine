@@ -1,7 +1,7 @@
 {
   "sleutel": "pelmeni",
   "regios": [
-    "rus-eurazie"
+    "siberie"
   ],
   "titel": "Pelmeni",
   "korteBeschrijving": "Traditionele Siberische deegkussentjes gevuld met sappig rund- en varkensgehakt, geserveerd met gesmolten boter, zure room, verse dille en een frisse komkommer-tomatensalade.",
@@ -10,7 +10,7 @@
   "url": "recepten.html?id=pelmeni",
   "volgorde": 21,
   "regioVolgorde": {
-    "rus-eurazie": 1
+    "siberie": 0
   },
   "porties": 4,
   "bereidingstijdMinuten": 120,

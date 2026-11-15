@@ -1,7 +1,7 @@
 {
   "sleutel": "borsjtsj",
   "regios": [
-    "rus-eurazie"
+    "noord-oost-europa"
   ],
   "titel": "Borsjtsj met pampoesjky",
   "korteBeschrijving": "Traditionele Oekraïense borsjtsj met rundvlees, rode bieten, witte kool en aardappelen, geserveerd met zure room en zelfgebakken pampoesjky met knoflook en dille.",
@@ -10,7 +10,7 @@
   "url": "recepten.html?id=borsjtsj",
   "volgorde": 20,
   "regioVolgorde": {
-    "rus-eurazie": 0
+    "noord-oost-europa": 0
   },
   "porties": 4,
   "bereidingstijdMinuten": 180,

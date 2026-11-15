@@ -3,8 +3,9 @@
   "regios": [
     "balkan"
   ],
-  "titel": "Sarma",
-  "korteBeschrijving": "Rolletjes van kool- of wijnblad gevuld met rijst, kruiden en vaak gehakt.",
+  "titel": "Sarmale met Mămăligă en Smântână",
+  "korteBeschrijving": "Traditionele Roemeense koolrolletjes gevuld met varkensgehakt, rijst en kruiden, langzaam gestoofd met zuurkool en gerookt vlees, geserveerd met mămăligă en zure room.",
+  "beschrijving": "Sarmale behoren tot de bekendste gerechten van Roemenië. Gefermenteerde witte koolbladeren worden gevuld met sappig varkensgehakt, rijst, ui, dille en tijm. De rolletjes garen langzaam in een tomatensaus met zuurkool en gerookt varkensvlees, waardoor de smaken zich vermengen tot een rijke, lichtzure stoofschotel. Wij serveren de sarmale op traditionele wijze met mămăligă, een stevige maïspap, en een royale lepel smântână, Roemeense zure room.",
   "afbeelding": "images/recepten/SarmaAI.webp",
   "url": "recepten.html?id=sarma",
   "volgorde": 54,
@@ -12,14 +13,113 @@
     "balkan": 2
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 240,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de Sarmale (circa 16–18 rolletjes):",
+    "16–18 grote gefermenteerde witte koolbladeren (varză murată, Oost-Europese supermarkt)",
+    "650 g varkensgehakt, bij voorkeur met 15–20% vet",
+    "100 g rondkorrelrijst (bijvoorbeeld Arborio-risottorijst), ongekookt",
+    "2 middelgrote uien",
+    "2 el zonnebloemolie",
+    "2 el tomatenpuree",
+    "2 el fijngehakte verse dille",
+    "1 tl gedroogde tijm",
+    "1 tl mild paprikapoeder",
+    "1 tl versgemalen zwarte peper",
+    "Zout naar smaak",
+    "Voor het stoven:",
+    "250 g naturel zuurkool",
+    "150 g gerookte varkensrib of gerookt spek, aan één stuk",
+    "300 ml gezeefde tomaten (passata)",
+    "2 laurierblaadjes",
+    "2 takjes verse tijm",
+    "500–700 ml warm water, zo nodig extra",
+    "Voor de Mămăligă:",
+    "250 g maïsgries (polenta, niet de instantvariant)",
+    "1 liter water",
+    "1 tl zout",
+    "Voor het serveren:",
+    "200 g smântână (Roemeense zure room, of crème fraîche als alternatief)",
+    "Eventueel 1 verse groene chilipeper"
+  ],
+  "bereiding": [
+    "Haal de gefermenteerde koolbladeren voorzichtig uit de verpakking en maak ze één voor één los. Leg ze uitgespreid op een snijplank.",
+    "Proef een klein stukje van een koolblad. Zijn de bladeren erg zout of zuur, laat ze dan 15–30 minuten in koud water liggen en giet ze af. Ze moeten wel hun karakteristieke frisse, gefermenteerde smaak behouden.",
+    "Snijd met een scherp mes het dikke deel van de hoofdnerf dunner, zodat de bladeren soepel kunnen worden opgerold. Grote bladeren kun je eventueel halveren. Bewaar afgesneden stukjes kool voor het stoven.",
+    "Pel de uien en snipper ze zeer fijn.",
+    "Spoel de rijst onder koud water totdat het spoelwater grotendeels helder blijft. Laat goed uitlekken.",
+    "Verhit de zonnebloemolie in een koekenpan op middelhoog vuur. Voeg de uien toe en bak ze ongeveer 6–8 minuten, totdat ze zacht en glazig zijn.",
+    "Voeg de rijst toe en bak deze ongeveer 2 minuten mee terwijl je regelmatig roert. De rijst hoeft nog niet gaar te worden.",
+    "Haal de pan van het vuur en roer de tomatenpuree, gedroogde tijm en het paprikapoeder door het mengsel. Laat ongeveer 10 minuten afkoelen.",
+    "Doe het varkensgehakt in een ruime kom. Voeg het uien-rijstmengsel, de fijngehakte dille en de zwarte peper toe. Meng alles met de hand tot een gelijkmatige vulling. Voeg slechts weinig zout toe, omdat de koolbladeren en het gerookte vlees al zout zijn.",
+    "Leg een koolblad met de binnenkant naar boven op een snijplank en leg een portie van de vulling onderaan het blad.",
+    "Vouw de onderkant over de vulling, rol het blad eenmaal op en vouw vervolgens de zijkanten naar binnen. Rol verder tot een stevig, langwerpig pakketje van ongeveer 6–8 cm lang. Rol niet te strak, want de rijst zet tijdens het garen nog uit.",
+    "Herhaal dit met de overige bladeren en de vulling. Probeer ongeveer 16–18 gelijkmatige rolletjes te maken.",
+    "Verwarm de oven voor op 160 °C boven- en onderwarmte.",
+    "Snijd het gerookte varkensvlees in grove stukken van ongeveer 3 cm.",
+    "Verdeel de helft van de zuurkool over de bodem van een ruime ovenbestendige braadpan met deksel. Voeg de afgesneden restjes kool toe en leg de laurierblaadjes en takjes tijm erop.",
+    "Leg de helft van de Sarmale dicht tegen elkaar aan op de zuurkool, met de naden naar beneden. Leg een deel van het gerookte vlees ertussen.",
+    "Leg de overige Sarmale in een tweede laag en verdeel de rest van het gerookte vlees ertussen. Dek af met de resterende zuurkool.",
+    "Schenk de passata over de koolrolletjes. Voeg vervolgens zoveel warm water toe dat het vocht bijna tot de bovenste laag rolletjes komt. De Sarmale hoeven niet volledig onder te staan, maar er moet voldoende vocht zijn om ze langzaam gaar te stoven.",
+    "Breng het vocht op het fornuis voorzichtig tegen de kook aan. Doe het deksel op de pan en zet deze in het midden van de voorverwarmde oven.",
+    "Laat de Sarmale ongeveer 2½–3 uur zachtjes garen. Controleer ieder uur of er voldoende vocht aanwezig is en voeg indien nodig wat heet water toe. Roer niet tussen de rolletjes, want dan kunnen ze openbreken.",
+    "Controleer na 2½ uur of de koolbladeren volledig zacht zijn en de rijst in de vulling gaar is. Snijd eventueel één rolletje open om dit te controleren. Het gehakt moet volledig gaar zijn. Laat indien nodig nog 30 minuten verder stoven.",
+    "Haal de pan uit de oven en laat de Sarmale ongeveer 15 minuten met het deksel erop rusten. De smaken trekken verder in en de rolletjes worden iets steviger.",
+    "Begin ongeveer 30 minuten voordat de Sarmale klaar zijn met de Mămăligă. Breng het water met het zout in een stevige pan met dikke bodem aan de kook.",
+    "Strooi het maïsgries langzaam en gelijkmatig in het kokende water terwijl je voortdurend met een garde roert. Hierdoor voorkom je klontjes.",
+    "Zet het vuur laag zodra het mengsel begint in te dikken. Vervang de garde door een stevige houten lepel.",
+    "Laat de Mămăligă ongeveer 20–25 minuten zachtjes koken. Roer regelmatig en schraap steeds over de bodem om aanbakken te voorkomen. De maïspap moet dik, glad en volledig gaar worden. Volg bij een afwijkende maïsgriesvariant zo nodig de aanwijzingen op de verpakking.",
+    "Als de Mămăligă te stevig wordt voordat het maïsgries gaar is, voeg dan een klein scheutje heet water toe. Uiteindelijk moet de massa stevig genoeg zijn om op een bord een zachte, afgeronde hoop te vormen, maar nog wel gemakkelijk op te scheppen.",
+    "Schep op ieder bord een royale portie warme Mămăligă.",
+    "Leg er vier à vijf Sarmale naast. Verdeel wat gestoofde zuurkool en een beetje van het rijke tomatenstoofvocht over de borden.",
+    "Schep een flinke lepel smântână of crème fraîche naast de koolrolletjes. Serveer eventueel met wat verse groene chilipeper voor wie van pittig houdt."
+  ],
+  "weetje": "Hoewel sarmale tegenwoordig wordt beschouwd als een van de nationale gerechten van Roemenië, liggen de wortels in de bredere Ottomaanse eetcultuur. Het woord *sarma* komt van het Turkse *sarmak*, dat 'omwikkelen' betekent. Tijdens de eeuwenlange uitwisseling tussen het Ottomaanse Rijk en de landen van Zuidoost-Europa verspreidde het gerecht zich over de Balkan. In Roemenië ontstond een eigen traditie, waarbij vooral gefermenteerde witte kool, varkensvlees, rijst en gerookt vlees werden gebruikt. Een van de vroegste bekende schriftelijke vermeldingen van het woord *sarmale* in het Roemeens dateert uit 1813, hoewel het gerecht waarschijnlijk al veel langer werd bereid.\n\nSarmale zijn in Roemenië onlosmakelijk verbonden met Kerstmis en andere grote familiefeesten. Traditioneel worden grote hoeveelheden tegelijk bereid, vaak in een zware aardewerken pot, en urenlang langzaam gestoofd. De rolletjes smaken volgens veel Roemeense koks de volgende dag zelfs nog beter. De winterse bereiding met gefermenteerde kool sluit aan bij de vroegere noodzaak groenten te bewaren gedurende de koude maanden. Naast deze rijke vleesvariant bestaan ook vegetarische *sarmale de post*, die tijdens orthodoxe vastenperioden worden gegeten en bijvoorbeeld met rijst, paddenstoelen en groenten zijn gevuld.\n\nOok het bijgerecht mămăligă heeft een bijzondere geschiedenis. Hoewel deze stevige maïspap tegenwoordig als typisch Roemeens wordt beschouwd, komt maïs oorspronkelijk uit Midden-Amerika. Het gewas bereikte de Roemeense gebieden in de zeventiende eeuw en groeide uit tot een belangrijk volksvoedsel. Vóór de introductie van maïs werden vergelijkbare papgerechten vooral van gierst gemaakt. De combinatie van sarmale met mămăligă vertelt daardoor een bijzonder verhaal: een gerecht met Ottomaanse wortels wordt geserveerd met een bereiding die door een Amerikaans landbouwgewas een nieuwe vorm kreeg. Samen zijn ze uitgegroeid tot een symbool van de Roemeense keuken.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Sarmale în foi de varză murată cu afumătură",
+    "auteur": "Nicolaie Tomescu",
+    "kookboek": "Chef Nicolaie Tomescu (geïnspireerd op)",
+    "url": "https://chefnicolaietomescu.ro/reteta/sarmale-in-foi-de-varza-murata-cu-afumatura/"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Sarmale în foi de varză murată cu afumătură",
+      "auteur": "Nicolaie Tomescu",
+      "kookboek": "Chef Nicolaie Tomescu",
+      "url": "https://chefnicolaietomescu.ro/reteta/sarmale-in-foi-de-varza-murata-cu-afumatura/"
+    },
+    {
+      "receptTitel": "Sarmale foi de varză murată cu afumătură",
+      "auteur": null,
+      "kookboek": "Doxologia",
+      "url": "https://doxologia.ro/sarmale-foi-de-varza-murata-cu-afumatura"
+    },
+    {
+      "receptTitel": "Romanian Mămăligă Recipe",
+      "auteur": null,
+      "kookboek": "The Romanian Cookbook",
+      "url": "https://theromaniancookbook.com/romanian-mamaliga-recipe/"
+    }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "Romanian cuisine",
+      "auteur": null,
+      "kookboek": "EURAXESS Romania",
+      "url": "https://www.euraxess.gov.ro/romania/information-assistance/daily-life/romanian-cuisine"
+    },
+    {
+      "receptTitel": "Din istoria bucătăriei tradiționale românești: Sarmalele",
+      "auteur": null,
+      "kookboek": "TVR Craiova",
+      "url": "https://tvr-craiova.ro/articole/din-istoria-bucatariei-traditionale-romanesti-sarmalele/"
+    },
+    {
+      "receptTitel": "Of the importance of a leaf: The ethnobotany of sarma in Turkey and the Balkans",
+      "auteur": null,
+      "kookboek": "Journal of Ethnobiology and Ethnomedicine",
+      "url": "https://link.springer.com/article/10.1186/s13002-015-0002-x"
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "sleutel": "kugelis",
   "regios": [
-    "rus-eurazie"
+    "noord-oost-europa"
   ],
   "titel": "Kugelis met komkommer-radijssalade",
   "korteBeschrijving": "Traditionele Litouwse aardappelovenschotel met gerookt spek en ui, goudbruin gebakken en geserveerd met zure room, verse bieslook en een frisse komkommer-radijssalade.",
@@ -10,7 +10,7 @@
   "url": "recepten.html?id=kugelis",
   "volgorde": 23,
   "regioVolgorde": {
-    "rus-eurazie": 3
+    "noord-oost-europa": 2
   },
   "porties": 4,
   "bereidingstijdMinuten": 105,

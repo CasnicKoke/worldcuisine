@@ -3,8 +3,9 @@
   "regios": [
     "balkan"
   ],
-  "titel": "Ćevapi",
-  "korteBeschrijving": "Gegrilde Balkanworstjes van gekruid gehakt, vaak geserveerd met brood, ui en ajvar.",
+  "titel": "Ćevapi met somun, ajvar en ui",
+  "korteBeschrijving": "Gegrilde Bosnische gehaktrolletjes van sappig rundergehakt, geserveerd in zelfgebakken somun-platbrood met rauwe ui, huisgemaakte ajvar van geroosterde paprika en eventueel romige kajmak.",
+  "beschrijving": "Ćevapi behoren tot de bekendste gerechten van de Balkan. In de Sarajevose variant worden kleine worstjes gemaakt van gekruid rundergehakt, dat na een lange rusttijd boven een heet vuur wordt gegrild. De buitenkant krijgt een licht krokant korstje, terwijl het vlees vanbinnen sappig blijft. Traditioneel worden de ćevapi geserveerd in somun, een zacht en luchtig Bosnisch platbrood, met fijngesneden rauwe ui. Wij voegen huisgemaakte ajvar van geroosterde paprika en aubergine toe, en serveren eventueel kajmak voor een romige tegenhanger.",
   "afbeelding": "images/recepten/CevapiAI.webp",
   "url": "recepten.html?id=cevapi",
   "volgorde": 52,
@@ -12,14 +13,111 @@
     "balkan": 0
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 150,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de Ćevapi (circa 32 stuks):",
+    "800 g rundergehakt met 15–20% vet (van de slager)",
+    "2 tenen knoflook",
+    "100 ml koud bruisend mineraalwater",
+    "2 tl zout",
+    "1 tl versgemalen zwarte peper",
+    "1 el zonnebloemolie, voor de grillpan",
+    "Voor de Somun (4 platbroden):",
+    "450 g tarwebloem",
+    "320 ml lauwwarm water",
+    "7 g gedroogde gist",
+    "1 tl suiker",
+    "2 tl zout",
+    "1 tl nigellazaad (ćurekot, optioneel)",
+    "Extra bloem voor het werkblad",
+    "Voor de Ajvar:",
+    "3 grote rode paprika’s (circa 500 g)",
+    "1 kleine aubergine (circa 250 g)",
+    "1 teen knoflook",
+    "2 el zonnebloemolie",
+    "1 el wittewijnazijn",
+    "Zout en versgemalen zwarte peper naar smaak",
+    "Voor het serveren:",
+    "1 middelgrote witte ui",
+    "150 g kajmak (optioneel; of een mengsel van roomkaas en crème fraîche)"
+  ],
+  "bereiding": [
+    "Pel de knoflook en kneus de tenen met de platte kant van een mes. Doe ze in een kleine kom met het bruisende mineraalwater en laat ongeveer 15 minuten trekken.",
+    "Zeef het knoflookwater en verwijder de knoflook. Zo krijgt het vlees een subtiel knoflookaroma zonder stukjes die tijdens het grillen kunnen verbranden.",
+    "Doe het rundergehakt in een ruime kom. Voeg het zout en de zwarte peper toe en meng goed.",
+    "Schenk het knoflookwater geleidelijk bij het gehakt. Kneed het vlees ongeveer 5–8 minuten stevig met de hand, totdat een samenhangend, enigszins plakkerig mengsel ontstaat. Hierdoor ontwikkelen de vleeseiwitten voldoende binding en blijven de Ćevapi tijdens het grillen stevig en sappig.",
+    "Dek de kom af en zet het gehakt minstens 8 uur, bij voorkeur een hele nacht, in de koelkast. De rusttijd zorgt voor een betere structuur en een gelijkmatige verdeling van het zout.",
+    "Meng de bloem, gist, suiker en het zout voor de Somun in een grote kom. Voeg geleidelijk het lauwwarme water toe terwijl je alles met een lepel doorroert.",
+    "Kneed het deeg ongeveer 8–10 minuten met de hand of 6–8 minuten in een keukenmachine met deeghaak, totdat het soepel en elastisch is. Het deeg mag nog wat plakkerig zijn; voeg niet te veel extra bloem toe.",
+    "Vorm een bal, leg deze in de kom en dek af met een vochtige theedoek. Laat ongeveer 60 minuten op een warme, tochtvrije plek rijzen, totdat het deeg ongeveer in volume is verdubbeld.",
+    "Verdeel het deeg in vier gelijke stukken. Vorm voorzichtig vier bollen en laat deze onder een theedoek ongeveer 10 minuten rusten.",
+    "Druk iedere bol met licht bebloemde handen plat tot een rond brood van ongeveer 18–20 cm doorsnede en 1–1,5 cm dik. Probeer zoveel mogelijk lucht in het deeg te behouden.",
+    "Leg de broden op bakpapier. Maak met je vingertoppen een ondiep ruitpatroon in het oppervlak, zonder helemaal door het deeg te drukken. Bestrooi eventueel met nigellazaad. Laat afgedekt nog 15 minuten rijzen.",
+    "Verwarm ondertussen de oven voor op 250 °C boven- en onderwarmte met een stevige, omgekeerde bakplaat erin.",
+    "Schuif de broden met het bakpapier voorzichtig op de hete bakplaat. Bak ze, eventueel in twee porties, ongeveer 8–11 minuten totdat ze mooi zijn opgeblazen en goudbruine plekken hebben gekregen. Het brood moet gaar zijn, maar niet hard of knapperig worden.",
+    "Haal de Somun uit de oven en leg ze onder een schone theedoek. Hierdoor blijft de korst zacht en soepel.",
+    "Verwarm de oven voor op 230 °C boven- en onderwarmte. Was de paprika’s en aubergine. Halveer de paprika’s, verwijder de zaadlijsten en leg ze met de schil naar boven op een met bakpapier beklede bakplaat. Prik de aubergine op enkele plaatsen in en leg deze erbij.",
+    "Rooster de groenten ongeveer 30–40 minuten, totdat de paprikaschillen donkere blaren vertonen en de aubergine volledig zacht is. Draai de aubergine halverwege om.",
+    "Leg de geroosterde paprika’s in een kom en dek deze ongeveer 10 minuten af. Trek vervolgens de schillen eraf. Snijd de aubergine open en schep het zachte vruchtvlees uit de schil.",
+    "Hak de paprika en aubergine met een mes fijn, of maal ze met enkele korte pulsen in een keukenmachine tot een grove puree. De Ajvar moet enige structuur behouden.",
+    "Pel de knoflook en hak deze zeer fijn. Verhit de zonnebloemolie voor de Ajvar in een kleine pan op middellaag vuur en voeg het groentemengsel toe.",
+    "Laat de Ajvar ongeveer 20–25 minuten zachtjes inkoken. Roer regelmatig zodat het mengsel niet aanbakt. Voeg de knoflook tijdens de laatste 5 minuten toe.",
+    "Roer de wittewijnazijn erdoor en breng op smaak met zout en zwarte peper. De Ajvar moet een dikke, smeerbare structuur hebben en een zachtzoete, licht rokerige paprikasmaak. Laat afkoelen tot kamertemperatuur.",
+    "Haal het gehakt ongeveer 15 minuten voor het vormen uit de koelkast. Verdeel het mengsel in ongeveer 32 gelijke porties van circa 25 g.",
+    "Maak je handen licht vochtig en rol iedere portie tot een kort worstje van ongeveer 5–6 cm lang en 1,5–2 cm dik. Druk het vlees voldoende stevig aan, zodat er geen grote luchtopeningen ontstaan. De worstjes hebben geen vel en moeten hun vorm behouden.",
+    "Verhit een grillpan op middelhoog tot hoog vuur. Laat de pan goed heet worden en bestrijk de ribbels dun met zonnebloemolie.",
+    "Leg de Ćevapi in de grillpan en gril ze ongeveer 8–10 minuten. Draai ze iedere 2 minuten, zodat ze rondom mooi bruin worden. Gril zo nodig in twee porties. Druk niet met een spatel op het vlees, want dan verliest het onnodig veel vocht. Zorg dat het gehakt ook vanbinnen gaar is.",
+    "Haal de Ćevapi uit de pan en laat ze ongeveer 2 minuten rusten terwijl je het brood voorbereidt.",
+    "Pel de witte ui en snipper deze zeer fijn. Serveer de ui rauw, zoals gebruikelijk bij Sarajevose Ćevapi.",
+    "Snijd de Somun horizontaal open, maar laat de helften bij voorkeur aan één kant aan elkaar vastzitten. Leg ze kort met de snijkant op de warme grillpan, zodat ze wat warmte en aroma van het vlees opnemen.",
+    "Leg op ieder bord een warme Somun en vul deze met ongeveer acht Ćevapi. Verdeel de gesnipperde ui ernaast of over het vlees.",
+    "Serveer de Ajvar afzonderlijk, zodat iedereen naar smaak kan toevoegen. Geef eventueel wat kajmak erbij voor een extra romige, zachte smaak."
+  ],
+  "weetje": "Ćevapi weerspiegelen de eeuwenlange invloed van het Ottomaanse Rijk op de Balkan. Het woord is verwant aan het Turkse *kebap*, dat teruggaat op oudere Midden-Oosterse benamingen voor geroosterd vlees. Tijdens de Ottomaanse overheersing verspreidden allerlei bereidingen van gegrild gehakt zich over Zuidoost-Europa. In Bosnië ontstond een eigen traditie van kleine, langwerpige gehaktrolletjes, waarin het vlees veel eenvoudiger wordt gekruid dan bij veel Anatolische kebabgerechten. Vooral Sarajevo ontwikkelde een karakteristieke variant, die traditioneel zonder varkensvlees wordt gemaakt en wordt geserveerd met zacht somun-brood en rauwe ui.\n\nHet somun-brood heeft een bijzondere plaats in de geschiedenis van Sarajevo. Volgens een lokale overlevering ontstond het in de zestiende eeuw in de keukens van Gazi Husrev-beg, een invloedrijke Ottomaanse bestuurder die onder meer voedselvoorzieningen voor armen en reizigers liet aanleggen. Nog altijd worden tijdens de ramadan lange rijen gevormd voor de traditionele bakkerijen van de oude wijk Baščaršija. Het brood wordt dan vaak bestrooid met *ćurekot*, nigellazaad, dat tijdens het bakken een karakteristieke geur verspreidt. Voor veel inwoners hoort de geur van versgebakken somun onlosmakelijk bij de avondmaaltijd waarmee het vasten wordt verbroken.\n\nOok de ajvar vertelt een verhaal van internationale culinaire uitwisseling. De paprika komt oorspronkelijk uit Amerika en bereikte Europa pas na de reizen van Columbus. Op de Balkan groeide de geroosterde paprika uit tot de basis van een geliefde groentespread. De naam *ajvar* is waarschijnlijk afgeleid van het Turkse *havyar*, dat ‘kaviaar’ betekent. In het negentiende-eeuwse Belgrado werd de naam ook gebruikt voor een paprikabereiding die als alternatief voor de kostbare steurkaviaar werd aangeboden. Tegenwoordig kennen vrijwel alle landen van de Balkan hun eigen ajvarvarianten, soms met aubergine, soms uitsluitend met paprika.\n\nIn augustus 2024 kregen de Sarajevose ćevapi in Bosnië en Herzegovina officieel een beschermde geografische aanduiding. Daarmee werd de eigen identiteit van deze lokale specialiteit ook formeel erkend als onderdeel van het culinaire erfgoed van Sarajevo.",
   "bron": {
-    "receptTitel": null,
+    "receptTitel": "Sarajevski Ćevapi",
     "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "kookboek": "TasteAtlas (geïnspireerd op)",
+    "url": "https://www.tasteatlas.com/sarajevski-cevapi/recipe"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Ćevapi and Somun",
+      "auteur": null,
+      "kookboek": "Seema Gets Baked (geïnspireerd op)",
+      "jaar": null,
+      "url": "https://seemagetsbaked.com/recipe/cevapi-bosnia-and-herzogovnia/"
+    },
+    {
+      "receptTitel": "Traditional Bosnian recipes",
+      "auteur": null,
+      "kookboek": "Stari Grad Sarajevo",
+      "jaar": null,
+      "url": "https://starigrad.ba/userfiles/file/2016/8/2408_online%20kuhar%20web.pdf"
+    }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "Sarajevski ćevap zaštićen oznakom geografskog porijekla",
+      "auteur": "Agencija za sigurnost hrane Bosne i Hercegovine",
+      "kookboek": null,
+      "jaar": 2024,
+      "url": "https://fsa.gov.ba/bs/sarajevski-cevap-zasticen-oznakom-geografskog-porijekla/"
+    },
+    {
+      "receptTitel": "Geschiedenis van Sarajevose somun",
+      "auteur": null,
+      "kookboek": "Klix",
+      "jaar": 2025,
+      "url": "https://www.klix.ba/lifestyle/gastro/znate-li-kako-je-nastao-sarajevski-somun-i-po-cemu-je-dobio-ime/250317131"
+    },
+    {
+      "receptTitel": "Pepper season in the Balkans means it’s ajvar sauce production time",
+      "auteur": null,
+      "kookboek": "Euronews",
+      "jaar": 2020,
+      "url": "https://www.euronews.com/travel/2020/09/24/pepper-season-in-the-balkans-means-it-s-ajvar-sauce-production-time"
+    }
+  ]
 }

@@ -3,8 +3,9 @@
   "regios": [
     "verenigde-staten"
   ],
-  "titel": "Barbecue Ribs",
-  "korteBeschrijving": "Langzaam gegaarde spareribs met een rokerige, zoet-kruidige barbecuesaus.",
+  "titel": "Barbecue Ribs – Memphis-style spareribs",
+  "korteBeschrijving": "In de oven gegaarde Memphis-style spareribs met een kruidige dry rub, geserveerd met frisse coleslaw en zelfgebakken cornbread.",
+  "beschrijving": "Memphis-style Barbecue Ribs behoren tot de beroemdste specialiteiten van het Amerikaanse zuiden. Varkensspareribs worden ingewreven met een mengsel van paprikapoeder, knoflook, komijn, oregano en andere specerijen en vervolgens langzaam gegaard totdat het vlees heerlijk mals is. Anders dan bij veel andere Amerikaanse barbecuestijlen ligt de nadruk bij deze *dry ribs* op de kruidenkorst, niet op een dikke laag barbecuesaus. Traditioneel worden ze boven houtskool of in een smoker bereid; onze ovenversie maakt het gerecht ook zonder barbecue goed uitvoerbaar. We serveren de spareribs met frisse, romige coleslaw en warm, zelfgebakken cornbread, dat uitstekend past bij de rijke smaken van het vlees.",
   "afbeelding": "images/recepten/BarbecueRibsAI.webp",
   "url": "recepten.html?id=barbecueRibs",
   "volgorde": 84,
@@ -12,14 +13,133 @@
     "verenigde-staten": 0
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 240,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de spareribs:",
+    "1,8–2 kg rauwe, ongemarineerde varkensspareribs (ongeveer 2 ribstukken)",
+    "150 ml appelsap",
+    "2 el paprikapoeder",
+    "1 el bruine basterdsuiker",
+    "2 tl fijn zout",
+    "2 tl knoflookpoeder",
+    "2 tl uienpoeder",
+    "1 tl gerookt paprikapoeder",
+    "1 tl versgemalen zwarte peper",
+    "1 tl gedroogde oregano",
+    "1 tl gemalen komijn",
+    "1 tl mosterdpoeder",
+    "1 mespunt cayennepeper",
+    "Voor de coleslaw:",
+    "400 g witte kool",
+    "2 middelgrote wortelen (circa 200 g)",
+    "1 kleine rode ui",
+    "100 g mayonaise",
+    "100 g volle yoghurt",
+    "1 el appelazijn",
+    "1 tl Dijonmosterd",
+    "1 tl suiker",
+    "Zout en versgemalen zwarte peper",
+    "Voor het cornbread:",
+    "170 g fijn maïsmeel of fijngemalen polenta (geen maïzena)",
+    "120 g tarwebloem",
+    "2 tl bakpoeder",
+    "1 tl zout",
+    "1 el suiker",
+    "250 ml karnemelk",
+    "1 ei",
+    "50 g roomboter",
+    "Een beetje extra roomboter om de bakvorm in te vetten",
+    "Verder nodig:",
+    "Een grote ovenschaal of diepe bakplaat",
+    "Aluminiumfolie",
+    "Een vierkante bakvorm van ongeveer 20 × 20 cm"
+  ],
+  "bereiding": [
+    "Haal de spareribs uit de verpakking en dep ze droog met keukenpapier. Controleer of het dunne, taaie vlies aan de botzijde nog aanwezig is.",
+    "Verwijder indien nodig het vlies door er met een bot mes voorzichtig onder te schuiven. Pak het met keukenpapier vast en trek het in één beweging los.",
+    "Meng het paprikapoeder, de bruine basterdsuiker, het zout, knoflookpoeder, uienpoeder, gerookte paprikapoeder, zwarte peper, oregano, komijn, mosterdpoeder en cayennepeper in een kommetje.",
+    "Houd ongeveer 1 el van het kruidenmengsel apart voor de afwerking. Wrijf de spareribs aan beide kanten goed in met de rest van de rub.",
+    "Leg de spareribs in een schaal, dek af en laat minimaal 30 minuten in de koelkast rusten. Voor een intensere smaak kun je ze een nacht laten marineren.",
+    "Verwarm de oven voor op 150 °C (boven- en onderwarmte).",
+    "Leg de spareribs met de vleeskant naar boven naast elkaar in een ruime ovenschaal of diepe bakplaat. Zorg dat ze niet op elkaar liggen.",
+    "Schenk het appelsap voorzichtig langs de rand van de schaal, zonder het kruidenmengsel van het vlees te spoelen.",
+    "Dek de schaal stevig af met aluminiumfolie. Sluit de randen goed af, zodat de stoom tijdens het garen grotendeels binnenblijft.",
+    "Zet de schaal in het midden van de oven en laat de spareribs ongeveer 2 uur en 45 minuten tot 3 uur en 15 minuten langzaam garen.",
+    "Controleer na ongeveer 2 uur en 45 minuten of het vlees gaar is. Een prikker moet gemakkelijk tussen de botten in het vlees glijden. De ribben moeten mals zijn, maar nog voldoende samenhang hebben om ze te kunnen optillen.",
+    "Haal de schaal uit de oven. Laat de spareribs voorlopig afgedekt rusten terwijl je het cornbread bakt.",
+    "Verwijder de buitenste bladeren van de witte kool, snijd de kool in vieren en verwijder de harde stronk. Snijd de kool in zeer fijne reepjes.",
+    "Schil de wortelen en rasp ze grof. Pel de rode ui en snijd deze in flinterdunne halve ringen.",
+    "Meng de mayonaise, volle yoghurt, appelazijn, Dijonmosterd en suiker in een grote kom tot een gladde dressing.",
+    "Voeg de witte kool, wortel en rode ui toe en schep goed om totdat alle groenten met een dun laagje dressing bedekt zijn.",
+    "Breng op smaak met zout en zwarte peper. Dek de kom af en zet de coleslaw minimaal 30 minuten in de koelkast, zodat de smaken zich kunnen mengen.",
+    "Verhoog de oventemperatuur naar 200 °C (boven- en onderwarmte).",
+    "Smelt de roomboter in een magnetronbestendig kommetje. Laat de boter iets afkoelen.",
+    "Meng het fijne maïsmeel, de tarwebloem, het bakpoeder, zout en de suiker in een ruime kom.",
+    "Klop in een tweede kom de karnemelk en het ei los. Voeg de gesmolten roomboter toe en meng goed.",
+    "Schenk het natte mengsel bij de droge ingrediënten en roer kort met een lepel of spatel totdat alles net gemengd is. Een paar kleine klontjes zijn geen probleem. Roer niet te lang, anders wordt het cornbread taai.",
+    "Vet de bakvorm in met een beetje roomboter en verdeel het beslag gelijkmatig over de bodem.",
+    "Bak het cornbread ongeveer 20–25 minuten in het midden van de oven, totdat de bovenkant goudbruin is en een satéprikker schoon uit het midden komt.",
+    "Haal het cornbread uit de oven en laat ongeveer 10 minuten afkoelen voordat je het in acht stukken snijdt.",
+    "Haal de spareribs voorzichtig uit de ovenschaal en leg ze met de vleeskant naar boven op een met aluminiumfolie beklede bakplaat. Gooi het achtergebleven kookvocht weg.",
+    "Strooi het apart gehouden kruidenmengsel gelijkmatig over de bovenkant van het vlees.",
+    "Schakel de ovengrill in op een hoge stand en plaats de spareribs ongeveer 15 cm onder het grillelement.",
+    "Grill de spareribs ongeveer 3–5 minuten, totdat de buitenkant een mooie, donkerbruine kruidenkorst krijgt. Blijf erbij: door de suiker in de rub kan de korst snel verbranden.",
+    "Haal de spareribs uit de oven en laat ze ongeveer 5 minuten rusten. Snijd ze vervolgens tussen de botten in afzonderlijke ribben of porties van twee tot drie ribben.",
+    "Verdeel de spareribs over vier borden en serveer met de gekoelde coleslaw en twee stukken warm cornbread per persoon."
+  ],
+  "weetje": "De Amerikaanse barbecue heeft een geschiedenis die veel verder teruggaat dan de moderne barbecuegrill. Het woord *barbecue* is waarschijnlijk afgeleid van *barbacoa*, een term die Spaanse kolonisten in het Caribisch gebied leerden kennen voor een constructie waarop voedsel boven een vuur werd bereid of gedroogd. In het zuiden van de Verenigde Staten ontwikkelde zich vervolgens een eigen barbecuecultuur, waarin inheemse bereidingswijzen, Europese veeteelt en de kooktradities van tot slaaf gemaakte Afrikanen samenkwamen. Vooral varkensvlees werd populair: varkens waren relatief goedkoop te houden en ook de minder gewaardeerde delen, zoals schouders en ribben, konden door langzaam garen boven een vuur veranderen in mals en smaakvol vlees.\n\nMemphis, gelegen aan de Mississippi in de staat Tennessee, groeide in de negentiende eeuw uit tot een belangrijk handelscentrum voor katoen, hout en landbouwproducten. Via de rivier werden goederen, mensen en ingrediënten aangevoerd. De stad had een grote Afro-Amerikaanse bevolking, die een centrale rol speelde in de ontwikkeling van zowel de lokale barbecuecultuur als de muziek. In de eerste helft van de twintigste eeuw ontstonden steeds meer kleine barbecuerestaurants, vaak gerund door families. De pitmasters bewaakten urenlang de temperatuur van de houtskool en gaven hun kennis van kruidenmengsels, houtsoorten en bereidingswijzen door aan volgende generaties. Een van hen was James Willis, die in 1938 als tiener begon bij Leonard's Barbecue en later werd geëerd voor zijn bijdrage aan de barbecuegeschiedenis van Memphis.\n\nDe beroemde *dry rub ribs* kregen hun bekendheid vooral dankzij een opmerkelijke ondernemer: Charlie Vergos, de zoon van Griekse immigranten. In 1948 opende hij in een kelder in het centrum van Memphis een eenvoudige zaak met broodjes ham en bier, die hij *Rendezvous* noemde. Hij ontdekte een oude kolenschacht die hij kon gebruiken om vlees boven houtskool te bereiden. Toen hij eind jaren vijftig varkensribben aan zijn assortiment toevoegde, ontwikkelde hij een bijzondere kruidenmix, gebaseerd op een Grieks familierecept met onder andere oregano en knoflook. Hij combineerde deze mediterrane smaken met paprikapoeder en chilipeper. De ribben werden boven gloeiende houtskool gegrild, tijdens het garen met een mengsel van azijn en water bevochtigd en vervolgens met het kruidenmengsel bestrooid. Daarmee ontstond de beroemde Rendezvous-stijl, die anders dan veel andere barbecuevarianten geen dikke laag zoete saus nodig had.\n\nHet verhaal van Rendezvous laat zien hoe sterk de Amerikaanse keuken door immigratie is gevormd. Een gerecht dat tegenwoordig als typisch zuidelijk Amerikaans wordt beschouwd, kreeg zijn bekendste kruidenmengsel dankzij de zoon van Griekse immigranten. Tegelijkertijd bouwde Vergos voort op een veel oudere barbecuecultuur, waarin Afro-Amerikaanse pitmasters een belangrijke rol hadden gespeeld. Die culturele vermenging zien we ook in de muziekgeschiedenis van Memphis. In en rond Beale Street kwamen vanaf het begin van de twintigste eeuw muzikanten uit de Mississippi Delta samen. De blues ontwikkelde zich er tot een stedelijke muziekstijl en vormde later een belangrijke voedingsbodem voor rhythm-and-blues, soul en rock-'n-roll. Barbecuerestaurants, cafés en muziekgelegenheden maakten deel uit van hetzelfde bruisende stadsleven. Ook het Rendezvous werd beroemd om zijn combinatie van eten, muziek en een bijzondere sfeer.\n\nDe Amerikaanse barbecue kent overigens grote regionale verschillen. In Texas draait het vaak om langzaam gerookte runderborst (*brisket*), in North Carolina om varkensvlees met azijnsaus en in Kansas City om een zoetere, dikke barbecuesaus. Memphis staat juist bekend om zijn varkensribben en pulled pork, waarbij de discussie tussen *wet ribs* met saus en *dry ribs* met kruiden soms hoog kan oplopen. Onze ovenversie is geïnspireerd op de droge Memphis-stijl, maar vervangt het houtskoolvuur door een langzame bereiding in de oven. Het gerookte paprikapoeder geeft daarbij een bescheiden rokerig accent. De coleslaw en het cornbread maken de maaltijd compleet: beide behoren tot de vertrouwde bijgerechten uit de keuken van het Amerikaanse zuiden.\n\nZo vertellen deze spareribs een geschiedenis van inheemse kooktechnieken, Afrikaanse en Europese invloeden, immigratie, ondernemerschap en de bijzondere cultuur van Memphis. Een gerecht dat veel meer vertegenwoordigt dan alleen vlees van de barbecue.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Memphis-Style Dry Ribs (geïnspireerd op)",
+    "auteur": "Saveur",
+    "kookboek": "Saveur, June/July 2011 BBQ issue",
+    "jaar": 2011,
+    "url": "https://www.saveur.com/article/Recipes/Memphis-Style-Dry-Ribs/"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Easy Rendezvous-Style Memphis Dry Rubbed Ribs Recipe",
+      "auteur": "Meathead Goldwyn",
+      "kookboek": "AmazingRibs.com",
+      "jaar": null,
+      "url": "https://amazingribs.com/tested-recipes/pork-ribs-recipes/rendezvous-ribs-recipe/"
+    },
+    {
+      "receptTitel": "Memphis Dust Rub Recipe",
+      "auteur": "Meathead Goldwyn",
+      "kookboek": "AmazingRibs.com",
+      "jaar": null,
+      "url": "https://amazingribs.com/tested-recipes/spice-rubs-and-pastes/meatheads-memphis-dust-rub-recipe/"
+    }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "Tennessee Barbecue Project",
+      "auteur": "Southern Foodways Alliance",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.southernfoodways.org/oral-history/tennessee-barbecue-project/"
+    },
+    {
+      "receptTitel": "Rendezvous History",
+      "auteur": "Charlie Vergos' Rendezvous",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://hogsfly.com/history/"
+    },
+    {
+      "receptTitel": "The Evolution of American Barbecue",
+      "auteur": "Smithsonian Magazine",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.smithsonianmag.com/arts-culture/the-evolution-of-american-barbecue-13770775/"
+    },
+    {
+      "receptTitel": "What Is Memphis-Style BBQ?",
+      "auteur": "Memphis Travel",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.memphistravel.com/article/memphis-style-bbq"
+    }
+  ]
 }

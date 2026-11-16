@@ -3,8 +3,9 @@
   "regios": [
     "verenigde-staten"
   ],
-  "titel": "Gumbo",
-  "korteBeschrijving": "Krachtige stoofpot uit Louisiana met roux, groenten, specerijen en vlees of zeevruchten.",
+  "titel": "Gumbo – Chicken and Sausage Gumbo",
+  "korteBeschrijving": "Rijke Cajun-stoofpot uit Louisiana met malse kip, gerookte Poolse kielbasa, groenten en een donkerbruine roux, geserveerd met witte rijst.",
+  "beschrijving": "Gumbo is een van de beroemdste gerechten uit Louisiana, waar Franse, West-Afrikaanse, inheemse en andere kooktradities samenkwamen. Onze versie is een klassieke *Chicken and Sausage Gumbo*, waarin malse kippendijfilet en stevig gerookte Poolse kielbasa langzaam garen in een krachtige, donkerbruine saus. De basis bestaat uit een zorgvuldig geroosterde roux en de karakteristieke *holy trinity* van ui, groene paprika en bleekselderij. Tijm, laurier en cayennepeper zorgen voor een diepe, kruidige smaak. De gumbo wordt geserveerd met witte rijst, die de rijke bouillon opneemt. Een verwarmende maaltijd die het beste van de Cajun-keuken laat zien.",
   "afbeelding": "images/recepten/GumboAI.webp",
   "url": "recepten.html?id=gumbo",
   "volgorde": 85,
@@ -12,14 +13,113 @@
     "verenigde-staten": 1
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 110,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor het vlees:",
+    "600 g kippendijfilet, zonder bot en vel",
+    "300 g Poolse gerookte kielbasa (stevige, grof gemalen varkensworst; geen droge worst)",
+    "1 el zonnebloemolie, voor het aanbraden",
+    "Voor de donkere roux:",
+    "75 g tarwebloem",
+    "75 ml zonnebloemolie",
+    "Voor de gumbo:",
+    "1 grote ui",
+    "1 grote groene paprika",
+    "3 stengels bleekselderij",
+    "4 tenen knoflook",
+    "1,3 liter kippenbouillon, bij voorkeur zoutarm",
+    "2 laurierblaadjes",
+    "1 tl gedroogde tijm",
+    "1 tl paprikapoeder",
+    "1 mespunt cayennepeper",
+    "1 tl versgemalen zwarte peper",
+    "Zout naar smaak",
+    "3 lente-uitjes",
+    "3 el fijngehakte verse peterselie",
+    "Voor erbij:",
+    "300 g langkorrelige witte rijst"
+  ],
+  "bereiding": [
+    "Dep de kippendijfilets droog met keukenpapier en snijd ze in stukken van ongeveer 4 cm.",
+    "Snijd de gerookte kielbasa in plakjes van ongeveer 7 mm dik.",
+    "Pel de ui en snipper deze fijn. Verwijder de zaadlijsten van de paprika en snijd het vruchtvlees in blokjes van ongeveer 1 cm.",
+    "Was de bleekselderij, verwijder eventueel de harde draden en snijd de stengels in kleine boogjes. Pel de knoflook en hak deze fijn.",
+    "Snijd de lente-uitjes in dunne ringetjes en hak de peterselie fijn. Houd beide apart voor de afwerking.",
+    "Verhit de zonnebloemolie voor het vlees in een grote braadpan met dikke bodem op middelhoog tot hoog vuur. Bak de stukken kip ongeveer 5 minuten, totdat ze rondom lichtbruin zijn. Ze hoeven nog niet gaar te zijn. Schep ze uit de pan.",
+    "Voeg de plakjes kielbasa toe en bak ongeveer 3 minuten, totdat ze licht kleuren en wat vet hebben afgegeven. Schep ook de worst uit de pan. Laat het bakvet achter.",
+    "Zet het vuur middellaag en voeg de zonnebloemolie voor de roux toe aan het achtergebleven bakvet. Laat de olie warm worden, maar niet roken.",
+    "Strooi de bloem in de pan en roer onmiddellijk met een houten spatel of garde totdat een glad mengsel zonder klontjes ontstaat.",
+    "Blijf het mengsel voortdurend over de bodem roeren. De roux verandert geleidelijk van lichtgeel naar goudbruin, vervolgens naar karamelbruin en uiteindelijk naar donkerbruin.",
+    "Laat de roux in ongeveer 25–40 minuten de kleur van melkchocolade krijgen. Houd het vuur middellaag en blijf voortdurend roeren. De roux mag donker worden, maar absoluut niet verbranden. Zwarte spikkels of een scherpe, verbrande geur betekenen dat je opnieuw moet beginnen.",
+    "Voeg zodra de roux de juiste kleur heeft de ui, paprika en bleekselderij in één keer toe. Roer direct en voorzichtig door. De groenten stoppen het bruiningsproces van de roux. Let op: het mengsel is erg heet en kan spatten.",
+    "Bak de groenten ongeveer 6–8 minuten in de roux, terwijl je regelmatig roert, totdat de ui zacht begint te worden.",
+    "Voeg de knoflook toe en bak nog ongeveer 1 minuut mee.",
+    "Schenk de kippenbouillon geleidelijk in de pan, eerst in kleine porties. Roer voortdurend zodat de roux zich gelijkmatig met de bouillon vermengt en er geen klontjes ontstaan.",
+    "Voeg de laurierblaadjes, tijm, paprikapoeder, cayennepeper en zwarte peper toe. Roer alles zorgvuldig door.",
+    "Doe de aangebraden kip met het vrijgekomen vocht terug in de pan. Voeg ook de plakjes kielbasa toe.",
+    "Breng de gumbo rustig tegen de kook aan. Zet het vuur laag en laat de stoofpot met het deksel schuin op de pan ongeveer 45–55 minuten zachtjes pruttelen. Roer af en toe over de bodem.",
+    "Controleer na ongeveer 45 minuten of de kip volledig gaar en mals is. Het vlees moet gemakkelijk met een vork uit elkaar kunnen worden getrokken.",
+    "Schep eventueel overtollig vet van het oppervlak. De gumbo moet een soepele, licht gebonden structuur hebben: dikker dan een gewone soep, maar duidelijk dunner dan een ragout.",
+    "Is de gumbo te dik, voeg dan een beetje heet water toe. Is hij te dun, laat hem nog enkele minuten zonder deksel zachtjes inkoken.",
+    "Spoel de rijst onder koud stromend water totdat het water grotendeels helder blijft. Kook de rijst volgens de aanwijzingen op de verpakking en laat daarna enkele minuten afgedekt rusten.",
+    "Verwijder de laurierblaadjes uit de gumbo. Voeg ongeveer twee derde van de lente-uitjes en peterselie toe en roer door.",
+    "Proef en breng indien nodig op smaak met zout, zwarte peper of wat extra cayennepeper. Wees voorzichtig met zout, omdat de worst en kippenbouillon al behoorlijk zout kunnen zijn.",
+    "Schep de rijst in het midden van vier diepe borden of kommen.",
+    "Schep de hete gumbo rondom de rijst. Zorg dat iedereen voldoende kip, worst, groenten en saus krijgt. Bestrooi met de resterende lente-uitjes en peterselie."
+  ],
+  "weetje": "Gumbo is misschien wel het gerecht waarin de ingewikkelde geschiedenis van Louisiana het duidelijkst zichtbaar wordt. De staat aan de monding van de Mississippi was eeuwenlang een ontmoetingsplaats van inheemse volken, Europese kolonisten, tot slaaf gemaakte Afrikanen en immigranten uit het Caribisch gebied. Zelfs de naam *gumbo* verwijst waarschijnlijk naar Afrika: woorden als *ki ngombo* en *gombo* betekenen in verschillende West-Afrikaanse talen okra, een groente die met de trans-Atlantische slavenhandel in Noord-Amerika terechtkwam. Okra werd gebruikt om stoofgerechten te binden, doordat het tijdens het koken een slijmerige, verdikkende substantie afgeeft.\n\nOok andere culturen leverden hun bijdrage. De inheemse Choctaw gebruikten gedroogde, fijngemalen bladeren van de sassafrasboom als bindmiddel en smaakmaker. Dit poeder, *filé* genoemd, werd later een belangrijk ingrediënt in gumbo. De Fransen brachten de *roux* mee, een mengsel van bloem en vet waarmee zij sauzen bonden. In Louisiana werd deze veel langer verhit, waardoor een donkerbruine, nootachtig smakende roux ontstond. Waar een lichte Franse roux vooral verdikt, geeft de donkere Louisiana-roux vooral smaak en kleur. De combinatie van Afrikaanse okra, inheemse filé en Europese roux illustreert hoe verschillende kooktradities samensmolten. Overigens bevat niet iedere gumbo alle drie de bindmiddelen.\n\nEen bijzondere historische verbinding bestaat met **Chicken Fricot uit New Brunswick**, een Canadees gerecht uit onze World Cuisine-collectie. Daar leerden we de Acadiërs kennen, Franstalige kolonisten die zich vanaf de zeventiende eeuw aan de Atlantische kust van Canada vestigden. Toen de Britten hen vanaf 1755 massaal deporteerden tijdens *Le Grand Dérangement*, raakten duizenden Acadiërs over verschillende landen verspreid. Een deel kwam uiteindelijk in Louisiana terecht, destijds onder Frans en later Spaans bestuur. Zij vestigden zich vooral in landelijke gebieden en ontwikkelden er een eigen cultuur. De naam *Cajun* is een verbastering van *Acadien*: de wortels van deze beroemde Amerikaanse cultuur liggen dus in Oost-Canada.\n\nDe Acadiërs brachten hun Franse taal en kooktradities mee, maar pasten hun gerechten aan het subtropische klimaat en plaatselijke ingrediënten aan. Rijst, rivierkreeftjes, garnalen en wild kregen een belangrijke plaats in hun keuken. Ook namen zij invloeden over van de Choctaw en andere inheemse volken, en van Afrikaanse en Afro-Caribische gemeenschappen. Chicken Fricot en Gumbo zijn verwant als voedzame eenpansmaaltijden, maar gumbo is niet simpelweg een aangepaste Chicken Fricot. Het gerecht ontstond uit een veel bredere vermenging van culinaire tradities, waarvan sommige al vóór de komst van de Acadiërs in Louisiana aanwezig waren.\n\nIn Louisiana ontstonden twee nauw verwante kooktradities. De **Cajun-keuken** wordt vooral geassocieerd met de landelijke gemeenschappen van Zuid-Louisiana, terwijl de **Creoolse keuken** sterk verbonden is met de multiculturele stad New Orleans, waar Franse, Spaanse, Afrikaanse, Caribische en later Italiaanse invloeden samenkwamen. Cajun-gumbo bevat vaak kip, worst en een donkere roux, terwijl Creoolse varianten vaker zeevruchten, okra en soms tomaat gebruiken. De grenzen zijn echter niet scherp: iedere familie heeft haar eigen recept. Onze Chicken and Sausage Gumbo sluit vooral aan bij de landelijke Cajun-stijl.\n\nDe eerste duidelijke schriftelijke vermeldingen van gumbo dateren van rond 1803. In dat jaar werd het gerecht zowel geserveerd tijdens een bijeenkomst van Acadiërs langs de Mississippi als bij een officiële ontvangst in New Orleans. Gumbo was dus al vroeg populair onder verschillende bevolkingsgroepen. In de negentiende eeuw verschenen recepten met kip, oesters, krab, garnalen, rundvlees en zelfs eekhoorn. De ingrediënten hingen af van het seizoen en wat beschikbaar was. Een bijzondere variant is *gumbo z'herbes*, bereid met verschillende bladgroenten en traditioneel verbonden met de vastentijd.\n\nOok de worst heeft een eigen geschiedenis. In Louisiana wordt vaak *andouille* gebruikt, een stevig gerookte varkensworst waarin Franse en Duitse vleestradities herkenbaar zijn. Anders dan de Franse andouille, die dikwijls van ingewanden wordt gemaakt, bestaat de Amerikaanse variant doorgaans uit grof gesneden varkensvlees met knoflook, peper en andere kruiden. Wij gebruiken gerookte Poolse kielbasa, die qua structuur en rooksmaak een goede vervanger vormt.\n\nTegenwoordig is gumbo een culinair symbool van Louisiana, gegeten tijdens feesten, familiebijeenkomsten en gewone doordeweekse maaltijden. Over de juiste ingrediënten, de kleur van de roux en het gebruik van okra of filé kan stevig worden gediscussieerd. Juist die verscheidenheid maakt gumbo bijzonder: een gerecht dat niet uit één enkele cultuur voortkomt, maar ontstond doordat mensen uit verschillende werelddelen hun ingrediënten, technieken en tradities samenbrachten.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Chicken and Sausage Gumbo (geïnspireerd op)",
+    "auteur": "Explore Louisiana",
+    "kookboek": "Explore Louisiana – Culinary Recipes",
+    "jaar": null,
+    "url": "https://www.explorelouisiana.com/culinary/recipes/chicken-and-sausage-gumbo"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Chicken and Andouille Gumbo Recipe",
+      "auteur": "Chef Patrick Mould",
+      "kookboek": "Explore Louisiana",
+      "jaar": null,
+      "url": "https://www.explorelouisiana.com/culinary/recipes/chicken-and-andouille-gumbo-recipe-chef-patrick-mould"
+    },
+    {
+      "receptTitel": "Authentic Louisiana Cajun Chicken and Sausage Gumbo",
+      "auteur": "Lauren from Scratch",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://laurenfromscratch.com/authentic-louisiana-cajun-chicken-and-sausage-gumbo/"
+    }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "A Short History of Gumbo",
+      "auteur": "Southern Foodways Alliance",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.southernfoodways.org/interview/a-short-history-of-gumbo/"
+    },
+    {
+      "receptTitel": "From Acadian to Cajun",
+      "auteur": "National Park Service",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.nps.gov/jela/learn/historyculture/from-acadian-to-cajun.htm"
+    },
+    {
+      "receptTitel": "Gumbo",
+      "auteur": "64 Parishes",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://64parishes.org/entry/gumbo"
+    },
+    {
+      "receptTitel": "Gumbo",
+      "auteur": "Jonathan Olivier",
+      "kookboek": "Louisiana State University Press",
+      "jaar": 2024,
+      "url": "https://lsupress.org/9780807182413/gumbo/"
+    }
+  ]
 }

@@ -3,8 +3,9 @@
   "regios": [
     "melanesie"
   ],
-  "titel": "Kokoda",
-  "korteBeschrijving": "Fijiaans gerecht van rauwe vis gemarineerd in citrus en kokosmelk, met groenten en chili.",
+  "titel": "Kokoda – Fijiaanse vis met limoen, kokosmelk en pandanrijst",
+  "korteBeschrijving": "Fijiaanse visblokjes gemarineerd in limoensap, met romige kokosmelk, frisse groenten, chili en koriander, geserveerd met pandanrijst.",
+  "beschrijving": "Kokoda is een van de bekendste gerechten uit Fiji. Blokjes verse zeebaars worden gemarineerd in limoensap, waardoor het visvlees stevig en wit wordt. Daarna mengen we de vis met romige kokosmelk, tomaat, komkommer, paprika, rode ui, bosui en verse koriander. De combinatie van frisse citrus, zachte kokos en knapperige groenten maakt Kokoda tot een lichte, verfrissende maaltijd. Traditioneel wordt het gerecht koud geserveerd, soms in een halve kokosnoot. Wij serveren het met warme pandanrijst, zodat deze Fijiaanse specialiteit een volwaardig hoofdgerecht wordt.",
   "afbeelding": "images/recepten/KokodaAI.webp",
   "url": "recepten.html?id=kokoda",
   "volgorde": 154,
@@ -12,14 +13,98 @@
     "melanesie": 0
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 135,
+  "moeilijkheid": "Gemakkelijk",
+  "ingredienten": [
+    "Voor de Kokoda:",
+    "600 g zeebaarsfilet, zonder vel en graat, geschikt voor rauwe consumptie (viswinkel)",
+    "8 limoenen (7 voor de marinade, 1 voor serveren)",
+    "400 ml volle kokosmelk",
+    "1 kleine rode ui",
+    "2 tomaten",
+    "½ komkommer",
+    "1 rode paprika",
+    "2 bosuien",
+    "1 rode chilipeper (optioneel)",
+    "15 g verse koriander",
+    "Zout en zwarte peper naar smaak",
+    "Voor de rijst:",
+    "300 g pandanrijst (jasmijnrijst)",
+    "Water volgens de aanwijzingen op de verpakking"
+  ],
+  "bereiding": [
+    "Controleer of de zeebaarsfilet volledig vrij is van graten en verwijder eventueel achtergebleven graatjes met een pincet. Snijd de vis in blokjes van ongeveer 1,5 cm. Gebruik uitsluitend vis die de viswinkel expliciet geschikt acht voor rauwe consumptie en houd deze goed gekoeld.",
+    "Pers zeven limoenen uit. Giet het sap door een zeef om de pitjes te verwijderen.",
+    "Doe de visblokjes in een schone glazen of keramische schaal. Giet het limoensap erover en schep voorzichtig om, zodat alle stukjes met sap in aanraking komen.",
+    "Dek de schaal af en zet hem ongeveer 1½–2 uur in de koelkast (maximaal 4 °C). Schep de vis halverwege voorzichtig om. Het visvlees wordt door het zuur steviger en verandert van doorschijnend naar wit. Let op: limoensap maakt rauwe vis niet microbiologisch veilig.",
+    "Pel de rode ui en snijd deze in zeer fijne blokjes. Leg de ui eventueel vijf minuten in koud water als je de scherpe smaak wat wilt verzachten. Laat vervolgens goed uitlekken.",
+    "Was de tomaten, verwijder de zaadlijsten en snijd het vruchtvlees in kleine blokjes. Was de komkommer, verwijder met een lepel de waterige zaadlijsten en snijd hem eveneens in kleine blokjes.",
+    "Maak de paprika schoon en snijd hem in kleine blokjes. Verwijder eventueel de zaadlijsten van de chilipeper en snijd deze fijn. Maak de bosuien schoon en snijd ze in dunne ringetjes.",
+    "Was de koriander, schud droog en hak de blaadjes en zachte steeltjes grof. Houd een paar blaadjes apart voor de garnering.",
+    "Spoel de pandanrijst onder koud stromend water totdat het water grotendeels helder is. Kook de rijst volgens de aanwijzingen op de verpakking. Laat hem na het koken ongeveer 5 minuten met het deksel op de pan rusten. Schep vervolgens los met een vork.",
+    "Haal de vis uit de koelkast. Giet het limoensap af door een zeef en laat de vis goed uitlekken. Spoel de vis niet af: een beetje van de frisse limoensmaak mag behouden blijven.",
+    "Doe de uitgelekte vis in een schone, gekoelde kom. Voeg de rode ui, tomaat, komkommer, paprika, bosui en eventueel chilipeper toe. Schep alles voorzichtig om.",
+    "Voeg de kokosmelk en de koriander toe. Meng voorzichtig zodat de visblokjes heel blijven. Breng op smaak met zout en zwarte peper. Proef de saus en voeg eventueel een beetje extra limoensap toe als je meer frisheid wilt.",
+    "Verdeel de Kokoda over vier diepe kommen. Garneer met de achtergehouden koriander en een partje van de laatste limoen.",
+    "Serveer de pandanrijst apart, zodat iedereen de koude, romige Kokoda naar wens met de warme rijst kan combineren. Serveer direct. Voor zwangeren, jonge kinderen, ouderen en mensen met een verminderde weerstand is de rauwe variant niet geschikt; gebruik voor hen volledig gegaarde vis."
+  ],
+  "weetje": "Kokoda behoort tot de bekendste traditionele gerechten van Fiji en weerspiegelt de nauwe verbondenheid van de eilandbewoners met de zee. De Fijiaanse eilanden worden omringd door uitgestrekte koraalriffen en lagunes die al eeuwenlang belangrijke voedselbronnen zijn. Vis, schelpdieren en andere zeedieren vormden een essentieel onderdeel van het dagelijks voedsel van de oorspronkelijke Fijiaanse bevolking, tegenwoordig aangeduid als *iTaukei*. In de Fijiaanse taal betekent het werkwoord *koda* zoiets als rauw eten, in het bijzonder rauwe vis of andere zeeproducten. De naam *kokoda* verwijst dus rechtstreeks naar de bereidingswijze. De precieze ouderdom van het gerecht is niet bekend, maar het eten van rauwe vis heeft diepe wortels in de voedselcultuur van de eilanden.\n\nEen bijzonder kenmerk van Kokoda is het gebruik van kokosmelk, die de frisse, zure smaak van de vis verzacht. Traditioneel werd de kokosmelk niet uit een blik gehaald, maar vers bereid. Het witte vruchtvlees van een rijpe kokosnoot werd fijn geraspt en vervolgens met de handen uitgeknepen om de romige vloeistof op te vangen. Voor Kokoda wordt deze kokosbereiding vaak *miti* genoemd, soms op smaak gebracht met ui, zout en een beetje limoensap. De vis wordt eerst afzonderlijk gemarineerd in citrusvruchtensap en pas daarna met de kokosmelk gemengd. Daardoor blijven de smaken van de vis, de citrus en de kokos duidelijk herkenbaar. Oorspronkelijk werden verschillende soorten lokaal gevangen vis gebruikt, waaronder *walu* (Spaanse makreel) en andere stevige rif- en zeevissen. Tegenwoordig bestaan er talloze varianten met onder andere tomaat, komkommer, chili en verse kruiden. Onze versie met zeebaars en kokosmelk uit blik is een praktische aanpassing voor de Nederlandse keuken.\n\nKokoda lijkt sterk op de Zuid-Amerikaanse ceviche, maar dat betekent niet dat het gerecht uit Peru afkomstig is. Het eten van rauwe vis, al dan niet met kokos, komt in verschillende culturen rond de Stille Oceaan voor. Op Samoa bestaat bijvoorbeeld *oka*, terwijl in Frans-Polynesië *poisson cru au lait de coco* een van de bekendste gerechten is. Deze gerechten delen het gebruik van verse vis, citrus en kokosmelk, maar verschillen in ingrediënten, verhoudingen en bereiding. De Fijiaanse Kokoda wordt doorgaans langer in citrus gemarineerd dan de Tahitiaanse poisson cru, waarbij de vis vaak slechts kort met limoensap in aanraking komt. In onze culinaire wereldreis komen we *poisson cru* ook tegen in Polynesië. Het vormt daarmee een mooie verbinding tussen twee eilandkeukens die geografisch dicht bij elkaar liggen, maar ieder hun eigen tradities hebben ontwikkeld.\n\nDe betekenis van vis voor de Fijiaanse samenleving gaat veel verder dan de keuken. Langs de kust bestaan van oudsher gemeenschappelijke visgronden die *qoliqoli* worden genoemd. Het gebruik ervan is verbonden met traditionele rechten en afspraken binnen de lokale gemeenschappen. Een bijzonder onderdeel van dit systeem is de *tabu*: een tijdelijke beperking van de visserij in een bepaald gebied. Zulke verboden konden worden ingesteld uit respect voor een overleden leider, om een heilige plaats te beschermen of om de visstand te laten herstellen. Een mooi voorbeeld komt uit het dorp Qoma, waar een visgrond volgens lokale vissers gedurende zes maanden werd gesloten nadat de vangsten sterk waren teruggelopen. De traditionele kennis van de zee, de visgronden en de seizoenen is daarmee niet alleen belangrijk voor de voedselvoorziening, maar ook voor het beheer van de natuurlijke hulpbronnen. Een gerecht als Kokoda maakt tastbaar hoe nauw de Fijiaanse voedselcultuur met het leven rondom de koraalriffen is verweven.\n\nHoewel Kokoda sterk verbonden is met de oorspronkelijke iTaukei-keuken, is de hedendaagse Fijiaanse eetcultuur het resultaat van meerdere historische invloeden. Fiji werd in 1874 een Britse kolonie. Vanaf 1879 brachten de Britten tienduizenden Indiase contractarbeiders naar de eilanden om op suikerplantages te werken. Hun nakomelingen ontwikkelden een eigen Indo-Fijiaanse cultuur, waarin rijst, roti, dal en kruidige curry's een belangrijke plaats kregen. Hierdoor bestaan op Fiji tegenwoordig verschillende culinaire tradities naast en door elkaar. Kokoda blijft vooral een herkenbaar gerecht uit de oorspronkelijke eilandkeuken, terwijl rijst in het moderne Fiji eveneens een vertrouwd basisvoedsel is. Onze keuze om Kokoda met pandanrijst te serveren is geen vaste traditionele combinatie, maar past goed bij deze hedendaagse culinaire verscheidenheid.\n\nTegenwoordig wordt Kokoda zowel thuis als in restaurants en bij feestelijke gelegenheden geserveerd. Vooral de presentatie in een halve kokosnoot is populair geworden: de witte vis, kleurrijke groenten en romige kokosmelk komen daarin prachtig tot hun recht. Het gerecht laat zien dat een traditionele eilandkeuken niet ingewikkeld hoeft te zijn om bijzonder te smaken. Met verse vis, limoen, kokos en enkele groenten ontstaat een maaltijd waarin de zee, het tropische klimaat en de lange culinaire geschiedenis van Fiji samenkomen.",
   "bron": {
-    "receptTitel": null,
+    "receptTitel": "How to Make Fijian Kokoda",
     "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "kookboek": "Tourism Fiji",
+    "jaar": null,
+    "url": "https://www.fiji.travel/things-to-do/local-eats/how-to-make-fijian-kokoda"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Fresh Fijian Kokoda",
+      "auteur": null,
+      "kookboek": "Turtle Island Fiji",
+      "jaar": null,
+      "url": "https://www.turtlefiji.com/fresh-fijian-kokoda/"
+    },
+    {
+      "receptTitel": "Fijian Fish Kokoda",
+      "auteur": null,
+      "kookboek": "ABC",
+      "jaar": null,
+      "url": "https://www.abc.net.au/news/2008-12-12/fijian-fish-kokoda/8917862"
+    },
+    {
+      "receptTitel": "Fijian word koda",
+      "auteur": null,
+      "kookboek": "Wiktionary / Fijian–English Dictionary",
+      "jaar": null,
+      "url": "https://en.wiktionary.org/wiki/koda"
+    },
+    {
+      "receptTitel": "Traditional fishing in Qoma, Fiji",
+      "auteur": null,
+      "kookboek": "Frontiers in Marine Science",
+      "jaar": 2022,
+      "url": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2022.993103/full"
+    },
+    {
+      "receptTitel": "Food: Kokoda Twists",
+      "auteur": null,
+      "kookboek": "The Fiji Times",
+      "jaar": null,
+      "url": "https://www.fijitimes.com.fj/food-kokoda-twists/"
+    },
+    {
+      "receptTitel": "Polynesian Cuisine",
+      "auteur": null,
+      "kookboek": "Tahiti Tourisme",
+      "jaar": null,
+      "url": "https://www.tahititourisme.nz/discover/tahitian-culture/polynesian-cuisine/"
+    },
+    {
+      "receptTitel": "Indentured Spaces: Fiji",
+      "auteur": null,
+      "kookboek": "Cambridge University Press",
+      "jaar": null,
+      "url": "https://www.cambridge.org/core/books/abs/indentured-archipelago/indentured-spaces-fiji/D88E029055644C2DED34390DA8AA392F"
+    }
+  ]
 }

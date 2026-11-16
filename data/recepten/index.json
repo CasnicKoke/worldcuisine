@@ -781,15 +781,15 @@
       ],
       "bestand": "data/recepten/bacalhau.json"
     },
-    "poutine": {
-      "titel": "Poutine",
-      "korteBeschrijving": "Canadese friet met cheese curds en warme, hartige jus.",
-      "afbeelding": "images/recepten/PoutineAI.webp",
-      "url": "recepten.html?id=poutine",
+    "chickenFricot": {
+      "titel": "Chicken Fricot",
+      "korteBeschrijving": "Traditionele Acadiaanse kipstoofpot met aardappelen, wortel, bonenkruid en luchtige deegballetjes, die in de geurige kippenbouillon worden gestoomd.",
+      "afbeelding": "images/recepten/ChickenFricotAI.webp",
+      "url": "recepten.html?id=chickenFricot",
       "regios": [
         "canada"
       ],
-      "bestand": "data/recepten/poutine.json"
+      "bestand": "data/recepten/chickenFricot.json"
     },
     "tourtiere": {
       "titel": "Tourtière – Canadese vleespastei uit Québec",
@@ -811,19 +811,19 @@
       ],
       "bestand": "data/recepten/westCoastSeafoodChowder.json"
     },
-    "butterTart": {
-      "titel": "Butter Tart",
-      "korteBeschrijving": "Kleine Canadese taartjes met een rijke, kleverige vulling van boter en bruine suiker.",
-      "afbeelding": "images/recepten/ButterTartAI.webp",
-      "url": "recepten.html?id=butterTarts",
+    "gingerBeef": {
+      "titel": "Ginger Beef – krokant rundvlees uit Calgary",
+      "korteBeschrijving": "Krokant gefrituurde reepjes rundvlees in een zoet-pittige gember-knoflooksaus, geserveerd met pandanrijst en gestoomde broccoli.",
+      "afbeelding": "images/recepten/GingerBeefAI.webp",
+      "url": "recepten.html?id=gingerBeef",
       "regios": [
         "canada"
       ],
-      "bestand": "data/recepten/butterTart.json"
+      "bestand": "data/recepten/gingerBeef.json"
     },
     "barbecueRibs": {
-      "titel": "Barbecue Ribs",
-      "korteBeschrijving": "Langzaam gegaarde spareribs met een rokerige, zoet-kruidige barbecuesaus.",
+      "titel": "Barbecue Ribs – Memphis-style spareribs",
+      "korteBeschrijving": "In de oven gegaarde Memphis-style spareribs met een kruidige dry rub, geserveerd met frisse coleslaw en zelfgebakken cornbread.",
       "afbeelding": "images/recepten/BarbecueRibsAI.webp",
       "url": "recepten.html?id=barbecueRibs",
       "regios": [
@@ -832,8 +832,8 @@
       "bestand": "data/recepten/barbecueRibs.json"
     },
     "gumbo": {
-      "titel": "Gumbo",
-      "korteBeschrijving": "Krachtige stoofpot uit Louisiana met roux, groenten, specerijen en vlees of zeevruchten.",
+      "titel": "Gumbo – Chicken and Sausage Gumbo",
+      "korteBeschrijving": "Rijke Cajun-stoofpot uit Louisiana met malse kip, gerookte Poolse kielbasa, groenten en een donkerbruine roux, geserveerd met witte rijst.",
       "afbeelding": "images/recepten/GumboAI.webp",
       "url": "recepten.html?id=gumbo",
       "regios": [
@@ -1522,8 +1522,8 @@
       "bestand": "data/recepten/maoriBoilUp.json"
     },
     "kokoda": {
-      "titel": "Kokoda",
-      "korteBeschrijving": "Fijiaans gerecht van rauwe vis gemarineerd in citrus en kokosmelk, met groenten en chili.",
+      "titel": "Kokoda – Fijiaanse vis met limoen, kokosmelk en pandanrijst",
+      "korteBeschrijving": "Fijiaanse visblokjes gemarineerd in limoensap, met romige kokosmelk, frisse groenten, chili en koriander, geserveerd met pandanrijst.",
       "afbeelding": "images/recepten/KokodaAI.webp",
       "url": "recepten.html?id=kokoda",
       "regios": [
@@ -1533,7 +1533,7 @@
     },
     "mumu": {
       "titel": "Mumu",
-      "korteBeschrijving": "Papoea-Nieuw-Guinees feestgerecht van vlees, groenten en knolgewassen, langzaam ondergronds gegaard.",
+      "korteBeschrijving": "Traditioneel Melanesisch feestgerecht van langzaam gegaard varkensvlees, kip, knolgroenten en bakbanaan, met kokosmelk en ananas.",
       "afbeelding": "images/recepten/MumuAI.webp",
       "url": "recepten.html?id=mumu",
       "regios": [
@@ -1541,25 +1541,25 @@
       ],
       "bestand": "data/recepten/mumu.json"
     },
-    "laplap": {
-      "titel": "Laplap",
-      "korteBeschrijving": "Gerecht uit Vanuatu van geraspte wortelgewassen met kokosmelk, vaak bereid met vlees of vis.",
-      "afbeelding": "images/recepten/LaplapAI.webp",
-      "url": "recepten.html?id=laplap",
+    "santoBeef": {
+      "titel": "Santo Beef met kumara en kokosspinazie",
+      "korteBeschrijving": "Gegrilde, in kokosmelk, sojasaus en specerijen gemarineerde entrecote uit Vanuatu, met geroosterde zoete aardappel en romige kokosspinazie.",
+      "afbeelding": "images/recepten/SantoBeefAI.webp",
+      "url": "recepten.html?id=santoBeef",
       "regios": [
         "melanesie"
       ],
-      "bestand": "data/recepten/laplap.json"
+      "bestand": "data/recepten/santoBeef.json"
     },
-    "palusami": {
-      "titel": "Palusami",
-      "korteBeschrijving": "Taro-bladeren gevuld met kokosroom en vaak ui of vlees, langzaam gebakken tot een romig geheel.",
-      "afbeelding": "images/recepten/PalusamiAI.webp",
-      "url": "recepten.html?id=palusami",
+    "fishVegetableCurrySoup": {
+      "titel": "Fish & Vegetable Curry Soup",
+      "korteBeschrijving": "Romige vissoep van de Salomonseilanden met zeebaars, zoete aardappel, groene bakbanaan, spinazie, kokosmelk en milde kerrie.",
+      "afbeelding": "images/recepten/FishVegetableCurrySoupAI.webp",
+      "url": "recepten.html?id=fishVegetableCurrySoup",
       "regios": [
         "melanesie"
       ],
-      "bestand": "data/recepten/palusami.json"
+      "bestand": "data/recepten/fishVegetableCurrySoup.json"
     },
     "poissonCru": {
       "titel": "Poisson Cru",

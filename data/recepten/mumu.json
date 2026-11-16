@@ -4,7 +4,8 @@
     "melanesie"
   ],
   "titel": "Mumu",
-  "korteBeschrijving": "Papoea-Nieuw-Guinees feestgerecht van vlees, groenten en knolgewassen, langzaam ondergronds gegaard.",
+  "korteBeschrijving": "Traditioneel Melanesisch feestgerecht van langzaam gegaard varkensvlees, kip, knolgroenten en bakbanaan, met kokosmelk en ananas.",
+  "beschrijving": "Mumu is een traditioneel gerecht uit Papoea-Nieuw-Guinea, waarbij vlees, groenten en fruit in een ondergrondse oven met hete stenen worden gestoomd. In deze praktische ovenvariant garen varkensvlees en kip langzaam samen met zoete aardappel, pompoen, bakbanaan en bladgroenten. Kokosmelk zorgt voor een zachte, volle smaak, terwijl verse ananas en limoen een fris accent geven. Door de ovenschaal goed af te sluiten blijven het vocht en de aroma's behouden en wordt het vlees heerlijk mals.",
   "afbeelding": "images/recepten/MumuAI.webp",
   "url": "recepten.html?id=mumu",
   "volgorde": 155,
@@ -12,14 +13,68 @@
     "melanesie": 1
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 150,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor het vlees:",
+    "400 g varkensprocureur zonder bot",
+    "350 g kippendijfilet",
+    "Voor de groenten en het fruit:",
+    "450 g zoete aardappel",
+    "300 g flespompoen",
+    "1 groene bakbanaan",
+    "200 g verse ananas",
+    "100 g snijbiet (of boerenkool)",
+    "1 grote ui",
+    "2 tenen knoflook",
+    "1 limoen",
+    "Verder nodig:",
+    "250 ml kokosmelk",
+    "2 tl zout",
+    "1 tl versgemalen zwarte peper",
+    "Bakpapier en aluminiumfolie"
+  ],
+  "bereiding": [
+    "Verwarm de oven voor op 175 °C (boven- en onderwarmte).",
+    "Snijd de varkensprocureur en kippendijfilet in stukken van ongeveer 3 cm.",
+    "Schil de zoete aardappel en de pompoen, verwijder de pompoenpitten en snijd beide in stukken van ongeveer 3 cm. Schil de bakbanaan en snijd hem in dikke plakken.",
+    "Snijd de ananas in blokjes, de ui in halve ringen en hak de knoflook fijn.",
+    "Was de snijbiet of boerenkool, verwijder de harde nerven en snijd de bladeren grof.",
+    "Bekleed een grote, diepe ovenschaal met een ruim stuk bakpapier dat aan alle kanten over de rand hangt.",
+    "Verdeel de zoete aardappel, pompoen en bakbanaan over de bodem van de schaal.",
+    "Leg de stukken varkensvlees en kip op de groenten en verdeel de ui en knoflook erover.",
+    "Bestrooi het vlees en de groenten gelijkmatig met het zout en de zwarte peper.",
+    "Verdeel de ananas over het vlees en besprenkel met het sap van de limoen.",
+    "Leg de bladgroenten als een afdekkende laag over de overige ingrediënten.",
+    "Schenk de kokosmelk gelijkmatig over de schaal.",
+    "Vouw het bakpapier over de ingrediënten en dek de schaal vervolgens zeer strak af met aluminiumfolie. Zorg dat zo weinig mogelijk stoom kan ontsnappen.",
+    "Zet de schaal in het midden van de oven en laat ongeveer 2 uur garen. Open de schaal tussentijds niet.",
+    "Controleer voorzichtig of de zoete aardappel zacht is, de kip volledig gaar is en het varkensvlees gemakkelijk uit elkaar valt. Is het varkensvlees nog stevig, sluit de schaal dan opnieuw en laat nog ongeveer 20 minuten garen.",
+    "Haal de schaal uit de oven en laat hem 10 minuten afgedekt rusten.",
+    "Open de folie voorzichtig vanwege de hete stoom. Schep het vlees, de groenten en het fruit op een grote schaal en lepel er wat van het kokosvocht overheen."
+  ],
+  "weetje": "De *mumu* is een eeuwenoude bereidingswijze uit Papoea-Nieuw-Guinea en vormt een belangrijk onderdeel van het sociale en ceremoniële leven. Bij een traditionele mumu wordt een kuil gegraven waarin stenen met een houtvuur worden verhit. Zodra de stenen gloeiend heet zijn, worden vlees, knolgewassen en bladgroenten in lagen op bladeren gelegd en met aarde afgedekt. De opgeslagen warmte en het vrijkomende vocht laten het voedsel langzaam garen, zonder dat er voortdurend een vuur nodig is. Een grote mumu kan voldoende voedsel bevatten voor een heel dorp.\n\nVooral in de hooglanden heeft de mumu een bijzondere betekenis. Varkens zijn er traditioneel niet alleen een bron van voedsel, maar ook een teken van rijkdom, aanzien en sociale verbondenheid. Ze spelen een belangrijke rol bij huwelijken, begrafenissen, verzoeningen en feestelijke uitwisselingen tussen gemeenschappen. Het slachten en gezamenlijk bereiden van een varken is daarom vaak een bijzondere gebeurtenis. De verdeling van het vlees kan daarbij minstens zo belangrijk zijn als de maaltijd zelf: wie welk stuk ontvangt, weerspiegelt bestaande relaties, verplichtingen en wederzijds respect. De precieze gebruiken verschillen overigens sterk tussen de vele bevolkingsgroepen van Papoea-Nieuw-Guinea.\n\nOpmerkelijk is dat de zoete aardappel, tegenwoordig een van de belangrijkste ingrediënten van de hooglandkeuken, oorspronkelijk helemaal niet uit Nieuw-Guinea komt. De plant werd in Zuid-Amerika gedomesticeerd en bereikte de hooglanden vermoedelijk rond 1700, via handelsroutes door Indonesië. Daarvoor waren vooral taro en yam belangrijke voedselgewassen. De zoete aardappel groeide goed in het bergachtige landschap en werd bovendien gebruikt om varkens te voeren. Daardoor kon de varkenshouderij zich uitbreiden, wat ook gevolgen had voor de omvang en betekenis van ceremoniële feesten.\n\nDe mumu maakt deel uit van een bredere traditie van aardovens in Oceanië. Vergelijkbare bereidingswijzen zijn de *hāngī* van de Māori in Nieuw-Zeeland en de *lovo* op Fiji. Hoewel de gebruikte ingrediënten en rituelen verschillen, delen deze gerechten hetzelfde principe: voedsel langzaam garen met de warmte van stenen, waarbij de gezamenlijke voorbereiding en maaltijd minstens zo belangrijk zijn als het eten zelf.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Mumu",
+    "auteur": "OSU–KidSpirit (geïnspireerd op)",
+    "kookboek": "Oregon State University – Extension and Engagement",
+    "jaar": null,
+    "url": "https://kidspirit.oregonstate.edu/recipes/mumu"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Mumu",
+      "auteur": "OSU–KidSpirit",
+      "kookboek": "Oregon State University – Extension and Engagement",
+      "jaar": null,
+      "url": "https://kidspirit.oregonstate.edu/recipes/mumu"
+    },
+    {
+      "receptTitel": "Mumu",
+      "auteur": "Davy O'Rourke",
+      "kookboek": "SBS Food",
+      "jaar": 2024,
+      "url": "https://www.sbs.com.au/food/recipe/mumu/mwpjcl7rj"
+    }
+  ]
 }

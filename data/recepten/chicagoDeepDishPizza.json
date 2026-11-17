@@ -1,0 +1,83 @@
+{
+  "sleutel": "chicagoDeepDishPizza",
+  "regios": [
+    "verenigde-staten"
+  ],
+  "titel": "Chicago Deep-Dish Pizza",
+  "korteBeschrijving": "Rijkgevulde pizza uit Chicago met een hoge, boterachtige bodem, mozzarella, gekruid worstvlees en een dikke laag tomatensaus.",
+  "beschrijving": "Chicago Deep-Dish Pizza is een stevige, hartige pizza die in een diepe bakvorm wordt gebakken en daardoor meer wegheeft van een gevulde taart dan van de dunne Italiaanse pizza. De licht krokante, boterachtige bodem omsluit een royale vulling van gesmolten mozzarella, met venkel gekruid varkensgehakt en een dikke tomatensaus. De omgekeerde volgorde van de ingrediënten voorkomt dat de kaas tijdens de lange baktijd verbrandt. De pizza wordt in grote punten geserveerd en traditioneel met mes en vork gegeten.",
+  "afbeelding": "images/recepten/ChicagoDeepDishPizzaAI.webp",
+  "url": "recepten.html?id=chicagoDeepDishPizza",
+  "volgorde": 87,
+  "regioVolgorde": {
+    "verenigde-staten": 3
+  },
+  "porties": 4,
+  "bereidingstijdMinuten": 150,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor het deeg:",
+    "320 g patentbloem",
+    "20 g fijn maïsmeel (of fijne polenta)",
+    "200 ml lauwwarm water",
+    "30 g roomboter, op kamertemperatuur",
+    "25 ml olijfolie",
+    "7 g instantgist",
+    "6 g zout",
+    "1 el olijfolie voor de bakvorm",
+    "Voor de vulling:",
+    "300 g varkensgehakt",
+    "250 g stevige mozzarella, bij voorkeur pizzamozzarella",
+    "30 g Parmezaanse kaas, geraspt",
+    "1 tl venkelzaad",
+    "1 tl gedroogde oregano",
+    "1 teen knoflook",
+    "Zwarte peper en zout",
+    "Voor de tomatensaus:",
+    "400 g tomatenblokjes uit blik",
+    "1 el tomatenpuree",
+    "2 tenen knoflook",
+    "1 tl gedroogde oregano",
+    "1 el olijfolie",
+    "Zwarte peper en zout"
+  ],
+  "bereiding": [
+    "Meng de bloem, het maïsmeel, de gist en het zout in een grote kom. Voeg het water, de zachte roomboter en de olijfolie toe en meng tot een samenhangend deeg.",
+    "Kneed het deeg ongeveer 8 minuten met de hand of een keukenmachine tot het soepel en elastisch is.",
+    "Leg het deeg in een licht ingevette kom, dek af met een vochtige theedoek en laat 75–90 minuten rijzen, totdat het duidelijk in volume is toegenomen.",
+    "Verhit ondertussen de olijfolie voor de tomatensaus in een steelpan. Fruit de fijngehakte knoflook kort aan en voeg de tomatenblokjes, tomatenpuree en oregano toe. Laat de saus 15–20 minuten zonder deksel zachtjes inkoken tot een dikke, niet-waterige saus. Breng op smaak met peper en zout.",
+    "Kneus het venkelzaad licht in een vijzel. Meng het met het varkensgehakt, de oregano, fijngehakte knoflook, peper en zout.",
+    "Bak het gehakt in een koekenpan op middelhoog vuur rul en gaar. Laat eventueel overtollig vet weglopen.",
+    "Verwarm de oven voor op 220 °C boven- en onderwarmte. Vet een ronde, ovenbestendige bakvorm van ongeveer 28 cm doorsnede en minstens 4 cm hoog in met olijfolie.",
+    "Druk het gerezen deeg met je handen uit tot een grote ronde lap. Leg het in de bakvorm en druk het gelijkmatig over de bodem en ongeveer 4 cm tegen de rand omhoog. Laat het deeg 10 minuten rusten als het steeds terugveert.",
+    "Verdeel de mozzarella in plakjes of grove stukken over de hele deegbodem.",
+    "Verdeel het gebakken gehakt gelijkmatig over de mozzarella.",
+    "Schep de ingekookte tomatensaus over het gehakt en strijk voorzichtig glad. Bestrooi met de Parmezaanse kaas.",
+    "Bak de pizza 30–40 minuten op een rooster in het onderste derde deel van de oven, totdat de deegrand goudbruin is en de vulling goed heet is.",
+    "Laat de pizza 10 minuten rusten. Haal hem voorzichtig uit de vorm en snijd hem in vier grote punten."
+  ],
+  "weetje": "De Chicago Deep-Dish Pizza ontstond in 1943 bij het restaurant dat later bekend werd als Pizzeria Uno. Terwijl Italiaanse immigranten de pizza naar de Verenigde Staten hadden gebracht, ontwikkelde Chicago een eigen, veel steviger variant. De pizza werd gebakken in een diepe metalen vorm en kreeg een royale vulling die beter aansloot bij de Amerikaanse voorkeur voor een volledige, voedzame maaltijd.\n\nOver de uitvinder bestaat nog altijd discussie. Restaurateur Ric Riccardo, ondernemer Ike Sewell en leden van de familie Malnati worden geregeld genoemd. Historisch onderzoek wijst erop dat Riccardo een belangrijke rol speelde bij de oorspronkelijke ontwikkeling. De eerste versies waren overigens minder dik dan de indrukwekkende pizza’s die Chicago tegenwoordig beroemd maken. Daarmee vertelt het gerecht ook het verhaal van hoe een Italiaanse traditie uitgroeide tot een uitgesproken Amerikaanse specialiteit.",
+  "bron": {
+    "receptTitel": "Chicago-Style Deep Dish Pizza (geïnspireerd op)",
+    "auteur": "King Arthur Baking",
+    "kookboek": null,
+    "jaar": null,
+    "url": "https://www.kingarthurbaking.com/recipes/chicago-style-deep-dish-pizza-recipe"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "About the Pizza – Chicago-Style Deep Dish",
+      "auteur": "Lou Malnati’s Pizzeria",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.loumalnatis.com/about-the-pizza/"
+    },
+    {
+      "receptTitel": "Chicago Deep Dish vs New York Thin Crust",
+      "auteur": "Lou Malnati’s Pizzeria",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.loumalnatis.com/chicago-new-york-pizza/"
+    }
+  ]
+}

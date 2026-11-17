@@ -3,8 +3,9 @@
   "regios": [
     "polynesie"
   ],
-  "titel": "Umu",
-  "korteBeschrijving": "Polynesische maaltijd van vlees, vis en groenten, langzaam gegaard in een ondergrondse steenoven.",
+  "titel": "Umu – Samoaanse ovenmaaltijd",
+  "korteBeschrijving": "Samoaanse ovenmaaltijd met langzaam gegaarde kip, zoete aardappel, bakbanaan en romige spinazie in kokosroom, geïnspireerd op de traditionele bereiding op hete vulkanische stenen.",
+  "beschrijving": "Umu is de traditionele Samoaanse bereidingswijze waarbij vlees, vis en groenten op hete vulkanische stenen worden gegaard, afgedekt met bladeren die de warmte en stoom vasthouden. Voor onze praktische ovenvariant combineren we sappige kippenbouten met zoete aardappel en bakbanaan. Daarnaast bereiden we pakketjes spinazie met ui en kokosroom, geïnspireerd op de Samoaanse specialiteit *palusami*. Door de kip eerst afgedekt te garen en vervolgens goudbruin te roosteren, bootsen we het langzame garingsproces van de traditionele Umu na. Zo ontstaat een complete, geurige maaltijd die het karakter van de Samoaanse eilandkeuken weerspiegelt.",
   "afbeelding": "images/recepten/UmuAI.webp",
   "url": "recepten.html?id=umu",
   "volgorde": 159,
@@ -12,14 +13,108 @@
     "polynesie": 1
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 90,
+  "moeilijkheid": "Makkelijk",
+  "ingredienten": [
+    "Voor de kip:",
+    "4 grote kippenbouten, met bot en vel (circa 1,2 kg)",
+    "1 el zonnebloemolie",
+    "1 tl zout",
+    "1 tl versgemalen zwarte peper",
+    "1 limoen",
+    "Voor de groenten:",
+    "800 g zoete aardappelen",
+    "2 groene tot geelgroene bakbananen",
+    "1 el zonnebloemolie",
+    "1 tl zout",
+    "Voor de kokosgroenten (geïnspireerd op palusami):",
+    "350 g verse spinazie",
+    "1 middelgrote ui",
+    "250 ml kokosroom, ongezoet",
+    "1 tl zout",
+    "Versgemalen zwarte peper",
+    "Verder nodig:",
+    "Een grote ovenschaal of diepe bakplaat",
+    "Aluminiumfolie",
+    "Een kleine pan voor de spinazie"
+  ],
+  "bereiding": [
+    "Verwarm de oven voor op 200 °C (boven- en onderwarmte).",
+    "Dep de kippenbouten droog met keukenpapier. Leg ze in een grote ovenschaal.",
+    "Pers de limoen uit. Meng het sap met de zonnebloemolie, het zout en de zwarte peper. Wrijf de kippenbouten rondom in met dit mengsel.",
+    "Schil de zoete aardappelen en snijd ze in stukken van ongeveer 4 cm.",
+    "Snijd de uiteinden van de bakbananen af. Maak met een mes een ondiepe inkeping over de lengte van de schil en verwijder deze. Snijd de bananen in stukken van ongeveer 4 cm.",
+    "Meng de zoete aardappel en bakbanaan met de zonnebloemolie en het zout. Verdeel ze rondom de kip in de ovenschaal.",
+    "Schenk ongeveer 100 ml water langs de rand van de ovenschaal. Dek de schaal stevig af met aluminiumfolie.",
+    "Zet de schaal in de oven en laat de kip en groenten ongeveer 30 minuten afgedekt garen.",
+    "Was de spinazie en laat goed uitlekken. Breng in een ruime pan een klein laagje water aan de kook.",
+    "Voeg de spinazie toe en laat deze in ongeveer 2 minuten slinken. Schep regelmatig om.",
+    "Giet de spinazie af in een vergiet en laat iets afkoelen. Knijp met je handen of een schone theedoek het overtollige vocht eruit. Hak de spinazie vervolgens grof.",
+    "Pel de ui en snipper deze zeer fijn.",
+    "Meng de spinazie met de ui en kokosroom. Breng op smaak met zout en zwarte peper.",
+    "Leg vier dubbele stukken aluminiumfolie van ongeveer 30 × 30 cm klaar. Verdeel het spinaziemengsel over het midden van de stukken folie.",
+    "Vouw de folie zorgvuldig dicht tot vier stevige pakketjes. Zorg dat de kokosroom tijdens het garen niet kan weglekken, maar druk de pakketjes niet helemaal plat.",
+    "Haal na 30 minuten de ovenschaal uit de oven en verwijder voorzichtig de aluminiumfolie. Pas op voor de hete stoom.",
+    "Schep de zoete aardappel en bakbanaan voorzichtig om. Zet de ovenschaal zonder afdekking terug in de oven.",
+    "Leg de vier pakketjes met kokosgroenten in een tweede ovenschaal, of naast de kip als er voldoende ruimte is. Zet ze eveneens in de oven.",
+    "Laat alles nog ongeveer 25–30 minuten garen. De kip moet aan de buitenkant goudbruin zijn en vanbinnen minimaal 75 °C bereiken. De zoete aardappel en bakbanaan moeten gemakkelijk met een vork kunnen worden doorgeprikt.",
+    "Haal de kip en groenten uit de oven. Laat de kip ongeveer 5 minuten rusten.",
+    "Leg op ieder bord een kippenbout met enkele stukken zoete aardappel en bakbanaan.",
+    "Open de pakketjes voorzichtig, zodat de hete stoom kan ontsnappen. Schep de romige kokosspinazie naast de kip en groenten.",
+    "Lepel eventueel wat van het braadvocht uit de ovenschaal over de kip en serveer direct."
+  ],
+  "weetje": "Een *Umu* is eigenlijk geen gerecht, maar een oven. Op de eilanden van Samoa wordt deze traditionele kookmethode al duizenden jaren gebruikt. De voorouders van de Samoanen bereikten de eilanden ongeveer 3.000 jaar geleden vanuit het westelijke deel van de Stille Oceaan. Zij brachten niet alleen hun taal, gebruiken en landbouwgewassen mee, maar ook de kennis om voedsel te bereiden zonder metalen kookgerei. De Umu werd daarmee een essentieel onderdeel van het dagelijks leven. Met weinig meer dan stenen, hout, bladeren en vuur konden grote hoeveelheden voedsel worden bereid voor hele families of dorpsgemeenschappen.\n\nDe werking van een Umu is even eenvoudig als ingenieus. Vulkanische stenen worden boven een houtvuur verhit totdat ze voldoende warmte hebben opgeslagen. Het vuur dooft vervolgens grotendeels uit, waarna vlees, vis, wortelgewassen en groenten op de hete stenen worden gelegd. De ingrediënten worden vaak in bananenbladeren of kokosbladeren gewikkeld en met extra bladeren afgedekt. Daardoor ontstaat een afgesloten ruimte waarin het voedsel langzaam gaart door de combinatie van stralingswarmte en stoom. De stenen blijven lange tijd heet, zodat er tijdens het koken nauwelijks extra brandstof nodig is. Tegelijkertijd geven het houtvuur en de bladeren het voedsel een karakteristieke, licht rokerige smaak.\n\nEen belangrijk verschil met veel andere traditionele steenovens is dat de **Samoaanse Umu doorgaans bovengronds wordt opgebouwd**. Dat onderscheidt hem van de **Hāngī uit Nieuw-Zeeland**, die we eerder voor World Cuisine hebben uitgewerkt. Bij een Hāngī wordt een kuil gegraven waarin hete stenen worden gelegd. Het voedsel komt daarbovenop en de kuil wordt afgedekt met bladeren, doeken en aarde, zodat de warmte en stoom urenlang opgesloten blijven. Ook de **Mumu uit Papoea-Nieuw-Guinea**, een gerecht uit onze Melanesische regio, wordt meestal in een kuil bereid. Daar worden onder andere varkensvlees, zoete aardappel en groenten tussen hete stenen en bladeren gegaard. De drie bereidingswijzen zijn nauw verwant, maar verschillen in opbouw, ingrediënten en plaatselijke tradities.\n\nDie overeenkomst is geen toeval. De steenoven behoort tot de oudste kooktechnieken van Oceanië en verspreidde zich met de Austronesische zeevaarders over grote delen van de Stille Oceaan. Zelfs de namen vertonen opvallende verwantschap: naast het Samoaanse *umu* bestaan onder meer het Tongaanse *'umu*, het Hawaïaanse *imu* en het Māori-woord *umu*, dat naast *hāngī* voorkomt. Taalkundigen herleiden deze woorden tot een gemeenschappelijke voorouder in de Austronesische taalfamilie. De gedeelde namen vormen daarmee een bijzonder spoor van de oude culturele verbindingen tussen de eilanden.\n\nTraditioneel bestond een Samoaanse Umu-maaltijd uit producten die op de eilanden beschikbaar waren. **Taro (*talo*) en broodvrucht (*ulu*)** waren belangrijke zetmeelbronnen, naast bakbananen en andere wortelgewassen. Vis en schaaldieren kwamen uit de omliggende oceaan, terwijl kippen en varkens bij de dorpen werden gehouden. Kokosnoten waren onmisbaar: het geraspte vruchtvlees werd uitgeperst om kokosroom te maken, die over vis, groenten en wortelgewassen werd gegoten. Een bijzonder gerecht is *palusami*, waarbij jonge tarobladeren worden gevuld met kokosroom en ui en als kleine pakketjes in de Umu worden gegaard. In onze ovenvariant vervangen we de moeilijk verkrijgbare tarobladeren door spinazie en gebruiken we aluminiumfolie om de kokosroom tijdens het garen vast te houden.\n\nDe Umu heeft bovendien een belangrijke sociale betekenis. Binnen *fa'a Samoa*, de traditionele Samoaanse levenswijze, staan familie, gemeenschap, wederzijdse verplichtingen en gastvrijheid centraal. Het voorbereiden van een Umu is vaak een gezamenlijke activiteit waarbij verschillende familieleden verantwoordelijk zijn voor het verzamelen van brandhout, het verhitten van stenen, het voorbereiden van ingrediënten en het serveren van de maaltijd. Bij bruiloften, begrafenissen en andere belangrijke gebeurtenissen kunnen grote Umu-maaltijden worden bereid, waarbij het delen van voedsel een uitdrukking is van respect en verbondenheid.\n\nEen bijzondere traditie is de **to'ona'i**, de uitgebreide zondagse familiemaaltijd. Na de kerkdienst komen families samen om te eten en tijd met elkaar door te brengen. Op zondagochtend beginnen de voorbereidingen vaak al vroeg en is in veel dorpen de geur van houtvuur en geroosterd voedsel te ruiken. De verbinding met de zondag ontstond onder invloed van het christendom, dat zich vanaf de negentiende eeuw op Samoa verspreidde. Een eeuwenoude Polynesische kooktechniek kreeg zo een nieuwe plaats binnen een religieuze en sociale traditie die tegenwoordig nog altijd belangrijk is.\n\nHoewel moderne fornuizen en ovens ook op Samoa gebruikelijk zijn geworden, blijft de Umu een levend onderdeel van de eilandcultuur. Bij familiefeesten, traditionele bijeenkomsten en culturele evenementen wordt nog steeds op hete stenen gekookt. Onze ovenvariant kan de bijzondere smaak van vulkanische stenen, houtvuur en bladeren niet volledig nabootsen, maar behoudt wel de combinatie van langzaam gegaard vlees, zetmeelrijke groenten en kokosroom. Daarmee vertelt deze maaltijd, samen met de Hāngī en Mumu uit onze collectie, het verhaal van een kooktechniek die volkeren aan weerszijden van de Stille Oceaan al duizenden jaren met elkaar verbindt.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
+    "receptTitel": "How to Cook an Umu (geïnspireerd op)",
+    "auteur": "Samoa Tourism",
     "kookboek": null,
-    "url": null
-  }
+    "jaar": null,
+    "url": "https://www.samoa.travel/samoa-travel-blog/how-to-cook-an-umu/"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Traditional Samoan Food",
+      "auteur": "Samoa Tourism",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.samoa.travel/discover/our-food-and-cuisine/samoan-food/"
+    },
+    {
+      "receptTitel": "Palusami",
+      "auteur": "Heart Foundation New Zealand",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.heartfoundation.org.nz/wellbeing/healthy-recipes/palusami"
+    }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "Samoan Food and Culture",
+      "auteur": "National Park Service",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.nps.gov/npsa/learn/historyculture/samoan-food-and-culture.htm"
+    },
+    {
+      "receptTitel": "Pacific Food Guide",
+      "auteur": "University of Hawaiʻi",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://manoa.hawaii.edu/ctahr/pacificfoodguide/index.php/regional-information/"
+    },
+    {
+      "receptTitel": "Traditional cooking and preserving",
+      "auteur": "Te Ara – The Encyclopedia of New Zealand",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://teara.govt.nz/en/maori-foods-kai-maori/page-2"
+    },
+    {
+      "receptTitel": "Austronesian Comparative Dictionary – Umu",
+      "auteur": "Austronesian Comparative Dictionary",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://acd.clld.org/cognatesets/27875"
+    }
+  ]
 }

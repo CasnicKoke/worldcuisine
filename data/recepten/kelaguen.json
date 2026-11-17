@@ -3,23 +3,91 @@
   "regios": [
     "micronesie"
   ],
-  "titel": "Kelaguen",
-  "korteBeschrijving": "Guamees gerecht van fijngehakt vlees of vis met citroen, kokos, chili en lente-ui.",
+  "titel": "Chicken Kelaguen met Titiyas",
+  "korteBeschrijving": "Frisse, lichtpittige kip met citroen, kokos en rode peper uit Guam, geserveerd met zelfgebakken titiyas en een komkommer-tomaatsalade.",
+  "beschrijving": "Chicken Kelaguen is een traditioneel gerecht uit Guam, afkomstig uit de keuken van de inheemse Chamorro-bevolking. Gegaarde kip wordt fijngehakt en gemengd met citroensap, rode peper, ui en geraspte kokos. Dit geeft het gerecht zijn karakteristieke combinatie van frisse, pittige en lichtzoete smaken. We serveren de kelaguen met zelfgebakken titiyas, zachte platte broodjes met kokosmelk, en een frisse komkommer-tomaatsalade. De kip kan zowel lauwwarm als gekoeld worden gegeten.",
   "afbeelding": "images/recepten/KelaguenAI.webp",
   "url": "recepten.html?id=kelaguen",
-  "volgorde": 163,
+  "volgorde": 162,
   "regioVolgorde": {
-    "micronesie": 1
+    "micronesie": 0
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 60,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de kip:",
+    "600 g kippendijfilet",
+    "1 el neutrale olie",
+    "zout en zwarte peper, naar smaak",
+    "Voor de kelaguen:",
+    "1 kleine rode ui",
+    "4 lente-uitjes",
+    "1 rode peper",
+    "60 g geraspte kokos",
+    "80 ml vers citroensap",
+    "20 ml limoensap",
+    "1 tl sojasaus",
+    "zout en zwarte peper, naar smaak",
+    "Voor de titiyas:",
+    "300 g bloem",
+    "1½ tl bakpoeder",
+    "½ tl zout",
+    "200 ml kokosmelk",
+    "1 el neutrale olie",
+    "Voor de komkommer-tomaatsalade:",
+    "1 komkommer",
+    "3 rijpe tomaten",
+    "1 el olijfolie",
+    "1 el citroensap",
+    "zout en zwarte peper"
+  ],
+  "bereiding": [
+    "Dep de kippendijfilets droog met keukenpapier en bestrooi ze met zout en zwarte peper.",
+    "Verhit de olie in een koekenpan of grillpan en bak de kip op middelhoog vuur in ongeveer 10–12 minuten gaar en lichtbruin. Laat daarna iets afkoelen.",
+    "Pel de rode ui en snijd hem heel fijn. Snijd de lente-uitjes in dunne ringetjes.",
+    "Halveer de rode peper in de lengte, verwijder desgewenst de zaadjes en snijd hem zeer fijn.",
+    "Snijd of hak de afgekoelde kip in kleine stukjes. Traditioneel wordt de kip vrij fijn gemaakt, grover dan pulled chicken maar duidelijk kleiner dan gewone blokjes.",
+    "Doe de kip in een kom en voeg de rode ui, lente-ui, rode peper en de geraspte kokos toe.",
+    "Voeg het citroensap, limoensap en de sojasaus toe en schep alles goed door elkaar.",
+    "Laat het mengsel 10–15 minuten staan, zodat de frisse, zure smaak goed in de kip trekt.",
+    "Proef en breng op smaak met zout, zwarte peper en eventueel extra citroensap.",
+    "Meng in een kom de bloem, het bakpoeder en het zout.",
+    "Voeg de kokosmelk en de olie toe en meng tot een samenhangend deeg.",
+    "Kneed het deeg enkele minuten tot het soepel is. Als het te droog is, voeg dan een klein scheutje water toe. Als het te plakkerig is, voeg dan een beetje extra bloem toe.",
+    "Verdeel het deeg in 8 gelijke stukken en rol elk stuk uit tot een ronde of ovale plak van ongeveer 3 mm dik.",
+    "Verhit een droge koekenpan of gietijzeren pan op middelhoog vuur.",
+    "Bak de platte broodjes één voor één in ongeveer 1½–2 minuten per kant, totdat er bruine vlekjes ontstaan en het deeg gaar is. Houd ze warm onder een schone theedoek.",
+    "Snijd de komkommer en tomaten in blokjes van ongeveer 1,5 cm.",
+    "Meng de komkommer en tomaten met de olijfolie en het citroensap. Breng op smaak met zout en zwarte peper.",
+    "Maak de salade vlak voor het serveren, zodat de groenten fris en knapperig blijven.",
+    "Verdeel de chicken kelaguen over vier borden of kommen.",
+    "Serveer met de warme titiyas en de komkommer-tomaatsalade."
+  ],
+  "weetje": "Kelaguen behoort tot de bekendste gerechten van de Chamorro, de oorspronkelijke bewoners van de Marianen, waartoe Guam behoort. De bereidingswijze heeft overeenkomsten met ceviche uit Latijns-Amerika: vlees of vis wordt fijngemaakt en op smaak gebracht met zuur, zout en peper. De oorsprong van kelaguen ligt echter in de eigen culinaire tradities van de Marianen. Al in het begin van de twintigste eeuw beschreven Europese bezoekers een vergelijkbaar gerecht van vis. Bij visvarianten kan het zuur het rauwe visvlees van structuur doen veranderen, maar bij Chicken Kelaguen wordt de kip eerst geroosterd of gekookt.\n\nOok de geschiedenis van de ingrediënten vertelt iets over Guam. Vóór de Spaanse kolonisatie leefden de Chamorro voornamelijk van onder andere taro, yam, broodvrucht, kokos en vis. De Spanjaarden brachten vanaf de zeventiende eeuw nieuwe landbouwgewassen en dieren mee, waaronder kippen en varkens. Zo ontwikkelde de plaatselijke keuken zich door de vermenging van inheemse tradities met buitenlandse invloeden.\n\nDe titiyas illustreren die vermenging eveneens. Hun naam is afgeleid van het Spaanse tortilla. Oorspronkelijk werden verschillende soorten meel gebruikt, waaronder meel van maïs en plaatselijke zetmeelrijke planten. Tegenwoordig zijn tarwebloem en kokos veelgebruikte ingrediënten. In de negentiende en vroege twintigste eeuw vormden titiyas zelfs een belangrijk basisvoedsel op Guam. Chicken Kelaguen met Titiyas is nog altijd een geliefde combinatie bij familiebijeenkomsten en feestmaaltijden.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
+    "receptTitel": "Chicken Kelaguen (geïnspireerd op)",
+    "auteur": "Annie's Chamorro Kitchen",
     "kookboek": null,
-    "url": null
-  }
+    "jaar": null,
+    "url": "https://www.annieschamorrokitchen.com/chicken-kelaguen/"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Titiyas (geïnspireerd op)",
+      "auteur": "Annie's Chamorro Kitchen",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.annieschamorrokitchen.com/titiyas/"
+    }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "Chamorro Foodways",
+      "auteur": null,
+      "kookboek": "Guampedia",
+      "jaar": null,
+      "url": "https://www.guampedia.com/chamorro-foodways/"
+    }
+  ]
 }

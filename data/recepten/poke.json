@@ -3,8 +3,9 @@
   "regios": [
     "polynesie"
   ],
-  "titel": "Poke",
-  "korteBeschrijving": "Hawaïaans gerecht van blokjes rauwe vis, op smaak gebracht met soja, sesam en andere toppings.",
+  "titel": "Poke – Hawaïaanse Shoyu Poke met Yellowtail Kingfish",
+  "korteBeschrijving": "Hawaïaanse Poke van rauwe Yellowtail Kingfish met sojasaus, sesamolie, ui en zeewier, geserveerd met rijst, avocado, komkommer en edamame.",
+  "beschrijving": "Poke is een van de bekendste gerechten van Hawaï en heeft zijn oorsprong in de traditionele Polynesische keuken. Voor onze versie gebruiken we Dutch Yellowtail Kingfish, een milde, stevige vis die we kort marineren in sojasaus, geroosterde sesamolie en een vleugje chili. Dunne reepjes ui, lente-ui, sesamzaad en nori geven het gerecht extra smaak en structuur. We serveren de vis op lauwwarme sushirijst met frisse komkommer, romige avocado en edamame. Deze moderne *Shoyu Poke Bowl* combineert de oude Hawaïaanse traditie van rauwe vis met Japanse invloeden en vormt een kleurrijke, lichte avondmaaltijd.",
   "afbeelding": "images/recepten/PokeAI.webp",
   "url": "recepten.html?id=poke",
   "volgorde": 160,
@@ -12,14 +13,104 @@
     "polynesie": 2
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 45,
+  "moeilijkheid": "Makkelijk",
+  "ingredienten": [
+    "Voor de Poke:",
+    "650 g Dutch Yellowtail Kingfish-filet (viswinkel), zonder huid en graten, geschikt voor rauwe consumptie",
+    "3 el sojasaus, bij voorkeur zoutarm",
+    "2 tl geroosterde sesamolie",
+    "1 kleine gele ui (circa 100 g)",
+    "3 lente-uitjes",
+    "1 el geroosterde sesamzaadjes",
+    "1 vel nori (gedroogd zeewier)",
+    "1 mespunt chilivlokken",
+    "Voor de rijst:",
+    "300 g rondkorrelige witte rijst (sushirijst)",
+    "380 ml water",
+    "Voor de groenten:",
+    "1 komkommer (circa 300 g)",
+    "1 rijpe avocado",
+    "200 g edamamebonen uit blik of pak (uitlekgewicht, zonder peul)"
+  ],
+  "bereiding": [
+    "Doe de rijst in een ruime kom en spoel meerdere keren met koud water totdat het water grotendeels helder blijft.",
+    "Doe de rijst met het water in een pan en laat 10 minuten staan.",
+    "Breng de rijst aan de kook. Zet het vuur laag, leg het deksel op de pan en laat ongeveer 12 minuten zachtjes koken, totdat het water is opgenomen.",
+    "Zet het vuur uit en laat de rijst nog 10 minuten afgedekt rusten. Maak de korrels voorzichtig los met een vork en laat de rijst afkoelen tot lauwwarm.",
+    "Giet de edamamebonen af in een zeef en spoel ze kort onder koud stromend water, tenzij op de verpakking anders staat.",
+    "Laat de edamamebonen goed uitlekken en zet ze apart tot het serveren.",
+    "Was de komkommer en snijd hem in de lengte doormidden. Verwijder met een theelepel de waterige zaadlijsten en snijd het vruchtvlees in halve plakjes van ongeveer 5 mm dik.",
+    "Halveer de avocado, verwijder de pit en schep het vruchtvlees uit de schil. Snijd in blokjes van ongeveer 1,5 cm. Doe dit bij voorkeur vlak voor het serveren, zodat de avocado niet verkleurt.",
+    "Pel de gele ui en snijd deze in flinterdunne halve ringen. Snijd lange ringen eventueel nog eens doormidden.",
+    "Maak de lente-uitjes schoon en snijd ze in dunne ringetjes. Houd ongeveer een derde apart voor de garnering.",
+    "Knip het norivel met een schaar in dunne reepjes van ongeveer 2–3 mm breed. Houd apart.",
+    "Meng de sojasaus, geroosterde sesamolie en chilivlokken in een kommetje.",
+    "Haal de Yellowtail Kingfish uit de koelkast en dep de filet zorgvuldig droog met keukenpapier. Gebruik uitsluitend vis die door de viswinkel expliciet geschikt is bevonden voor rauwe consumptie en hiervoor correct is behandeld.",
+    "Controleer de vis nogmaals op eventuele graatjes en snijd hem met een scherp mes in gelijkmatige blokjes van ongeveer 1,5–2 cm.",
+    "Doe de visblokjes in een ruime, gekoelde kom.",
+    "Voeg de gele ui, het grootste deel van de lente-uitjes en ongeveer twee derde van de sesamzaadjes toe.",
+    "Schenk het sojasausmengsel over de vis en schep heel voorzichtig om, zodat alle blokjes rondom licht worden bedekt.",
+    "Dek de kom af en zet 5–10 minuten in de koelkast. De vis neemt zo de smaak van de saus op zonder zijn zachte structuur te verliezen.",
+    "Voeg vlak voor het serveren ongeveer de helft van de norireepjes toe en schep nog eenmaal voorzichtig om.",
+    "Verdeel de lauwwarme rijst over vier diepe kommen.",
+    "Leg de komkommer, avocado en edamame in afzonderlijke groepjes langs de rand van iedere kom.",
+    "Verdeel de gemarineerde Yellowtail Kingfish over het midden van de rijst.",
+    "Lepel eventueel een klein beetje van de achtergebleven marinade over de vis.",
+    "Bestrooi de Poke met de resterende lente-uitjes, sesamzaadjes en norireepjes. Serveer direct."
+  ],
+  "weetje": "Poke is een van de bekendste gerechten van Hawaï, maar de kleurrijke rijstkommen die tegenwoordig wereldwijd worden verkocht, zijn een relatief recente ontwikkeling. Het Hawaïaanse woord *poke* betekent 'dwars doorsnijden' of 'in stukken snijden' en verwijst oorspronkelijk naar de manier waarop vis werd bereid. Al lang voordat Europeanen de eilanden bereikten, aten de oorspronkelijke Hawaïanen verse rauwe vis, gevangen in de omliggende oceaan. Visserij speelde een centrale rol in hun voedselvoorziening. Vissers beschikten over uitgebreide kennis van riffen, vissoorten en seizoenen en gebruikten onder meer netten, speren, vishaken en ingenieuze visvijvers om de vangst te beheren.\n\nDe oudste vormen van Poke waren veel eenvoudiger dan de huidige varianten. Stukken rauwe rifvis werden op smaak gebracht met *paʻakai*, traditioneel Hawaïaans zeezout, en *limu*, verschillende soorten eetbaar zeewier. Een bijzonder ingrediënt was *ʻinamona*, gemaakt van geroosterde en fijngestampte kukuinoten. De kukui, ook bekend als de candlenutboom, leverde niet alleen voedsel, maar ook olie die als brandstof voor verlichting werd gebruikt. De fijngemalen noten gaven de vis een aardse, nootachtige smaak. Sojasaus, sesamolie en zelfs de tegenwoordig zo populaire tonijn maakten oorspronkelijk geen vanzelfsprekend deel uit van het gerecht. De combinatie van vis, zout, zeewier en kukuinoten weerspiegelde de ingrediënten die op de eilanden zelf beschikbaar waren.\n\nDe grote veranderingen begonnen in de negentiende eeuw, toen Hawaï steeds sterker betrokken raakte bij de internationale handel. Suikerrietplantages trokken arbeiders uit verschillende delen van de wereld aan. Eerst kwamen onder meer Chinese immigranten, en vanaf 1885 arriveerden grote aantallen Japanse contractarbeiders. Later volgden Koreanen, Filipijnen en andere groepen. Zij werkten vaak onder zware omstandigheden op de plantages, maar brachten ook hun eigen talen, religies en kooktradities mee. Hawaï was toen nog een zelfstandig koninkrijk; pas in 1898 werden de eilanden door de Verenigde Staten geannexeerd. De ontmoeting tussen de oorspronkelijke Hawaïaanse bevolking en deze immigrantengemeenschappen veranderde de plaatselijke keuken ingrijpend.\n\nVooral de **Japanse invloed** is in moderne Poke duidelijk herkenbaar. Japanse immigranten introduceerden ingrediënten als *shoyu* (sojasaus), sesamolie en nieuwe toepassingen van zeewier. Hun vertrouwdheid met rauwe vis, zoals bij sashimi, sloot goed aan bij de bestaande Hawaïaanse eettradities. Zo ontstond geleidelijk de populaire *Shoyu Poke*, waarbij blokjes vis met sojasaus, sesamolie, ui en andere smaakmakers worden gemengd. Ook Chinese en Koreaanse invloeden werden zichtbaar, bijvoorbeeld in varianten met oestersaus, chili en later kimchi. Het gerecht is daarmee een mooi voorbeeld van hoe een eeuwenoude inheemse voedseltraditie zich ontwikkelde door contacten tussen verschillende bevolkingsgroepen.\n\nLange tijd bleef Poke vooral een eenvoudig gerecht dat thuis werd gemaakt of bij viswinkels werd verkocht. Vanaf de jaren zeventig verschenen steeds meer soorten Poke in de gekoelde vitrines van Hawaïaanse vismarkten en supermarkten. Een bekend voorbeeld is de Tamashiro Market in Honolulu, waar klanten uit verschillende varianten konden kiezen. Poke werd meestal per gewicht verkocht en gegeten als bijgerecht, tussendoortje of onderdeel van een grotere maaltijd. De vis stond daarbij centraal; een grote kom rijst met allerlei groenten was nog niet de standaard. Pas later groeide de populariteit van de *Poke Bowl*, waarin de vis werd gecombineerd met rijst, avocado, komkommer en andere toppings. Vooral vanaf de jaren 2010 verspreidde deze moderne maaltijdvorm zich razendsnel over het Amerikaanse vasteland, Europa en Azië.\n\nDie wereldwijde populariteit heeft ook een discussie opgeroepen over de Hawaïaanse oorsprong van het gerecht. Buiten Hawaï wordt Poke soms voorgesteld als een Japanse uitvinding of als een willekeurige Aziatische rijstkom. Daarmee verdwijnt gemakkelijk de lange geschiedenis van de oorspronkelijke Hawaïaanse bevolking uit beeld. Hoewel moderne Poke duidelijke Japanse invloeden heeft, bestond de traditie van rauwe, in stukken gesneden en gekruide vis op Hawaï al eeuwen voordat de eerste Japanse immigranten arriveerden. Ook de vaak gebruikte schrijfwijze *poké*, met een accent op de laatste letter, is geen oorspronkelijke Hawaïaanse spelling. Het gerecht heet eenvoudig *poke*.\n\nEr bestaat een interessante verbinding met **Poisson Cru uit Tahiti** en **Kokoda uit Fiji**, die we eveneens voor World Cuisine hebben uitgewerkt. Alle drie zijn het gerechten waarin rauwe vis centraal staat, maar ze hebben zich op verschillende manieren ontwikkeld. Poisson Cru en Kokoda combineren de vis met citrusvruchten en kokosmelk, terwijl bij Hawaïaanse Poke traditioneel zout, zeewier en kukuinoten werden gebruikt. De moderne Shoyu Poke dankt zijn hartige karakter juist aan sojasaus en sesamolie. Daarmee sluit ons recept ook aan bij de **Japanse keuken**, waar we eerder Sushi en Sobanoedels met wakame hebben uitgewerkt. Vooral het gebruik van rijst, zeewier en sojasaus maakt deze culinaire verbinding herkenbaar.\n\nOnze versie met Dutch Yellowtail Kingfish is een eigentijdse aanpassing van de Hawaïaanse Shoyu Poke. We vervangen de gebruikelijke tonijn door een mildere vis uit de Nederlandse aquacultuur en gebruiken nori in plaats van traditionele Hawaïaanse zeewiersoorten. De edamame, avocado en komkommer maken er een complete maaltijd van, maar behoren niet tot de oudste Poke-traditie. Zo vertelt deze rijstkom een bijzonder verhaal: van Polynesische vissers en Hawaïaanse zeewierverzamelaars, via Japanse plantagearbeiders en vismarkten in Honolulu, tot een gerecht dat tegenwoordig overal ter wereld wordt gegeten.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Hamachi Poke (geïnspireerd op)",
+    "auteur": "PBS Food",
+    "kookboek": "PBS Food",
+    "jaar": null,
+    "url": "https://www.pbs.org/food/recipes/hamachi-poke"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Ahi Poke (geïnspireerd op)",
+      "auteur": "Hawaiian Electric",
+      "kookboek": "Hawaiian Electric Recipes",
+      "jaar": null,
+      "url": "https://www.hawaiianelectric.com/recipes/find-a-recipe/ahi-poke"
+    },
+    {
+      "receptTitel": "What Is Poke?",
+      "auteur": "Onolicious Hawaiʻi",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://onolicioushawaii.com/what-is-poke/"
+    }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "The History of Poke in Hawaiʻi",
+      "auteur": "Bishop Museum",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://blog.bishopmuseum.org/history/the-history-of-poke-in-hawai%CA%BBi/"
+    },
+    {
+      "receptTitel": "Hawaii: Life in a Plantation Society",
+      "auteur": "Library of Congress",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.loc.gov/classroom-materials/immigration/japanese/hawaii-life-in-a-plantation-society/"
+    },
+    {
+      "receptTitel": "How the Hawaiian Poke Bowl Became the World’s New Fast Food",
+      "auteur": "HAWAIʻI Magazine",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.hawaiimagazine.com/how-the-hawaiian-poke-bowl-became-the-worlds-new-fast-food/"
+    },
+    {
+      "receptTitel": "Chef Sam Choy Tells the Story of Hawaiian Poke",
+      "auteur": "PBS",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.pbs.org/video/chef-sam-choy-tells-the-story-of-hawaiian-poke-w5w6iq/"
+    }
+  ]
 }

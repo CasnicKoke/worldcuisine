@@ -1,0 +1,81 @@
+{
+  "sleutel": "gegrildeVisBanke",
+  "regios": [
+    "micronesie"
+  ],
+  "titel": "Gegrilde vis met Banke",
+  "korteBeschrijving": "Gegrilde witvis met limoen, gember en sojasaus uit de Marshalleilanden, geserveerd met romige pompoen-kokosrijst (Banke).",
+  "beschrijving": "Gegrilde vis met Banke is een maaltijd die twee kenmerkende onderdelen van de keuken van de Marshalleilanden samenbrengt: verse zeevis en een voedzame bereiding van rijst met pompoen. Stevige witvisfilets worden kort gemarineerd in limoen, sojasaus, knoflook en gember en vervolgens gegrild totdat ze van buiten licht gekaramelliseerd en van binnen sappig zijn. De vis wordt geserveerd met *Banke*, een zachte, romige bereiding van rijst en pompoen die langzaam samen garen in water en kokosmelk. De lichtzoete smaak van de pompoen en kokos vormt een mooi contrast met de hartige, frisse vis. Een eenvoudige, maar verrassend smaakvolle eilandmaaltijd.",
+  "afbeelding": "images/recepten/GegrildeVisBankeAI.webp",
+  "url": "recepten.html?id=gegrildeVisBanke",
+  "volgorde": 164,
+  "regioVolgorde": {
+    "micronesie": 2
+  },
+  "porties": 4,
+  "bereidingstijdMinuten": 45,
+  "moeilijkheid": "Eenvoudig",
+  "ingredienten": [
+    "Voor de gegrilde vis:",
+    "4 stevige witvisfilets van ongeveer 175 g (bijvoorbeeld zeebaars of dorade)",
+    "2 el sojasaus",
+    "2 el limoensap",
+    "1 el zonnebloemolie",
+    "1 teen knoflook",
+    "1 tl versgeraspte gember",
+    "zwarte peper, naar smaak",
+    "Voor de Banke:",
+    "200 g witte rijst",
+    "400 g flespompoen (schoongemaakt gewicht)",
+    "250 ml kokosmelk",
+    "450 ml water",
+    "zout, naar smaak"
+  ],
+  "bereiding": [
+    "Schil de flespompoen, verwijder de zaden en snijd het vruchtvlees in blokjes van ongeveer 2 cm.",
+    "Doe de rijst in een zeef en spoel onder koud stromend water totdat het water grotendeels helder blijft.",
+    "Doe de rijst, pompoen, kokosmelk en het water in een pan met dikke bodem. Breng al roerend aan de kook.",
+    "Zet het vuur laag en laat de Banke met het deksel schuin op de pan ongeveer 25 minuten zachtjes koken. Roer regelmatig om aanbranden te voorkomen. Voeg zo nodig wat extra heet water toe.",
+    "Roer tegen het einde van de kooktijd voorzichtig door de Banke, zodat de zachte pompoen gedeeltelijk uiteenvalt en zich met de rijst vermengt. De structuur moet dik en romig zijn, zachter dan gewone gekookte rijst, maar niet helemaal glad. Breng op smaak met een beetje zout.",
+    "Pel ondertussen de knoflook en hak deze fijn. Schil de gember en rasp hem fijn.",
+    "Meng de sojasaus, het limoensap, de zonnebloemolie, knoflook, gember en zwarte peper in een ondiepe schaal.",
+    "Dep de visfilets droog met keukenpapier. Leg ze in de marinade en keer ze voorzichtig om, zodat alle kanten bedekt zijn. Laat ongeveer 10 minuten marineren in de koelkast.",
+    "Verhit een grillpan op middelhoog tot hoog vuur. Haal de vis uit de marinade en laat kort uitlekken.",
+    "Leg de visfilets in de hete grillpan en bak ze, afhankelijk van de dikte, ongeveer 3–4 minuten per kant. Keer ze voorzichtig met een brede spatel. De vis is gaar wanneer het vlees ondoorzichtig is en gemakkelijk in vlokken uiteenvalt.",
+    "Controleer of de Banke voldoende zacht en romig is. Voeg indien nodig een klein scheutje heet water toe en roer voorzichtig door.",
+    "Schep de warme Banke op vier borden en leg op elk bord een gegrilde visfilet. Serveer direct."
+  ],
+  "weetje": "De Marshalleilanden vormen een uitgestrekte archipel van lage koraalatollen in de Stille Oceaan. Anders dan op vulkanische eilanden zoals Pohnpei is er hier weinig vruchtbare landbouwgrond en vrijwel geen hoogteverschil. De bewoners waren daarom eeuwenlang sterk afhankelijk van de zee en van een beperkt aantal gewassen die goed tegen de zoute, zandige omstandigheden bestand zijn. Vis, broodvrucht, pandanus, kokos en taro vormden de basis van de traditionele voedselvoorziening. Vooral broodvrucht was belangrijk: de vrucht kon worden geroosterd, gekookt of gefermenteerd om voedsel langer te bewaren.\n\nHet gerecht Banke laat zien hoe deze voedseltradities in de loop der tijd veranderden. De oorspronkelijke eilandkeuken kende geen rijst als belangrijk basisvoedsel. Met de groei van de internationale handel werd ingevoerde rijst echter steeds belangrijker. Banke, ook bekend als *Rice-Banke*, combineert rijst met pompoen of zoete aardappel, gekookt in water en soms kokosmelk. Het resultaat is een zachte, lichtzoete pap die als bijgerecht kan dienen bij vis of vlees. De combinatie is een goed voorbeeld van hoe geïmporteerde ingrediënten een eigen plaats kregen binnen de plaatselijke keuken.\n\nOpmerkelijk is de manier waarop voedsel op deze eilanden werd geconserveerd. Omdat tropische producten snel bederven, ontwikkelden de bewoners verschillende technieken om overschotten te bewaren. Broodvrucht werd bijvoorbeeld gefermenteerd tot *bwiro*, een bereiding die gedurende langere tijd kon worden opgeslagen. Pandanusvruchten werden verwerkt tot houdbare pasta of gedroogde producten. Vis kon worden gedroogd of gerookt. Deze technieken maakten het mogelijk om voedselvoorraden aan te leggen voor perioden waarin de visvangst tegenviel of tropische stormen de voedselvoorziening verstoorden.\n\nOnze combinatie van gegrilde vis met pompoen-kokosrijst vertegenwoordigt de hedendaagse eilandkeuken. De vis sluit aan bij de eeuwenoude afhankelijkheid van de zee, terwijl de Banke laat zien hoe de plaatselijke voedselcultuur zich aan nieuwe ingrediënten heeft aangepast. Een interessante parallel met **Kokoda uit Fiji**: ook daar spelen verse vis en kokos een belangrijke rol, maar terwijl bij Kokoda de vis in citrus wordt gemarineerd en koud wordt geserveerd, wordt de vis hier gegrild en komt de kokos vooral terug in het bijgerecht.",
+  "bron": {
+    "receptTitel": "Marshallese Grilled Fish (geïnspireerd op)",
+    "auteur": "International Cuisine",
+    "kookboek": null,
+    "jaar": null,
+    "url": "https://www.internationalcuisine.com/marshallese-grilled-fish/"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Pumpkin Rice (Rice Banke) – geïnspireerd op",
+      "auteur": "The Foreign Fork",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://foreignfork.com/pumpkin-rice/"
+    }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "Food & Flavors",
+      "auteur": "Marshallese Voices",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://marshallese-voices.com/food/"
+    },
+    {
+      "receptTitel": "Rice-banke (Pumpkin Rice)",
+      "auteur": "TasteAtlas",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.tasteatlas.com/rice-banke"
+    }
+  ]
+}

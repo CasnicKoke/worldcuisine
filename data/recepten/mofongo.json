@@ -3,8 +3,9 @@
   "regios": [
     "caribisch"
   ],
-  "titel": "Mofongo",
-  "korteBeschrijving": "Puerto Ricaans gerecht van gestampte bakbanaan, vaak geserveerd met knoflook, vlees of zeevruchten.",
+  "titel": "Mofongo con Camarones – Puerto Rico",
+  "korteBeschrijving": "Puerto Ricaanse specialiteit van gestampte groene bakbanaan met knoflook en krokant varkensvlees, geserveerd met grote garnalen in een kruidige Creoolse tomatensaus.",
+  "beschrijving": "Mofongo con Camarones is een karakteristiek gerecht uit Puerto Rico, waarin Afrikaanse, inheemse Taíno- en Spaanse culinaire invloeden samenkomen. Groene, onrijpe bakbananen worden gefrituurd en vervolgens met knoflook, olijfolie en krokant varkensvlees (*chicharrón*) fijngestampt tot een stevige, enigszins grove massa. Deze wordt traditioneel gevormd in een houten vijzel, de *pilón*. We serveren de mofongo met grote garnalen in een geurige *salsa criolla* van tomaat, paprika, ui, knoflook en oregano. De zachte, hartige bakbanaan en krokante stukjes varkensvlees vormen een mooi contrast met de sappige garnalen en lichtzure tomatensaus.",
   "afbeelding": "images/recepten/MofongoAI.webp",
   "url": "recepten.html?id=mofongo",
   "volgorde": 130,
@@ -12,14 +13,73 @@
     "caribisch": 3
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 90,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de mofongo:",
+    "4 grote groene bakbananen",
+    "100 g krokant uitgebakken spekblokjes (of traditionele chicharrón)",
+    "3 tenen knoflook",
+    "2 el olijfolie",
+    "100 ml kippenbouillon, bij voorkeur zoutarm",
+    "500 ml zonnebloemolie om in te frituren",
+    "zout, naar smaak",
+    "Voor de garnalen in salsa criolla:",
+    "600 g grote rauwe garnalen, gepeld en schoongemaakt (viswinkel)",
+    "1 grote ui",
+    "1 rode paprika",
+    "3 tenen knoflook",
+    "300 g tomatenblokjes uit blik",
+    "150 ml visbouillon, bij voorkeur zoutarm",
+    "2 el olijfolie",
+    "1 tl gedroogde oregano",
+    "1 tl mild paprikapoeder",
+    "1 laurierblad",
+    "1 limoen",
+    "2 el fijngehakte verse koriander",
+    "zout en zwarte peper, naar smaak"
+  ],
+  "bereiding": [
+    "Pel de ui en snipper deze fijn. Verwijder de zaadlijsten van de paprika en snijd het vruchtvlees in blokjes van ongeveer 1 cm. Pel de knoflook voor de saus en hak deze fijn.",
+    "Controleer of de garnalen volledig zijn gepeld en of het darmkanaal is verwijderd. Dep ze droog met keukenpapier en bewaar ze tot gebruik in de koelkast.",
+    "Snijd de uiteinden van de groene bakbananen af. Maak met een scherp mes een ondiepe snee over de lengte van de schil en verwijder deze voorzichtig. De schil van groene bakbananen zit steviger vast dan die van rijpe bananen.",
+    "Snijd de bakbananen in stukken van ongeveer 3 cm dik. Leg ze eventueel tijdelijk in koud water om verkleuring te voorkomen. Dep ze voor het frituren zorgvuldig droog.",
+    "Verhit de olijfolie in een ruime hapjespan op middelhoog vuur. Fruit de ui ongeveer 3 minuten, totdat deze glazig wordt.",
+    "Voeg de paprika toe en bak ongeveer 4 minuten mee, totdat de paprika zacht begint te worden.",
+    "Voeg de knoflook, oregano en het paprikapoeder toe. Bak nog 1 minuut mee.",
+    "Voeg de tomatenblokjes, visbouillon en het laurierblad toe. Breng de saus rustig aan de kook.",
+    "Laat de saus ongeveer 15 minuten zonder deksel zachtjes sudderen, totdat de groenten zacht zijn en de saus enigszins is ingedikt. Breng op smaak met zout en zwarte peper. Houd de saus op zeer laag vuur warm. De garnalen voegen we pas vlak voor het serveren toe.",
+    "Bak de spekblokjes, als ze nog niet krokant zijn, in een droge koekenpan op middelhoog vuur totdat ze goudbruin en krokant zijn. Laat uitlekken op keukenpapier. Snijd ze daarna eventueel wat fijner.",
+    "Pel de knoflook voor de mofongo en stamp deze met een beetje zout fijn in een vijzel. Meng de olijfolie erdoor en zet apart.",
+    "Verwarm de kippenbouillon in een steelpan en houd deze warm.",
+    "Verhit de zonnebloemolie in een stevige pan met hoge rand tot ongeveer 165–170 °C. Gebruik bij voorkeur een keukenthermometer.",
+    "Laat de stukken bakbanaan voorzichtig in de hete olie zakken. Frituur ze in porties ongeveer 8–10 minuten, totdat ze gaar en licht goudgeel zijn. Ze hoeven niet donkerbruin of krokant te worden. Laat uitlekken op keukenpapier.",
+    "Doe een kwart van de warme bakbanaan in een grote vijzel of stevige kom. Voeg een kwart van de knoflookolie en de krokante spekblokjes toe.",
+    "Stamp het mengsel met een stamper fijn tot een samenhangende, grove massa. Voeg indien nodig wat warme kippenbouillon toe om het mengsel soepeler te maken. Er mogen nog kleine stukjes bakbanaan en spek zichtbaar blijven.",
+    "Herhaal dit met de overige bakbanaan, knoflookolie en spekblokjes. Gebruik de bouillon alleen voor zover nodig: de mofongo moet stevig blijven en mag geen gladde puree worden.",
+    "Verdeel het mengsel over vier kleine kommetjes. Druk voorzichtig aan en maak in het midden van ieder kommetje een lichte kuil. Houd de kommetjes warm terwijl je de garnalen bereidt.",
+    "Breng de salsa criolla weer zachtjes tegen de kook aan. Voeg de garnalen toe en schep voorzichtig door de saus.",
+    "Laat de garnalen ongeveer 3–5 minuten zachtjes garen, afhankelijk van hun grootte, totdat ze roze, ondoorzichtig en net gaar zijn. Kook ze niet langer dan nodig, anders worden ze taai.",
+    "Verwijder het laurierblad. Pers de helft van de limoen uit boven de saus en voeg de fijngehakte koriander toe. Schep voorzichtig om en proef of nog zout of zwarte peper nodig is.",
+    "Keer de kommetjes met mofongo voorzichtig om op vier voorverwarmde diepe borden, zodat mooie ronde heuveltjes ontstaan. Druk eventueel opnieuw een kleine kuil in de bovenkant.",
+    "Schep een deel van de garnalen met salsa criolla in de kuil en verdeel de rest rondom de mofongo. Zorg dat iedereen voldoende saus krijgt.",
+    "Snijd de resterende halve limoen in vier partjes en serveer direct."
+  ],
+  "weetje": "Mofongo behoort tot de bekendste gerechten van Puerto Rico en heeft zijn wortels in de ontmoeting tussen Afrikaanse, inheemse en Europese kooktradities. Toen de Spanjaarden vanaf het begin van de zestiende eeuw het eiland koloniseerden, troffen zij er de Taíno aan, die onder andere cassave, maïs en verschillende knolgewassen verbouwden. De Taíno gebruikten houten en stenen vijzels om voedsel fijn te stampen. De Spanjaarden brachten nieuwe landbouwgewassen en dieren mee, waaronder varkens en bakbananen, die oorspronkelijk uit tropisch Azië afkomstig waren. Tot slaaf gemaakte Afrikanen introduceerden daarnaast hun eigen kooktechnieken. Uit deze culturele vermenging ontwikkelde zich geleidelijk de Puerto Ricaanse keuken, waarin Mofongo een bijzondere plaats kreeg.\n\nDe belangrijkste Afrikaanse verwant van Mofongo is **fufu**, een gerecht dat in verschillende vormen in West- en Centraal-Afrika wordt gegeten. Daarbij worden zetmeelrijke ingrediënten zoals yam, cassave of bakbanaan gekookt en vervolgens langdurig gestampt tot een samenhangende, elastische massa. In Puerto Rico ontwikkelde zich een eigen variant: de groene bakbananen werden niet gekookt maar gefrituurd en vervolgens met knoflook, vet en krokant varkensvlees gestampt. Dat levert een veel grovere, hartigere structuur op dan de meeste Afrikaanse fufuvarianten. Ook de naam heeft vermoedelijk Afrikaanse wortels. Volgens de Puerto Ricaanse voedselhistoricus Cruz Miguel Ortíz Cuadra is *mofongo* verwant aan woorden uit het Kikongo, een Bantoetaal die onder andere in delen van Angola en Congo wordt gesproken.\n\nEen interessant historisch detail is dat Mofongo vroeger anders werd bereid dan tegenwoordig. In de derde editie van het Puerto Ricaanse kookboek *El cocinero puertorriqueño* uit **1890** staat een recept voor *Mofongo criollo*. Daarin worden groene bakbananen gekookt in een bouillon met onder andere kalfsvlees, kip, spek, ham, knoflook en oregano. De gare bakbananen worden vervolgens fijngestampt en tot grote ballen gevormd, met wat bouillon om te voorkomen dat de massa aan elkaar kleeft. Deze vroege versie lijkt dus sterker op Afrikaanse fufu dan op de tegenwoordig bekende gefrituurde Mofongo. De voedselhistoricus Ortíz Cuadra wijst er bovendien op dat gerechten als Mofongo lange tijd door de koloniale elite werden geminacht vanwege hun associatie met de Afro-Caribische bevolking. Inmiddels is het juist een trots symbool van de Puerto Ricaanse identiteit geworden.\n\nDe traditionele houten vijzel waarin Mofongo wordt bereid, de *pilón*, is veel meer dan alleen een praktisch keukengereedschap. Door de warme bakbanaan samen met knoflook en krokant varkensvlees te stampen, ontstaat een stevige massa waarin de verschillende ingrediënten herkenbaar blijven. De bakbanaan wordt dus niet tot een gladde puree verwerkt. Het krokante varkensvlees, *chicharrón*, zorgt voor een hartige smaak en een aangenaam contrast in structuur. De moderne Mofongo kan op zichzelf worden gegeten, vaak met een kom warme bouillon, maar wordt tegenwoordig ook gevuld of gecombineerd met kip, rundvlees, varkensvlees, krab of garnalen. Onze Mofongo con Camarones is zo'n feestelijke variant, waarbij de Creoolse saus de stevige bakbanaanmassa extra smaak en sappigheid geeft.\n\nEen mooie culinaire verbinding bestaat met de **Ropa Vieja uit Cuba**, die we eerder in deze regio hebben uitgewerkt. Daarbij serveren we *maduros*: rijpe, zoete bakbananen die in olie worden gebakken totdat ze goudbruin karamelliseren. Bij Mofongo gebruiken we juist volledig groene bakbananen, die nauwelijks zoet zijn en veel meer zetmeel bevatten. Het verschil tussen beide gerechten laat zien hoe veelzijdig dit gewas is. In de Dominicaanse Republiek bestaat bovendien *mangú*, een verwant gerecht waarbij groene bakbananen worden gekookt en fijngestampt, doorgaans geserveerd met gebakken ui. Mofongo, maduros en mangú zijn daarmee drie verschillende uitwerkingen van een ingrediënt dat een belangrijke plaats heeft gekregen in de Caribische keuken.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
+    "receptTitel": "Mofongo (geïnspireerd op)",
+    "auteur": "Epicurious",
     "kookboek": null,
-    "url": null
-  }
+    "jaar": null,
+    "url": "https://www.epicurious.com/recipes/food/views/mofongo"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Mofongo con Camarones (geïnspireerd op)",
+      "auteur": "Kiwilimón",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.kiwilimon.com/receta/platos-fuertes/mofongo-con-camarones"
+    }
+  ]
 }

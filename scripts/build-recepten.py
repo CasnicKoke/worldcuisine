@@ -28,6 +28,18 @@ def json_tekst(waarde):
     return json.dumps(waarde, indent=2, ensure_ascii=False) + "\n"
 
 
+def dubbele_nummers(nummer_bestand_paren):
+    """Geef per dubbel nummer de JSON-bestanden waarin het voorkomt."""
+    per_nummer = {}
+    for nummer, bestand in nummer_bestand_paren:
+        per_nummer.setdefault(nummer, []).append(bestand)
+    return {
+        nummer: bestanden
+        for nummer, bestanden in sorted(per_nummer.items())
+        if len(bestanden) > 1
+    }
+
+
 def bouw_indexen():
     records = []
     sleutels = set()
@@ -70,9 +82,26 @@ def bouw_indexen():
         raise ValueError("Ongeldige recepten:\n  - " + "\n  - ".join(fouten))
     if not records:
         raise ValueError("Geen receptbestanden gevonden")
-    volgordes = [r["volgorde"] for r in records]
-    if len(volgordes) != len(set(volgordes)):
-        raise ValueError("'volgorde' is niet uniek; geef elk recept zijn eigen nummer")
+
+    nummerfouten = []
+    for nummer, bestanden in dubbele_nummers(
+        (rec["volgorde"], f'{rec["sleutel"]}.json') for rec in records
+    ).items():
+        nummerfouten.append(f"volgorde {nummer}: {', '.join(bestanden)}")
+
+    per_regio = {}
+    for rec in records:
+        for regio in rec["regios"]:
+            per_regio.setdefault(regio, []).append(
+                (rec["regioVolgorde"][regio], f'{rec["sleutel"]}.json')
+            )
+    for regio, items in sorted(per_regio.items()):
+        for nummer, bestanden in dubbele_nummers(items).items():
+            nummerfouten.append(
+                f"regio '{regio}', regioVolgorde {nummer}: {', '.join(bestanden)}"
+            )
+    if nummerfouten:
+        raise ValueError("Dubbele volgordenummers gevonden:\n  - " + "\n  - ".join(nummerfouten))
 
     records.sort(key=lambda r: r["volgorde"])
     index = {"schemaVersie": 1, "recepten": {}}
@@ -86,10 +115,6 @@ def bouw_indexen():
         }
         for regio in rec["regios"]:
             regios.setdefault(regio, []).append((rec["regioVolgorde"][regio], key))
-    for regio, items in regios.items():
-        nummers = [n for n, _ in items]
-        if len(nummers) != len(set(nummers)):
-            raise ValueError(f"Regio '{regio}' heeft dubbele regioVolgorde-nummers")
     # Regio's worden gesorteerd op het vroegst voorkomende recept: daarmee
     # blijft de oorspronkelijke regio-volgorde uit de migratie ongewijzigd.
     regios = {
@@ -124,7 +149,7 @@ def main():
         return 0
     for pad, obj in bestanden:
         pad.parent.mkdir(parents=True, exist_ok=True)
-        pad.write_text(json_tekst(obj), encoding="utf-8")
+        pad.write_text(json_tekst(obj))
         print(f"Gegenereerd: {pad.relative_to(ROOT)}")
     print(f"Klaar: {len(index['recepten'])} recepten en {len(regios)} regio's.")
     return 0

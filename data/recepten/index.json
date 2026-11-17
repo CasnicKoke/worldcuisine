@@ -841,25 +841,25 @@
       ],
       "bestand": "data/recepten/gumbo.json"
     },
-    "clamChowder": {
-      "titel": "Clam Chowder",
-      "korteBeschrijving": "Romige soep uit New England met venusschelpen, aardappel en vaak spek.",
-      "afbeelding": "images/recepten/ClamChowderAI.webp",
-      "url": "recepten.html?id=clamChowder",
+    "shrimpAndGrits": {
+      "titel": "Shrimp and Grits",
+      "korteBeschrijving": "Grote garnalen in een hartige saus met spek, paprika en knoflook, geserveerd op romige polenta met gerijpte cheddar en verse kruiden.",
+      "afbeelding": "images/recepten/ShrimpAndGritsAI.webp",
+      "url": "recepten.html?id=shrimpAndGrits",
       "regios": [
         "verenigde-staten"
       ],
-      "bestand": "data/recepten/clamChowder.json"
+      "bestand": "data/recepten/shrimpAndGrits.json"
     },
-    "hamburger": {
-      "titel": "Hamburger",
-      "korteBeschrijving": "Klassieke Amerikaanse burger met een gegrilde runderpatty, broodje en rijke toppings.",
-      "afbeelding": "images/recepten/HamburgerAI.webp",
-      "url": "recepten.html?id=hamburger",
+    "chicagoDeepDishPizza": {
+      "titel": "Chicago Deep-Dish Pizza",
+      "korteBeschrijving": "Rijkgevulde pizza uit Chicago met een hoge, boterachtige bodem, mozzarella, gekruid worstvlees en een dikke laag tomatensaus.",
+      "afbeelding": "images/recepten/ChicagoDeepDishPizzaAI.webp",
+      "url": "recepten.html?id=chicagoDeepDishPizza",
       "regios": [
         "verenigde-staten"
       ],
-      "bestand": "data/recepten/hamburger.json"
+      "bestand": "data/recepten/chicagoDeepDishPizza.json"
     },
     "couscous": {
       "titel": "Couscous met rundvlees en groenten",
@@ -1252,8 +1252,8 @@
       "bestand": "data/recepten/tamales.json"
     },
     "jerkChicken": {
-      "titel": "Jerk Chicken",
-      "korteBeschrijving": "Pittig Jamaicaans gegrild kipgerecht, gemarineerd met kruiden, pepers en specerijen.",
+      "titel": "Jerk Chicken met Rice and Peas",
+      "korteBeschrijving": "Jamaicaanse kippenbouten in een pittige jerkmarinade van piment, Scotch bonnet en tijm, geserveerd met kokosrijst, kidneybonen en frisse koolsalade.",
       "afbeelding": "images/recepten/JerkChickenAI.webp",
       "url": "recepten.html?id=jerkChicken",
       "regios": [
@@ -1262,8 +1262,8 @@
       "bestand": "data/recepten/jerkChicken.json"
     },
     "ropaVieja": {
-      "titel": "Ropa Vieja",
-      "korteBeschrijving": "Cubaanse stoofschotel van draadjesvlees in een rijke saus met tomaat, paprika en ui.",
+      "titel": "Ropa Vieja – Cubaanse runderstoof met rijst, zwarte bonen en maduros",
+      "korteBeschrijving": "Cubaanse stoofschotel van langzaam gegaard, uit elkaar getrokken rundvlees in kruidige tomatensaus met paprika en olijven, geserveerd met rijst, zwarte bonen en gebakken bakbanaan.",
       "afbeelding": "images/recepten/RopaViejaAI.webp",
       "url": "recepten.html?id=ropaVieja",
       "regios": [
@@ -1271,19 +1271,19 @@
       ],
       "bestand": "data/recepten/ropaVieja.json"
     },
-    "ackeeSaltfish": {
-      "titel": "Ackee and Saltfish",
-      "korteBeschrijving": "Nationaal Jamaicaans gerecht van ackeevrucht en gezouten kabeljauw, vaak met ui en paprika.",
-      "afbeelding": "images/recepten/AckeeSaltfishAI.webp",
-      "url": "recepten.html?id=ackeeSaltfish",
+    "keshiYena": {
+      "titel": "Keshi Yená – Gevulde kaas uit Curaçao",
+      "korteBeschrijving": "Curaçaose specialiteit van Edammer kaas gevuld met kruidige kip, paprika, olijven, kappertjes en rozijnen, geserveerd met traditionele funchi en een frisse salade.",
+      "afbeelding": "images/recepten/KeshiYenaAI.webp",
+      "url": "recepten.html?id=keshiYena",
       "regios": [
         "caribisch"
       ],
-      "bestand": "data/recepten/ackeeSaltfish.json"
+      "bestand": "data/recepten/keshiYena.json"
     },
     "mofongo": {
-      "titel": "Mofongo",
-      "korteBeschrijving": "Puerto Ricaans gerecht van gestampte bakbanaan, vaak geserveerd met knoflook, vlees of zeevruchten.",
+      "titel": "Mofongo con Camarones – Puerto Rico",
+      "korteBeschrijving": "Puerto Ricaanse specialiteit van gestampte groene bakbanaan met knoflook en krokant varkensvlees, geserveerd met grote garnalen in een kruidige Creoolse tomatensaus.",
       "afbeelding": "images/recepten/MofongoAI.webp",
       "url": "recepten.html?id=mofongo",
       "regios": [
@@ -1562,8 +1562,8 @@
       "bestand": "data/recepten/fishVegetableCurrySoup.json"
     },
     "poissonCru": {
-      "titel": "Poisson Cru",
-      "korteBeschrijving": "Tahitiaans gerecht van rauwe vis gemarineerd met limoen en kokosmelk, met frisse groenten.",
+      "titel": "Poisson Cru au lait de coco – Tahiti",
+      "korteBeschrijving": "Tahitiaanse salade van rauwe zeebaars, kort gemarineerd in limoensap en gemengd met kokosmelk, komkommer, tomaat en verse groenten, geserveerd met pandanrijst.",
       "afbeelding": "images/recepten/PoissonCruAI.webp",
       "url": "recepten.html?id=poissonCru",
       "regios": [
@@ -1572,8 +1572,8 @@
       "bestand": "data/recepten/poissonCru.json"
     },
     "umu": {
-      "titel": "Umu",
-      "korteBeschrijving": "Polynesische maaltijd van vlees, vis en groenten, langzaam gegaard in een ondergrondse steenoven.",
+      "titel": "Umu – Samoaanse ovenmaaltijd",
+      "korteBeschrijving": "Samoaanse ovenmaaltijd met langzaam gegaarde kip, zoete aardappel, bakbanaan en romige spinazie in kokosroom, geïnspireerd op de traditionele bereiding op hete vulkanische stenen.",
       "afbeelding": "images/recepten/UmuAI.webp",
       "url": "recepten.html?id=umu",
       "regios": [
@@ -1582,8 +1582,8 @@
       "bestand": "data/recepten/umu.json"
     },
     "poke": {
-      "titel": "Poke",
-      "korteBeschrijving": "Hawaïaans gerecht van blokjes rauwe vis, op smaak gebracht met soja, sesam en andere toppings.",
+      "titel": "Poke – Hawaïaanse Shoyu Poke met Yellowtail Kingfish",
+      "korteBeschrijving": "Hawaïaanse Poke van rauwe Yellowtail Kingfish met sojasaus, sesamolie, ui en zeewier, geserveerd met rijst, avocado, komkommer en edamame.",
       "afbeelding": "images/recepten/PokeAI.webp",
       "url": "recepten.html?id=poke",
       "regios": [
@@ -1591,29 +1591,19 @@
       ],
       "bestand": "data/recepten/poke.json"
     },
-    "luau": {
-      "titel": "Lūʻau",
-      "korteBeschrijving": "Hawaïaans gerecht van taro-bladeren, traditioneel langzaam gegaard met vlees en kokos.",
-      "afbeelding": "images/recepten/LuauAI.webp",
-      "url": "recepten.html?id=luau",
+    "sapasui": {
+      "titel": "Sapasui – Tongaanse glasnoedels met rundvlees",
+      "korteBeschrijving": "Tongaanse maaltijd van glasnoedels met mals rundvlees, wortel, witte kool en sperziebonen, op smaak gebracht met sojasaus, gember en knoflook.",
+      "afbeelding": "images/recepten/SapasuiAI.webp",
+      "url": "recepten.html?id=sapasui",
       "regios": [
         "polynesie"
       ],
-      "bestand": "data/recepten/luau.json"
-    },
-    "tinaktak": {
-      "titel": "Tinaktak",
-      "korteBeschrijving": "Guamees gerecht van rundvlees, groenten en kokosmelk, vaak gegeten met rijst.",
-      "afbeelding": "images/recepten/TinaktakAI.webp",
-      "url": "recepten.html?id=tinaktak",
-      "regios": [
-        "micronesie"
-      ],
-      "bestand": "data/recepten/tinaktak.json"
+      "bestand": "data/recepten/sapasui.json"
     },
     "kelaguen": {
-      "titel": "Kelaguen",
-      "korteBeschrijving": "Guamees gerecht van fijngehakt vlees of vis met citroen, kokos, chili en lente-ui.",
+      "titel": "Chicken Kelaguen met Titiyas",
+      "korteBeschrijving": "Frisse, lichtpittige kip met citroen, kokos en rode peper uit Guam, geserveerd met zelfgebakken titiyas en een komkommer-tomaatsalade.",
       "afbeelding": "images/recepten/KelaguenAI.webp",
       "url": "recepten.html?id=kelaguen",
       "regios": [
@@ -1621,25 +1611,35 @@
       ],
       "bestand": "data/recepten/kelaguen.json"
     },
-    "coconutCrab": {
-      "titel": "Coconut Crab",
-      "korteBeschrijving": "Grote Pacifische landkrab, traditioneel bereid met kokos en eenvoudige eilandkruiden.",
-      "afbeelding": "images/recepten/CoconutCrabAI.webp",
-      "url": "recepten.html?id=coconutCrab",
+    "ukaeb": {
+      "titel": "Ukaeb – Krab met kokosroom",
+      "korteBeschrijving": "Palause specialiteit van zacht krabvlees in romige kokosroom met ui en rode peper, geserveerd met witte rijst en een frisse komkommer-avocadosalade.",
+      "afbeelding": "images/recepten/UkaebAI.webp",
+      "url": "recepten.html?id=ukaeb",
       "regios": [
         "micronesie"
       ],
-      "bestand": "data/recepten/coconutCrab.json"
+      "bestand": "data/recepten/ukaeb.json"
     },
-    "breadfruitChips": {
-      "titel": "Breadfruit Chips",
-      "korteBeschrijving": "Dunne krokante plakjes broodvrucht, goudbruin gefrituurd en licht gezouten.",
-      "afbeelding": "images/recepten/BreadfruitChipsAI.webp",
-      "url": "recepten.html?id=breadfruitChips",
+    "gegrildeVisBanke": {
+      "titel": "Gegrilde vis met Banke",
+      "korteBeschrijving": "Gegrilde witvis met limoen, gember en sojasaus uit de Marshalleilanden, geserveerd met romige pompoen-kokosrijst (Banke).",
+      "afbeelding": "images/recepten/GegrildeVisBankeAI.webp",
+      "url": "recepten.html?id=gegrildeVisBanke",
       "regios": [
         "micronesie"
       ],
-      "bestand": "data/recepten/breadfruitChips.json"
+      "bestand": "data/recepten/gegrildeVisBanke.json"
+    },
+    "koahpnoairKoakihr": {
+      "titel": "Kip met Koahpnoair Koakihr",
+      "korteBeschrijving": "Kruidige kip met zwarte peper, gember en limoen uit Pohnpei, geserveerd met traditionele yam in kokosmelk (Koahpnoair Koakihr) en roergebakken paksoi.",
+      "afbeelding": "images/recepten/KoahpnoairKoakihrAI.webp",
+      "url": "recepten.html?id=koahpnoairKoakihr",
+      "regios": [
+        "micronesie"
+      ],
+      "bestand": "data/recepten/koahpnoairKoakihr.json"
     },
     "sate-ayam": {
       "titel": "Saté ayam",

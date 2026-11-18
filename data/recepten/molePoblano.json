@@ -3,8 +3,9 @@
   "regios": [
     "mexicaans"
   ],
-  "titel": "Mole Poblano",
-  "korteBeschrijving": "Rijke Mexicaanse saus met chili, specerijen en chocolade, vaak geserveerd met kip.",
+  "titel": "Pollo en Mole Poblano – Puebla",
+  "korteBeschrijving": "Mexicaanse kip in een rijke, donkere saus van gedroogde chilipepers, geroosterde zaden, specerijen en pure chocolade, geserveerd met witte rijst.",
+  "beschrijving": "Pollo en Mole Poblano is een feestelijke specialiteit uit Puebla, beroemd om zijn complexe saus waarin tientallen smaaknuances samenkomen. Gedroogde ancho-, guajillo- en pasillapeper worden gecombineerd met geroosterde pinda’s, pompoenpitten, sesamzaad, tomaat, rozijnen en warme specerijen. Een kleine hoeveelheid pure chocolade verdiept de smaak en geeft de saus een volle, donkere kleur, zonder dat het gerecht zoet wordt. De ingrediënten worden fijngemalen en langzaam tot een dikke, fluweelachtige saus gekookt, waarin malse kippendijfilets verder garen. We serveren de kip met witte rijst en geroosterd sesamzaad.",
   "afbeelding": "images/recepten/MolePoblanoAI.webp",
   "url": "recepten.html?id=molePoblano",
   "volgorde": 120,
@@ -12,14 +13,82 @@
     "mexicaans": 1
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 105,
+  "moeilijkheid": "Uitdagend",
+  "ingredienten": [
+    "Voor de kip:",
+    "800 g kippendijfilet",
+    "1 el zonnebloemolie",
+    "Zout en zwarte peper",
+    "Voor de Mole Poblano:",
+    "2 gedroogde anchopepers (alternatief: 2 tl gerookt paprikapoeder)",
+    "2 gedroogde guajillopepers (alternatief: 2 tl mild paprikapoeder en een mespunt cayennepeper)",
+    "1 gedroogde pasillapeper (alternatief: 1 tl mild paprikapoeder)",
+    "1 grote ui",
+    "3 tenen knoflook",
+    "2 rijpe tomaten",
+    "25 g ongezouten pinda’s",
+    "25 g pompoenpitten",
+    "20 g sesamzaad",
+    "30 g rozijnen",
+    "1 kleine maïstortilla",
+    "25 g pure chocolade (minimaal 70% cacao)",
+    "1 klein kaneelstokje",
+    "2 kruidnagels",
+    "1 mespunt gemalen piment",
+    "500 ml kippenbouillon",
+    "2 el zonnebloemolie",
+    "1 tl zout",
+    "Voor erbij:",
+    "250 g witte rijst",
+    "400 ml water",
+    "1 el sesamzaad, voor de garnering"
+  ],
+  "bereiding": [
+    "Verwijder de steeltjes en zaadlijsten van de gedroogde chilipepers. Rooster ze kort in een droge koekenpan en laat ze vervolgens 20 minuten weken in heet water. Gebruik je voor een of meer pepers het paprikapoederalternatief, sla het roosteren en weken voor die pepers dan over.",
+    "Rooster de pinda’s, pompoenpitten en het sesamzaad in een droge koekenpan op middelhoog vuur, totdat ze licht kleuren en beginnen te geuren. Schep uit de pan.",
+    "Pel de ui en knoflook. Snijd de ui in grove stukken en halveer de tomaten. Rooster deze groenten in een droge koekenpan of onder de ovengrill totdat ze lichtbruine plekken krijgen.",
+    "Rooster ook de maïstortilla kort, totdat deze droog en stevig wordt. Breek in stukken.",
+    "Laat de geweekte chilipepers uitlekken. Doe ze samen met eventuele paprikapoederalternatieven, de geroosterde groenten, zaden, pinda’s, rozijnen, tortillastukken, kaneel, kruidnagels, piment en ongeveer 250 ml kippenbouillon in een krachtige blender.",
+    "Maal alles zorgvuldig tot een zo glad mogelijke saus. Voeg eventueel wat extra bouillon toe als het mengsel te dik is.",
+    "Verhit de zonnebloemolie voor de mole in een ruime pan met dikke bodem. Voeg de gepureerde saus voorzichtig toe en bak ongeveer 5 minuten op middelhoog vuur, terwijl je voortdurend roert.",
+    "Voeg de resterende kippenbouillon toe en laat de saus ongeveer 25–30 minuten op laag vuur zachtjes pruttelen. Roer regelmatig om aanbranden te voorkomen.",
+    "Voeg de pure chocolade toe en roer totdat deze volledig is gesmolten. Breng op smaak met zout. De mole moet dik, glad en krachtig van smaak zijn, zonder uitgesproken zoet te worden.",
+    "Bestrooi ondertussen de kippendijfilets met zout en peper. Verhit de zonnebloemolie voor de kip in een koekenpan en bak het vlees in ongeveer 5 minuten rondom goudbruin.",
+    "Leg de aangebraden kip in de mole-saus en laat ongeveer 20–25 minuten zachtjes garen, totdat het vlees volledig gaar en mals is.",
+    "Spoel ondertussen de rijst onder koud stromend water. Kook de rijst met het water en een beetje zout ongeveer 12–15 minuten met het deksel op de pan, totdat het water is opgenomen. Laat daarna 5 minuten rusten.",
+    "Rooster het sesamzaad voor de garnering kort in een droge koekenpan.",
+    "Verdeel de rijst over vier borden, schep de kip met royale hoeveelheden mole ernaast en bestrooi met het geroosterde sesamzaad."
+  ],
+  "weetje": "Mole Poblano behoort tot de beroemdste gerechten van Mexico en is nauw verbonden met de stad Puebla. Het woord *mole* is afgeleid van het Nahuatl *molli*, dat saus of mengsel betekent. Al vóór de komst van de Spanjaarden bereidden de inheemse bewoners van Meso-Amerika sauzen van chilipepers, tomaten, pompoenpitten en kruiden. Na de Spaanse verovering kwamen daar nieuwe ingrediënten bij, waaronder kaneel, kruidnagel, rozijnen en verschillende noten. De complexe mole die we tegenwoordig kennen, ontstond uit deze geleidelijke vermenging van inheemse en Europese culinaire tradities.\n\nVolgens een bekende legende werd Mole Poblano in de zeventiende eeuw uitgevonden door de non Andrea de la Asunción in het klooster van Santa Rosa in Puebla. Zij zou in grote haast een bijzonder gerecht hebben bereid voor een belangrijke kerkelijke of wereldlijke bezoeker en daarbij allerlei ingrediënten hebben gecombineerd. Het verhaal wordt nog altijd verteld, maar historisch onderzoek laat zien dat de oorsprong ingewikkelder is. De legende werd vooral in de jaren twintig van de twintigste eeuw populair en is geen betrouwbare verklaring voor het ontstaan van mole.\n\nEen bijzonder ingrediënt is **chocolade**, waarvan de geschiedenis veel verder teruggaat dan de Mexicaanse mole. De cacaoboom (*Theobroma cacao*) is oorspronkelijk afkomstig uit het tropische gebied van de bovenloop van de Amazone in Zuid-Amerika. Archeologisch onderzoek in Ecuador heeft aangetoond dat mensen daar ongeveer **5300 jaar geleden** al cacao gebruikten. Later kreeg cacao ook een belangrijke plaats in Meso-Amerika, waar onder andere de Maya's en Azteken er dranken van bereidden. Cacao werd niet alleen als voedingsmiddel gebruikt, maar had ook een ceremoniële en economische betekenis.\n\nPas na de Spaanse verovering verspreidde cacao zich op grote schaal naar Europa, waar men er geleidelijk suiker en melk aan toevoegde. De chocolade in Mole Poblano is echter geen verwijzing naar onze moderne chocoladedesserts. Ze vormt slechts een onderdeel van een complexe hartige saus waarin vooral de chilipepers en geroosterde ingrediënten de smaak bepalen. Mole Poblano laat daarmee prachtig zien hoe producten uit verschillende werelddelen samenkwamen in de Mexicaanse keuken.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
+    "receptTitel": "Pollo en Mole Poblano – Puebla (geïnspireerd op)",
+    "auteur": "Saveur",
     "kookboek": null,
-    "url": null
-  }
+    "jaar": null,
+    "url": "https://www.saveur.com/article/Recipes/Mexico-Chicken-Puebla-Mole/"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "De mulli a mole",
+      "auteur": "Secretaría de Agricultura y Desarrollo Rural",
+      "kookboek": "Gobierno de México",
+      "jaar": 2018,
+      "url": "https://www.gob.mx/agricultura/articulos/de-mulli-a-mole?idiom=es"
+    },
+    {
+      "receptTitel": "Tamales or Timbales: Cuisine and the Formation of Mexican National Identity, 1821–1911",
+      "auteur": "Jeffrey M. Pilcher",
+      "kookboek": "The Americas / Cambridge University Press",
+      "jaar": 1996,
+      "url": "https://www.cambridge.org/core/journals/americas/article/abs/tamales-or-timbales-cuisine-and-the-formation-of-mexican-national-identity-18211911/E23E5FC116CA245156DBBCFCD6E65CFB"
+    },
+    {
+      "receptTitel": "The use and domestication of Theobroma cacao during the mid-Holocene in the upper Amazon",
+      "auteur": "Sonia Zarrillo e.a.",
+      "kookboek": "Nature Ecology & Evolution",
+      "jaar": 2018,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30374172/"
+    }
+  ]
 }

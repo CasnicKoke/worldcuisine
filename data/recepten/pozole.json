@@ -3,8 +3,9 @@
   "regios": [
     "mexicaans"
   ],
-  "titel": "Pozole",
-  "korteBeschrijving": "Traditionele Mexicaanse soep met hominy, vlees en frisse garnituren zoals sla en radijs.",
+  "titel": "Pozole Rojo – Mexico",
+  "korteBeschrijving": "Traditionele Mexicaanse maaltijdsoep van mals varkensvlees, genixtamaliseerde maïs en gedroogde chilipepers, geserveerd met kool, radijs, ui, koriander, limoen en krokante tortilla’s.",
+  "beschrijving": "Pozole Rojo is een voedzame, feestelijke maaltijdsoep uit Mexico, met grote, zachte maïskorrels en langzaam gegaard varkensvlees als belangrijkste ingrediënten. De karakteristieke maïs, *hominy* of *maíz pozolero* genoemd, is behandeld volgens het traditionele nixtamalisatieproces en behoudt tijdens het koken zijn stevige structuur. Een saus van gedroogde guajillo- en anchopeper geeft de bouillon zijn diepe rode kleur en kruidige smaak. Het vlees wordt langzaam gaar gekookt en vervolgens in grove stukken aan de soep toegevoegd. We serveren de Pozole met fijngesneden witte kool, radijs, ui, koriander, oregano, limoen en krokante maïstostada’s, die iedereen naar eigen smaak kan toevoegen.",
   "afbeelding": "images/recepten/PozoleAI.webp",
   "url": "recepten.html?id=pozole",
   "volgorde": 121,
@@ -12,14 +13,74 @@
     "mexicaans": 2
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 150,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de soep:",
+    "700 g varkensschouder zonder bot",
+    "700 g gare, uitgelekte hominy (maíz pozolero, uit blik; alternatief: 400 g uitgelekte kikkererwten en 300 g uitgelekte gewone maïs, beide uit blik)",
+    "1 grote witte ui",
+    "4 tenen knoflook",
+    "3 gedroogde guajillopepers (alternatief: 2 tl mild paprikapoeder en een mespunt cayennepeper)",
+    "2 gedroogde anchopepers (alternatief: 2 tl gerookt paprikapoeder)",
+    "2 laurierblaadjes",
+    "1 tl gedroogde oregano",
+    "1 tl gemalen komijn",
+    "1 el zonnebloemolie",
+    "1,5 liter water",
+    "Zout en zwarte peper",
+    "Voor de garnering:",
+    "200 g witte kool",
+    "6 radijsjes",
+    "1 kleine witte ui",
+    "2 limoenen",
+    "15 g verse koriander",
+    "1 tl gedroogde oregano",
+    "8 kleine maïstostada’s of krokante maïstortilla’s"
+  ],
+  "bereiding": [
+    "Snijd het varkensvlees in stukken van ongeveer 4 cm. Pel de grote witte ui en halveer deze. Pel de knoflook.",
+    "Doe het vlees, de ui, knoflook, laurierblaadjes en het water in een ruime soeppan. Breng rustig aan de kook en schep eventueel schuim van het oppervlak.",
+    "Zet het vuur laag en laat het vlees ongeveer 1 uur en 45 minuten tot 2 uur zachtjes garen, totdat het gemakkelijk met een vork uiteenvalt.",
+    "Verwijder ondertussen de steeltjes en zaadlijsten van de gedroogde chilipepers. Rooster ze kort in een droge koekenpan en laat ze ongeveer 20 minuten weken in heet water. Gebruik je uitsluitend de paprikapoederalternatieven, sla deze stap dan over.",
+    "Pureer de zachte chilipepers met de komijn en een beetje van het weekwater tot een gladde, rode saus. Wrijf deze eventueel door een fijne zeef om achtergebleven velletjes te verwijderen. Gebruik je paprikapoeder in plaats van een of meer chilipepers, meng dit dan met de komijn en een klein scheutje bouillon tot een sausje; voeg eventuele wél geweekte pepers toe.",
+    "Verhit de zonnebloemolie in een kleine pan en bak de chilisaus of de kruidenbasis ongeveer 5 minuten op middelhoog vuur. Roer regelmatig, zodat de kruiden niet verbranden.",
+    "Haal het gare varkensvlees uit de bouillon en trek het met twee vorken in grove stukken uit elkaar. Verwijder de gekookte ui, knoflook en laurierblaadjes.",
+    "Voeg de gebakken chilisaus, oregano en het vlees aan de bouillon toe. Voeg de uitgelekte hominy toe als je die gebruikt. Kies je het alternatief, voeg dan nu de uitgelekte kikkererwten toe, maar bewaar de gewone maïs nog even.",
+    "Laat de soep ongeveer 20 minuten zachtjes koken, zodat de smaken zich vermengen. Gebruik je kikkererwten en maïs, voeg de uitgelekte gewone maïs pas de laatste 5 minuten toe. Schenk indien nodig wat extra heet water bij. Breng op smaak met zout en zwarte peper.",
+    "Snijd ondertussen de witte kool in fijne reepjes en de radijsjes in dunne plakjes. Snipper de kleine witte ui en hak de koriander fijn. Snijd de limoenen in parten.",
+    "Schep de hete Pozole in vier grote kommen en zet de garnituren afzonderlijk op tafel.",
+    "Laat iedereen zelf kool, radijs, ui, koriander, oregano en limoensap toevoegen. Serveer de krokante tostada’s erbij."
+  ],
+  "weetje": "Pozole behoort tot de oudste gerechten uit de Mexicaanse keuken en heeft zijn wortels in de precolumbiaanse beschavingen van Meso-Amerika. Het woord *pozole* is afgeleid van het Nahuatl *pozolli*, dat ongeveer 'schuimend' betekent. De naam verwijst waarschijnlijk naar het uiterlijk van de grote maïskorrels, die tijdens het koken openbarsten en zich als kleine bloemetjes ontvouwen. De oorspronkelijke bewoners van Mexico hadden al duizenden jaren ervaring met het verbouwen en verwerken van maïs. Daarbij ontwikkelden zij een bijzondere techniek: **nixtamalisatie**, waarbij gedroogde maïskorrels worden gekookt en geweekt in water met kalk.\n\nDeze behandeling heeft een belangrijke voedingskundige functie. De alkalische oplossing maakt de buitenste schil van de maïskorrels los en verandert de structuur van het zetmeel. Bovendien wordt een deel van de vitamine B3 beter beschikbaar voor het lichaam en neemt het calciumgehalte van de maïs toe. Het resultaat is maïs die gemakkelijker kan worden verwerkt en een kenmerkende smaak krijgt. Wanneer de korrels heel blijven, vormen ze de basis voor Pozole; worden ze fijngemalen, dan ontstaat *masa*, het deeg voor tortilla's en tamales. Zo vormt één traditionele bereidingsmethode de basis van een groot deel van de Mexicaanse keuken.\n\nIn de tijd van de Azteken speelde gekookte maïs een rol bij verschillende ceremonies en feesten. Sommige historische bronnen beschrijven zelfs bijzondere rituele bereidingen met mensenvlees. Dat betekent echter niet dat alle vroege Pozole op deze manier werd gegeten: er bestonden verschillende maïsgerechten, waarvan sommige met bonen of kalkoenvlees werden bereid. Na de Spaanse verovering raakte varkensvlees ingeburgerd en ontstonden geleidelijk varianten die meer lijken op de huidige Pozole.\n\nTegenwoordig bestaan er verschillende regionale uitvoeringen. *Pozole Blanco* heeft een lichte bouillon, *Pozole Verde* krijgt zijn kleur bijvoorbeeld van groene pepers, tomatillo's en pompoenpitten, en *Pozole Rojo* van gedroogde rode chilipepers. De rode variant wordt vooral geassocieerd met Jalisco en andere delen van West-Mexico. Pozole wordt vaak gegeten bij familiebijeenkomsten en nationale feestdagen, waaronder de viering van de Mexicaanse onafhankelijkheid in september.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
+    "receptTitel": "Pozole Rojo – Mexico (geïnspireerd op)",
+    "auteur": "Saveur",
     "kookboek": null,
-    "url": null
-  }
+    "jaar": null,
+    "url": "https://www.saveur.com/posole-rojo/"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Pozole, profunda historia en cada plato",
+      "auteur": "Secretaría de Agricultura y Desarrollo Rural",
+      "kookboek": "Gobierno de México",
+      "jaar": 2021,
+      "url": "https://www.gob.mx/agricultura/articulos/pozole-profunda-historia-en-cada-plato?idiom=es"
+    },
+    {
+      "receptTitel": "El pozole en la cena del 15 de septiembre",
+      "auteur": "Procuraduría Federal del Consumidor (PROFECO)",
+      "kookboek": "Gobierno de México",
+      "jaar": null,
+      "url": "https://www.gob.mx/profeco/documentos/el-pozole-en-la-cena-del-15-de-septiembre?state=published"
+    },
+    {
+      "receptTitel": "Effect of Nixtamalization on Mycotoxin-Contaminated Corn (G2329)",
+      "auteur": "University of Nebraska–Lincoln Extension",
+      "kookboek": "University of Nebraska–Lincoln",
+      "jaar": null,
+      "url": "https://extensionpubs.unl.edu/publication/g2329/na/html/view"
+    }
+  ]
 }

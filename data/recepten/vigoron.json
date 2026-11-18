@@ -3,8 +3,9 @@
   "regios": [
     "centraal-amerika"
   ],
-  "titel": "Vigorón",
-  "korteBeschrijving": "Nicaraguaans gerecht van cassave, koolsalade en krokante varkenszwoerd.",
+  "titel": "Vigorón – Nicaragua",
+  "korteBeschrijving": "Traditioneel Nicaraguaans gerecht van zachte, gekookte cassave met krokant geroosterde speklappen en een frisse, lichtzure koolsalade met tomaat en rode ui.",
+  "beschrijving": "Vigorón is een beroemde specialiteit uit de koloniale stad Granada in Nicaragua, waar het al meer dan een eeuw als straatmaaltijd wordt verkocht. Het gerecht combineert drie eenvoudige ingrediënten met sterk contrasterende smaken en structuren: zachte, gekookte cassave, krokant varkensvlees (*chicharrón*) en een frisse salade van fijngesneden witte kool, tomaat en rode ui, aangemaakt met azijn en limoen. Traditioneel wordt Vigorón geserveerd op een bananenblad. In onze praktische ovenvariant gebruiken we speklappen met zwoerd, die we rechtstreeks in een braadslede roosteren totdat het vlees mals is en de buitenkant krokant. De zure koolsalade vormt een heerlijk fris tegenwicht voor het rijke varkensvlees.",
   "afbeelding": "images/recepten/VigoronAI.webp",
   "url": "recepten.html?id=vigoron",
   "volgorde": 125,
@@ -12,14 +13,99 @@
     "centraal-amerika": 2
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 135,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor het krokante varkensvlees:",
+    "600 g speklappen met zwoerd, ongeveer 1,5–2 cm dik",
+    "1 tl zout",
+    "1 tl zwarte peper",
+    "Voor de cassave:",
+    "900 g geschilde cassave, vers of diepvries",
+    "2 tenen knoflook",
+    "Zout naar smaak",
+    "Voor de frisse koolsalade:",
+    "350 g witte kool",
+    "2 rijpe tomaten",
+    "1 kleine rode ui",
+    "75 ml appelazijn",
+    "1 limoen",
+    "1 kleine rode peper (optioneel)",
+    "Zout naar smaak"
+  ],
+  "bereiding": [
+    "Dep de speklappen goed droog met keukenpapier. Kerf het zwoerd om de centimeter licht in, zonder diep in het vlees te snijden.",
+    "Wrijf het zwoerd in met zout en bestrooi het vlees met zwarte peper. Laat bij voorkeur enkele uren onafgedekt in de koelkast drogen, zodat het zwoerd gemakkelijker krokant wordt.",
+    "Verwarm de oven voor op 190 °C boven- en onderwarmte.",
+    "Leg de speklappen naast elkaar in een braadslede, zonder ze te stapelen. Zorg dat het zwoerd zoveel mogelijk vrij ligt.",
+    "Bak de speklappen ongeveer 40–50 minuten. Keer ze halverwege om en schep indien nodig overtollig vet uit de braadslede.",
+    "Verhoog de oventemperatuur tot 230 °C en rooster nog ongeveer 5–10 minuten, totdat de randjes en het zwoerd krokant zijn. Houd goed in de gaten dat het vlees niet verbrandt.",
+    "Laat de speklappen ongeveer 5 minuten rusten en snijd ze vervolgens in hapklare stukken.",
+    "Gebruik je verse cassave, snijd dan de uiteinden af en verwijder de dikke bruine schil én de roze of witachtige laag daaronder. Gebruik bij diepvriescassave de al geschilde stukken.",
+    "Snijd de cassave in stukken van ongeveer 6 cm. Verwijder eventuele verkleurde of beschadigde delen.",
+    "Breng een ruime pan water aan de kook. Voeg de cassave, de gepelde knoflooktenen en een beetje zout toe.",
+    "Kook de cassave ongeveer 25–35 minuten, totdat deze volledig gaar en zacht is en gemakkelijk met een vork uiteenvalt. Kook indien nodig langer.",
+    "Giet het kookwater weg. Verwijder de harde, vezelige kern uit het midden van de cassavestukken. Houd de cassave afgedekt warm.",
+    "Verwijder de buitenste bladeren van de witte kool en snijd de kool in zeer fijne reepjes.",
+    "Snijd de tomaten in kleine blokjes. Pel de rode ui en snijd deze in flinterdunne halve ringen.",
+    "Halveer eventueel de rode peper, verwijder de zaadjes en snijd het vruchtvlees fijn.",
+    "Meng de kool, tomaten, rode ui en eventueel de rode peper in een ruime kom.",
+    "Pers de limoen uit en meng het sap met de appelazijn en een beetje zout. Schenk de dressing over de groenten, schep grondig om en laat minimaal 20 minuten intrekken.",
+    "Verdeel de warme cassave over vier borden. Druk enkele stukken licht open met een vork, maar maak er geen puree van.",
+    "Verdeel de krokante stukken speklap over de cassave en schep de frisse koolsalade er royaal bovenop. Serveer onmiddellijk, zodat het vlees krokant blijft."
+  ],
+  "weetje": "Vigorón is onlosmakelijk verbonden met **Granada**, een van de oudste koloniale steden van Nicaragua, gesticht in 1524 aan de oevers van het Meer van Nicaragua. Het gerecht heeft een opvallend goed gedocumenteerde ontstaansgeschiedenis. Volgens de plaatselijke overlevering werd Vigorón in **1914** geïntroduceerd door María Luisa Cisneros Lacayo, een ondernemende vrouw uit de wijk La Islita. Zij stond bekend onder de bijnaam *La Loca*, vanwege haar uitbundige karakter. Rond de plaatselijke honkbalvelden verkocht ze drankjes en eenvoudige maaltijden aan spelers en toeschouwers. Daar begon ze gekookte cassave te combineren met krokant varkensvlees en een frisse koolsalade, geserveerd op een bananenblad.\n\nDe naam van het gerecht heeft een al even bijzonder verhaal. In het begin van de twintigste eeuw werd in Nicaragua een versterkende tonic verkocht onder de merknaam *Vigorón*. Volgens het verhaal zag María Luisa een reclameposter voor dit middel aan de muur hangen en besloot ze haar nieuwe maaltijd dezelfde naam te geven. Het gerecht moest immers kracht en energie geven aan de honkbalspelers. De combinatie van cassave en varkensvlees bestond waarschijnlijk al langer, maar María Luisa zou degene zijn geweest die deze specifieke bereiding populair maakte en haar de naam Vigorón gaf. De geschiedenis is onder meer beschreven door de Nicaraguaanse historicus Alejandro Barberena Pérez en later opnieuw onderzocht door plaatselijke historici. De exacte details blijven deels gebaseerd op mondelinge overlevering.\n\nOok de ingrediënten weerspiegelen de geschiedenis van Midden-Amerika. Cassave (*Manihot esculenta*) werd oorspronkelijk in tropisch Zuid-Amerika gedomesticeerd en was al lang vóór de komst van Europeanen een belangrijk voedselgewas in grote delen van het Amerikaanse continent. Varkens werden daarentegen door de Spanjaarden geïntroduceerd. De combinatie van gekookte cassave en krokant varkensvlees is daarmee een treffend voorbeeld van de vermenging van inheemse en Europese voedseltradities. De koolsalade, met haar frisse azijndressing, zorgt voor een contrast dat kenmerkend is geworden voor het gerecht.\n\nVigorón groeide uit tot een symbool van Granada en wordt er nog altijd verkocht door families die de bereiding van generatie op generatie doorgeven. Vooral rond het centrale stadspark staan verkopers met grote schalen cassave, krokant varkensvlees en vers aangemaakte salade. In 2024 werd Vigorón door de plaatselijke autoriteiten erkend als immaterieel cultureel erfgoed van Granada. Een gerecht dat volgens de overlevering begon als een eenvoudige maaltijd voor honkbalspelers, is zo uitgegroeid tot een belangrijk onderdeel van de culinaire identiteit van Nicaragua.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Vigorón (geïnspireerd op)",
+    "auteur": "Journey Latin America",
+    "kookboek": "Food and Drink",
+    "jaar": null,
+    "url": "https://www.journeylatinamerica.com/travel-inspiration/food-and-drink/vigoron/"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Vigorón – Nicaragua",
+      "auteur": "RecetasNica",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.recetasnica.com/Vigoron.php"
+    },
+    {
+      "receptTitel": "Vigorón",
+      "auteur": "Visit Nicaragua",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.visitanicaragua.com/en/platillos/vigoron/"
+    }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "Cien años de vigorón granadino",
+      "auteur": "La Prensa",
+      "kookboek": "Reportajes especiales",
+      "jaar": 2014,
+      "url": "https://www.laprensani.com/2014/12/26/reportajes-especiales/1669752-qcien-anos-de-vigoron-granadino"
+    },
+    {
+      "receptTitel": "Vigorón granadino",
+      "auteur": "La Prensa",
+      "kookboek": null,
+      "jaar": 2006,
+      "url": "https://www.laprensani.com/2006/06/11/departamentales/1466587-vigoron-granadino"
+    },
+    {
+      "receptTitel": "Presentan en Granada el libro El Vigorón Granadino",
+      "auteur": "TN8",
+      "kookboek": null,
+      "jaar": null,
+      "url": "https://www.tn8.tv/departamentos/presentan-en-granada-el-libro-el-vigoron-granadino/"
+    },
+    {
+      "receptTitel": "El Vigorón es declarado Patrimonio Cultural e Intangible",
+      "auteur": "TN8",
+      "kookboek": null,
+      "jaar": 2024,
+      "url": "https://www.tn8.ni/politica/granada-celebra-su-sabor-el-vigoron-es-declarado-patrimonio-cultural-e-intangible/"
+    }
+  ]
 }

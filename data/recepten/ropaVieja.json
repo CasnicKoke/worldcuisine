@@ -99,5 +99,42 @@
       "jaar": null,
       "url": "https://foodliteracyproject.org/wp-content/uploads/2021/07/Cuban-Meat-Stew.pdf"
     }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "Pregones: June 2011 – 1857 Cuban cookbook and Ropa Vieja",
+      "auteur": "Cuban Heritage Collection",
+      "kookboek": "University of Miami Libraries",
+      "jaar": 2011,
+      "url": "https://pregones.library.miami.edu/pregones-june2011.html"
+    },
+    {
+      "receptTitel": "Nuevo manual del cocinero cubano y español (1857)",
+      "auteur": null,
+      "kookboek": "University of Miami Libraries Digital Exhibits",
+      "jaar": 1857,
+      "url": "https://scholar.library.miami.edu/digital/items/show/688"
+    },
+    {
+      "receptTitel": "Majorero ropa vieja",
+      "auteur": null,
+      "kookboek": "Canary Islands Gastronomy",
+      "jaar": null,
+      "url": "https://www.canariashistoria.com/en/gastronomy/ropa-vieja-majorera/"
+    },
+    {
+      "receptTitel": "What to eat and drink in Cuba",
+      "auteur": "Lonely Planet",
+      "kookboek": "Lonely Planet",
+      "jaar": 2022,
+      "url": "https://www.lonelyplanet.com/articles/cuba-best-foods"
+    },
+    {
+      "receptTitel": "Moros y Cristianos – Black Beans and Rice",
+      "auteur": "Goya Foods",
+      "kookboek": "Goya Recipes",
+      "jaar": null,
+      "url": "https://www.goya.com/en/recipes/moros-y-cristianos/"
+    }
   ]
 }

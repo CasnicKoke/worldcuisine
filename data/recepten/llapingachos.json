@@ -3,8 +3,9 @@
   "regios": [
     "andes"
   ],
-  "titel": "Llapingachos",
-  "korteBeschrijving": "Ecuadoriaanse aardappelkoekjes gevuld met kaas en goudbruin gebakken.",
+  "titel": "Llapingachos – Ecuador",
+  "korteBeschrijving": "Ecuadoriaanse aardappelkoekjes gevuld met gesmolten kaas, geserveerd met warme pindasaus, gebakken ei, avocado en een frisse tomaten-uiensalade.",
+  "beschrijving": "Llapingachos zijn traditionele aardappelkoekjes uit de hooglanden van Ecuador, vooral bekend uit de omgeving van Ambato. Gekookte aardappelen worden fijngestampt en gemengd met gefruite ui, komijn en achiote. Vervolgens worden ze gevuld met mozzarella en in een koekenpan goudbruin gebakken, zodat een krokante buitenkant ontstaat met een zachte, romige binnenkant. We serveren de llapingachos met *salsa de maní*, een warme Ecuadoriaanse pindasaus, en combineren ze met gebakken ei, avocado, sla en een frisse salade van tomaat en rode ui. Zo vormen de aardappelkoekjes een volledige vegetarische maaltijd.",
   "afbeelding": "images/recepten/LlapingachosAI.webp",
   "url": "recepten.html?id=llapingachos",
   "volgorde": 133,
@@ -12,14 +13,121 @@
     "andes": 2
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 105,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de llapingachos:",
+    "1,2 kg kruimige aardappelen",
+    "250 g geraspte mozzarella",
+    "1 kleine witte ui",
+    "1 tl achiotepoeder (alternatief: 1 tl mild paprikapoeder en een mespunt kurkuma)",
+    "½ tl gemalen komijn",
+    "3 el zonnebloemolie",
+    "Zout, naar smaak",
+    "Voor de salsa de maní:",
+    "100 g pindakaas zonder toegevoegde suiker",
+    "250 ml volle melk",
+    "1 kleine witte ui",
+    "1 teen knoflook",
+    "1 tl gemalen komijn",
+    "1 el zonnebloemolie",
+    "1 el fijngehakte verse koriander",
+    "Zout en zwarte peper, naar smaak",
+    "Voor de frisse tomaten-uiensalade:",
+    "3 rijpe tomaten",
+    "1 rode ui",
+    "1 limoen",
+    "1 el olijfolie",
+    "2 el fijngehakte verse koriander",
+    "Zout en zwarte peper, naar smaak",
+    "Voor erbij:",
+    "4 eieren",
+    "2 rijpe avocado’s",
+    "100 g gemengde sla",
+    "1 el zonnebloemolie",
+    "Zout en zwarte peper, naar smaak"
+  ],
+  "bereiding": [
+    "Schil de aardappelen en snijd ze in stukken van ongeveer 4 cm. Kook ze in een ruime pan met lichtgezouten water in ongeveer 15–20 minuten volledig gaar.",
+    "Pel ondertussen de ui voor de llapingachos en snipper deze fijn.",
+    "Verhit 1 el van de zonnebloemolie in een kleine koekenpan. Fruit de ui ongeveer 5 minuten op middelhoog vuur, totdat deze zacht is.",
+    "Voeg het achiotepoeder en de komijn toe en bak nog 30 seconden mee. Gebruik je paprikapoeder en kurkuma als alternatief, voeg deze dan op dezelfde manier toe.",
+    "Giet de aardappelen goed af. Zet de pan nog ongeveer 1 minuut op laag vuur en schud voorzichtig om, zodat overtollig vocht verdampt.",
+    "Stamp de aardappelen fijn tot een gladde, stevige puree. Gebruik geen melk of boter: de puree moet voldoende samenhang behouden om er koekjes van te vormen.",
+    "Meng het uimengsel door de aardappelpuree en breng op smaak met zout. Laat ongeveer 30 minuten afkoelen, totdat de puree stevig genoeg is om met de handen te vormen.",
+    "Pel de ui en knoflook voor de saus en hak beide fijn.",
+    "Verhit de zonnebloemolie in een steelpan op middelhoog vuur. Fruit de ui ongeveer 4 minuten en voeg daarna de knoflook en komijn toe. Bak nog 1 minuut mee.",
+    "Meng de pindakaas met de melk in een kom en roer met een garde tot een glad mengsel.",
+    "Schenk het pindakaasmengsel in de steelpan en breng al roerend zachtjes tegen de kook aan.",
+    "Laat de saus ongeveer 5–10 minuten op laag vuur garen, totdat deze glad en licht gebonden is. Roer regelmatig. Voeg eventueel een beetje water toe als de saus te dik wordt.",
+    "Roer de koriander erdoor en breng op smaak met zout en zwarte peper. Houd de saus op zeer laag vuur warm.",
+    "Pel de rode ui en snijd deze in flinterdunne halve ringen. Leg ze ongeveer 5 minuten in koud water en laat goed uitlekken.",
+    "Snijd de tomaten in kleine parten of blokjes. Hak de koriander fijn.",
+    "Pers de limoen uit en meng het sap met de olijfolie, koriander, zout en zwarte peper.",
+    "Schep de tomaat en rode ui voorzichtig door de dressing en laat de salade intrekken terwijl je de aardappelkoekjes bereidt.",
+    "Verdeel de afgekoelde aardappelpuree in twaalf gelijke porties en rol iedere portie tot een bal.",
+    "Druk met je duim een diepe holte in een deegbal. Leg een deel van de geraspte mozzarella in het midden.",
+    "Vouw de aardappelpuree voorzichtig over de kaas en knijp de opening dicht, zodat de kaas volledig is ingesloten.",
+    "Druk de gevulde bal voorzichtig plat tot een koekje van ongeveer 8–10 cm doorsnede en 1,5–2 cm dik.",
+    "Herhaal dit met de overige aardappelporties en kaas. Leg de koekjes op een bord of schaal en laat ze ongeveer 15 minuten in de koelkast opstijven.",
+    "Verhit de resterende zonnebloemolie voor de llapingachos in een grote koekenpan op middelhoog vuur. Bak de koekjes in porties ongeveer 4–5 minuten aan de eerste kant, totdat zich een stevige, goudbruine korst vormt.",
+    "Keer ieder koekje voorzichtig één keer om met een brede spatel. Bak nog ongeveer 3–4 minuten, totdat ook de andere kant goudbruin is en de kaas binnenin gesmolten is. Houd de gebakken koekjes warm.",
+    "Halveer de avocado’s, verwijder de pitten en snijd het vruchtvlees in parten. Was de sla en laat goed uitlekken.",
+    "Verhit de zonnebloemolie voor de eieren in een koekenpan. Bak vier spiegeleieren op middelhoog vuur, totdat het eiwit volledig gestold is. Breng op smaak met zout en zwarte peper.",
+    "Leg op ieder bord drie llapingachos en een gebakken ei. Verdeel de sla, tomaten-uiensalade en avocado ernaast. Schep wat warme salsa de maní over de aardappelkoekjes en serveer de rest van de saus afzonderlijk."
+  ],
+  "weetje": "Llapingachos zijn nauw verbonden met de eeuwenoude aardappelcultuur van de Andes. De aardappel werd ongeveer 8000 jaar geleden gedomesticeerd in het gebied rond het Titicacameer, op de grens van het huidige Peru en Bolivia. Vanuit dit oorsprongsgebied verspreidde de teelt zich over de Andes, waar inheemse gemeenschappen duizenden verschillende aardappelrassen ontwikkelden. Tegenwoordig groeien in Peru, Bolivia en Ecuador nog altijd meer dan 4000 inheemse variëteiten, aangepast aan uiteenlopende hoogten, temperaturen en bodems. De aardappel was daarmee al lang vóór de Spaanse verovering een van de belangrijkste voedselgewassen van Zuid-Amerika. Pas in de zestiende eeuw brachten de Spanjaarden de aardappel naar Europa, waar deze uiteindelijk eveneens een belangrijk basisvoedsel werd.\n\nHet gerecht Llapingachos wordt vooral geassocieerd met de provincie Tungurahua in het centrale hoogland van Ecuador, en met name met de stad Ambato. De naam verwijst naar de manier waarop de aardappelen worden verwerkt. Volgens een gangbare verklaring is het woord samengesteld uit het Kichwa-werkwoord *llapina*, dat 'platdrukken' of 'pletten' betekent, en het Spaanse *gacha*, een benaming voor een zachte meelpap of deegmassa. Zelfs de naam weerspiegelt daarmee de ontmoeting tussen inheemse en Spaanse tradities. De oorspronkelijke bereidingswijze van platgedrukte aardappelen heeft een inheemse achtergrond, terwijl ingrediënten zoals kaas en melk na de Spaanse kolonisatie aan de plaatselijke keuken werden toegevoegd. De precieze ontwikkeling van het huidige gerecht is niet volledig gedocumenteerd.\n\nIn Ambato groeiden Llapingachos uit tot een belangrijk onderdeel van de straat- en marktcultuur. Al aan het begin van de twintigste eeuw werden aardappelkoekjes verkocht op plaatselijke markten. Een opmerkelijk moment in hun geschiedenis was de zware aardbeving van **5 augustus 1949**, die Ambato en een groot deel van de omliggende regio verwoestte. Tijdens de wederopbouw werden de markten en eetgelegenheden opnieuw belangrijke ontmoetingsplaatsen. De Llapingachos groeiden uit tot een herkenbare specialiteit waarmee Ambato zich culinair presenteerde aan bezoekers. Sommige families verkopen er al generaties lang hun eigen versie, vaak volgens recepten die van ouders op kinderen worden doorgegeven.\n\nDe bekendste Ambateense uitvoering wordt traditioneel geserveerd met gebakken chorizo, een spiegelei, avocado en een frisse salade van tomaat en ui. Elders in Ecuador zijn ook varianten met *salsa de maní* populair, een warme pindasaus met ui, komijn en kruiden. De aardappelkoekjes worden doorgaans gemaakt van *papa chola*, een plaatselijk aardappelras met veel zetmeel dat geschikt is om stevige koekjes te vormen. In onze versie gebruiken we Nederlandse kruimige aardappelen en vervangen we de chorizo door een combinatie van pindasaus en gebakken ei. Daarmee behouden we de belangrijkste smaken en structuren van het gerecht, maar maken we er een vegetarische maaltijd van.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Llapingachos (geïnspireerd op)",
+    "auteur": "Layla Pujol",
+    "kookboek": "Laylita's Recipes",
+    "jaar": null,
+    "url": "https://www.laylita.com/recetas/llapingachos/"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Salsa de Maní (geïnspireerd op)",
+      "auteur": "Layla Pujol",
+      "kookboek": "Laylita's Recipes",
+      "jaar": null,
+      "url": "https://www.laylita.com/recetas/salsa-de-mani/comment-page-1/"
+    },
+    {
+      "receptTitel": "Llapingachos (Ecuadorian Stuffed Potato Pancakes)",
+      "auteur": "Food Network Kitchen",
+      "kookboek": "Food Network",
+      "jaar": null,
+      "url": "https://www.foodnetwork.com/recipes/food-network-kitchen/llapingachos-ecuadorian-stuffed-potato-pancakes-24914575"
+    }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "The potato's travel through ages and continents",
+      "auteur": "FAO",
+      "kookboek": "Food and Agriculture Organization of the United Nations",
+      "jaar": null,
+      "url": "https://www.fao.org/newsroom/story/the-potatos-travel-through-ages-and-continents/en"
+    },
+    {
+      "receptTitel": "Ecuadorian Andean Food",
+      "auteur": "Ecuador Travel",
+      "kookboek": "Ecuador Travel",
+      "jaar": null,
+      "url": "https://ecuador.travel/ecuadorian-andean-food-1-part/"
+    },
+    {
+      "receptTitel": "En Ambato, el llapingacho es con papa chola y chorizo",
+      "auteur": "Primicias",
+      "kookboek": "Primicias",
+      "jaar": null,
+      "url": "https://www.primicias.ec/noticias/entretenimiento/gastronomia/llapingacho-ambato-ecuador-ingredientes-papa/"
+    },
+    {
+      "receptTitel": "Llapingachos or Stuffed Potato Patties",
+      "auteur": "Layla Pujol",
+      "kookboek": "Laylita's Recipes",
+      "jaar": null,
+      "url": "https://www.laylita.com/recipes/llapingachos-or-stuffed-potato-patties/comment-page-5/"
+    }
+  ]
 }

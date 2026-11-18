@@ -3,8 +3,9 @@
   "regios": [
     "andes"
   ],
-  "titel": "Ceviche",
-  "korteBeschrijving": "Verse vis gemarineerd in limoensap met rode ui, chili en koriander, een klassieker van de Andes-kust.",
+  "titel": "Ceviche – Peru",
+  "korteBeschrijving": "Peruaanse specialiteit van verse zeebaars, kort gemarineerd in limoensap met rode ui, chilipeper en koriander, geserveerd met zoete aardappel en maïs.",
+  "beschrijving": "Ceviche is een van de bekendste gerechten uit Peru en een specialiteit van de Pacifische kust. Verse zeebaars wordt in blokjes gesneden en kort gemarineerd in limoensap, knoflook en chilipeper, waardoor de buitenkant van de vis steviger en witter wordt terwijl het binnenste zacht blijft. Flinterdunne rode ui en verse koriander geven het gerecht extra frisheid. Het kruidige marinadevocht, bekend als *leche de tigre*, wordt samen met de vis geserveerd. We combineren de ceviche met gekookte zoete aardappel en maïs, die met hun milde, zoete smaak een aangenaam contrast vormen met de frisse, pittige vis.",
   "afbeelding": "images/recepten/CevicheAI.webp",
   "url": "recepten.html?id=ceviche",
   "volgorde": 131,
@@ -12,14 +13,74 @@
     "andes": 0
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 40,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de ceviche:",
+    "750 g zeebaarsfilet zonder huid en graten, geschikt voor rauwe consumptie (viswinkel)",
+    "8–10 limoenen, voor ongeveer 150 ml sap",
+    "1 grote rode ui",
+    "1 kleine rode chilipeper (traditioneel ají limo)",
+    "1 teen knoflook",
+    "15 g verse koriander",
+    "1 tl zout",
+    "Versgemalen zwarte peper",
+    "Voor erbij:",
+    "600 g zoete aardappelen",
+    "2 voorgekookte maïskolven (alternatief: 300 g uitgelekte maïskorrels uit blik)",
+    "4 grote bladeren kropsla"
+  ],
+  "bereiding": [
+    "Schil de zoete aardappelen en snijd ze in stukken van ongeveer 4 cm. Kook ze in lichtgezouten water in 15–20 minuten gaar. Giet af en laat iets afkoelen.",
+    "Verwarm de voorgekookte maïskolven ongeveer 5 minuten in zacht kokend water. Laat uitlekken en snijd iedere kolf doormidden. Gebruik je maïs uit blik, verwarm deze dan kort en giet af.",
+    "Pel de rode ui, halveer deze en snijd in flinterdunne halve ringen. Leg de ui 10 minuten in ijskoud water, zodat de smaak iets milder wordt. Laat vervolgens goed uitlekken.",
+    "Halveer de chilipeper, verwijder eventueel de zaadlijsten en snijd het vruchtvlees zeer fijn.",
+    "Pel de knoflook en wrijf deze met een beetje zout fijn tot een pasta. Hak de koriander fijn.",
+    "Pers de limoenen uit. Zeef het sap om pitjes te verwijderen en bewaar het koel.",
+    "Controleer de vis op achtergebleven graten. Dep de filets zorgvuldig droog met keukenpapier en snijd ze met een scherp mes in blokjes van ongeveer 2 cm. Houd de vis tot het laatste moment in de koelkast.",
+    "Meng het limoensap met de knoflook, chilipeper, zout en zwarte peper in een gekoelde glazen of roestvrijstalen kom.",
+    "Voeg de vis toe en schep voorzichtig om, zodat alle stukken met de marinade in aanraking komen.",
+    "Laat de vis ongeveer 5 minuten in de koelkast marineren. De buitenkant wordt door het zuur witter en steviger, terwijl het binnenste zacht blijft.",
+    "Voeg de rode ui en koriander toe. Schep voorzichtig om en proef of nog zout of limoensap nodig is.",
+    "Was de slabladeren en dep ze droog. Leg op ieder bord een blad sla en verdeel de ceviche erover. Schep wat van het kruidige marinadevocht, de *leche de tigre*, erbij.",
+    "Leg naast de ceviche enkele stukken zoete aardappel en een halve maïskolf. Serveer onmiddellijk."
+  ],
+  "weetje": "Ceviche is het nationale culinaire symbool van Peru, maar de precieze oorsprong is onderwerp van discussie. Al duizenden jaren vóór de komst van de Spanjaarden leefden gemeenschappen langs de Peruaanse Pacifische kust van vis en andere zeeproducten. Archeologische vondsten uit onder andere de Moche-cultuur laten zien hoe belangrijk visserij en chilipepers waren. Volgens een bekende theorie werd verse vis destijds op smaak gebracht met chilipeper, zout en mogelijk het zure sap van *tumbo*, een inheemse vrucht die verwant is aan de passievrucht. Of deze bereidingen daadwerkelijk de directe voorlopers van de moderne ceviche waren, is niet met zekerheid vastgesteld. De geschiedenis van het gerecht is waarschijnlijk complexer dan één eeuwenoud recept.\n\nDe komst van de Spanjaarden in de zestiende eeuw bracht belangrijke veranderingen. Zij introduceerden onder andere citrusvruchten en uien, die tegenwoordig onmisbaar zijn in de klassieke Peruaanse ceviche. Het limoensap verandert de structuur van de eiwitten in de rauwe vis, waardoor het vlees steviger wordt en een witte kleur krijgt. Dat lijkt op garen, maar de vis wordt niet verhit. Lange tijd was het gebruikelijk om de vis urenlang in het zure sap te laten marineren. In sommige negentiende-eeuwse beschrijvingen werd zelfs gesproken over het gebruik van bittere sinaasappels en zeer ruime hoeveelheden chilipeper.\n\nEen verrassende invloed op de moderne ceviche kwam uit **Japan**. Vanaf 1899 arriveerden Japanse immigranten in Peru, waar hun culinaire tradities zich geleidelijk vermengden met de plaatselijke keuken. Zo ontstond de *Nikkei-keuken*, waarin Japanse technieken en Peruaanse ingrediënten worden gecombineerd. Japanse koks waren gewend aan de bereiding van rauwe vis, zoals sashimi, en droegen bij aan de gewoonte om ceviche veel korter te marineren. Daardoor bleef de vis zachter en proefde men de oorspronkelijke smaak beter. Deze ontwikkeling beïnvloedde de moderne ceviche, die tegenwoordig vaak pas vlak voor het serveren wordt bereid. Uit dezelfde culinaire ontmoeting ontstond ook *tiradito*, waarbij rauwe vis in dunne plakjes wordt gesneden en met een pittige citrussaus wordt geserveerd.\n\nEen bijzonder onderdeel van ceviche is de *leche de tigre*, letterlijk 'tijgermelk'. Ondanks die naam bevat het vocht geen melk: het bestaat uit limoensap, vissappen, chilipeper en andere smaakmakers. In Peru wordt het soms apart geserveerd in een klein glas en heeft het de reputatie een opwekkend middel te zijn. De combinatie van vis, limoen, chili, zoete aardappel en maïs is inmiddels zo belangrijk voor de Peruaanse identiteit dat UNESCO in **2023 de traditionele praktijken rond het bereiden en eten van ceviche** op de lijst van immaterieel cultureel erfgoed plaatste. Daarmee werd niet één vast recept erkend, maar juist de veelzijdige culinaire traditie die vissers, boeren, koks en families met elkaar verbindt.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Peruvian Fish Ceviche (geïnspireerd op)",
+    "auteur": "Perú Travel",
+    "kookboek": "PromPerú – Peruvian Gastronomy",
+    "jaar": null,
+    "url": "https://www.peru.travel/gastronomy/en/recipes/entrees/peruvian-fish-ceviche.html"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Ceviche, an expression of traditional Peruvian cuisine",
+      "auteur": "UNESCO",
+      "kookboek": "Intangible Cultural Heritage",
+      "jaar": 2023,
+      "url": "https://ich.unesco.org/en/RL/ceviche-an-expression-of-traditional-peruvian-cuisine-01952"
+    },
+    {
+      "receptTitel": "The surprising history behind Peru’s raw fish dish",
+      "auteur": "National Geographic",
+      "kookboek": "National Geographic Travel",
+      "jaar": null,
+      "url": "https://www.nationalgeographic.com/travel/article/ceviche-surprising-history-behind-perus-raw-fish-dish"
+    },
+    {
+      "receptTitel": "A Taste of Lima",
+      "auteur": "Harvard ReVista",
+      "kookboek": "ReVista: Harvard Review of Latin America",
+      "jaar": null,
+      "url": "https://revista.drclas.harvard.edu/a-taste-of-lima-revista/"
+    },
+    {
+      "receptTitel": "Discover the Origin of Cebiche",
+      "auteur": "Perú Travel",
+      "kookboek": "PromPerú",
+      "jaar": null,
+      "url": "https://www.peru.travel/stories/discover-the-origin-of-cebiche-one-of-the-most-trendy-and-acclaimed-dishes"
+    }
+  ]
 }

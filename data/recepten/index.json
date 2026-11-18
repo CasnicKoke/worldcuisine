@@ -1172,8 +1172,8 @@
       "bestand": "data/recepten/oshingali.json"
     },
     "tacos": {
-      "titel": "Tacos",
-      "korteBeschrijving": "Zachte maïstortilla’s gevuld met vlees, groenten, salsa en frisse toppings.",
+      "titel": "Tacos al Pastor – Mexico-Stad",
+      "korteBeschrijving": "Mexicaanse maïstortilla’s met geroosterd varkensvlees in een marinade van guajillo, achiote en specerijen, geserveerd met ananas, ui, koriander, limoen en eventueel crème fraîche.",
       "afbeelding": "images/recepten/TacosAI.webp",
       "url": "recepten.html?id=tacos",
       "regios": [
@@ -1182,8 +1182,8 @@
       "bestand": "data/recepten/tacos.json"
     },
     "molePoblano": {
-      "titel": "Mole Poblano",
-      "korteBeschrijving": "Rijke Mexicaanse saus met chili, specerijen en chocolade, vaak geserveerd met kip.",
+      "titel": "Pollo en Mole Poblano – Puebla",
+      "korteBeschrijving": "Mexicaanse kip in een rijke, donkere saus van gedroogde chilipepers, geroosterde zaden, specerijen en pure chocolade, geserveerd met witte rijst.",
       "afbeelding": "images/recepten/MolePoblanoAI.webp",
       "url": "recepten.html?id=molePoblano",
       "regios": [
@@ -1192,8 +1192,8 @@
       "bestand": "data/recepten/molePoblano.json"
     },
     "pozole": {
-      "titel": "Pozole",
-      "korteBeschrijving": "Traditionele Mexicaanse soep met hominy, vlees en frisse garnituren zoals sla en radijs.",
+      "titel": "Pozole Rojo – Mexico",
+      "korteBeschrijving": "Traditionele Mexicaanse maaltijdsoep van mals varkensvlees, genixtamaliseerde maïs en gedroogde chilipepers, geserveerd met kool, radijs, ui, koriander, limoen en krokante tortilla’s.",
       "afbeelding": "images/recepten/PozoleAI.webp",
       "url": "recepten.html?id=pozole",
       "regios": [
@@ -1201,29 +1201,29 @@
       ],
       "bestand": "data/recepten/pozole.json"
     },
-    "enchiladas": {
-      "titel": "Enchiladas",
-      "korteBeschrijving": "Opgerolde tortilla’s gevuld met vlees, kaas of bonen, overgoten met saus en gebakken.",
-      "afbeelding": "images/recepten/EnchiladasAI.webp",
-      "url": "recepten.html?id=enchiladas",
+    "pescadoTikinXic": {
+      "titel": "Pescado Tikin Xic – Yucatán",
+      "korteBeschrijving": "Yucateekse visfilets gemarineerd in achiote, sinaasappel en limoen, met tomaat, paprika en rode ui uit de oven, geserveerd met witte rijst.",
+      "afbeelding": "images/recepten/PescadoTikinXicAI.webp",
+      "url": "recepten.html?id=pescadoTikinXic",
       "regios": [
         "mexicaans"
       ],
-      "bestand": "data/recepten/enchiladas.json"
+      "bestand": "data/recepten/pescadoTikinXic.json"
     },
-    "galloPinto": {
-      "titel": "Gallo Pinto",
-      "korteBeschrijving": "Klassiek Centraal-Amerikaans gerecht van rijst en bonen, vaak gegeten als ontbijt of bijgerecht.",
-      "afbeelding": "images/recepten/GalloPintoAI.webp",
-      "url": "recepten.html?id=galloPinto",
+    "sancochoGallina": {
+      "titel": "Sancocho de Gallina – Panama",
+      "korteBeschrijving": "Panamese maaltijdsoep van kipfilet, yam, culantro en oregano, geserveerd met witte rijst en een beetje limoen.",
+      "afbeelding": "images/recepten/SancochoGallinaAI.webp",
+      "url": "recepten.html?id=sancochoGallina",
       "regios": [
         "centraal-amerika"
       ],
-      "bestand": "data/recepten/galloPinto.json"
+      "bestand": "data/recepten/sancochoGallina.json"
     },
     "pupusas": {
-      "titel": "Pupusas",
-      "korteBeschrijving": "Dikke Salvadoraanse maïspannenkoekjes, gevuld met kaas, bonen of vlees.",
+      "titel": "Pupusas de Frijoles y Queso – El Salvador",
+      "korteBeschrijving": "Salvadoraanse maïstortilla’s gevuld met zwarte bonen en gesmolten kaas, geserveerd met frisse, lichtzure koolsalade en een milde tomatensaus.",
       "afbeelding": "images/recepten/PupusasAI.webp",
       "url": "recepten.html?id=pupusas",
       "regios": [
@@ -1232,8 +1232,8 @@
       "bestand": "data/recepten/pupusas.json"
     },
     "vigoron": {
-      "titel": "Vigorón",
-      "korteBeschrijving": "Nicaraguaans gerecht van cassave, koolsalade en krokante varkenszwoerd.",
+      "titel": "Vigorón – Nicaragua",
+      "korteBeschrijving": "Traditioneel Nicaraguaans gerecht van zachte, gekookte cassave met krokant geroosterde speklappen en een frisse, lichtzure koolsalade met tomaat en rode ui.",
       "afbeelding": "images/recepten/VigoronAI.webp",
       "url": "recepten.html?id=vigoron",
       "regios": [
@@ -1242,8 +1242,8 @@
       "bestand": "data/recepten/vigoron.json"
     },
     "tamales": {
-      "titel": "Tamales",
-      "korteBeschrijving": "Maïsdeeg met hartige vulling, gestoomd in een blad, geliefd in heel Centraal-Amerika.",
+      "titel": "Tamales Colorados – Guatemala",
+      "korteBeschrijving": "Traditionele Guatemalteekse maïspakketjes met malse kip en een rode saus van tomaat, chilipepers en geroosterde zaden.",
       "afbeelding": "images/recepten/TamalesAI.webp",
       "url": "recepten.html?id=tamales",
       "regios": [
@@ -1292,8 +1292,8 @@
       "bestand": "data/recepten/mofongo.json"
     },
     "ceviche": {
-      "titel": "Ceviche",
-      "korteBeschrijving": "Verse vis gemarineerd in limoensap met rode ui, chili en koriander, een klassieker van de Andes-kust.",
+      "titel": "Ceviche – Peru",
+      "korteBeschrijving": "Peruaanse specialiteit van verse zeebaars, kort gemarineerd in limoensap met rode ui, chilipeper en koriander, geserveerd met zoete aardappel en maïs.",
       "afbeelding": "images/recepten/CevicheAI.webp",
       "url": "recepten.html?id=ceviche",
       "regios": [
@@ -1301,19 +1301,19 @@
       ],
       "bestand": "data/recepten/ceviche.json"
     },
-    "ajiDeGallina": {
-      "titel": "Ají de Gallina",
-      "korteBeschrijving": "Peruaans gerecht van kip in een romige, licht pittige saus van ají-peper, brood en noten.",
-      "afbeelding": "images/recepten/AjiDeGallinaAI.webp",
-      "url": "recepten.html?id=ajiDeGallina",
+    "sobrebarriga": {
+      "titel": "Sobrebarriga en Salsa Criolla – Colombia",
+      "korteBeschrijving": "Colombiaans stoofgerecht van langzaam gegaard rundvlees in een kruidige saus van tomaat, ui, paprika en knoflook, geserveerd met witte rijst en avocado.",
+      "afbeelding": "images/recepten/SobrebarrigaAI.webp",
+      "url": "recepten.html?id=sobrebarriga",
       "regios": [
         "andes"
       ],
-      "bestand": "data/recepten/ajiDeGallina.json"
+      "bestand": "data/recepten/sobrebarriga.json"
     },
     "llapingachos": {
-      "titel": "Llapingachos",
-      "korteBeschrijving": "Ecuadoriaanse aardappelkoekjes gevuld met kaas en goudbruin gebakken.",
+      "titel": "Llapingachos – Ecuador",
+      "korteBeschrijving": "Ecuadoriaanse aardappelkoekjes gevuld met gesmolten kaas, geserveerd met warme pindasaus, gebakken ei, avocado en een frisse tomaten-uiensalade.",
       "afbeelding": "images/recepten/LlapingachosAI.webp",
       "url": "recepten.html?id=llapingachos",
       "regios": [
@@ -1321,15 +1321,15 @@
       ],
       "bestand": "data/recepten/llapingachos.json"
     },
-    "saltenas": {
-      "titel": "Salteñas",
-      "korteBeschrijving": "Boliviaanse pasteitjes met een sappige, kruidige vulling van vlees, groenten en saus.",
-      "afbeelding": "images/recepten/SaltenasAI.webp",
-      "url": "recepten.html?id=saltenas",
+    "silpancho": {
+      "titel": "Silpancho Cochabambino – Bolivia",
+      "korteBeschrijving": "Boliviaanse specialiteit van dun gepaneerd rundvlees met gebakken aardappelschijfjes, witte rijst, spiegelei en een frisse salsa van tomaat, rode ui en chilipeper.",
+      "afbeelding": "images/recepten/SilpanchoAI.webp",
+      "url": "recepten.html?id=silpancho",
       "regios": [
         "andes"
       ],
-      "bestand": "data/recepten/saltenas.json"
+      "bestand": "data/recepten/silpancho.json"
     },
     "feijoada": {
       "titel": "Feijoada",

@@ -81,5 +81,21 @@
       "jaar": null,
       "url": "https://www.kiwilimon.com/receta/platos-fuertes/mofongo-con-camarones"
     }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "A Brief History of Puerto Rico’s Beloved Mofongo",
+      "auteur": null,
+      "kookboek": "Smithsonian Magazine",
+      "jaar": 2022,
+      "url": "https://www.smithsonianmag.com/travel/a-brief-history-of-puerto-ricos-beloved-mofongo-180979947/"
+    },
+    {
+      "receptTitel": "Funche y mofongo: su marginación racial",
+      "auteur": "Cruz Miguel Ortiz Cuadra",
+      "kookboek": "The Foodstorian",
+      "jaar": 2023,
+      "url": "https://www.thefoodstorian.com/historias/https/wwwthefoodstoriancom/blog-page-url/new-post-title"
+    }
   ]
 }

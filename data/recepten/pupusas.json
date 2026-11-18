@@ -3,8 +3,9 @@
   "regios": [
     "centraal-amerika"
   ],
-  "titel": "Pupusas",
-  "korteBeschrijving": "Dikke Salvadoraanse maïspannenkoekjes, gevuld met kaas, bonen of vlees.",
+  "titel": "Pupusas de Frijoles y Queso – El Salvador",
+  "korteBeschrijving": "Salvadoraanse maïstortilla’s gevuld met zwarte bonen en gesmolten kaas, geserveerd met frisse, lichtzure koolsalade en een milde tomatensaus.",
+  "beschrijving": "Pupusas zijn een van de bekendste gerechten uit El Salvador: dikke maïstortilla’s met een hartige vulling, traditioneel gebakken op een hete bakplaat, de *comal*. We maken het deeg van masa harina, maïsmeel dat volgens de eeuwenoude techniek van nixtamalisatie is bereid. De pupusas worden gevuld met een kruidige pasta van zwarte bonen en mozzarella, die tijdens het bakken heerlijk zacht en smeuïg wordt. We serveren ze met *curtido*, een frisse, lichtzure salade van witte kool, wortel en rode ui, en *salsa roja*, een milde tomatensaus. Drie pupusas per persoon vormen samen met de salade een complete vegetarische maaltijd.",
   "afbeelding": "images/recepten/PupusasAI.webp",
   "url": "recepten.html?id=pupusas",
   "volgorde": 124,
@@ -12,14 +13,106 @@
     "centraal-amerika": 1
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 75,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de pupusas:",
+    "400 g masa harina, maïsmeel van genixtamaliseerde maïs",
+    "560 ml lauwwarm water",
+    "1 tl zout",
+    "1 el zonnebloemolie, voor het bakken",
+    "Voor de vulling:",
+    "1 blik zwarte bonen van 400 g (ongeveer 240 g uitgelekt)",
+    "250 g mozzarella, geraspt",
+    "1 kleine ui",
+    "1 teen knoflook",
+    "1 el zonnebloemolie",
+    "1 tl gemalen komijn",
+    "Zout naar smaak",
+    "Voor de curtido:",
+    "350 g witte kool",
+    "1 grote wortel",
+    "1 rode ui",
+    "100 ml appelazijn",
+    "150 ml warm water",
+    "1 tl gedroogde oregano",
+    "1 kleine rode peper (optioneel)",
+    "Zout naar smaak",
+    "Voor de salsa roja:",
+    "400 g gezeefde tomaten (passata)",
+    "1 kleine ui",
+    "1 teen knoflook",
+    "1 el zonnebloemolie",
+    "50 ml water",
+    "Zout naar smaak"
+  ],
+  "bereiding": [
+    "Verwijder de buitenste bladeren van de witte kool en snijd de kool in zeer fijne reepjes. Schil de wortel en rasp deze grof. Pel de rode ui en snijd in flinterdunne halve ringen.",
+    "Halveer eventueel de rode peper, verwijder de zaadjes en snijd het vruchtvlees in fijne reepjes.",
+    "Meng de kool, wortel, rode ui en eventueel de rode peper in een ruime kom.",
+    "Meng de appelazijn, het warme water, de oregano en het zout. Schenk over de groenten en schep alles grondig om. Druk de groenten stevig aan, dek af en laat minimaal 1 uur in de koelkast intrekken, bij voorkeur 2–4 uur.",
+    "Laat de zwarte bonen uitlekken en spoel kort af. Pel de ui en knoflook voor de vulling en hak beide fijn.",
+    "Verhit de zonnebloemolie in een koekenpan op middelhoog vuur. Fruit de ui en knoflook ongeveer 3 minuten.",
+    "Voeg de bonen en komijn toe. Bak nog ongeveer 4 minuten en stamp vervolgens met een vork of pureestamper tot een dikke, enigszins grove pasta. Laat eventueel wat vocht verdampen, zodat de vulling stevig genoeg is om in het deeg te stoppen. Breng op smaak met zout en laat afkoelen.",
+    "Pel de ui en knoflook voor de tomatensaus en hak beide fijn. Verhit de zonnebloemolie in een steelpan en fruit ze ongeveer 3 minuten.",
+    "Voeg de passata en het water toe. Laat de saus 15 minuten zonder deksel zachtjes inkoken. Breng op smaak met zout en houd warm.",
+    "Meng de masa harina en het zout in een ruime kom. Voeg geleidelijk het lauwwarme water toe en kneed ongeveer 3 minuten tot een zacht, soepel deeg dat niet aan de handen blijft plakken. Het moet aanvoelen als zachte boetseerklei.",
+    "Laat het deeg 10 minuten afgedekt rusten. Knijp een klein stukje plat tussen je vingers. Ontstaan er scheurtjes aan de randen, kneed dan wat extra water door het deeg.",
+    "Verdeel het deeg in twaalf gelijke stukken. Rol ieder stuk tot een bal en houd de ballen afgedekt met een vochtige theedoek.",
+    "Maak je handen licht vochtig. Neem een deegbal en druk met je duimen een holte in het midden, zodat een klein kommetje van deeg ontstaat.",
+    "Schep ongeveer een eetlepel bonenvulling en een eetlepel geraspte mozzarella in de holte. Vouw de randen voorzichtig over de vulling en knijp ze bovenaan dicht.",
+    "Druk de gevulde deegbal voorzichtig tussen je handpalmen plat tot een ronde schijf van ongeveer 10–12 cm doorsnede en 1 cm dik. Werk rustig, zodat het deeg niet openscheurt.",
+    "Herhaal met de overige deegballen. Leg de gevormde pupusas op bakpapier en houd ze afgedekt om uitdrogen te voorkomen.",
+    "Verhit een grote koekenpan met antiaanbaklaag op middelhoog vuur. Bestrijk de pan heel licht met zonnebloemolie.",
+    "Bak de pupusas in porties ongeveer 4–6 minuten per kant, totdat ze goudbruine plekken hebben en het maïsdeeg volledig gaar is. De kaas binnenin moet gesmolten zijn.",
+    "Leg de gebakken pupusas op een schaal en houd warm onder een schone theedoek terwijl je de overige exemplaren bakt.",
+    "Verdeel drie pupusas per persoon over vier borden. Serveer met een royale portie curtido en de warme salsa roja."
+  ],
+  "weetje": "Pupusas zijn het nationale gerecht van El Salvador en vinden hun wortels in de eeuwenoude maïscultuur van Meso-Amerika. Lang voordat de Spanjaarden in de zestiende eeuw naar Midden-Amerika kwamen, vormde maïs het belangrijkste basisvoedsel van verschillende inheemse bevolkingsgroepen, waaronder de Pipil, ook wel Nawat-sprekende gemeenschappen genoemd. Zij maakten al platte broden en koeken van maïsdeeg, die op hete bakplaten werden gebakken. De moderne pupusa ontwikkelde zich uit deze traditie, al is niet precies bekend wanneer de gevulde versie ontstond. Ook over de herkomst van het woord *pupusa* bestaat onder taalkundigen discussie.\n\nDe bereiding van het maïsdeeg is bijzonder. De korrels worden eerst behandeld met water en gebluste kalk, een proces dat *nixtamalisatie* heet. Hierdoor ontstaat maïs die gemakkelijker te malen is en waarvan het deeg beter samenhangt. Deze techniek heeft ook een belangrijke voedingskundige betekenis: bepaalde voedingsstoffen, waaronder vitamine B3, worden beter beschikbaar. De resulterende *masa* kan vervolgens worden gevuld met kaas, bonen, varkensvlees of een combinatie daarvan. Vooral *pupusas revueltas*, gevuld met kaas, bonen en fijngehakt varkensvlees, zijn populair. Onze vegetarische versie met bonen en kaas is eveneens een traditionele combinatie.\n\nPupusas worden vrijwel altijd gegeten met *curtido* en *salsa roja*. Curtido is een ingelegde of licht gefermenteerde koolsalade, die met zijn frisse, zure smaak een mooi tegenwicht vormt voor het stevige maïsdeeg en de rijke vulling. De combinatie is inmiddels zo kenmerkend dat een pupusa zonder deze bijgerechten voor veel Salvadoranen nauwelijks compleet is. Pupusas worden verkocht bij gespecialiseerde eethuisjes, de zogenaamde *pupuserías*, waar het deeg vaak met de hand wordt gevormd en de tortilla's direct op een hete bakplaat worden gebakken.\n\nDe pupusa heeft bovendien een bijzondere symbolische betekenis gekregen. Tijdens de burgeroorlog in El Salvador, die van 1980 tot 1992 duurde, verlieten honderdduizenden Salvadoranen hun land. Velen vestigden zich in de Verenigde Staten, waar pupuserías uitgroeiden tot belangrijke ontmoetingsplaatsen voor de Salvadoraanse gemeenschap. Zo verspreidde het gerecht zich internationaal en werd het een herkenbaar symbool van de nationale identiteit. In **2005** verklaarde het Salvadoraanse parlement de pupusa officieel tot nationaal gerecht en stelde het de tweede zondag van november vast als *Día Nacional de las Pupusas*. Een eenvoudig maïsgerecht kreeg daarmee een eigen nationale feestdag.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
+    "receptTitel": "Pupusas (geïnspireerd op)",
+    "auteur": "King Arthur Baking",
     "kookboek": null,
-    "url": null
-  }
+    "jaar": null,
+    "url": "https://www.kingarthurbaking.com/recipes/pupusas-recipe"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Salvadoran Pupusas",
+      "auteur": null,
+      "kookboek": "Harvard ReVista",
+      "jaar": null,
+      "url": "https://revista.drclas.harvard.edu/salvadoran-pupusas/"
+    }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "Salvadoran Recipes: Pupusas de Chicharrón and Curtido",
+      "auteur": "Kathy Phung",
+      "kookboek": "Smithsonian Folklife Festival",
+      "jaar": 2020,
+      "url": "https://festival.si.edu/blog/salvadoran-recipes-pupusas-de-chicharron-and-curtido"
+    },
+    {
+      "receptTitel": "Decreto legislativo n.º 655: Día Nacional de las Pupusas",
+      "auteur": "Asamblea Legislativa de El Salvador",
+      "kookboek": null,
+      "jaar": 2005,
+      "url": "https://www.asamblea.gob.sv/leyes-y-decretos/decretos-por-anios/2005/0"
+    },
+    {
+      "receptTitel": "¿Dónde surgió la primera pupusa salvadoreña?",
+      "auteur": "Dennis Acosta",
+      "kookboek": "Diario El Mundo",
+      "jaar": 2022,
+      "url": "https://diario.elmundo.sv/nacionales/donde-surgio-la-primera-pupusa-salvadorena"
+    },
+    {
+      "receptTitel": "Las pupusas de San Salvador son bicentenarias",
+      "auteur": "Daniel Valencia",
+      "kookboek": "La Prensa Gráfica",
+      "jaar": 2021,
+      "url": "https://www.laprensagrafica.com/elsalvador/Las-pupusas-de-San-Salvador-son-bicentenarias-20211113-0047.html"
+    }
+  ]
 }

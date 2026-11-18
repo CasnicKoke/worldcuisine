@@ -1,17 +1,13 @@
 {
   "sleutel": "fishVegetableCurrySoup",
-  "regios": [
-    "melanesie"
-  ],
+  "regios": ["melanesie"],
   "titel": "Fish & Vegetable Curry Soup",
   "korteBeschrijving": "Romige vissoep van de Salomonseilanden met zeebaars, zoete aardappel, groene bakbanaan, spinazie, kokosmelk en milde kerrie.",
   "beschrijving": "Fish & Vegetable Curry Soup is een traditionele soep uit de hedendaagse keuken van de Salomonseilanden, waarin verse vis wordt gecombineerd met knolgewassen, groenten en kokosmelk. Onze versie is gebaseerd op een lokaal recept uit 1977. Stukken zeebaars garen zachtjes in een geurige kokosbouillon met milde kerrie, zoete aardappel, groene bakbanaan, tomaat en spinazie. De knolgewassen maken de soep voedzaam en geven haar een licht gebonden structuur, terwijl chilipeper en limoen voor een fris, pittig accent zorgen. Een volledige maaltijd waarin de smaken van de Melanesische eilandkeuken samenkomen.",
   "afbeelding": "images/recepten/FishVegetableCurrySoupAI.webp",
   "url": "recepten.html?id=fishVegetableCurrySoup",
   "volgorde": 157,
-  "regioVolgorde": {
-    "melanesie": 3
-  },
+  "regioVolgorde": {"melanesie": 3},
   "porties": 4,
   "bereidingstijdMinuten": 50,
   "moeilijkheid": "Makkelijk",
@@ -54,5 +50,11 @@
     "kookboek": "Smart Book for Busy People (1977); herdrukt in Local Vegetable Food “Kaikai” Recipes in Solomon Islands (2009), p. 41",
     "jaar": 1977,
     "url": "https://kastomgaden.org/wp-content/uploads/2010/06/Local-Vegetable-Food_Kaikai_Recipes-in-Solomon-Islands.pdf"
-  }
+  },
+  "extraBronnen": [
+    {"receptTitel": "Food", "auteur": "Clive Moore (red.)", "kookboek": "Solomon Islands Historical Encyclopaedia 1893–1978", "jaar": null, "url": "https://www.solomonencyclopaedia.net/biogs/E000112b.htm"},
+    {"receptTitel": "Abelmoschus manihot – aibika, slippery cabbage", "auteur": "FAO", "kookboek": "Ecocrop", "jaar": null, "url": "https://ecocrop.apps.fao.org/ecocrop/srv/en/cropView?id=290"},
+    {"receptTitel": "The lexicon of Proto Oceanic – Root crops", "auteur": "Ross, Pawley & Osmond (red.)", "kookboek": "The Lexicon of Proto Oceanic", "jaar": null, "url": "https://tlopo.clld.org/contributions/3-9"},
+    {"receptTitel": "Solomon Islands cookbook: Traditional recipes using local ingredients from the land and sea", "auteur": "Tutuo Wate et al.", "kookboek": "WorldFish", "jaar": 2025, "url": "https://digitalarchive.worldfishcenter.org/items/93df4383-c15c-4f35-9465-01f2429ff537"}
+  ]
 }

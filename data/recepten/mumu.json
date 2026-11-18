@@ -76,5 +76,35 @@
       "jaar": 2024,
       "url": "https://www.sbs.com.au/food/recipe/mumu/mwpjcl7rj"
     }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "Pigs and Pig Ceremonies in New Guinea",
+      "auteur": "Stichting Papua Erfgoed",
+      "kookboek": "Papua Erfgoed",
+      "jaar": null,
+      "url": "https://www.papuaerfgoed.org/id/node/40"
+    },
+    {
+      "receptTitel": "On the origin of sweet potato genetic diversity in New Guinea, a secondary centre of diversity",
+      "auteur": "A. Roullier e.a.",
+      "kookboek": "Heredity (Nature Portfolio)",
+      "jaar": 2013,
+      "url": "https://www.nature.com/articles/hdy201314"
+    },
+    {
+      "receptTitel": "Phase 6: Impact of the Sweet Potato on Swamp Landuse, Pig Rearing and Exchange Relations",
+      "auteur": "J. Golson e.a.",
+      "kookboek": "Ten Thousand Years of Cultivation at Kuk Swamp (ANU Press)",
+      "jaar": null,
+      "url": "https://press-files.anu.edu.au/downloads/press/n2540/html/ch16.xhtml"
+    },
+    {
+      "receptTitel": "Mumu",
+      "auteur": "Davy O’Rourke",
+      "kookboek": "SBS Food",
+      "jaar": 2024,
+      "url": "https://www.sbs.com.au/food/recipe/mumu/mwpjcl7rj"
+    }
   ]
 }

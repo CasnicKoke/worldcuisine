@@ -94,5 +94,35 @@
       "jaar": null,
       "url": "https://bittmanproject.com/recipe/von-diazs-keshi-yena-stuffed-cheese/"
     }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "Keshi Yená Is Your New Favorite Way To Eat Cheese For Dinner",
+      "auteur": null,
+      "kookboek": "Curaçao Tourist Board",
+      "jaar": null,
+      "url": "https://www.curacao.com/nl/article/keshi-yena-is-your-new-favorite-way-to-eat-cheese-for-dinner"
+    },
+    {
+      "receptTitel": "10 Unexpected Foods To Eat On The Caribbean Island Of Curaçao",
+      "auteur": null,
+      "kookboek": "Curaçao Tourist Board",
+      "jaar": null,
+      "url": "https://www.curacao.com/nl/article/10-unexpected-foods-to-eat-on-the-caribbean-island-of-curacao"
+    },
+    {
+      "receptTitel": "New Netherland Council Curaçao Records (1630–1664)",
+      "auteur": "New York State Archives",
+      "kookboek": "New York State Archives",
+      "jaar": null,
+      "url": "https://iarchives.nysed.gov/xtf/pdf/A1883.pdf"
+    },
+    {
+      "receptTitel": "Antilliaans eten-woordenboek A–Z",
+      "auteur": "Caribbean Kitchen",
+      "kookboek": "Caribbean Kitchen",
+      "jaar": null,
+      "url": "https://www.caribbeankitchen.nl/woordenboek"
+    }
   ]
 }

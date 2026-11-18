@@ -3,8 +3,9 @@
   "regios": [
     "mexicaans"
   ],
-  "titel": "Tacos",
-  "korteBeschrijving": "Zachte maïstortilla’s gevuld met vlees, groenten, salsa en frisse toppings.",
+  "titel": "Tacos al Pastor – Mexico-Stad",
+  "korteBeschrijving": "Mexicaanse maïstortilla’s met geroosterd varkensvlees in een marinade van guajillo, achiote en specerijen, geserveerd met ananas, ui, koriander, limoen en eventueel crème fraîche.",
+  "beschrijving": "Tacos al Pastor zijn een populaire specialiteit uit Mexico-Stad, ontstaan uit de ontmoeting tussen de Mexicaanse en Libanese keuken. Dunne plakken varkensvlees worden gemarineerd in een geurige mengeling van gedroogde guajillopepers, achiote, sinaasappelsap en specerijen. Traditioneel wordt het vlees aan een verticale grill geroosterd en in dunne reepjes afgesneden. In onze ovenvariant laten we het vlees aan de randen licht karamelliseren. We serveren het in warme maïstortilla’s met gegrilde ananas, fijngesneden ui, koriander, limoen en naar wens een beetje crème fraîche. Een heerlijke combinatie van hartig, pittig, zoet en fris.",
   "afbeelding": "images/recepten/TacosAI.webp",
   "url": "recepten.html?id=tacos",
   "volgorde": 119,
@@ -12,14 +13,67 @@
     "mexicaans": 0
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 50,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor het vlees en de marinade:",
+    "800 g varkensschouder zonder bot, bijvoorbeeld procureur",
+    "3 gedroogde guajillopepers (alternatief: 2 tl mild paprikapoeder en een mespunt cayennepeper)",
+    "25 g achiotepasta (alternatief: pasta van 2 tl mild paprikapoeder, ¼ tl kurkuma, ¼ tl gemalen komijn, 2 tl sinaasappelsap en 1 tl zonnebloemolie; sap en olie uit de onderstaande hoeveelheden)",
+    "3 tenen knoflook",
+    "100 ml sinaasappelsap",
+    "40 ml natuurazijn",
+    "1 tl gedroogde oregano",
+    "1 tl gemalen komijn",
+    "1 mespunt kaneel",
+    "1 tl zout",
+    "250 g verse ananas, schoongemaakt",
+    "2 el zonnebloemolie",
+    "Voor de tacos:",
+    "16 kleine maïstortilla’s van ongeveer 12 cm",
+    "1 witte ui",
+    "15 g verse koriander",
+    "2 limoenen",
+    "125 g crème fraîche (optioneel, voor erbij)"
+  ],
+  "bereiding": [
+    "Verwijder de steeltjes en zaadlijsten van de gedroogde guajillopepers. Rooster ze ongeveer 20 seconden per kant in een droge koekenpan, totdat ze beginnen te geuren. Laat ze niet zwart worden. Gebruik je het alternatief van paprikapoeder en cayennepeper, sla deze stap en de volgende stap dan over.",
+    "Leg de geroosterde pepers in een kom, overgiet met kokend water en laat ongeveer 20 minuten weken.",
+    "Snijd de procureur dwars op de draad in dunne plakken van ongeveer 5 mm. Dit gaat gemakkelijker wanneer het vlees vooraf kort in de vriezer heeft gelegen.",
+    "Snijd ongeveer 100 g van de ananas in kleine stukjes en bewaar de rest voor het grillen. Pel de knoflook.",
+    "Gebruik je het alternatief voor achiotepasta, meng dan het daarvoor genoemde paprikapoeder, de kurkuma en komijn met sinaasappelsap en zonnebloemolie uit de ingrediëntenlijst tot een smeuïge pasta. Doe de geweekte guajillopepers (of hun droge specerijenalternatief), ananasstukjes, achiotepasta (of zelfgemaakte pasta), knoflook, het resterende sinaasappelsap, de azijn, oregano, komijn, kaneel en zout in een blender. Maal tot een gladde marinade.",
+    "Meng de marinade met het varkensvlees en laat minimaal 4 uur, maar bij voorkeur een hele nacht, afgedekt in de koelkast marineren.",
+    "Verwarm de oven voor op 220 °C boven- en onderwarmte. Bekleed een grote bakplaat met bakpapier.",
+    "Haal het vlees uit de marinade en laat het meeste vocht afdruipen. Verdeel de plakken over de bakplaat en besprenkel met ongeveer de helft van de overgebleven zonnebloemolie.",
+    "Rooster het vlees ongeveer 15–20 minuten. Keer halverwege om. Schakel eventueel de laatste 2–3 minuten de grillstand in, zodat sommige randjes donkerbruin karamelliseren. Controleer dat het vlees gaar is.",
+    "Snijd ondertussen de resterende ananas in kleine partjes. Verhit de overige zonnebloemolie in een grillpan en bak de ananas 4–5 minuten, totdat deze licht karamelliseert.",
+    "Pel de witte ui en snipper deze zeer fijn. Hak de koriander en snijd de limoenen in parten.",
+    "Snijd het geroosterde varkensvlees in smalle reepjes en meng met de gegrilde ananas.",
+    "Verwarm de maïstortilla’s in een droge koekenpan, ongeveer 30 seconden per kant. Houd warm onder een theedoek.",
+    "Vul de tortilla’s met het vlees en de ananas. Bestrooi met ui en koriander en serveer met limoenpartjes. Geef de crème fraîche desgewenst apart in een schaaltje, zodat iedereen zelf wat kan toevoegen."
+  ],
+  "weetje": "Tacos al Pastor lijken op het eerste gezicht een oeroud Mexicaans gerecht, maar hun geschiedenis is verrassend internationaal. Aan het einde van de negentiende en het begin van de twintigste eeuw vestigden zich grote groepen immigranten uit het toenmalige Ottomaanse Rijk in Mexico, onder wie veel Libanezen. Zij brachten hun traditionele bereidingswijze van vlees aan een verticale, draaiende grill mee: *shawarma*. In de stad Puebla ontstonden hieruit de zogenaamde *tacos árabes*, waarbij gekruid vlees in platbrood werd geserveerd. Deze vormden de directe voorlopers van Tacos al Pastor.\n\nIn de daaropvolgende decennia ontwikkelden Mexicaanse koks de bereidingswijze verder. Lamsvlees maakte plaats voor varkensvlees, terwijl de marinade een uitgesproken Mexicaans karakter kreeg door gedroogde chilipepers, achiote en andere plaatselijke smaakmakers. Ook het brood veranderde: in plaats van een op pitabrood lijkende tortilla werden kleine maïstortilla's gebruikt. De moderne Tacos al Pastor werden vooral vanaf de jaren zestig populair in Mexico-Stad. Het vlees wordt er traditioneel geroosterd aan een *trompo*, een kegelvormige verticale grill die op een tol lijkt.\n\nEen opvallend ingrediënt is de ananas, die boven op de draaiende vleesstapel kan worden geplaatst en samen met het vlees wordt geserveerd. De lichtzoete, frisse smaak vormt een contrast met de kruidige marinade. Daarmee zijn Tacos al Pastor een mooi voorbeeld van hoe migratie nieuwe gerechten kan laten ontstaan. Er bestaat zelfs een rechtstreekse verbinding met de **Shawarma uit de Levant**, die we eerder voor World Cuisine hebben uitgewerkt: twee gerechten met dezelfde historische wortels, maar met een heel eigen regionale identiteit.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
+    "receptTitel": "Tacos al Pastor – Mexico-Stad (geïnspireerd op)",
+    "auteur": "Rick Martinez",
     "kookboek": null,
-    "url": null
-  }
+    "jaar": null,
+    "url": "https://www.bonappetit.com/recipe/tacos-al-pastor-2"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Where Did the Taco Come From?",
+      "auteur": "Katy June Friesen (interview met voedselhistoricus Jeffrey M. Pilcher)",
+      "kookboek": "Smithsonian Magazine",
+      "jaar": 2012,
+      "url": "https://www.smithsonianmag.com/arts-culture/where-did-the-taco-come-from-81228162/"
+    },
+    {
+      "receptTitel": "Seminario analiza la influencia libanesa en las cocinas mexicanas",
+      "auteur": "Secretaría de Cultura",
+      "kookboek": "Gobierno de México",
+      "jaar": 2022,
+      "url": "https://www.gob.mx/cultura/prensa/seminario-analiza-la-influencia-libanesa-en-las-cocinas-mexicanas"
+    }
+  ]
 }

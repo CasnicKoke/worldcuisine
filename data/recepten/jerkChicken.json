@@ -96,5 +96,35 @@
       "jaar": null,
       "url": "https://www.jewishfoodsociety.org/recipes/rice-and-peas"
     }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "A Brief History of Jamaican Jerk",
+      "auteur": null,
+      "kookboek": "Smithsonian Magazine",
+      "jaar": 2020,
+      "url": "https://www.smithsonianmag.com/arts-culture/brief-history-jamaican-jerk-180976597/"
+    },
+    {
+      "receptTitel": "History Notes: Information on Jamaica’s Culture & Heritage",
+      "auteur": "National Library of Jamaica",
+      "kookboek": "National Library of Jamaica",
+      "jaar": null,
+      "url": "https://nlj.gov.jm/history-notes-jamaica/"
+    },
+    {
+      "receptTitel": "Traditional Food Preparation in Jamaica: Tools & Methods",
+      "auteur": "Jamaica Information Service",
+      "kookboek": "Government of Jamaica",
+      "jaar": null,
+      "url": "https://jis.gov.jm/features/traditional-food-preparation-jamaica-tools-methods/"
+    },
+    {
+      "receptTitel": "Food",
+      "auteur": "Jamaica Tourist Board",
+      "kookboek": "Visit Jamaica",
+      "jaar": null,
+      "url": "https://www.visitjamaica.com/best-of-jamaica/food/"
+    }
   ]
 }

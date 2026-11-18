@@ -3,8 +3,9 @@
   "regios": [
     "centraal-amerika"
   ],
-  "titel": "Tamales",
-  "korteBeschrijving": "Maïsdeeg met hartige vulling, gestoomd in een blad, geliefd in heel Centraal-Amerika.",
+  "titel": "Tamales Colorados – Guatemala",
+  "korteBeschrijving": "Traditionele Guatemalteekse maïspakketjes met malse kip en een rode saus van tomaat, chilipepers en geroosterde zaden.",
+  "beschrijving": "Tamales Colorados zijn een specialiteit uit Guatemala, waarbij zacht maïsdeeg wordt gevuld met kip en een aromatische rode saus, *recado* genoemd. Deze saus wordt bereid met tomaten, gedroogde chilipepers, geroosterde pompoenpitten, sesamzaad en specerijen. Olijven, kappertjes en rozijnen zorgen voor een bijzonder hartig-zoet accent. Kenmerkend voor de Guatemalteekse bereiding is dat het maïsdeeg eerst wordt gekookt tot een zachte, romige massa voordat de pakketjes worden gevuld en gestoomd. Traditioneel gebruikt men bananenbladeren, maar in onze praktische variant verpakken we de tamales in bakpapier en aluminiumfolie. We serveren twee warme tamales per persoon.",
   "afbeelding": "images/recepten/TamalesAI.webp",
   "url": "recepten.html?id=tamales",
   "volgorde": 126,
@@ -12,14 +13,121 @@
     "centraal-amerika": 3
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 180,
+  "moeilijkheid": "Uitdagend",
+  "ingredienten": [
+    "Voor de kip:",
+    "600 g kippendijfilet, zonder bot",
+    "1 el zonnebloemolie",
+    "Zout en zwarte peper",
+    "Voor het maïsdeeg:",
+    "350 g masa harina, maïsmeel van genixtamaliseerde maïs",
+    "750 ml zoutarme kippenbouillon",
+    "75 g reuzel (alternatief: 60 ml zonnebloemolie)",
+    "1 tl zout",
+    "Voor de rode recado:",
+    "450 g rijpe tomaten",
+    "1 rode paprika",
+    "1 witte ui",
+    "3 tenen knoflook",
+    "2 gedroogde guajillopepers (alternatief: 2 tl mild paprikapoeder en een mespunt cayennepeper)",
+    "1 gedroogde anchopeper (alternatief: 1 tl gerookt paprikapoeder)",
+    "25 g pompoenpitten, gepeld en ongezouten",
+    "20 g sesamzaad",
+    "1 mespunt kaneel",
+    "1 tl achiotepasta (alternatief: 1 tl mild paprikapoeder, een mespunt kurkuma, 1 tl water en ½ tl zonnebloemolie, gemengd tot een pasta)",
+    "150 ml zoutarme kippenbouillon",
+    "1 el zonnebloemolie",
+    "Zout en zwarte peper",
+    "Voor de vulling en verpakking:",
+    "8 groene olijven zonder pit",
+    "1 el kappertjes",
+    "30 g rozijnen",
+    "½ rode paprika, voor de garnering",
+    "8 grote vellen bakpapier, ongeveer 35 × 35 cm",
+    "8 grote vellen aluminiumfolie",
+    "Eventueel keukentouw"
+  ],
+  "bereiding": [
+    "Verdeel de kippendijfilet in acht ongeveer gelijke stukken. Bestrooi licht met zout en zwarte peper.",
+    "Verhit de zonnebloemolie in een koekenpan op middelhoog vuur. Bak de kip ongeveer 6–8 minuten rondom lichtbruin en gaar. Neem uit de pan en zet apart.",
+    "Verwijder de steeltjes en zaadlijsten van de gedroogde chilipepers. Rooster ze ongeveer 20 seconden per kant in een droge koekenpan en laat ze daarna 20 minuten weken in heet water. Gebruik je de paprikapoederalternatieven, sla deze stap dan over.",
+    "Rooster de pompoenpitten en het sesamzaad afzonderlijk in een droge koekenpan, totdat ze licht kleuren en beginnen te geuren.",
+    "Snijd de tomaten en paprika in grove stukken. Pel de ui en knoflook en snijd ze grof.",
+    "Rooster de groenten in een hete koekenpan of onder de ovengrill, totdat ze zacht worden en enkele donkerbruine plekken krijgen.",
+    "Doe de geroosterde groenten, geweekte chilipepers of paprikapoederalternatieven, pompoenpitten, sesamzaad, kaneel, achiotepasta en kippenbouillon in een blender. Pureer tot een gladde saus. Gebruik je de vervangende achiotepasta, meng de daarvoor genoemde ingrediënten eerst tot een pasta.",
+    "Verhit de zonnebloemolie in een steelpan. Schenk de saus erbij en laat ongeveer 15 minuten zachtjes koken, totdat de recado iets is ingedikt. Roer regelmatig en breng op smaak met zout en zwarte peper.",
+    "Schep de stukken kip door de saus en laat nog 5 minuten zachtjes meegaren. Zet de pan vervolgens apart.",
+    "Meng de masa harina met de koude of lauwwarme kippenbouillon en het zout in een ruime kom. Roer met een garde totdat een glad, dik vloeibaar mengsel ontstaat.",
+    "Schenk het mengsel in een pan met dikke bodem en verwarm op middelhoog vuur. Roer voortdurend met een houten lepel, zodat het deeg niet aanbrandt.",
+    "Laat ongeveer 10–15 minuten garen, totdat een dikke, gladde maïspap ontstaat die langzaam van de lepel valt. Voeg eventueel wat extra warme bouillon of water toe als het deeg te stevig wordt.",
+    "Voeg de reuzel of zonnebloemolie toe en roer goed door totdat het vet volledig is opgenomen. Het deeg moet zacht, smeuïg en enigszins glanzend zijn.",
+    "Haal de pan van het vuur en laat ongeveer 10 minuten afkoelen. Het deeg mag nog warm zijn, maar moet stevig genoeg zijn om in porties te scheppen.",
+    "Snijd de halve rode paprika in acht smalle reepjes. Laat de olijven en kappertjes uitlekken.",
+    "Leg een vel bakpapier op het werkblad. Schep een achtste van het maïsdeeg in het midden en spreid het uit tot een ovaal van ongeveer 12 cm lang.",
+    "Maak in het midden een ondiepe holte. Leg er een stuk kip op en schep er een royale hoeveelheid rode recado overheen.",
+    "Voeg een olijf, enkele kappertjes, wat rozijnen en een reepje rode paprika toe.",
+    "Vouw het bakpapier over de vulling en sla de zijkanten naar binnen, zodat een rechthoekig pakketje ontstaat. Laat voldoende ruimte voor de zachte maïsmassa.",
+    "Wikkel het pakketje vervolgens in aluminiumfolie, zodat het tijdens het stomen gesloten blijft. Zorg dat de saus alleen het bakpapier raakt en niet rechtstreeks de aluminiumfolie.",
+    "Herhaal dit totdat acht tamales zijn gevormd.",
+    "Breng water aan de kook in een ruime stoompan. Plaats de tamales in het stoomgedeelte, boven het water, en laat voldoende ruimte voor de circulatie van stoom.",
+    "Sluit de pan en stoom de tamales ongeveer 60–75 minuten boven zacht kokend water. Controleer regelmatig of er voldoende water aanwezig is en vul zo nodig aan met kokend water.",
+    "Controleer een tamal door het pakketje voorzichtig te openen. Het maïsdeeg moet stevig maar zacht zijn en de kip door en door heet. Laat indien nodig nog 10–15 minuten langer stomen.",
+    "Haal de tamales uit de pan en laat ze ongeveer 10 minuten rusten. Hierdoor wordt de maïsmassa iets steviger.",
+    "Leg twee tamales op ieder bord. Open de pakketjes voorzichtig, verwijder de aluminiumfolie en vouw het bakpapier open zodat het maïsdeeg, de kip en de rode saus zichtbaar worden. Serveer direct."
+  ],
+  "weetje": "Tamales behoren tot de oudste gerechten van Meso-Amerika en werden al lang vóór de komst van de Spanjaarden gegeten. Maïs vormde het belangrijkste basisvoedsel van de Maya's, die in het huidige Guatemala een hoogontwikkelde beschaving opbouwden. Ze behandelden maïskorrels met kalkwater, maalden ze tot deeg en gebruikten bladeren om er kleine voedselpakketjes van te maken. Tamales komen zelfs voor in oude Maya-afbeeldingen en inscripties. Het woord *tamal* is afkomstig van het Nahuatl *tamalli*, maar vergelijkbare gerechten bestonden bij verschillende Meso-Amerikaanse bevolkingsgroepen. De precieze oorsprong is daarom niet aan één volk of gebied toe te schrijven.\n\nDe komst van de Spanjaarden in de zestiende eeuw veranderde de bereiding ingrijpend. De oorspronkelijke tamales werden onder andere gevuld met bonen, groenten, vis of kalkoen. De kolonisatie bracht nieuwe ingrediënten met zich mee, zoals varkensvlees, reuzel, olijven, kappertjes en rozijnen. Deze werden geleidelijk gecombineerd met inheemse ingrediënten als maïs, tomaten, chilipepers en pompoenpitten. Zo ontstond de karakteristieke Guatemalteekse *recado*: een rijke saus waarin verschillende culinaire tradities samenkomen. De rode kleur van Tamales Colorados is vooral afkomstig van tomaten en chilipepers, soms versterkt met achiote.\n\nGuatemala kent tegenwoordig talrijke soorten tamales. De bekende *Tamales Colorados* hebben een hartige rode saus, terwijl *Tamales Negros* juist een zoetere, donkere saus bevatten, vaak met chocolade en gedroogd fruit. Daarnaast bestaan kleinere *chuchitos*, die meestal in maïsbladeren worden gestoomd. Een belangrijk verschil met veel Mexicaanse tamales is de structuur van het deeg: in Guatemala wordt de maïsmassa vaak eerst op het fornuis gekookt. Daardoor ontstaat na het stomen een bijzonder zachte, bijna romige tamal. De grote, in bananenblad verpakte pakketjes worden traditioneel bij feestelijke gelegenheden bereid.\n\nVooral met Kerstmis spelen tamales een belangrijke rol in Guatemala. Op kerstavond, *Nochebuena*, komen families samen om tamales te eten, vaak met een warme fruitpunch, *ponche de frutas*. Het bereiden van grote hoeveelheden tamales is een gezamenlijke activiteit waarbij recepten en technieken van generatie op generatie worden doorgegeven. Ook op gewone zaterdagen zijn Tamales populair. In sommige buurten kondigt een rood licht bij een woning aan dat er versbereide tamales worden verkocht. Zo is een eeuwenoud maïsgerecht uitgegroeid tot een belangrijk symbool van de Guatemalteekse eetcultuur.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Tamal colorado (geïnspireerd op)",
+    "auteur": "Ministerio de Cultura y Deportes de Guatemala",
+    "kookboek": "CulturaGuate",
+    "jaar": 2023,
+    "url": "https://culturaguate.gob.gt/2023/06/15/tamal-colorado/"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Receta para hacer tamales colorados guatemaltecos",
+      "auteur": "Ivon Kwei",
+      "kookboek": "Aprende Guatemala",
+      "jaar": 2024,
+      "url": "https://www.guatemala.com/aprende/cultura-guatemalteca/cocina/receta-tamales-colorados-guatemaltecos"
+    },
+    {
+      "receptTitel": "Guatemalan Tamales with Ancho Chile Sauce",
+      "auteur": "Saveur",
+      "kookboek": "Saveur",
+      "jaar": null,
+      "url": "https://www.saveur.com/article/Recipes/Guatemalan-Tamales-with-Ancho-Chile-Sauce/"
+    }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "Pan de Indias: tamales y tortillas",
+      "auteur": "Universidad Nacional Autónoma de México",
+      "kookboek": "Noticonquista",
+      "jaar": null,
+      "url": "https://www.noticonquista.unam.mx/amoxtli/444/444"
+    },
+    {
+      "receptTitel": "The Maize Tamale in Classic Maya Diet, Epigraphy, and Art",
+      "auteur": "Karl Taube",
+      "kookboek": "American Antiquity",
+      "jaar": null,
+      "url": "https://www.cambridge.org/core/journals/american-antiquity/article/abs/maize-tamale-in-classic-maya-diet-epigraphy-and-art/B7CC9A842039C60BBE0B62DEDAA86F73"
+    },
+    {
+      "receptTitel": "Las comidas tradicionales para la cena navideña",
+      "auteur": "Agencia Guatemalteca de Noticias",
+      "kookboek": "AGN",
+      "jaar": 2022,
+      "url": "https://agn.gt/las-comidas-tradicionales-para-la-cena-navidena/"
+    },
+    {
+      "receptTitel": "Recetario gastronómico de tamales",
+      "auteur": "Ministerio de Cultura y Deportes de Guatemala",
+      "kookboek": "SICultura",
+      "jaar": 2024,
+      "url": "https://www.sicultura.gob.gt/wp-content/uploads/2024/02/VOL-4-RG-TAMALES-CON-PORTADA-F.pdf"
+    }
+  ]
 }

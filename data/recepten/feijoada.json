@@ -3,8 +3,9 @@
   "regios": [
     "brazilie"
   ],
-  "titel": "Feijoada",
-  "korteBeschrijving": "Rijke Braziliaanse stoofpot van zwarte bonen en verschillende soorten varkens- en rundvlees.",
+  "titel": "Feijoada completa – Brazilië",
+  "korteBeschrijving": "Braziliaanse zwartebonenstoof met varkensvlees en rookworst, geserveerd met witte rijst, farofa, gebakken kool en sinaasappel.",
+  "beschrijving": "Feijoada is een beroemde Braziliaanse zwartebonenstoof, vooral verbonden met Rio de Janeiro. Zwarte bonen garen langzaam met varkensvlees, gerookt spek, worst, laurier en knoflook tot een donker, vol en hartig gerecht. Onze iets lichtere versie gebruikt minder vlees en bonen en wordt compleet geserveerd met witte rijst, krokante farofa van cassavemeel, kort gebakken groene kool en frisse sinaasappelparten.",
   "afbeelding": "images/recepten/FeijoadaAI.webp",
   "url": "recepten.html?id=feijoada",
   "volgorde": 135,
@@ -12,14 +13,75 @@
     "brazilie": 0
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 210,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de stoofpot:",
+    "225 g gedroogde zwarte bonen",
+    "150 g varkensschouder zonder bot, in blokjes van 3 cm",
+    "200 g grove gerookte varkensrookworst, in dikke plakken",
+    "50 g gerookte spekblokjes",
+    "1 grote ui",
+    "3 tenen knoflook",
+    "2 laurierbladeren",
+    "1 el zonnebloemolie",
+    "950 ml water, plus extra indien nodig",
+    "Zout en zwarte peper naar smaak",
+    "Voor de rijst:",
+    "175 g witte rijst",
+    "280 ml water",
+    "Voor de farofa:",
+    "50 g voorgekookt of geroosterd cassavemeel (farinha de mandioca)",
+    "15 g roomboter",
+    "Voor de kool:",
+    "200 g bladkool of cavolo nero",
+    "1 teen knoflook",
+    "1 el zonnebloemolie",
+    "Voor erbij:",
+    "1 grote sinaasappel"
+  ],
+  "bereiding": [
+    "Spoel de zwarte bonen en laat ze 8–12 uur in ruim koud water weken. Giet het weekwater weg en spoel opnieuw.",
+    "Snipper de ui en hak de knoflook fijn. Snijd de varkensschouder in stukken en de worst in dikke plakken.",
+    "Verhit de olie in een grote stoofpan. Bak de spekblokjes 4 minuten en voeg de stukken varkensschouder toe. Bak rondom goudbruin.",
+    "Voeg ui en knoflook toe en fruit 4 minuten. Doe de geweekte bonen, laurierbladeren en het water erbij.",
+    "Breng krachtig aan de kook en laat 10 minuten goed doorkoken. Verlaag het vuur en laat daarna ongeveer 70–100 minuten rustig sudderen, totdat de bonen bijna zacht zijn. Vul zo nodig aan met heet water.",
+    "Voeg de rookworst toe en laat nog ongeveer 15 minuten meestoven. Prak een paar lepels bonen tegen de panwand om de stoofpot te binden. Breng op smaak met peper en eventueel een beetje zout.",
+    "Spoel intussen de rijst. Kook met het water en een snufje zout volgens de verpakking en houd afgedekt warm.",
+    "Smelt voor de farofa de roomboter in een koekenpan. Voeg het cassavemeel toe en rooster op laag tot middelhoog vuur ongeveer 5–7 minuten onder voortdurend omscheppen, totdat het licht goudbruin en rul is.",
+    "Verwijder de harde nerven van de kool en snijd de bladeren in dunne reepjes. Hak de knoflook. Verhit de olie in een koekenpan en bak knoflook en kool 3–4 minuten tot de kool net geslonken is.",
+    "Schil de sinaasappel en snijd in parten. Verwijder de laurierbladeren uit de feijoada.",
+    "Verdeel rijst, kool, farofa en sinaasappel over vier borden en serveer de zwartebonenstoof in kommen of ernaast."
+  ],
+  "weetje": "Feijoada geldt als een van de nationale gerechten van Brazilië, maar over haar oorsprong bestaat een hardnekkig misverstand. Volgens een populair verhaal ontstond het gerecht op de plantages, waar tot slaaf gemaakte Afrikanen de minder gewaardeerde delen van het varken, zoals oren, poten en staart, samen met zwarte bonen kookten. Historisch onderzoek ondersteunt dit verhaal echter niet. Vlees was voor tot slaaf gemaakte mensen doorgaans schaars, terwijl juist deze delen van het varken in de Europese keuken al eeuwen werden gewaardeerd. De Braziliaanse feijoada ontstond waarschijnlijk geleidelijk uit de ontmoeting tussen Europese stooftradities, inheemse Amerikaanse bonen en de kookculturen van een samenleving die sterk door Afrikaanse invloeden was gevormd.\n\nDe bereiding vertoont overeenkomsten met Portugese bonenstoofpotten en met Europese gerechten zoals de Franse *cassoulet*. Het belangrijke verschil is het gebruik van zwarte bonen, afkomstig uit Amerika en vooral populair in de omgeving van Rio de Janeiro. De oudste bekende schriftelijke aanwijzingen voor feijoada als herkenbaar gerecht dateren uit de negentiende eeuw. Al op 2 maart 1827 adverteerde een restaurant in Recife met *feijoada à brasileira*. In Rio de Janeiro werd het gerecht eveneens populair: in 1862 kondigde restaurant Estrela do Rio aan iedere donderdag feijoada te serveren, bereid door een Italiaanse kok. Dat laat zien hoe het gerecht zich ontwikkelde in een stedelijke eetcultuur waarin verschillende bevolkingsgroepen en culinaire tradities samenkwamen.\n\nIn de loop van de negentiende en twintigste eeuw groeide feijoada uit tot een symbool van de Braziliaanse nationale identiteit. Vooral de uitgebreide *feijoada completa* werd beroemd: zwarte bonen met verschillende soorten varkensvlees en worst, geserveerd met witte rijst, *farofa* van geroosterd cassavemeel, fijngesneden groene kool en sinaasappel. Ook deze combinatie weerspiegelt de geschiedenis van het land. Cassave was al vóór de Europese kolonisatie een belangrijk inheems voedselgewas, terwijl de bereiding met varkensvlees en worst sterk aan Europese tradities doet denken. De sinaasappel geeft een fris contrast met het rijke en zoute vlees.\n\nTegenwoordig is feijoada vooral een gerecht om samen te eten. In Rio de Janeiro wordt het traditioneel vaak op zaterdag geserveerd, terwijl sommige restaurants op woensdag een vaste feijoadadag hebben. Een uitgebreide maaltijd kan uren duren, met familie of vrienden rond de tafel. Opvallend is dat feijoada, ooit een alledaagse bonenstoofpot, zowel in eenvoudige eethuizen als in chique restaurants wordt gegeten. Het gerecht laat daarmee zien hoe een maaltijd zonder duidelijk aanwijsbare uitvinder kan uitgroeien tot een nationaal culinair symbool.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Authentic Feijoada Recipe (geïnspireerd op)",
+    "auteur": "Avenida Brasil",
+    "kookboek": "Avenida Brasil",
+    "jaar": null,
+    "url": "https://avenidabrasil.nl/recipes/authentic-feijoada-recipe.html"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "O Rio de Janeiro à mesa",
+      "auteur": null,
+      "kookboek": "Revista de História",
+      "jaar": null,
+      "url": "https://www.scielo.br/j/rh/a/pFnB7hLPMNj9f3rJBvXBjrv/"
+    },
+    {
+      "receptTitel": "Tipicamente nacional? A feijoada no Rio de Janeiro oitocentista",
+      "auteur": null,
+      "kookboek": "História & Perspectivas",
+      "jaar": 2018,
+      "url": "https://seer.ufu.br/index.php/historiaperspectivas/article/view/46643"
+    },
+    {
+      "receptTitel": "Prato nacional em caldo de 'fake news'",
+      "auteur": null,
+      "kookboek": "Fecomercio",
+      "jaar": null,
+      "url": "https://fecomercio.com.br/institucional/prato-nacional-em-caldo-de-fake-news/"
+    }
+  ]
 }

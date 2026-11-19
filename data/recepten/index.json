@@ -1332,8 +1332,8 @@
       "bestand": "data/recepten/silpancho.json"
     },
     "feijoada": {
-      "titel": "Feijoada",
-      "korteBeschrijving": "Rijke Braziliaanse stoofpot van zwarte bonen en verschillende soorten varkens- en rundvlees.",
+      "titel": "Feijoada completa – Brazilië",
+      "korteBeschrijving": "Braziliaanse zwartebonenstoof met varkensvlees en rookworst, geserveerd met witte rijst, farofa, gebakken kool en sinaasappel.",
       "afbeelding": "images/recepten/FeijoadaAI.webp",
       "url": "recepten.html?id=feijoada",
       "regios": [
@@ -1342,8 +1342,8 @@
       "bestand": "data/recepten/feijoada.json"
     },
     "moqueca": {
-      "titel": "Moqueca",
-      "korteBeschrijving": "Braziliaanse visstoof met kokosmelk, tomaat, paprika, koriander en palmolie.",
+      "titel": "Moqueca Baiana – Brazilië",
+      "korteBeschrijving": "Bahiaanse visstoof met witvis, garnalen, paprika, tomaat en koriander in kokosmelk en een beetje rode dendê-olie, met witte rijst.",
       "afbeelding": "images/recepten/MoquecaAI.webp",
       "url": "recepten.html?id=moqueca",
       "regios": [
@@ -1351,19 +1351,19 @@
       ],
       "bestand": "data/recepten/moqueca.json"
     },
-    "paoDeQueijo": {
-      "titel": "Pão de Queijo",
-      "korteBeschrijving": "Kleine Braziliaanse kaasbroodjes van cassavezetmeel, krokant van buiten en zacht van binnen.",
-      "afbeelding": "images/recepten/PaoDeQueijoAI.webp",
-      "url": "recepten.html?id=paoDeQueijo",
+    "galinhada": {
+      "titel": "Galinhada Goiana – Brazilië",
+      "korteBeschrijving": "Braziliaans eenpansgerecht uit Goiás met sappige kip, goudgele rijst, paprika, tomaat, maïs en kurkuma, afgewerkt met lente-ui en limoen.",
+      "afbeelding": "images/recepten/GalinhadaAI.webp",
+      "url": "recepten.html?id=galinhada",
       "regios": [
         "brazilie"
       ],
-      "bestand": "data/recepten/paoDeQueijo.json"
+      "bestand": "data/recepten/galinhada.json"
     },
     "acaraje": {
-      "titel": "Acarajé",
-      "korteBeschrijving": "Bahiaans gerecht van gefrituurde bonenballetjes, gevuld met pittige garnalen en smaakvolle sauzen.",
+      "titel": "Acarajé com Vatapá – Bahia, Brazilië",
+      "korteBeschrijving": "Krokante bonenbeignets uit Bahia, gevuld met romige vatapá, gebakken garnalen en een frisse tomaten-uiensalade.",
       "afbeelding": "images/recepten/AcarajeAI.webp",
       "url": "recepten.html?id=acaraje",
       "regios": [
@@ -1371,45 +1371,45 @@
       ],
       "bestand": "data/recepten/acaraje.json"
     },
-    "pepperpot": {
-      "titel": "Pepperpot",
-      "korteBeschrijving": "Guyanees vleesgerecht, langzaam gestoofd met cassareep, specerijen en warme aromatische smaken.",
-      "afbeelding": "images/recepten/PepperpotAI.webp",
-      "url": "recepten.html?id=pepperpot",
+    "cookUpRice": {
+      "titel": "Guyanese Cook-up Rice – Guyana",
+      "korteBeschrijving": "Guyanese eenpansgerecht van kip, rijst en black-eyed beans, langzaam gegaard in kokosmelk met tijm, basilicum en groenten.",
+      "afbeelding": "images/recepten/CookUpRiceAI.webp",
+      "url": "recepten.html?id=cookUpRice",
       "regios": [
         "amazone-guyanas"
       ],
-      "bestand": "data/recepten/pepperpot.json"
+      "bestand": "data/recepten/cookUpRice.json"
     },
-    "cassavaBread": {
-      "titel": "Cassava Bread",
-      "korteBeschrijving": "Dun traditioneel brood van geraspte cassave, knapperig gebakken en veel gegeten in de Guyana’s.",
-      "afbeelding": "images/recepten/CassavaBreadAI.webp",
-      "url": "recepten.html?id=cassavaBread",
+    "rotiKipMasala": {
+      "titel": "Surinaamse Roti Kip Masala – Suriname",
+      "korteBeschrijving": "Surinaamse dhalpuri-roti gevuld met gekruide gele spliterwten, geserveerd met malse kip masala, aardappelen, gekookte sperziebonen en ei.",
+      "afbeelding": "images/recepten/RotiKipMasalaAI.webp",
+      "url": "recepten.html?id=rotiKipMasala",
       "regios": [
         "amazone-guyanas"
       ],
-      "bestand": "data/recepten/cassavaBread.json"
+      "bestand": "data/recepten/rotiKipMasala.json"
     },
-    "metemgee": {
-      "titel": "Metemgee",
-      "korteBeschrijving": "Guyanees stoofgerecht met knolgewassen, bakbanaan en dumplings in een rijke kokossaus.",
-      "afbeelding": "images/recepten/MetemgeeAI.webp",
-      "url": "recepten.html?id=metemgee",
+    "blaffDePoisson": {
+      "titel": "Blaff de Poisson – Frans-Guyana",
+      "korteBeschrijving": "Frans-Guyanese visstoof in een heldere, geurige bouillon van limoen, knoflook, tijm en chilipeper, geserveerd met gekookte zoete aardappel en wortel.",
+      "afbeelding": "images/recepten/BlaffDePoissonAI.webp",
+      "url": "recepten.html?id=blaffDePoisson",
       "regios": [
         "amazone-guyanas"
       ],
-      "bestand": "data/recepten/metemgee.json"
+      "bestand": "data/recepten/blaffDePoisson.json"
     },
-    "caldeirada": {
-      "titel": "Caldeirada",
-      "korteBeschrijving": "Rijke visstoof uit het Amazonegebied met verse vis, groenten, kruiden en een geurige bouillon.",
-      "afbeelding": "images/recepten/CaldeiradaAI.webp",
-      "url": "recepten.html?id=caldeirada",
+    "pabellonCriollo": {
+      "titel": "Pabellón Criollo – Venezuela",
+      "korteBeschrijving": "Venezolaans nationaal gerecht met langzaam gegaard draadjesrundvlees in tomaten-paprikasaus, kruidige zwarte bonen, witte rijst en zoete gebakken bakbanaan.",
+      "afbeelding": "images/recepten/PabellonCriolloAI.webp",
+      "url": "recepten.html?id=pabellonCriollo",
       "regios": [
         "amazone-guyanas"
       ],
-      "bestand": "data/recepten/caldeirada.json"
+      "bestand": "data/recepten/pabellonCriollo.json"
     },
     "asado": {
       "titel": "Asado Argentino – Argentinië",
@@ -1920,6 +1920,46 @@
         "chili-patagonie"
       ],
       "bestand": "data/recepten/porotosGranados.json"
+    },
+    "caldeiradaDeTambaqui": {
+      "titel": "Caldeirada de Tambaqui – Braziliaans Amazonegebied",
+      "korteBeschrijving": "Traditionele Amazonevisstoof met stevige vis, tomaat, paprika, aardappel en verse kruiden, geserveerd met gekookt ei en pirão van cassavemeel.",
+      "afbeelding": "images/recepten/CaldeiradaDeTambaquiAI.webp",
+      "url": "recepten.html?id=caldeiradaDeTambaqui",
+      "regios": [
+        "amazonegebied"
+      ],
+      "bestand": "data/recepten/caldeiradaDeTambaqui.json"
+    },
+    "juaneDeGallina": {
+      "titel": "Juane de Gallina – Peruaanse Amazone",
+      "korteBeschrijving": "Traditionele Peruaanse rijstpakketjes met gekruide kip, hardgekookt ei en zwarte olijven, zachtjes gestoomd en geserveerd met frisse komkommer en limoen.",
+      "afbeelding": "images/recepten/JuaneDeGallinaAI.webp",
+      "url": "recepten.html?id=juaneDeGallina",
+      "regios": [
+        "amazonegebied"
+      ],
+      "bestand": "data/recepten/juaneDeGallina.json"
+    },
+    "inchicapiDeGallina": {
+      "titel": "Inchicapi de Gallina – Peruaanse Amazone",
+      "korteBeschrijving": "Romige Peruaanse Amazonesoep met malse kip, gemalen pinda’s, cassave, maïsmeel en verse koriander.",
+      "afbeelding": "images/recepten/InchicapiDeGallinaAI.webp",
+      "url": "recepten.html?id=inchicapiDeGallina",
+      "regios": [
+        "amazonegebied"
+      ],
+      "bestand": "data/recepten/inchicapiDeGallina.json"
+    },
+    "tacachoConCecina": {
+      "titel": "Tacacho con Cecina – Peruaanse Amazone",
+      "korteBeschrijving": "Traditionele Amazone-maaltijd van gestampte groene bakbanaan met krokant spek, geserveerd met gebakken gerookt varkensvlees en een frisse, pittige salade van rode ui en limoen.",
+      "afbeelding": "images/recepten/TacachoConCecinaAI.webp",
+      "url": "recepten.html?id=tacachoConCecina",
+      "regios": [
+        "amazonegebied"
+      ],
+      "bestand": "data/recepten/tacachoConCecina.json"
     }
   }
 }

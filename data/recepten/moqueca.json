@@ -3,8 +3,9 @@
   "regios": [
     "brazilie"
   ],
-  "titel": "Moqueca",
-  "korteBeschrijving": "Braziliaanse visstoof met kokosmelk, tomaat, paprika, koriander en palmolie.",
+  "titel": "Moqueca Baiana – Brazilië",
+  "korteBeschrijving": "Bahiaanse visstoof met witvis, garnalen, paprika, tomaat en koriander in kokosmelk en een beetje rode dendê-olie, met witte rijst.",
+  "beschrijving": "Moqueca Baiana is een geurige visstoof uit Bahia, waarin witte vis en garnalen zachtjes worden gegaard tussen lagen paprika, ui en tomaat. Kokosmelk geeft een romige saus; een kleine hoeveelheid karakteristieke rode dendê-olie zorgt voor kleur en diepte. De vis wordt niet kapot geroerd. Met witte rijst vormt het een volledige maaltijd.",
   "afbeelding": "images/recepten/MoquecaAI.webp",
   "url": "recepten.html?id=moqueca",
   "volgorde": 136,
@@ -12,14 +13,74 @@
     "brazilie": 1
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 55,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de moqueca:",
+    "650 g stevige witvisfilet, bijvoorbeeld zeebaars of kabeljauw",
+    "250 g gepelde rauwe garnalen",
+    "1 limoen",
+    "1 grote ui",
+    "1 rode paprika",
+    "1 gele paprika",
+    "3 rijpe tomaten",
+    "3 tenen knoflook",
+    "400 ml kokosmelk",
+    "1 el eetbare rode dendê-olie (rode palmolie, toko)",
+    "1 el zonnebloemolie",
+    "15 g verse koriander",
+    "Zout en zwarte peper naar smaak",
+    "Voor erbij:",
+    "250 g witte rijst",
+    "400 ml water"
+  ],
+  "bereiding": [
+    "Snijd de witvis in stukken van circa 4 cm en dep droog. Meng voorzichtig met wat zout en het sap van de limoen. Laat 15 minuten gekoeld staan.",
+    "Pel de ui en snijd in dunne halve ringen. Verwijder zaadlijsten van de paprika’s en snijd in repen. Snijd de tomaten in plakken en hak de knoflook fijn.",
+    "Spoel de rijst en kook met het water en wat zout volgens de verpakking. Houd warm.",
+    "Verwarm de zonnebloemolie in een brede hapjespan. Fruit de ui en paprika 5 minuten en voeg de knoflook toe. Bak nog 1 minuut.",
+    "Leg de tomaten en stukken witvis in de pan. Schenk de kokosmelk langs de rand en breng zachtjes tegen de kook.",
+    "Laat met het deksel op de pan ongeveer 10–12 minuten op laag vuur garen. Schud de pan voorzichtig in plaats van te roeren, zodat de visstukken heel blijven.",
+    "Voeg de garnalen toe en laat nog 3–5 minuten zacht garen, totdat ze volledig roze en ondoorzichtig zijn.",
+    "Roer de eetbare dendê-olie door een beetje warme saus en verdeel dit voorzichtig over de pan. Bestrooi met fijngehakte koriander en breng op smaak met peper en eventueel zout.",
+    "Serveer de moqueca direct met warme witte rijst."
+  ],
+  "weetje": "Moqueca Baiana is een prachtig voorbeeld van de vermenging van inheemse, Afrikaanse en Europese voedseltradities die de Braziliaanse keuken hebben gevormd. De oorsprong van het gerecht ligt waarschijnlijk bij de inheemse bewoners van de Braziliaanse kust, die al lang vóór de komst van de Portugezen vis bereidden boven vuur. Zij gebruikten onder andere een *moquém*: een houten rooster waarop vis en vlees langzaam boven de hitte werden geroosterd of gedroogd. De naam *moqueca* wordt doorgaans met deze bereidingswijze in verband gebracht. Al in de zestiende eeuw beschreven Europese bezoekers vergelijkbare technieken. De huidige moqueca, waarbij vis zachtjes in een geurige saus wordt gestoofd, ontwikkelde zich echter pas geleidelijk. Het is daarom niet mogelijk één volk of één historische periode als de uitvinder aan te wijzen.\n\nDe meest bepalende verandering vond plaats in **Bahia**, waar tijdens de koloniale periode grote aantallen tot slaaf gemaakte Afrikanen naartoe werden gebracht. Zij brachten culinaire kennis, bereidingstechnieken en vertrouwde smaken mee, waaronder het gebruik van palmolie. De oliepalm (*Elaeis guineensis*) is afkomstig uit West-Afrika en werd ook in Brazilië aangeplant. De karakteristieke roodoranje olie, *azeite de dendê*, groeide uit tot een belangrijk ingrediënt van de Afro-Braziliaanse keuken. De olie speelt bovendien een rol in de religieuze voedseltradities van het *candomblé*, waarin gerechten en ingrediënten verbonden zijn met de verering van de *orixás*, godheden met wortels in West-Afrikaanse religies. Ook de kokosmelk kreeg een belangrijke plaats in de Bahiaanse keuken. Opmerkelijk genoeg is de kokospalm zelf niet afkomstig uit Brazilië of West-Afrika: de Portugezen introduceerden hem in **1553** in Bahia, via Kaapverdië, vanuit een veel oudere Aziatische teelttraditie. De combinatie van kokosmelk en dendê laat daarmee zien hoe ingrediënten van verschillende continenten samen een nieuwe regionale keuken vormden.\n\nBrazilië kent twee beroemde moquecavarianten die nog altijd onderwerp zijn van regionale trots. In Bahia gebruikt men doorgaans kokosmelk, dendê-olie, paprika, tomaat, ui en koriander. De saus is romig, geurig en opvallend goudoranje. In de zuidelijker gelegen staat **Espírito Santo** bereidt men daarentegen *moqueca capixaba*, zonder kokosmelk en dendê. Hier krijgt het gerecht zijn karakteristieke kleur van *urucum* (annatto), een rode kleurstof uit de zaden van een plant die oorspronkelijk uit tropisch Amerika komt. Beide varianten worden traditioneel bereid in aardewerken pannen. Vooral de zwarte kleipannen van de *paneleiras de Goiabeiras*, vrouwelijke pottenbakkers uit Vitória, zijn beroemd. Hun ambacht werd in **2002** door het Braziliaanse erfgoedinstituut IPHAN erkend als immaterieel cultureel erfgoed. Die erkenning geldt voor het vervaardigen van de pannen, niet voor de moqueca zelf.\n\nOok de manier van serveren maakt moqueca bijzonder. De stoofpot wordt vaak nog zachtjes borrelend in de aardewerken pan op tafel gezet en gezamenlijk gegeten met witte rijst, *farofa* of *pirão*. Dat laatste is een dikke pap van cassavemeel en visbouillon, die de geurige saus uitstekend opneemt. Cassave is, net als de oorspronkelijke visbereidingen, een belangrijke erfenis van de inheemse voedselculturen. De combinatie van vis uit de Atlantische Oceaan, West-Afrikaanse palmolie, Aziatische kokos en inheems cassavemeel maakt Moqueca Baiana tot een bijzonder treffende weerspiegeling van de Braziliaanse geschiedenis. Wat ooit uit verschillende lokale en overzeese tradities ontstond, is tegenwoordig een van de bekendste symbolen van de keuken van Bahia.",
   "bron": {
-    "receptTitel": null,
+    "receptTitel": "Fish soup (moqueca baiana) recipe (geïnspireerd op)",
     "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "kookboek": "SBS Food",
+    "jaar": 2015,
+    "url": "https://www.sbs.com.au/food/recipe/fish-soup-moqueca-baiana/5159e7jy6"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "O Aparecimento das Moquecas Capixaba e Baiana",
+      "auteur": null,
+      "kookboek": "ANPUH – Simpósio Nacional de História",
+      "jaar": 2025,
+      "url": "https://www.snh2025.anpuh.org/trabalho/view?q=eyJwYXJhbXMiOiJ7XCJJRF9UUkFCQUxIT1wiOlwiNTYxMlwifSIsImgiOiI2OTlmYmI3MDFiZWRhOTY3NWVjYjA1NTY0Y2RhZjZjYSJ9"
+    },
+    {
+      "receptTitel": "Bahia's Dendê and the Forgotten Knowledge",
+      "auteur": null,
+      "kookboek": "Heritage (MDPI)",
+      "jaar": 2026,
+      "url": "https://www.mdpi.com/2571-9408/9/1/6"
+    },
+    {
+      "receptTitel": "Introduction of the Coconut to Brazil",
+      "auteur": null,
+      "kookboek": "EMBRAPA",
+      "jaar": null,
+      "url": "https://www.alice.cnptia.embrapa.br/alice/bitstream/doc/1045358/1/NewPerspectivesFinal.pdf"
+    },
+    {
+      "receptTitel": "Ofício das Paneleiras de Goiabeiras completa vinte anos de registro como Patrimônio Cultural",
+      "auteur": "IPHAN",
+      "kookboek": "Instituto do Patrimônio Histórico e Artístico Nacional",
+      "jaar": 2022,
+      "url": "https://www.gov.br/iphan/pt-br/assuntos/noticias/oficio-das-paneleiras-de-goiabeiras-completa-vinte-anos-de-registro-como-patrimonio-cultural"
+    }
+  ]
 }

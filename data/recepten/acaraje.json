@@ -3,8 +3,9 @@
   "regios": [
     "brazilie"
   ],
-  "titel": "Acarajé",
-  "korteBeschrijving": "Bahiaans gerecht van gefrituurde bonenballetjes, gevuld met pittige garnalen en smaakvolle sauzen.",
+  "titel": "Acarajé com Vatapá – Bahia, Brazilië",
+  "korteBeschrijving": "Krokante bonenbeignets uit Bahia, gevuld met romige vatapá, gebakken garnalen en een frisse tomaten-uiensalade.",
+  "beschrijving": "Acarajé is een van de bekendste gerechten van Bahia en een klassieker van de Afro-Braziliaanse straatkeuken. De basis bestaat uit een luchtige pasta van ontvelde black-eyed beans en ui, die in hete olie wordt gefrituurd tot krokante beignets. Traditioneel worden deze opengesneden en gevuld met *vatapá*, een romige pasta van brood, kokosmelk, pinda’s en cashewnoten, plus garnalen en een frisse salade. In Bahia wordt vaak ook *caruru* toegevoegd, maar voor onze World Cuisine-versie houden we het bij vatapá, verse garnalen en salade, zodat het gerecht goed uitvoerbaar blijft en een volwaardige avondmaaltijd vormt. Twee rijk gevulde acarajés per persoon zijn daarbij precies goed.",
   "afbeelding": "images/recepten/AcarajeAI.webp",
   "url": "recepten.html?id=acaraje",
   "volgorde": 138,
@@ -12,14 +13,92 @@
     "brazilie": 3
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 120,
+  "moeilijkheid": "Gemiddeld tot moeilijk",
+  "ingredienten": [
+    "Voor de acarajé (8 stuks, 2 per persoon):",
+    "300 g gedroogde black-eyed beans (zwarteoogbonen)",
+    "1 middelgrote ui",
+    "1 tl zout",
+    "750 ml zonnebloemolie",
+    "3 el dendê-olie (rode palmolie, toko)",
+    "Voor de vatapá:",
+    "3 sneetjes witbrood, zonder korst",
+    "250 ml kokosmelk",
+    "40 g ongezouten cashewnoten",
+    "30 g ongezouten pinda’s",
+    "1 kleine ui",
+    "2 tenen knoflook",
+    "1 rijpe tomaat",
+    "1 el dendê-olie",
+    "1 el limoensap",
+    "100 ml water",
+    "Zout en zwarte peper, naar smaak",
+    "Voor de garnalen:",
+    "250 g gepelde rauwe garnalen",
+    "1 teen knoflook",
+    "1 el limoensap",
+    "1 el zonnebloemolie",
+    "Zout en zwarte peper, naar smaak",
+    "Voor de Bahiaanse salade:",
+    "2 rijpe tomaten",
+    "1 kleine witte ui",
+    "½ groene paprika",
+    "2 el fijngehakte koriander",
+    "1 el wittewijnazijn of limoensap",
+    "1 el olijfolie",
+    "Zout, naar smaak"
+  ],
+  "bereiding": [
+    "Spoel de black-eyed beans en laat ze 8–12 uur weken in ruim koud water.",
+    "Giet de bonen af en wrijf ze tussen je handen, zodat zoveel mogelijk velletjes loslaten. Spoel de bonen enkele keren met koud water, zodat de velletjes bovendrijven en kunnen worden afgegoten. Herhaal tot het grootste deel van de schillen verdwenen is.",
+    "Laat de ontvelde bonen goed uitlekken. Pel de ui voor de acarajé en snijd grof.",
+    "Doe de bonen en ui in een keukenmachine en maal in porties tot een dikke, vrij gladde pasta. Voeg alleen zo nodig een heel klein scheutje water toe om het mengsel te laten draaien. De massa moet stevig blijven.",
+    "Schep de bonenpasta in een kom, voeg het zout toe en klop het mengsel met een houten lepel of stevige spatel 4–5 minuten luchtig. Zet afgedekt apart.",
+    "Maak de vatapá. Snijd of scheur het witbrood in stukken en laat het 10 minuten weken in de kokosmelk.",
+    "Pel de ui en knoflook voor de vatapá en snijd grof. Snijd de tomaat in stukken.",
+    "Doe het geweekte brood met kokosmelk, cashewnoten, pinda’s, ui, knoflook, tomaat, het limoensap en het water in een blender of hoge mengbeker. Pureer tot een glad, dik mengsel.",
+    "Verwarm de dendê-olie voor de vatapá in een steelpan of kleine hapjespan. Schenk het gepureerde mengsel erbij en laat op laag vuur 8–12 minuten zachtjes indikken, terwijl je regelmatig roert. De vatapá moet romig en stevig genoeg zijn om in de beignets te scheppen. Breng op smaak met zout en zwarte peper.",
+    "Maak de salade. Snijd de tomaten in kleine blokjes. Pel de witte ui en snijd zeer fijn. Snijd de groene paprika in kleine blokjes. Meng met koriander, azijn of limoensap, olijfolie en zout. Zet apart.",
+    "Dep de garnalen droog. Pel en hak de knoflook fijn. Meng de garnalen met het limoensap, de knoflook, wat zout en zwarte peper.",
+    "Verhit de zonnebloemolie voor de garnalen in een koekenpan en bak de garnalen 2–3 minuten, totdat ze net gaar en roze zijn. Zet apart.",
+    "Verhit voor het frituren de zonnebloemolie en dendê-olie in een middelgrote pan tot ongeveer 175 °C. Vul de pan nooit verder dan een derde met olie en gebruik bij voorkeur een keukenthermometer.",
+    "Vorm met twee eetlepels of met vochtige handen 8 ovale quenelles of kleine ovale ballen van het bonenmengsel. Frituur steeds 2–3 acarajés tegelijk ongeveer 4–5 minuten, keer halverwege, tot ze diep goudbruin en vanbinnen gaar zijn. Laat uitlekken op keukenpapier.",
+    "Snijd of breek de acarajés voorzichtig aan één kant open, zonder ze helemaal door te snijden.",
+    "Vul iedere acarajé met een lepel vatapá, wat garnalen en een beetje salade.",
+    "Serveer direct, twee per persoon."
+  ],
+  "weetje": "Acarajé behoort tot de meest herkenbare gerechten van **Bahia** en is sterk verbonden met de Afro-Braziliaanse geschiedenis. De oorsprong ligt in West-Afrika, waar al lange tijd gefrituurde bonenkoekjes werden gemaakt van black-eyed beans. In de Yoruba-keuken van het huidige Nigeria en Benin bestaat het verwante gerecht **akará**. Tijdens de trans-Atlantische slavernij werden niet alleen mensen, maar ook culinaire tradities gedwongen verplaatst. Zo kwam ook deze bereiding naar Brazilië, waar zij vooral in Salvador de Bahia een nieuwe vorm kreeg. De naam *acarajé* wordt meestal verklaard uit Yoruba-woorden die verwijzen naar “een bal van vuur” of “vurige bal”, wat goed past bij een heet gefrituurd gerecht.\n\nIn Bahia groeide acarajé uit tot veel meer dan straatvoedsel. Het gerecht kreeg een belangrijke plaats in de Afro-Braziliaanse religieuze tradities, vooral binnen het **candomblé**. Daar wordt acarajé in verband gebracht met de **orixá Iansã** (ook Oyá genoemd), een godheid die geassocieerd wordt met wind, storm en vuur. In rituele contexten worden voedselbereidingen niet alleen gegeten, maar ook aangeboden. De band tussen keuken, religie en gemeenschap is bij acarajé dus uitzonderlijk sterk.\n\nSinds de negentiende eeuw werd het gerecht in Salvador vooral beroemd door de **baianas de acarajé**: vrouwen, vaak gekleed in witte jurken, hoofddoeken en kralensieraden, die het gerecht op straat verkochten. Zij speelden een belangrijke economische en culturele rol. De verkoop van acarajé bood Afro-Braziliaanse vrouwen een manier om inkomen te verdienen en zichtbare dragers van culinaire traditie te worden. Het gerecht werd zo een symbool van de identiteit van Salvador en van de bredere Bahiaanse keuken.\n\nDie culturele waarde werd ook officieel erkend. In **2005** verklaarde het Braziliaanse erfgoedinstituut **IPHAN** het **Ofício das Baianas de Acarajé** – het ambacht en de traditie van de baianas die acarajé bereiden en verkopen – tot immaterieel cultureel erfgoed van Brazilië. Die erkenning geldt dus niet alleen voor het recept, maar voor het hele culturele gebruik eromheen: de bereiding, presentatie, kleding, sociale betekenis en overdracht van kennis. Onze versie met **verse garnalen** in plaats van gedroogde garnalen is een praktische aanpassing voor World Cuisine, maar blijft trouw aan de karakteristieke combinatie van bonenbeignet, vatapá en Bahiaanse vulling.",
   "bron": {
-    "receptTitel": null,
+    "receptTitel": "Acarajé (geïnspireerd op)",
     "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "kookboek": "Instituto Brasil a Gosto",
+    "jaar": null,
+    "url": "https://brasilagosto.org/acaraje/"
+  },
+  "receptBronnen": [
+    {
+      "receptTitel": "Acarajé – recept en frituurtechniek",
+      "auteur": null,
+      "kookboek": "Receitas Globo",
+      "jaar": null,
+      "url": "https://receitas.globo.com/tipos-de-prato/paes-e-salgados/acaraje-531a4d2c4d3885448f000056.ghtml"
+    }
+  ],
+  "extraBronnen": [
+    {
+      "receptTitel": "Ofício das Baianas de Acarajé – immaterieel erfgoed",
+      "auteur": "IPHAN",
+      "kookboek": "Bens Culturais Registrados",
+      "jaar": 2005,
+      "url": "https://bcr.iphan.gov.br/bens-culturais/oficio-das-baianas-de-acaraje/"
+    },
+    {
+      "receptTitel": "Ofício das Baianas de Acarajé – erfgoeddossier",
+      "auteur": "IPHAN",
+      "kookboek": "Biblioteca Digital IPHAN",
+      "jaar": 2007,
+      "url": "https://bibliotecadigital.iphan.gov.br/items/313f670e-2258-4a43-9104-71c52f6c00d7/full"
+    }
+  ]
 }

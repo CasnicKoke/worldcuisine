@@ -212,14 +212,14 @@
   "brazilie": [
     "feijoada",
     "moqueca",
-    "paoDeQueijo",
+    "galinhada",
     "acaraje"
   ],
   "amazone-guyanas": [
-    "pepperpot",
-    "cassavaBread",
-    "metemgee",
-    "caldeirada"
+    "cookUpRice",
+    "rotiKipMasala",
+    "blaffDePoisson",
+    "pabellonCriollo"
   ],
   "pampas": [
     "asado",
@@ -286,5 +286,11 @@
     "curantoEnOlla",
     "corderoPatagonico",
     "porotosGranados"
+  ],
+  "amazonegebied": [
+    "caldeiradaDeTambaqui",
+    "juaneDeGallina",
+    "inchicapiDeGallina",
+    "tacachoConCecina"
   ]
 }

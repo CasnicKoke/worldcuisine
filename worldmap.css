@@ -663,16 +663,17 @@ img {
     z-index: 3;
 }
 
+
 .map-dragon {
     position: absolute;
-    width: clamp(115px, 9vw, 165px);
+    width: clamp(92px, 7.2vw, 132px);
     left: 69%;
     top: 90%;
     transform: translate(-50%, -50%);
-    opacity: .48;
+    opacity: 0.28;
     mix-blend-mode: multiply;
     z-index: 3;
-    filter: sepia(.22) contrast(1.16);
+    filter: sepia(0.15) contrast(1.3);
 }
 
 .map-ship {
@@ -759,9 +760,9 @@ img {
   }
 
   .map-dragon {
-    width: 12%;
+    width: 10%;
     height: auto;
-    opacity: 0.38;
+    opacity: 0.30;
   }
 
   .map-ship {

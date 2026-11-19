@@ -86,7 +86,18 @@ const continenten = {
     andes: ["CO", "EC", "PE", "BO"],
     brazilie: ["BR"],
     "amazone-guyanas": ["GF", "GY", "SR", "VE"],
-    pampas: ["Argentina", "Chile", "UY", "PY", "Falkland Islands"],
+    // Afzonderlijke Amazone-deelgebieden in de nieuwe world.svg (25 paden).
+    amazonegebied: [
+        "BR-PA", "BR-AP", "BR-RR", "BR-AM", "BR-AC", "BR-RO",
+        "PE-LO", "PE-UC", "PE-MD", "PE-SM", "PE-AM",
+        "CO-CQ", "CO-PU", "CO-AM", "CO-GV", "CO-GN", "CO-VP",
+        "EC-SU", "EC-ZC", "EC-MS", "EC-PA", "EC-NA", "EC-NAPO",
+        "BO-EB", "BO-PA"
+    ],
+    // Argentinië buiten de vijf Patagonische provincies, plus Uruguay en Paraguay.
+    pampas: ["Argentina", "UY", "PY"],
+    // Chili, Falklandeilanden en vijf Argentijnse provincies (afzonderlijke SVG-ID's).
+    "chili-patagonie": ["Chile", "AR-NQ", "AR-RN", "AR-CH", "AR-SC", "AR-TF", "Falkland Islands"],
 
     //Oceanie
     australie: ["Australia"],
@@ -152,7 +163,9 @@ const kleuren = {
     andes:              "#B58FD0",
     brazilie:           "#A97CC8",
     "amazone-guyanas":  "#9C69BF",
+    amazonegebied:      "#70499F",
     pampas:             "#8F56B5",
+    "chili-patagonie":  "#B078D2",
     
     //oceanie
     australie:          "#58BFA7",
@@ -216,7 +229,9 @@ const werelddeelPerRegio = {
     andes: "zuid-amerika",
     brazilie: "zuid-amerika",
     "amazone-guyanas": "zuid-amerika",
+    amazonegebied: "zuid-amerika",
     pampas: "zuid-amerika",
+    "chili-patagonie": "zuid-amerika",
 
     // Oceanië
     australie: "oceanie",
@@ -541,9 +556,9 @@ const regioBeschrijving = {
     },
 
     andes: {
-        titel: "Andes",
+        titel: "Andeslanden en Pacifische kust",
         beschrijving:
-            "De Andeskeuken is gevormd door duizenden jaren landbouw in hooggelegen berggebieden. Inheemse tradities spelen nog steeds een belangrijke rol en zorgen voor een uitzonderlijke rijkdom aan granen, knollen en lokale producten.",
+            "De keukens van de Andeslanden verbinden het hooggebergte met de Pacifische kust. Aardappelen, maïs en quinoa uit de hooglanden staan naast visgerechten en frisse smaken van de kust. De Amazonegebieden van deze landen vormen op de kaart een aparte regio.",
         ingredienten:
             "aardappelen, maïs, quinoa, bonen, avocado, chilipepers, tomaten, lama, alpaca, koriander"
     },
@@ -551,25 +566,41 @@ const regioBeschrijving = {
     brazilie: {
         titel: "Brazilië",
         beschrijving:
-            "De Braziliaanse keuken combineert Portugese, Afrikaanse en inheemse invloeden. Door de enorme omvang van het land bestaan grote regionale verschillen, maar tropische ingrediënten en rijke smaken keren overal terug.",
+            "Buiten de Amazone kent Brazilië een grote culinaire verscheidenheid. Portugese, Afrikaanse en inheemse tradities komen samen in de keukens van onder andere Bahia, Minas Gerais en Rio de Janeiro.",
         ingredienten: 
             "cassave, zwarte bonen, rijst, kokos, palmolie, rundvlees, limoen, pinda's, tropisch fruit, zeevruchten"
     },
 
     "amazone-guyanas": {
-        titel: "Guyana's en het Amazonegebied",
+        titel: "Guyana's en Caribisch Noord-Zuid-Amerika",
         beschrijving:
-            "Deze regio vormt een overgangsgebied tussen het Caribisch gebied, het Amazonebekken en Zuid-Amerika. Inheemse tradities worden gecombineerd met Afrikaanse, Indiase en Europese invloeden.",
+            "De keukens van Guyana, Suriname, Frans-Guyana en Venezuela combineren inheemse, Afrikaanse, Indiase, Caribische en Europese invloeden. Cassave, bakbanaan, kruidige stoofgerechten en vis spelen een belangrijke rol.",
         ingredienten: 
             "cassave, rijst, kokos, peper, bakbananen, bonen, zeevruchten, okra, tropisch fruit, kerriekruiden"
     },
 
+    amazonegebied: {
+        titel: "Amazonegebied",
+        beschrijving:
+            "Het Amazonegebied verbindt rivier- en boskeukens van Noord-Brazilië, Peru, Colombia, Ecuador en Bolivia. Inheemse tradities, cassave, bakbanaan en zoetwatervis staan centraal. De kaartgrenzen volgen een praktische selectie van bestuurlijke gebieden.",
+        ingredienten:
+            "cassave, zoetwatervis, bakbanaan, chilipepers, tropische kruiden, açaí, tucupi"
+    },
+
     pampas: {
-        titel: "Zuidelijke Kegel",
-        beschrijving: 
-            "De Zuidelijke keuken wordt gekenmerkt door uitgestrekte graslanden, een sterke veeteelttraditie en Europese invloeden. Rundvlees, wijn en eenvoudige bereidingen vormen het hart van deze culinaire regio.",
-        ingredienten: 
-        "rundvlees, wijn, maïs, aardappelen, bonen, tarwe, ui, paprika, pompoen, chimichurri"
+        titel: "Pampas, Río de la Plata & Guaranígebied",
+        beschrijving:
+            "Deze keuken verbindt Argentinië buiten Patagonië met Uruguay en Paraguay. Rundvlees en de asadotraditie van de Pampas en Río de la Plata komen samen met maïs, cassave en regionale bereidingen uit het Guaranígebied.",
+        ingredienten:
+            "rundvlees, maïs, cassave, bonen, tarwe, rijst, ui, paprika, wijn, chimichurri"
+    },
+
+    "chili-patagonie": {
+        titel: "Chili & Patagonië",
+        beschrijving:
+            "De Chileense en Patagonische keuken verbindt de lange Pacifische kust met de koude zuidelijke steppen. Vis, zeevruchten, maïs en bonen uit Chili staan naast Patagonisch lamsvlees en eenvoudige gerechten uit het zuiden. De Falklandeilanden zijn geografisch bij deze regio ingedeeld.",
+        ingredienten:
+            "vis, zeevruchten, mosselen, lamsvlees, maïs, bonen, aardappelen, pompoen, ui, kruiden"
     },
 
     australie: {
@@ -949,12 +980,28 @@ const regioIngredientIconen = {
         { naam: "Tropisch fruit", bestand: "icon-avocado.png" }
     ],
 
+    amazonegebied: [
+        { naam: "Cassave", bestand: "icon-root.png" },
+        { naam: "Zoetwatervis", bestand: "icon-fish.png" },
+        { naam: "Bakbanaan", bestand: "icon-banana.png" },
+        { naam: "Chilipeper", bestand: "icon-chili.png" },
+        { naam: "Kruiden", bestand: "icon-herbs.png" }
+    ],
+
     pampas: [
         { naam: "Rundvlees", bestand: "icon-meat.png" },
-        { naam: "Aardappelen", bestand: "icon-potato.png" },
         { naam: "Maïs", bestand: "icon-corn.png" },
+        { naam: "Cassave", bestand: "icon-root.png" },
         { naam: "Wijn", bestand: "icon-bowl.png" },
         { naam: "Chimichurri", bestand: "icon-herbs.png" }
+    ],
+
+    "chili-patagonie": [
+        { naam: "Vis en zeevruchten", bestand: "icon-fish.png" },
+        { naam: "Lamsvlees", bestand: "icon-meat.png" },
+        { naam: "Maïs", bestand: "icon-corn.png" },
+        { naam: "Bonen", bestand: "icon-beans.png" },
+        { naam: "Aardappelen", bestand: "icon-potato.png" }
     ],
 
     // Oceanië
@@ -1056,7 +1103,10 @@ const regioFotos = {
     andes: "feature-andesAI.jpg",
     brazilie: "feature-brazilieAI.jpg",
     "amazone-guyanas": "feature-amazone-guyanasAI.jpg",
+    amazonegebied: "feature-amazonegebiedAI.jpg",
     pampas: "feature-pampasAI.jpg",
+    // Tijdelijke bestaande afbeelding; vervang later door feature-chili-patagonieAI.jpg.
+    "chili-patagonie": "feature-chili-patagonieAI.jpg",
 
     // Oceanië
     australie: "feature-australieAI.jpg",
@@ -1116,6 +1166,12 @@ function maakKaartInteractief() {
                 land.dataset.origineleKleur =
                     kleuren[continentNaam];    			
                 land.style.fill = kleuren[continentNaam];
+                // Deelgebieden hebben een vulkleurige haarlijn: voorkomt witte
+                // naden zonder provinciegrenzen zichtbaar te maken.
+                if (land.dataset.worldcuisineRegion === 'amazonegebied' ||
+                    land.dataset.worldcuisineRegion === 'chili-patagonie') {
+                    land.style.stroke = kleuren[continentNaam];
+                }
     			land.style.cursor = "pointer";
     			land.style.transition = "filter 0.2s ease, opacity 0.2s ease";
 
@@ -1220,11 +1276,19 @@ function lichtContinentOp(continentNaam, actief) {
 
             land.style.fill =
                 highlightKleuren[werelddeel];
+            if (land.dataset.worldcuisineRegion === 'amazonegebied' ||
+                land.dataset.worldcuisineRegion === 'chili-patagonie') {
+                land.style.stroke = highlightKleuren[werelddeel];
+            }
 
         } else {
 
             land.style.fill =
                 kleuren[continentNaam];
+            if (land.dataset.worldcuisineRegion === 'amazonegebied' ||
+                land.dataset.worldcuisineRegion === 'chili-patagonie') {
+                land.style.stroke = kleuren[continentNaam];
+            }
 
         }
 

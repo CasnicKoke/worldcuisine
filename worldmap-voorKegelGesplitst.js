@@ -1,0 +1,1466 @@
+async function laadWereldkaart() {
+    try {
+        const response = await fetch("world.svg");
+
+        if (!response.ok) {
+            throw new Error("SVG kon niet worden geladen");
+        }
+
+        const svgTekst = await response.text();
+
+        document.getElementById("world-map").innerHTML = svgTekst;
+        maakKaartInteractief();
+
+        // Herstel de regio vanuit de URL
+        const parameters = new URLSearchParams(window.location.search);
+        const regio = parameters.get('regio');
+
+        if (regio && Object.prototype.hasOwnProperty.call(continenten, regio)) {
+            geselecteerdeRegio = regio;
+            lichtContinentOp(regio, true);
+            toonRegioInfo(regio);
+            toonRecepten(regio);
+        }
+        pasSidebarHoogteAan();
+    
+    } catch (error) {
+        console.error("Fout bij laden wereldkaart:", error);
+    }
+}
+
+document.addEventListener("DOMContentLoaded", laadWereldkaart);
+const continenten = {
+
+	//Europese continent
+	balkan: [ "HR", "SI", "RS", "BA", "ME", "MK", "AL", "XK", "BG", "RO" ],
+	"oost-centraal-europa": [ "PL", "CZ", "SK", "HU" ],
+	scandinavie: [ "Denmark", "SE", "Norway", "FI", "IS", "Faeroe Islands" ],
+	"britse-eilanden": [ "United Kingdom", "IE"],
+	germaans: [ "DE", "NL", "BE", "LU"],
+	"midden-europa": [ "France", "CH", "AT"],
+	"mediterraans": ["PT", "ES", "Greece", "Italy", "Malta", "Cyprus", "Canary Islands (Spain)"],
+    "noord-oost-europa": ["Russia-Europe", "BY", "UA", "MD", "EE", "LV", "LT"],
+	
+	//Midden-Oosten
+	anatolie: ["Turkey"],
+	levant: ["IL", "PS", "LB", "IQ", "JO", "SY"],
+	perzie: ["IR", "AF"],
+	"arabisch-schiereiland": [ "SA", "YE", "Oman", "AE", "QA", "BH", "KW"],
+
+	//Aziatische continent			
+	"siberie": ["Russia-Siberia"],
+    "noordoost-azie": [ "Russia-FarEast", "China-Dongbei"],
+    kaukasus: [ "AM", "GE", "Azerbaijan"],
+    "china-oost-azie": [ "China-Other", "TW", "KP", "KR"],
+    "indo-chinees": [ "VN", "LA", "KH", "TH", "MM"],
+    "maleis-indonesisch": [ "Indonesia", "Malaysia", "BN", "TL"],
+    filipijns: [ "Philippines"],
+    "zuid-aziatisch": [ "IN", "PK", "BD", "LK", "NP", "BT", "MV" ],
+    "centraal-aziatisch": [ "KZ", "UZ", "KG", "TJ", "TM", "MN", "China-Xinjiang", "China-InnerMongolia"],
+	japan: [ "Japan"],
+
+    //Afrikaanse continent
+    
+    maghreb: ["MA", "DZ", "TN", "LY", "EH"],
+    nijlvallei: ["EG", "SD"],
+    sahel: ["MR", "ML", "NE", "TD", "BF", "GM", "SN"],
+    "west-afrika": ["GN", "GW", "SL", "LR", "CI", "GH", "TG", "BJ", "NG", "Cape Verde"],
+    "hoorn-van-afrika": ["ET", "ER", "DJ", "SO"],
+    "centraal-afrika": ["CM", "CF", "CG", "CD", "GQ", "GA", "São Tomé and Principe", "Angola"],
+    "oost-afrika": ["KE", "UG", "TZ", "RW", "BI", "SS"],
+    "eilanden-indische-oceaan": ["MG", "RE", "YT", "Comoros", "Seychelles", "Mauritius"],
+    "zambezi-zuidoost-afrika": ["ZM", "ZW", "MW", "MZ"],
+    "zuidelijk-afrika": ["NA", "BW", "LS", "SZ", "ZA"],
+       
+    //"noord-amerika"
+    "arctische-wereld": ["GL", "Alaska", "Canada-Arctic"],
+    canada: ["Canada"],
+    "verenigde-staten": ["United States"],
+
+    //Latijns-Amerikaanse continent
+    mexicaans: ["MX"],
+    "centraal-amerika": ["BZ", "GT", "HN", "SV", "NI", "CR", "PA"],
+    caribisch: ["CU", "DO", "HT", "JM", "Aruba", "AI", "BL", "BM", "BB", "CW", "DM", "GD", "LC", "Saint-Martin",
+    "MS", "SX", "VC", "VG", "BQSE", "BQBO", "BQSA", "Martinique", "Antigua and Barbuda", "Saint Kitts and Nevis", "Puerto Rico", 
+    "Trinidad and Tobago", "Bahamas", "Cayman Islands", "Guadeloupe", "Puerto Rico", "Turks and Caicos Islands", "United States Virgin Islands"],
+    andes: ["CO", "EC", "PE", "BO"],
+    brazilie: ["BR"],
+    "amazone-guyanas": ["GF", "GY", "SR", "VE"],
+    // Afzonderlijke Amazone-deelgebieden in de nieuwe world.svg (25 paden).
+    amazonegebied: [
+        "BR-PA", "BR-AP", "BR-RR", "BR-AM", "BR-AC", "BR-RO",
+        "PE-LO", "PE-UC", "PE-MD", "PE-SM", "PE-AM",
+        "CO-CQ", "CO-PU", "CO-AM", "CO-GV", "CO-GN", "CO-VP",
+        "EC-SU", "EC-ZC", "EC-MS", "EC-PA", "EC-NA", "EC-NAPO",
+        "BO-EB", "BO-PA"
+    ],
+    pampas: ["Argentina", "Chile", "UY", "PY", "Falkland Islands"],
+
+    //Oceanie
+    australie: ["Australia"],
+    "nieuw-zeeland": ["New Zealand"],
+    melanesie: ["Papua New Guinea", "Fiji", "Vanuatu", "Solomon Islands", "New Caledonia"],
+    polynesie: ["Samoa","Tonga","TV", "French Polynesia", "American Samoa", "Cook Islands", "Niue", "Tokelau", "Wallis and Futuna", "Hawaii", "Pitcairn Islands", "French Polynesia"],
+    micronesie: ["GU", "MH", "NR", "PW", "Northern Mariana Islands", "Federated States of Micronesia"]
+};
+
+const kleuren = {
+    //europa
+    balkan: "#D99162",
+	"oost-centraal-europa": "#F2C28A",
+	scandinavie: "#EBA455",
+	"britse-eilanden": "#DE8817",
+	germaans: "#B86F13",
+	"midden-europa": "#92580F",
+	"mediterraans": "#6C410B",
+    "noord-oost-europa": "#C18A42",
+    
+    //azie
+    "siberie": "#1E5F8A",
+    "noordoost-azie": "#1A4D6E",			
+    kaukasus: "#2A6B96", 				
+    "china-oost-azie": "#3577A2", 		
+    "indo-chinees": "#4183AE", 			
+    "maleis-indonesisch": "#4D8FBA", 	
+    filipijns: "#5D9CC2", 				
+    "zuid-aziatisch": "#6EA9CA", 		
+    "centraal-aziatisch": "#81B7D2",	
+    japan: "#96C5DB", 			    
+    
+    //midden-oosten
+    anatolie: "#4AAD63",
+	levant: "#78BF75",
+	perzie: "#279B44",
+	"arabisch-schiereiland": "#1D7A35", 		
+    
+    
+    // Afrika
+    maghreb:                  "#F7E76A",
+    nijlvallei:               "#F3D500",
+    sahel:                    "#E6C96A",
+    "west-afrika":            "#D9B44A",
+    "hoorn-van-afrika":       "#CFA235",
+    "centraal-afrika":        "#BD9024",
+    "oost-afrika":            "#A97D19",
+    "zambezi-zuidoost-afrika":"#9C7216",
+    "zuidelijk-afrika":       "#8F6612",
+    "eilanden-indische-oceaan":"#7A4D0B",
+
+
+    //noord-amerika
+    // Noord-Amerika
+    canada: "#C97A73",
+    "verenigde-staten": "#B95A52",
+    "arctische-wereld": "#D99A94",
+
+    //latijns-amerika
+    mexicaans:          "#D8C4E8",
+    "centraal-amerika": "#CDB3E0",
+    caribisch:          "#C1A2D8",
+    andes:              "#B58FD0",
+    brazilie:           "#A97CC8",
+    "amazone-guyanas":  "#9C69BF",
+    amazonegebied:      "#70499F",
+    pampas:             "#8F56B5",
+    
+    //oceanie
+    australie:          "#58BFA7",
+    "nieuw-zeeland":    "#72CAB5",
+    melanesie:          "#3CA890",
+    polynesie:          "#8BD7C6",
+    micronesie:         "#2E9580"
+};
+
+const werelddeelPerRegio = {
+
+    // Europa
+    balkan: "europa",
+    "oost-centraal-europa": "europa",
+    scandinavie: "europa",
+    "britse-eilanden": "europa",
+    germaans: "europa",
+    "midden-europa": "europa",
+    mediterraans: "europa",
+    "noord-oost-europa": "europa",
+
+    // Midden-Oosten
+    anatolie: "midden-oosten",
+    levant: "midden-oosten",
+    perzie: "midden-oosten",
+    "arabisch-schiereiland": "midden-oosten",
+
+    // Azië
+    "siberie": "azie",
+    "noordoost-azie": "azie",
+    kaukasus: "azie",
+    "china-oost-azie": "azie",
+    "indo-chinees": "azie",
+    "maleis-indonesisch": "azie",
+    filipijns: "azie",
+    "zuid-aziatisch": "azie",
+    "centraal-aziatisch": "azie",
+    japan: "azie",
+
+    // Afrika
+    maghreb: "afrika",
+    nijlvallei: "afrika",
+    sahel: "afrika",
+    "west-afrika": "afrika",
+    "hoorn-van-afrika": "afrika",
+    "centraal-afrika": "afrika",
+    "oost-afrika": "afrika",
+    "zuidelijk-afrika": "afrika",
+    "zambezi-zuidoost-afrika": "afrika",
+    "eilanden-indische-oceaan": "afrika",
+
+    // Noord-Amerika
+    "arctische-wereld": "noord-amerika",
+    canada: "noord-amerika",
+    "verenigde-staten": "noord-amerika",
+
+    // Zuid-Amerika
+    mexicaans: "zuid-amerika",
+    "centraal-amerika": "zuid-amerika",
+    caribisch: "zuid-amerika",
+    andes: "zuid-amerika",
+    brazilie: "zuid-amerika",
+    "amazone-guyanas": "zuid-amerika",
+    amazonegebied: "zuid-amerika",
+    pampas: "zuid-amerika",
+
+    // Oceanië
+    australie: "oceanie",
+    "nieuw-zeeland": "oceanie",
+    melanesie: "oceanie",
+    polynesie: "oceanie",
+    micronesie: "oceanie"
+};
+
+const highlightKleuren = {
+    europa: "#FF7A00",          // fel oranje
+    "midden-oosten": "#00FF38", // fel groen
+    azie: "#00A8FF",            // fel blauw
+    afrika: "#FFF200",          // fel geel
+    "noord-amerika": "#FF0000", // fel rood
+    "zuid-amerika": "#D400FF",  // fel paars
+    oceanie: "#00FFD5"          // fel turquoise
+};
+
+const regioBeschrijving = {
+    balkan: {
+        titel: "Balkan",
+        beschrijving:
+            "De Balkan vormt een culinaire ontmoetingsplaats van Ottomaanse, Midden-Europese en mediterrane invloeden. Gegrild vlees, gevulde groenten, yoghurt en hartige stoofgerechten spelen een centrale rol.",
+        ingredienten:
+            "paprika, aubergine, yoghurt, schapenkaas, lamsvlees, varkensvlees, bonen, kool, tomaten, peterselie"
+    },
+
+    "oost-centraal-europa": {
+        titel: "Oost-Centraal Europa",
+        beschrijving:
+            "Deze keuken ligt op het kruispunt van Slavische, Hongaarse en Oostenrijkse tradities. Comfort food, hartige gerechten en rijke soepen kenmerken de regio.",
+        ingredienten:
+            "aardappelen, kool, paprika, uien, zure room, varkensvlees, karwijzaad, paddenstoelen, rogge, knoedels"
+    },
+
+    scandinavie: {
+        titel: "Noordse Wereld",
+        beschrijving:
+            "De Scandinavische keuken is gevormd door een koel klimaat, lange winters en een sterke traditie van conserveren. Eenvoud, seizoensproducten en pure smaken staan centraal.",
+        ingredienten:
+            "zalm, haring, kabeljauw, roggebrood, dille, aardappelen, bessen, kool, wild, zuivelproducten"
+    },
+
+    "britse-eilanden": {
+        titel: "Groot-Brittannië & Ierland",
+        beschrijving:
+            "De keuken van Groot-Brittannië en Ierland wordt gekenmerkt door stevige maaltijden, eenvoudige bereidingen en een sterke focus op lokale ingrediënten uit zee en landbouw.",
+        ingredienten:
+            "aardappelen, haver, rundvlees, lamsvlees, kabeljauw, zalm, boter, erwten, prei, cheddar"
+    },
+
+    germaans: {
+        titel: "Duitsland en de Benelux",
+        beschrijving:
+            "Deze keuken combineert Midden-Europese landbouwtradities met een rijke bier- en broodcultuur. Stevige maaltijden en regionale specialiteiten spelen een belangrijke rol.",
+        ingredienten:
+            "varkensvlees, worst, kool, aardappelen, rogge, tarwe, ui, mosterd, bier, zuurkool"
+    },
+
+    "midden-europa": {
+        titel: "Frankrijk en de Alpenlanden",
+        beschrijving:
+            "De culinaire tradities van Midden-Europa zijn sterk beïnvloed door de historische Habsburgse wereld. Verfijnde gebakscultuur gaat hier samen met hartige vlees- en groentegerechten.",
+        ingredienten:
+            "kalfsvlees, boter, room, aardappelen, paddenstoelen, karwijzaad, ui, knoedels, papaverzaad, diverse kazen"
+    },
+
+    mediterraans: {
+        titel: "Zuid-Europa",
+        beschrijving:
+            "De mediterrane keuken draait om verse ingrediënten, eenvoud en het optimaal benutten van lokale producten. Zon, zee en eeuwenlange handelscontacten hebben een rijke culinaire traditie gevormd.",
+        ingredienten:
+            "olijfolie, tomaten, knoflook, basilicum, oregano, citrusvruchten, vis, schapenkaas, peulvruchten, wijn"
+    },
+    
+    anatolie: {
+    	titel: "Anatolië",
+    	beschrijving:
+        	"De Anatolische keuken vormt de culinaire brug tussen Europa, de Kaukasus, Centraal-Azië en het Midden-Oosten. Door eeuwen van handel en culturele uitwisseling ontstond een rijke traditie van gegrild vlees, mezze, broodgerechten en groenteschotels.",
+    	ingredienten:
+        	"yoghurt, aubergine, paprika, tomaten, bulgur, kikkererwten, lamsvlees, olijfolie, munt, sumak"
+	},
+
+    levant: {
+        titel: "Levant en Mesopotamië",
+        beschrijving:
+          "De keukens van de Levant en Mesopotamië zijn nauw met elkaar verbonden, maar hebben elk een eigen karakter. In Syrië, Libanon, Palestina, Israël en Jordanië spelen verse kruiden, groenten, peulvruchten en mezze een belangrijke rol. De Iraakse keuken voegt daar rijke tradities van gegrild vlees, rijstgerechten en gevulde groenten aan toe. Eeuwen van handel en culturele uitwisseling hebben deze keukens met elkaar verbonden.",
+        ingredienten:
+          "kikkererwten, tahin, olijfolie, peterselie, munt, sumak, citroen, granaatappel, aubergine, yoghurt, rijst, lamsvlees, gedroogde limoen"
+      },
+    
+	perzie: {
+    	titel: "Iran en Afghanistan",
+    	beschrijving:
+    	    "De Perzische keuken, die zich uitstrekt van Iran tot Afghanistan, staat bekend om haar verfijning en evenwicht. Zoete, zure en hartige smaken worden zorgvuldig gecombineerd, vaak met noten, fruit en aromatische specerijen als tegenhanger van rijst- en vleesgerechten.",
+    	ingredienten:
+    	    "saffraan, pistachenoten, amandelen, granaatappel, berberis, rijst, yoghurt, kardemom, komijn, gedroogd fruit"
+	},
+
+	"arabisch-schiereiland": {
+		titel: "Arabisch Schiereiland",
+		beschrijving:
+			"De keukens van het Arabisch Schiereiland zijn gevormd door woestijnculturen, handelsroutes en eeuwenoude gastvrijheidstradities. Rijstschotels, langzaam gegaard vlees en geurige kruidenmengsels vormen de kern van veel maaltijden.",
+		ingredienten:
+			"dadels, rijst, lamsvlees, kardemom, saffraan, kaneel, gedroogde limoen, yoghurt, sesam, noten"
+	},
+	
+    "noord-oost-europa": {
+        titel: "Noordoost-Europa",
+        beschrijving:
+            "Deze culinaire regio omvat Europees Rusland, Oekraïne, Belarus, Moldavië en de Baltische landen. Lange winters, landbouw, visserij en conservering hebben de regionale keukens gevormd. Soepen, stoofgerechten en gerechten met granen en wortelgroenten spelen een belangrijke rol. Polen en de Balkan komen elders in WorldCuisine aan bod.",
+        ingredienten:
+            "rogge, aardappelen, kool, bieten, zure room, paddenstoelen, dille, boekweit, ingelegde groenten, gerookte vis"
+    },
+    
+    "siberie": {
+        titel: "Siberië",
+        beschrijving:
+            "De Siberische keuken is gevormd door het uitgestrekte landschap van taiga, toendra en grote rivieren, en door de tradities van Russische kolonisten en inheemse volken. Het koude klimaat stimuleerde het invriezen, drogen en roken van voedsel. Vlees, zoetwatervis, wilde bessen en paddenstoelen vormen de basis van stevige, voedzame gerechten.",
+        ingredienten:
+            "wild, rundvlees, zoetwatervis, deegwaren, pijnboompitten, paddenstoelen, wilde bessen, aardappelen, kool, boekweit"
+    },
+    
+    "noordoost-azie": {
+        titel: "Noordoost-Azië",
+        beschrijving:
+            "Deze culinaire regio verbindt het Russische Verre Oosten met Mantsjoerije, het noordoosten van China. Langs de Amoer en de Pacifische kust ontmoeten Russische, Chinese, Koreaanse en inheemse voedseltradities elkaar. Vis, zeevruchten, dumplings en stevige stoofgerechten kenmerken een keuken waarin zowel het koude landklimaat als de rijkdom van de Stille Oceaan doorklinkt.",
+        ingredienten:
+            "zalm, krab, zeevruchten, rijst, tarwedeeg, kool, paddenstoelen, sojasaus, knoflook, gefermenteerde groenten"
+    },
+    
+    kaukasus: {
+        titel: "Kaukasus",
+        beschrijving:
+            "Een bergachtige regio op het kruispunt van Europa, Azië en het Midden-Oosten met een rijke traditie van kruiden en gegrild vlees.",
+        ingredienten:
+            "walnoten, granaatappel, koriander, dragon, aubergine, yoghurt, geitenkaas, lamsvlees, druiven"
+    },
+
+    "centraal-aziatisch": {
+        titel: "Centraal-Azië en Mongolië",
+        beschrijving:
+            "De keukens van Centraal-Azië en Mongolië delen invloeden van nomadische steppeculturen, met een belangrijke rol voor vlees, zuivel, graanproducten en deeggerechten.",
+        ingredienten:
+            "lamsvlees, paardenvlees, rundvlees, yoghurt, kefir, rijst, uien, wortelen, komijn, platbrood"
+    },
+
+    "china-oost-azie": {
+        titel: "China en het Koreaanse Schiereiland",
+        beschrijving:
+            "Een veelzijdige culinaire traditie waarin balans tussen smaak, textuur en bereidingswijze centraal staat.",
+        ingredienten:
+            "rijst, noedels, soja, tofu, gember, lente-ui, sesamolie, knoflook, Chinese kool, gefermenteerde groenten"
+    },
+
+    japan: {
+        titel: "Japan",
+        beschrijving:
+            "Een verfijnde keuken met veel aandacht voor seizoensproducten, eenvoud en presentatie.",
+        ingredienten:
+            "rijst, zeewier, soja, miso, dashi, vis, shiitake, daikon, sesam, yuzu"
+    },
+
+    "indo-chinees": {
+        titel: "Vasteland van Zuidoost-Azië",
+        beschrijving:
+            "Een aromatische keuken waarin zoet, zuur, zout en pittig vaak in balans worden gebracht.",
+        ingredienten:
+            "vissaus, limoen, koriander, munt, citroengras, galanga, chilipepers, kokosmelk, rijst"
+    },
+
+    "maleis-indonesisch": {
+        titel: "Maritiem Zuidoost-Azië",
+        beschrijving:
+            "Een specerijenrijke eilandkeuken die gevormd is door eeuwen van handel en maritieme verbindingen.",
+        ingredienten:
+            "kokosmelk, sambal, kurkuma, gember, kemirinoten, tamarinde, pandan, citroengras, rijst"
+    },
+
+    filipijns: {
+        titel: "Filipijnen",
+        beschrijving:
+            "Een unieke mengeling van Austronesische, Chinese, Spaanse en Amerikaanse invloeden.",
+        ingredienten:
+            "azijn, knoflook, sojasaus, kokos, calamansi, varkensvlees, banaan, suiker, zwarte peper"
+    },
+
+    "zuid-aziatisch": {
+        titel: "Zuid-Azië",
+        beschrijving:
+            "Een van de meest kruidenrijke culinaire tradities ter wereld, met grote regionale verschillen.",
+        ingredienten:
+            "kardemom, komijn, korianderzaad, kurkuma, chilipepers, ghee, linzen, kikkererwten, rijst, naan"
+    },   
+    
+    maghreb: {
+        titel: "Maghreb",
+        beschrijving:
+            "De Maghreb vormt de culinaire brug tussen de Middellandse Zee, de Arabische wereld en de Sahara. Berberse, Arabische en Andalusische invloeden hebben geleid tot een keuken vol specerijen, stoofgerechten en graanproducten.",
+        ingredienten:
+            "couscous, olijfolie, kikkererwten, lamsvlees, dadels, citroen, komijn, kaneel, amandelen,  harissa"     
+    },
+
+    nijlvallei: {
+        titel: "Nijlvallei",
+        beschrijving:
+            "De keukens van Egypte en Soedan behoren tot de oudste landbouwtradities ter wereld. Granen, peulvruchten en groenten vormen al duizenden jaren de basis van dagelijkse maaltijden.",
+        ingredienten:
+            "favabonen, linzen, rijst, tarwe, sesam, koriander, komijn, okra, ui, knoflook"
+    },
+
+    sahel: {
+        titel: "Sahel",
+        beschrijving:
+            "De Sahel vormt de overgang tussen de Sahara en tropisch Afrika. Hier draait de keuken om droogtebestendige gewassen, eenvoudige bereidingen en krachtige smaken die passen bij het woestijn- en savanneklimaat.",
+        ingredienten:
+            "gierst, sorghum, pinda's, rijst, geitenvlees, lamsvlees, gedroogde vis, okra, tomaten, chilipepers"
+    },
+
+    "west-afrika": {
+        titel: "West-Afrika",
+        beschrijving:
+            "West-Afrika kent een van de meest uitgesproken culinaire tradities van het continent. Rijke sauzen, pittige kruiden en zetmeelrijke basisproducten zorgen voor krachtige en complexe smaken.",
+        ingredienten:
+            "pinda's, cassave, yam, bakbananen, palmolie, chilipepers, bonen, rijst, okra, vis"
+    },
+
+    "hoorn-van-afrika": {
+        titel: "Hoorn van Afrika",
+        beschrijving:
+            "De keuken van de Hoorn van Afrika combineert Afrikaanse en Midden-Oosterse invloeden. Kruidige stoofgerechten, zuurdesembrood en eeuwenoude handelscontacten geven deze regio een uniek karakter.",
+        ingredienten:
+            "teff, berbere, linzen, kikkererwten, kardemom, kaneel, geitenvlees, rundvlees, boter, koffie"
+    },
+    
+    "centraal-afrika": {
+        titel: "Centraal-Afrika",
+        beschrijving:
+            "Van het tropische Congobekken tot de Atlantische kust van Angola delen de keukens van Centraal-Afrika een rijke traditie van stoofgerechten, bladgroenten en zetmeelrijke knollen. Cassave, bakbananen, palmolie en vis vormen belangrijke ingrediënten, terwijl regionale handelscontacten en Portugese invloeden voor culinaire variatie zorgen.",
+        ingredienten:
+            "cassave, bakbananen, palmolie, pinda's, vis, rivierkreeftjes, yam, kokos, bladgroenten, pepers"
+    },
+    
+    "zambezi-zuidoost-afrika": {
+        titel: "Zambezi en Zuidoost-Afrika",
+        beschrijving:
+            "Van de vruchtbare hooglanden rond de Zambezi en het Malawimeer tot de kust van Mozambique verbinden graangerechten, bladgroenten, bonen en pinda's de keukens van deze regio. Stevige maïspap vormt vaak de basis van de maaltijd, terwijl zoetwatervis, kokosmelk en pittige kruiden de invloed van meren, rivieren en de handel over de Indische Oceaan weerspiegelen.",
+        ingredienten:
+            "maïs, sorghum, cassave, bonen, pinda's, bladgroenten, pompoen, zoetwatervis, kokosmelk, piri-piri"
+    },
+    
+    "zuidelijk-afrika": {
+        titel: "Zuidelijk Afrika",
+        beschrijving:
+            "De keukens van Zuidelijk Afrika weerspiegelen de uitgestrekte savannes, droge binnenlanden en vruchtbare kustgebieden. Veeteelt, vleesbereiding boven open vuur en stevige gerechten van maïs en sorghum vormen een belangrijke basis. In Zuid-Afrika voegen Europese, Kaapse en Indiase invloeden een bijzondere verscheidenheid aan smaken en bereidingen toe.",
+        ingredienten:
+            "maïs, sorghum, rundvlees, lamsvlees, wild, bonen, pompoen, bladgroenten, chilipepers, specerijen"
+    },
+    
+    "oost-afrika": {
+        titel: "Oost-Afrika en de Grote Meren",
+        beschrijving:
+            "De keuken van Oost-Afrika verbindt de savannes en hooglanden van het binnenland met de handelssteden aan de Swahilikust. Gegrild vlees, maïs, bonen en bakbananen kenmerken het binnenland, terwijl rijst, kokos en aromatische specerijen de eeuwenoude handel met Arabië en India weerspiegelen.",
+        ingredienten:
+            "maïs, bonen, bakbananen, cassave, rundvlees, bladgroenten, rijst, kokosmelk, kardemom, kruidnagel"
+    },
+    
+    "eilanden-indische-oceaan": {
+        titel: "Eilanden van de Indische Oceaan",
+        beschrijving:
+            "De eilandkeukens van de Indische Oceaan vormen een bijzondere mengeling van Afrikaanse, Aziatische en Europese tradities. Eeuwen van migratie en zeehandel brachten rijst, specerijen en nieuwe bereidingswijzen samen met lokale vis, tropische vruchten en kruiden, waaruit veelzijdige Creoolse keukens ontstonden.",
+        ingredienten:
+            "rijst, vis, schaaldieren, kokosmelk, gember, kurkuma, chilipepers, vanille, kruidnagel, bakbananen, tropische vruchten"
+    },
+    
+    "arctische-wereld": {
+        titel: "Arctische Wereld",
+        beschrijving:
+            "De Arctische Wereld omvat Groenland, Alaska en de drie noordelijke territoria van Canada. De keukens van Inuit, Yupik, Inuvialuit, Dene en andere gemeenschappen zijn sterk verbonden met visvangst, jacht, seizoenen, conservering en lokale ecosystemen. De culturele gebieden lopen deels door de gekozen bestuurlijke grenzen heen.",
+        ingredienten:
+            "Arctische vis, wild, rendier en kariboe, bessen, zeevruchten, traditioneel geconserveerde producten"
+    },
+
+    canada: {
+        titel: "Canada",
+        beschrijving:
+            "De Canadese keuken weerspiegelt de enorme natuurlijke rijkdom en uitgestrektheid van het land. Inheemse tradities, Franse invloeden uit Québec en Britse invloeden uit de rest van Canada komen samen in een keuken die sterk verbonden is met seizoenen, visvangst en lokale producten.",
+        ingredienten:
+            "ahornsiroop, zalm, kreeft, wild, bosbessen, veenbessen, aardappelen, pompoen, granen, paddenstoelen"
+    },
+
+    "verenigde-staten": {
+        titel: "Verenigde Staten",
+        beschrijving:
+            "De Amerikaanse keuken is een van de meest diverse culinaire tradities ter wereld. Invloeden van inheemse volkeren, Europese immigranten, Afrikaanse gemeenschappen en latere migratiegolven hebben geleid tot een enorme variatie aan regionale keukens.",
+        ingredienten:
+            "rundvlees, maïs, bonen, aardappelen, kalkoen, pinda's, pompoen, barbecuekruiden, zeevruchten, ahornsiroop"},
+
+    mexicaans: {
+        titel: "Mexico",
+        beschrijving:
+            "De Mexicaanse keuken behoort tot de oudste culinaire tradities van Amerika. Inheemse ingrediënten uit Meso-Amerika vormen nog altijd de basis van veel gerechten en worden gecombineerd met Spaanse invloeden die sinds de zestiende eeuw deel uitmaken van de cultuur.",
+        ingredienten:
+            "maïs, chilipepers, bonen, avocado, tomaten, cacao, limoen, koriander, pompoen, queso fresco"
+    },
+
+    "centraal-amerika": {
+        titel: "Centraal-Amerika",
+        beschrijving:
+            "De keukens van Midden-Amerika combineren inheemse tradities met Spaanse en Caribische invloeden. Eenvoudige, smaakvolle gerechten op basis van maïs, bonen en tropische ingrediënten vormen de kern van de regionale eetcultuur.",
+        ingredienten:
+            "maïs, bonen, rijst, bakbananen, avocado, kokos, yucca, koriander, chilipepers, tropisch fruit"
+    },
+
+    caribisch: {
+        titel: "Caribisch Gebied",
+        beschrijving:
+            "De Caribische keuken is ontstaan uit een levendige mix van Afrikaanse, Europese, inheemse en Aziatische invloeden. Kruiden, tropische producten en zeevruchten spelen een centrale rol in de kleurrijke gerechten van de eilanden.",
+        ingredienten:
+            "bakbananen, kokos, rum, cassave, rijst, bonen, zeevruchten, allspice, chilipepers, tropisch fruit"
+    },
+
+    andes: {
+        titel: "Andeslanden en Pacifische kust",
+        beschrijving:
+            "De keukens van de Andeslanden verbinden het hooggebergte met de Pacifische kust. Aardappelen, maïs en quinoa uit de hooglanden staan naast visgerechten en frisse smaken van de kust. De Amazonegebieden van deze landen vormen op de kaart een aparte regio.",
+        ingredienten:
+            "aardappelen, maïs, quinoa, bonen, avocado, chilipepers, tomaten, lama, alpaca, koriander"
+    },
+
+    brazilie: {
+        titel: "Brazilië",
+        beschrijving:
+            "Buiten de Amazone kent Brazilië een grote culinaire verscheidenheid. Portugese, Afrikaanse en inheemse tradities komen samen in de keukens van onder andere Bahia, Minas Gerais en Rio de Janeiro.",
+        ingredienten: 
+            "cassave, zwarte bonen, rijst, kokos, palmolie, rundvlees, limoen, pinda's, tropisch fruit, zeevruchten"
+    },
+
+    "amazone-guyanas": {
+        titel: "Guyana's en Caribisch Noord-Zuid-Amerika",
+        beschrijving:
+            "De keukens van Guyana, Suriname, Frans-Guyana en Venezuela combineren inheemse, Afrikaanse, Indiase, Caribische en Europese invloeden. Cassave, bakbanaan, kruidige stoofgerechten en vis spelen een belangrijke rol.",
+        ingredienten: 
+            "cassave, rijst, kokos, peper, bakbananen, bonen, zeevruchten, okra, tropisch fruit, kerriekruiden"
+    },
+
+    amazonegebied: {
+        titel: "Amazonegebied",
+        beschrijving:
+            "Het Amazonegebied verbindt rivier- en boskeukens van Noord-Brazilië, Peru, Colombia, Ecuador en Bolivia. Inheemse tradities, cassave, bakbanaan en zoetwatervis staan centraal. De kaartgrenzen volgen een praktische selectie van bestuurlijke gebieden.",
+        ingredienten:
+            "cassave, zoetwatervis, bakbanaan, chilipepers, tropische kruiden, açaí, tucupi"
+    },
+
+    pampas: {
+        titel: "Zuidelijke Kegel",
+        beschrijving: 
+            "De Zuidelijke keuken wordt gekenmerkt door uitgestrekte graslanden, een sterke veeteelttraditie en Europese invloeden. Rundvlees, wijn en eenvoudige bereidingen vormen het hart van deze culinaire regio.",
+        ingredienten: 
+        "rundvlees, wijn, maïs, aardappelen, bonen, tarwe, ui, paprika, pompoen, chimichurri"
+    },
+
+    australie: {
+        titel: "Australië",
+        beschrijving:
+            "De Australische keuken combineert Britse invloeden met ingrediënten uit Azië en de Stille Oceaan. Moderne Australische gerechten leggen veel nadruk op verse producten, zeevruchten en barbecuecultuur.",
+        ingredienten:
+            "rundvlees, lamsvlees, garnalen, barramundi, avocado, macadamianoten, citrusvruchten, pompoen, kruiden, tropisch fruit"
+    },
+
+    "nieuw-zeeland": {
+        titel: "Nieuw-Zeeland",
+        beschrijving:
+            "De Nieuw-Zeelandse keuken combineert Māori-tradities met Europese invloeden. Vis, lamsvlees en producten uit de oceaan spelen een belangrijke rol, terwijl verse lokale ingrediënten centraal staan.",
+        ingredienten:
+            "lamsvlees, mosselen, zalm, zoete aardappel, pompoen, honing, bessen, kruiden, kiwi, zeevruchten"
+    },
+
+    melanesie: {
+        titel: "Melanesië",
+        beschrijving:
+            "De keukens van Melanesië zijn sterk verbonden met tropische landbouw, visserij en traditionele bereidingswijzen. In alle Melanesische eilanden vormen lokale gewassen en producten uit zee de basis van de dagelijkse keuken.",
+        ingredienten:
+            "taro, yam, cassave, kokos, bakbananen, vis, varkensvlees, zoete aardappel, broodvrucht, tropisch fruit"
+    },
+
+    polynesie: {
+        titel: "Polynesië",
+        beschrijving:
+            "De Polynesische keuken weerspiegelt eeuwen van zeevaart en eilandculturen. Van Samoa en Tonga tot Frans-Polynesië draait de keuken om verse producten uit zee, kokos en tropische gewassen.",
+        ingredienten:
+            "kokosmelk, vis, taro, broodvrucht, zoete aardappel, banaan, limoen, zeevruchten, varkensvlees, tropisch fruit"
+    },
+
+    micronesie: {
+        titel: "Micronesië",
+        beschrijving:
+            "De keukens van Micronesië zijn nauw verbonden met de oceaan en het tropische eilandleven. Lokale producten worden vaak gecombineerd met invloeden uit Azië en de Verenigde Staten.",
+        ingredienten:
+            "vis, tonijn, kokos, rijst, broodvrucht, taro, pandan, zeevruchten, banaan, tropisch fruit"
+    }
+};
+
+const regioIngredientIconen = {
+
+    // Europa
+    balkan: [
+        { naam: "Gegrild vlees", bestand: "icon-meat.png" },
+        { naam: "Paprika", bestand: "icon-chili.png" },
+        { naam: "Yoghurt", bestand: "icon-yogurt.png" },
+        { naam: "Witte kaas", bestand: "icon-cheese.png" },
+        { naam: "Platbrood", bestand: "icon-bread.png" }
+    ],
+
+    "oost-centraal-europa": [
+        { naam: "Paprika", bestand: "icon-chili.png" },
+        { naam: "Aardappelen", bestand: "icon-potato.png" },
+        { naam: "Paddenstoelen", bestand: "icon-mushroom.png" },
+        { naam: "Zure room", bestand: "icon-yogurt.png" },
+        { naam: "Granen", bestand: "icon-grain.png" }
+    ],
+
+    scandinavie: [
+        { naam: "Zalm", bestand: "icon-fish.png" },
+        { naam: "Rogge", bestand: "icon-bread.png" },
+        { naam: "Bessen", bestand: "icon-avocado.png" },
+        { naam: "Aardappelen", bestand: "icon-potato.png" },
+        { naam: "Dille", bestand: "icon-herbs.png" }
+    ],
+
+    "britse-eilanden": [
+        { naam: "Aardappelen", bestand: "icon-potato.png" },
+        { naam: "Cheddar", bestand: "icon-cheese.png" },
+        { naam: "Prei", bestand: "icon-leaf.png" },
+        { naam: "Boter", bestand: "icon-oil.png" },
+        { naam: "Brood", bestand: "icon-bread.png" }
+    ],
+
+    germaans: [
+        { naam: "Worst", bestand: "icon-meat.png" },
+        { naam: "Aardappelen", bestand: "icon-potato.png" },
+        { naam: "Mosterd", bestand: "icon-bowl.png" },
+        { naam: "Rogge", bestand: "icon-grain.png" },
+        { naam: "Zuurkool", bestand: "icon-leaf.png" }
+    ],
+
+    "midden-europa": [
+        { naam: "Kaas", bestand: "icon-cheese.png" },
+        { naam: "Aardappelen", bestand: "icon-potato.png" },
+        { naam: "Paddenstoelen", bestand: "icon-mushroom.png" },
+        { naam: "Room", bestand: "icon-yogurt.png" },
+        { naam: "Brood", bestand: "icon-bread.png" }
+    ],
+
+    mediterraans: [
+        { naam: "Olijfolie", bestand: "icon-oil.png" },
+        { naam: "Tomaat", bestand: "icon-tomato.png" },
+        { naam: "Knoflook", bestand: "icon-garlic.png" },
+        { naam: "Citrus", bestand: "icon-citrus.png" },
+        { naam: "Vis", bestand: "icon-fish.png" }
+    ],
+
+    "noord-oost-europa": [
+        { naam: "Rogge", bestand: "icon-bread.png" },
+        { naam: "Biet", bestand: "icon-root.png" },
+        { naam: "Aardappelen", bestand: "icon-potato.png" },
+        { naam: "Paddenstoelen", bestand: "icon-mushroom.png" },
+        { naam: "Dille", bestand: "icon-herbs.png" }
+    ],
+
+    // Midden-Oosten
+    anatolie: [
+        { naam: "Yoghurt", bestand: "icon-yogurt.png" },
+        { naam: "Bulgur", bestand: "icon-grain.png" },
+        { naam: "Aubergine", bestand: "icon-eggplant.png" },
+        { naam: "Kikkererwten", bestand: "icon-beans.png" },
+        { naam: "Peper", bestand: "icon-chili.png" }
+    ],
+
+    levant: [
+        { naam: "Kikkererwten", bestand: "icon-beans.png" },
+        { naam: "Tahin", bestand: "icon-bowl.png" },
+        { naam: "Pita", bestand: "icon-bread.png" },
+        { naam: "Olijven", bestand: "icon-oil.png" },
+        { naam: "Granaatappel", bestand: "icon-avocado.png" }
+    ],
+
+    perzie: [
+        { naam: "Rijst", bestand: "icon-rice.png" },
+        { naam: "Saffraan", bestand: "icon-herbs.png" },
+        { naam: "Pistache", bestand: "icon-beans.png" },
+        { naam: "Yoghurt", bestand: "icon-yogurt.png" },
+        { naam: "Gedroogd fruit", bestand: "icon-dates.png" }
+    ],
+
+    "arabisch-schiereiland": [
+        { naam: "Lamsvlees", bestand: "icon-meat.png" },
+        { naam: "Rijst", bestand: "icon-rice.png" },
+        { naam: "Dadels", bestand: "icon-dates.png" },
+        { naam: "Kardemom", bestand: "icon-herbs.png" },
+        { naam: "Yoghurt", bestand: "icon-yogurt.png" }
+    ],
+
+    // Azië
+        
+    siberie: [
+        { naam: "Zoetwatervis", bestand: "icon-fish.png" },
+        { naam: "Wild", bestand: "icon-meat.png" },
+        { naam: "Paddenstoelen", bestand: "icon-mushroom.png" },
+        { naam: "Boekweit", bestand: "icon-grain.png" },
+        { naam: "Aardappelen", bestand: "icon-potato.png" }
+    ],
+    
+    "noordoost-azie": [
+        { naam: "Zeevruchten", bestand: "icon-fish.png" },
+        { naam: "Noedels", bestand: "icon-noodles.png" },
+        { naam: "Chinese kool", bestand: "icon-leaf.png" },
+        { naam: "Paddenstoelen", bestand: "icon-mushroom.png" },
+        { naam: "Sojasaus", bestand: "icon-bowl.png" }
+    ],
+    
+    kaukasus: [
+        { naam: "Walnoten", bestand: "icon-beans.png" },
+        { naam: "Granaatappel", bestand: "icon-avocado.png" },
+        { naam: "Aubergine", bestand: "icon-eggplant.png" },
+        { naam: "Kaas", bestand: "icon-cheese.png" },
+        { naam: "Brood", bestand: "icon-bread.png" }
+    ],
+
+    "centraal-aziatisch": [
+        { naam: "Rijst", bestand: "icon-rice.png" },
+        { naam: "Lamsvlees", bestand: "icon-meat.png" },
+        { naam: "Wortel", bestand: "icon-root.png" },
+        { naam: "Ui", bestand: "icon-leaf.png" },
+        { naam: "Platbrood", bestand: "icon-bread.png" }
+    ],
+
+    "china-oost-azie": [
+        { naam: "Noedels", bestand: "icon-noodles.png" },
+        { naam: "Rijst", bestand: "icon-rice.png" },
+        { naam: "Tofu", bestand: "icon-bowl.png" },
+        { naam: "Soja", bestand: "icon-beans.png" },
+        { naam: "Gember", bestand: "icon-root.png" }
+    ],
+
+    japan: [
+        { naam: "Rijst", bestand: "icon-rice.png" },
+        { naam: "Zeewier", bestand: "icon-seaweed.png" },
+        { naam: "Soja", bestand: "icon-beans.png" },
+        { naam: "Miso", bestand: "icon-bowl.png" },
+        { naam: "Vis", bestand: "icon-fish.png" }
+    ],
+
+    "indo-chinees": [
+        { naam: "Limoen", bestand: "icon-citrus.png" },
+        { naam: "Koriander", bestand: "icon-herbs.png" },
+        { naam: "Citroengras", bestand: "icon-leaf.png" },
+        { naam: "Chili", bestand: "icon-chili.png" },
+        { naam: "Kokos", bestand: "icon-coconut.png" }
+    ],
+
+    "maleis-indonesisch": [
+        { naam: "Kokosmelk", bestand: "icon-coconut.png" },
+        { naam: "Sambal", bestand: "icon-chili.png" },
+        { naam: "Tamarinde", bestand: "icon-bowl.png" },
+        { naam: "Rijst", bestand: "icon-rice.png" },
+        { naam: "Gember", bestand: "icon-root.png" }
+    ],
+
+    filipijns: [
+        { naam: "Knoflook", bestand: "icon-garlic.png" },
+        { naam: "Azijn", bestand: "icon-bowl.png" },
+        { naam: "Soja", bestand: "icon-beans.png" },
+        { naam: "Calamansi", bestand: "icon-citrus.png" },
+        { naam: "Kokos", bestand: "icon-coconut.png" }
+    ],
+
+    "zuid-aziatisch": [
+        { naam: "Rijst", bestand: "icon-rice.png" },
+        { naam: "Linzen", bestand: "icon-beans.png" },
+        { naam: "Kardemom", bestand: "icon-herbs.png" },
+        { naam: "Komijn", bestand: "icon-herbs.png" },
+        { naam: "Naan", bestand: "icon-bread.png" }
+    ],
+
+    // Afrika
+    maghreb: [
+        { naam: "Couscous", bestand: "icon-bowl.png" },
+        { naam: "Olijfolie", bestand: "icon-oil.png" },
+        { naam: "Kikkererwten", bestand: "icon-beans.png" },
+        { naam: "Dadels", bestand: "icon-dates.png" },
+        { naam: "Citroen", bestand: "icon-citrus.png" }
+    ],
+
+    nijlvallei: [
+        { naam: "Linzen", bestand: "icon-beans.png" },
+        { naam: "Rijst", bestand: "icon-rice.png" },
+        { naam: "Sesam", bestand: "icon-grain.png" },
+        { naam: "Okra", bestand: "icon-leaf.png" },
+        { naam: "Tarwebrood", bestand: "icon-bread.png" }
+    ],
+
+    sahel: [
+        { naam: "Gierst", bestand: "icon-grain.png" },
+        { naam: "Pinda's", bestand: "icon-beans.png" },
+        { naam: "Rijst", bestand: "icon-rice.png" },
+        { naam: "Geit", bestand: "icon-meat.png" },
+        { naam: "Chili", bestand: "icon-chili.png" }
+    ],
+
+    "west-afrika": [
+        { naam: "Cassave", bestand: "icon-root.png" },
+        { naam: "Yam", bestand: "icon-root.png" },
+        { naam: "Plantain", bestand: "icon-banana.png" },
+        { naam: "Pinda's", bestand: "icon-beans.png" },
+        { naam: "Rijst", bestand: "icon-rice.png" }
+    ],
+
+    "hoorn-van-afrika": [
+        { naam: "Injera", bestand: "icon-bread.png" },
+        { naam: "Linzen", bestand: "icon-beans.png" },
+        { naam: "Berbere", bestand: "icon-chili.png" },
+        { naam: "Kikkererwten", bestand: "icon-beans.png" },
+        { naam: "Koffie", bestand: "icon-bowl.png" }
+    ],
+
+    "centraal-afrika": [
+        { naam: "Cassave", bestand: "icon-root.png" },
+        { naam: "Plantain", bestand: "icon-banana.png" },
+        { naam: "Pinda's", bestand: "icon-beans.png" },
+        { naam: "Palmolie", bestand: "icon-oil.png" },
+        { naam: "Vis", bestand: "icon-fish.png" }
+    ],
+
+    "oost-afrika": [
+        { naam: "Kokosmelk", bestand: "icon-coconut.png" },
+        { naam: "Cassave", bestand: "icon-root.png" },
+        { naam: "Mango", bestand: "icon-avocado.png" },
+        { naam: "Linz­en", bestand: "icon-beans.png" },
+        { naam: "Kardemom", bestand: "icon-herbs.png" }
+    ],
+
+    
+    "eilanden-indische-oceaan": [
+        { naam: "Rijst", bestand: "icon-rice.png" },
+        { naam: "Vis", bestand: "icon-fish.png" },
+        { naam: "Kokosmelk", bestand: "icon-coconut.png" },
+        { naam: "Chilipepers", bestand: "icon-chili.png" },
+        { naam: "Specerijen", bestand: "icon-herbs.png" }
+    ],
+
+    "zambezi-zuidoost-afrika": [
+        { naam: "Maïs", bestand: "icon-corn.png" },
+        { naam: "Pinda's", bestand: "icon-beans.png" },
+        { naam: "Bladgroenten", bestand: "icon-leaf.png" },
+        { naam: "Vis", bestand: "icon-fish.png" },
+        { naam: "Kokosmelk", bestand: "icon-coconut.png" }
+    ],
+
+    "zuidelijk-afrika": [
+        { naam: "Maïs", bestand: "icon-corn.png" },
+        { naam: "Sorghum", bestand: "icon-grain.png" },
+        { naam: "Gegrild vlees", bestand: "icon-meat.png" },
+        { naam: "Bonen", bestand: "icon-beans.png" },
+        { naam: "Pompoen", bestand: "icon-bowl.png" }
+    ],
+
+    // Noord-Amerika
+    "arctische-wereld": [
+        { naam: "Vis", bestand: "icon-fish.png" },
+        { naam: "Wild", bestand: "icon-meat.png" },
+        { naam: "Bessen", bestand: "icon-avocado.png" }
+    ],
+
+    canada: [
+        { naam: "Zalm", bestand: "icon-fish.png" },
+        { naam: "Esdoornsiroop", bestand: "icon-bowl.png" },
+        { naam: "Wilde bessen", bestand: "icon-avocado.png" },
+        { naam: "Paddenstoelen", bestand: "icon-mushroom.png" },
+        { naam: "Wortelgroenten", bestand: "icon-root.png" }
+    ],
+
+    "verenigde-staten": [
+        { naam: "Maïs", bestand: "icon-corn.png" },
+        { naam: "Bonen", bestand: "icon-beans.png" },
+        { naam: "Pompoen", bestand: "icon-bowl.png" },
+        { naam: "Barbecuevlees", bestand: "icon-meat.png" },
+        { naam: "Zeevruchten", bestand: "icon-fish.png" }
+    ],
+
+    // Latijns-Amerika
+    mexicaans: [
+        { naam: "Maïs", bestand: "icon-corn.png" },
+        { naam: "Chilipeper", bestand: "icon-chili.png" },
+        { naam: "Bonen", bestand: "icon-beans.png" },
+        { naam: "Avocado", bestand: "icon-avocado.png" },
+        { naam: "Limoen", bestand: "icon-citrus.png" }
+    ],
+
+    "centraal-amerika": [
+        { naam: "Maïs", bestand: "icon-corn.png" },
+        { naam: "Bonen", bestand: "icon-beans.png" },
+        { naam: "Rijst", bestand: "icon-rice.png" },
+        { naam: "Plantain", bestand: "icon-banana.png" },
+        { naam: "Yuca", bestand: "icon-root.png" }
+    ],
+
+    caribisch: [
+        { naam: "Rijst", bestand: "icon-rice.png" },
+        { naam: "Bonen", bestand: "icon-beans.png" },
+        { naam: "Kokos", bestand: "icon-coconut.png" },
+        { naam: "Plantain", bestand: "icon-banana.png" },
+        { naam: "Vis", bestand: "icon-fish.png" }
+    ],
+
+    andes: [
+        { naam: "Aardappelen", bestand: "icon-potato.png" },
+        { naam: "Quinoa", bestand: "icon-grain.png" },
+        { naam: "Maïs", bestand: "icon-corn.png" },
+        { naam: "Bonen", bestand: "icon-beans.png" },
+        { naam: "Chili", bestand: "icon-chili.png" }
+    ],
+
+    brazilie: [
+        { naam: "Cassave", bestand: "icon-cassava.png" },
+        { naam: "Zwarte bonen", bestand: "icon-black-beans.png" },
+        { naam: "Rijst", bestand: "icon-rice.png" },
+        { naam: "Kokos", bestand: "icon-coconut.png" },
+        { naam: "Palmolie", bestand: "icon-palm-oil.png" }
+    ],
+
+    "amazone-guyanas": [
+        { naam: "Cassave", bestand: "icon-root.png" },
+        { naam: "Rijst", bestand: "icon-rice.png" },
+        { naam: "Kokos", bestand: "icon-coconut.png" },
+        { naam: "Plantain", bestand: "icon-banana.png" },
+        { naam: "Tropisch fruit", bestand: "icon-avocado.png" }
+    ],
+
+    amazonegebied: [
+        { naam: "Cassave", bestand: "icon-root.png" },
+        { naam: "Zoetwatervis", bestand: "icon-fish.png" },
+        { naam: "Bakbanaan", bestand: "icon-banana.png" },
+        { naam: "Chilipeper", bestand: "icon-chili.png" },
+        { naam: "Kruiden", bestand: "icon-herbs.png" }
+    ],
+
+    pampas: [
+        { naam: "Rundvlees", bestand: "icon-meat.png" },
+        { naam: "Aardappelen", bestand: "icon-potato.png" },
+        { naam: "Maïs", bestand: "icon-corn.png" },
+        { naam: "Wijn", bestand: "icon-bowl.png" },
+        { naam: "Chimichurri", bestand: "icon-herbs.png" }
+    ],
+
+    // Oceanië
+    australie: [
+        { naam: "Zeevruchten", bestand: "icon-fish.png" },
+        { naam: "Lamsvlees", bestand: "icon-meat.png" },
+        { naam: "Avocado", bestand: "icon-avocado.png" },
+        { naam: "Citrus", bestand: "icon-citrus.png" },
+        { naam: "Macadamia", bestand: "icon-beans.png" }
+    ],
+
+    "nieuw-zeeland": [
+        { naam: "Lamsvlees", bestand: "icon-meat.png" },
+        { naam: "Zalm", bestand: "icon-fish.png" },
+        { naam: "Mosselen", bestand: "icon-fish.png" },
+        { naam: "Kūmara", bestand: "icon-root.png" },
+        { naam: "Bessen", bestand: "icon-avocado.png" }
+    ],
+
+    melanesie: [
+        { naam: "Taro", bestand: "icon-root.png" },
+        { naam: "Cassave", bestand: "icon-root.png" },
+        { naam: "Kokos", bestand: "icon-coconut.png" },
+        { naam: "Banaan", bestand: "icon-banana.png" },
+        { naam: "Vis", bestand: "icon-fish.png" }
+    ],
+
+    polynesie: [
+        { naam: "Vis", bestand: "icon-fish.png" },
+        { naam: "Kokosmelk", bestand: "icon-coconut.png" },
+        { naam: "Taro", bestand: "icon-root.png" },
+        { naam: "Broodvrucht", bestand: "icon-bread.png" },
+        { naam: "Limoen", bestand: "icon-citrus.png" }
+    ],
+
+    micronesie: [
+        { naam: "Tonijn", bestand: "icon-fish.png" },
+        { naam: "Kokos", bestand: "icon-coconut.png" },
+        { naam: "Rijst", bestand: "icon-rice.png" },
+        { naam: "Taro", bestand: "icon-root.png" },
+        { naam: "Pandan", bestand: "icon-leaf.png" }
+    ]
+
+};
+
+const regioFotos = {
+
+    // Europa
+    balkan: "feature-balkanAI.jpg",
+    "oost-centraal-europa": "feature-oost-centraal-europaAI.jpg",
+    scandinavie: "feature-scandinavieAI.jpg",
+    "britse-eilanden": "feature-groot-brittannie-ierlandAI.jpg",
+    germaans: "feature-duitsland-beneluxAI.jpg",
+    "midden-europa": "feature-frankrijk-alpenlandenAI.jpg",
+    mediterraans: "feature-mediterraansAI.jpg",
+    "noord-oost-europa": "feature-noord-eurazieAI.jpg",
+
+    // Midden-Oosten
+    anatolie: "feature-anatolieAI.jpg",
+    levant: "feature-levantAI.jpg",
+    perzie: "feature-perzieAI.jpg",
+    "arabisch-schiereiland": "feature-arabisch-schiereilandAI.jpg",
+
+    // Azië
+    siberie: "feature-siberieAI.jpg",
+    "noordoost-azie": "feature-noordoost-azieAI.jpg",
+    kaukasus: "feature-kaukasusAI.jpg",
+    "centraal-aziatisch": "feature-centraal-azieAI.jpg",
+    "china-oost-azie": "feature-china-oost-azieAI.jpg",
+    japan: "feature-japanAI.jpg",
+    "indo-chinees": "feature-vasteland-zuidoost-azieAI.jpg",
+    "maleis-indonesisch": "feature-maleis-indonesischAI.jpg",
+    filipijns: "feature-filipijnenAI.jpg",
+    "zuid-aziatisch": "feature-zuid-aziatischAI.jpg",
+    siberie: "feature-siberieAI.jpg",
+    "noordoost-azie": "feature-noordoost-azieAI.jpg",
+
+    // Afrika
+    maghreb: "feature-maghrebAI.jpg",
+    nijlvallei: "feature-nijlvalleiAI.jpg",
+    sahel: "feature-sahelAI.jpg",
+    "west-afrika": "feature-west-afrikaAI.jpg",
+    "hoorn-van-afrika": "feature-hoorn-van-afrikaAI.jpg",
+    "centraal-afrika": "feature-centraal-afrikaAI.jpg",
+    "oost-afrika": "feature-oost-afrikaAI.jpg",
+    "eilanden-indische-oceaan": "feature-eilanden-indische-oceaanAI.jpg",
+    "zambezi-zuidoost-afrika": "feature-zambezi-zuidoost-afrikaAI.jpg",
+    "zuidelijk-afrika": "feature-zuidelijk-afrikaAI.jpg",
+
+    // Noord-Amerika
+    "arctische-wereld": "feature-arctische-wereldAI.jpg", 
+    canada: "feature-canadaAI.jpg",
+    "verenigde-staten": "feature-verenigde-statenAI.jpg",
+
+    // Latijns-Amerika
+    mexicaans: "feature-mexicaansAI.jpg",
+    "centraal-amerika": "feature-centraal-amerikaAI.jpg",
+    caribisch: "feature-caribischAI.jpg",
+    andes: "feature-andesAI.jpg",
+    brazilie: "feature-brazilieAI.jpg",
+    "amazone-guyanas": "feature-amazone-guyanasAI.jpg",
+    amazonegebied: "feature-amazonegebiedAI.jpg",
+    pampas: "feature-pampasAI.jpg",
+
+    // Oceanië
+    australie: "feature-australieAI.jpg",
+    "nieuw-zeeland": "feature-nieuw-zeelandAI.jpg",
+    melanesie: "feature-melanesieAI.jpg",
+    polynesie: "feature-polynesieAI.jpg",
+    micronesie: "feature-micronesieAI.jpg"
+};
+
+let geselecteerdeRegio = null;
+
+function vindLanden(landcode) {
+
+    const resultaten = [];
+
+    // Zoek op ID
+    const byId = document.getElementById(landcode);
+
+    if (byId) {
+        resultaten.push(byId);
+    }
+
+    // Zoek op name
+    document
+        .querySelectorAll(`[name="${landcode}"]`)
+        .forEach(el => resultaten.push(el));
+        
+    // Zoek op class
+    document
+        .querySelectorAll(`[class="${landcode}"]`)
+        .forEach(el => resultaten.push(el));
+
+    return resultaten;
+}
+
+function maakKaartInteractief() {
+    Object.entries(continenten).forEach(
+        function ([continentNaam, landcodes]) {
+
+            landcodes.forEach(function (landcode) {
+
+			const landen = vindLanden(landcode);
+			
+			if (landen.length === 0) {
+    			console.warn(
+        			"Land niet gevonden in SVG:", landcode
+    		);
+
+    		return;
+			}
+
+			landen.forEach(function (land) {
+
+                land.dataset.continent = continentNaam;
+                land.dataset.werelddeel = werelddeelPerRegio[continentNaam];
+
+                land.dataset.origineleKleur =
+                    kleuren[continentNaam];    			
+                land.style.fill = kleuren[continentNaam];
+    			land.style.cursor = "pointer";
+    			land.style.transition = "filter 0.2s ease, opacity 0.2s ease";
+
+				land.addEventListener("mouseenter", function () {
+        			lichtContinentOp(continentNaam, true);
+        			
+        			toonRegioInfo(continentNaam);
+				});
+
+                land.addEventListener("mouseleave", function () {
+                    if (continentNaam !== geselecteerdeRegio) {
+                        lichtContinentOp(continentNaam, false);
+                    }
+
+                    if (geselecteerdeRegio) {
+                        toonRegioInfo(geselecteerdeRegio);
+                    }
+                });                    			
+
+                land.addEventListener("click", function () {
+
+                    const vorigeRegio = geselecteerdeRegio;
+
+                    geselecteerdeRegio = continentNaam;
+
+                    if (
+                        vorigeRegio &&
+                        vorigeRegio !== geselecteerdeRegio
+                    ) {
+                        lichtContinentOp(vorigeRegio, false);
+                    }
+
+                    lichtContinentOp(geselecteerdeRegio, true);
+
+                    toonRegioInfo(continentNaam);
+                    toonRecepten(continentNaam);
+                });				
+			});
+		});
+	});
+}
+
+function donkereKleur(hex, percentage) {
+
+    let r = parseInt(hex.substring(1, 3), 16);
+    let g = parseInt(hex.substring(3, 5), 16);
+    let b = parseInt(hex.substring(5, 7), 16);
+
+    r = Math.max(0, Math.round(r * (1 - percentage)));
+    g = Math.max(0, Math.round(g * (1 - percentage)));
+    b = Math.max(0, Math.round(b * (1 - percentage)));
+
+    return `rgb(${r},${g},${b})`;
+}
+
+function fellereKleur(hex, factor = 1.25) {
+
+    let r = parseInt(hex.substring(1, 3), 16);
+    let g = parseInt(hex.substring(3, 5), 16);
+    let b = parseInt(hex.substring(5, 7), 16);
+
+    const gemiddelde = (r + g + b) / 3;
+
+    r = Math.max(0, Math.min(255,
+        gemiddelde + (r - gemiddelde) * factor));
+
+    g = Math.max(0, Math.min(255,
+        gemiddelde + (g - gemiddelde) * factor));
+
+    b = Math.max(0, Math.min(255,
+        gemiddelde + (b - gemiddelde) * factor));
+
+    return `rgb(${Math.round(r)}, ${Math.round(g)}, ${Math.round(b)})`;
+}
+
+function lichtereKleur(hex, percentage) {
+
+    let r = parseInt(hex.substring(1, 3), 16);
+    let g = parseInt(hex.substring(3, 5), 16);
+    let b = parseInt(hex.substring(5, 7), 16);
+
+    r = Math.min(255, Math.round(r + (255 - r) * percentage));
+    g = Math.min(255, Math.round(g + (255 - g) * percentage));
+    b = Math.min(255, Math.round(b + (255 - b) * percentage));
+
+    return `rgb(${r},${g},${b})`;
+}
+
+function lichtContinentOp(continentNaam, actief) {
+
+    const regioLanden =
+        document.querySelectorAll(
+            `[data-continent="${continentNaam}"]`
+        );
+
+    regioLanden.forEach(land => {
+
+        if (actief) {
+
+            const werelddeel =
+                land.dataset.werelddeel;
+
+            land.style.fill =
+                highlightKleuren[werelddeel];
+
+        } else {
+
+            land.style.fill =
+                kleuren[continentNaam];
+
+        }
+
+    });
+}
+
+function toonRegioFoto(regioNaam) {
+
+    const afbeelding =
+        document.getElementById("regionImage");
+
+    const label =
+        document.getElementById("regionImageLabel");
+
+    const visual =
+        document.getElementById("regionVisual");
+
+    const info =
+        regioBeschrijving[regioNaam];
+
+    const foto =
+        regioFotos[regioNaam];
+
+    if (!afbeelding || !info || !foto) {
+        return;
+    }
+
+    afbeelding.src =
+        `images/features/${foto}`;
+
+    afbeelding.alt =
+        `Culinaire sfeerimpressie van ${info.titel}`;
+
+    if (label) {
+        label.textContent = info.titel;
+    }
+
+    if (visual) {
+        visual.hidden = false;
+    }
+}
+
+function toonRegioInfo(continentNaam) {
+
+    const info =
+        regioBeschrijving[continentNaam];
+
+    if (!info) return;
+
+    const iconen =
+        regioIngredientIconen[continentNaam];
+
+    let ingredientenHtml = "";
+
+    if (iconen && iconen.length > 0) {
+
+        ingredientenHtml = `
+            <div class="ingredienten-blok">
+
+                <div class="regio-label">
+                    Kenmerkende ingrediënten
+                </div>
+
+                <ul class="ingredienten-lijst">
+
+                    ${iconen.map(item => `
+                        <li>
+                            <img
+                                src="images/icons/${item.bestand}"
+                                alt=""
+                                aria-hidden="true"
+                            >
+                            <span>${item.naam}</span>
+                        </li>
+                    `).join("")}
+
+                </ul>
+
+            </div>
+        `;
+
+    } else {
+
+        ingredientenHtml = `
+            <div class="ingredienten-blok">
+
+                <div class="regio-label">
+                    Kenmerkende ingrediënten
+                </div>
+
+                <p>${info.ingredienten}</p>
+
+            </div>
+        `;
+    }
+
+    // Schakel introductie uit zodra een regio op de kaart wordt verkend.
+    document.querySelector(".featured-region")?.classList.add("has-region");
+
+    document.getElementById("regioInfo").innerHTML = `
+
+        <h2>${info.titel}</h2>
+
+        <div class="regio-beschrijving">
+
+            <div class="regio-label">
+                Kenmerken
+            </div>
+
+            <p>${info.beschrijving}</p>
+
+        </div>
+
+        ${ingredientenHtml}
+    `;
+
+    toonRegioFoto(continentNaam);
+}
+
+/* Receptkaarten: zowel selectie van een regio als een gevarieerde startpagina. */
+function maakReceptkaart(sleutel, regioLabel = "") {
+    const recept = recepten[sleutel];
+    if (!recept) return "";
+
+    const label = regioLabel
+        ? `<span class="recept-card-region">${regioLabel}</span>`
+        : "";
+
+    return `
+    <a class="recept-card" href="${recept.url}${geselecteerdeRegio ? 
+        '&regio=' + encodeURIComponent(geselecteerdeRegio) : ''}">
+            <div class="recept-card-photo">
+                <img src="${recept.afbeelding}" alt="${recept.titel}" loading="lazy">
+            </div>
+            <div class="recept-card-content">
+                ${label}
+                <h3>${recept.titel}</h3>
+                <p>${recept.korteBeschrijving}</p>
+            </div>
+        </a>
+    `;
+}
+
+function toonReceptKaarten(sleutels, titel, regioLabels = {}) {
+    const titelElement = document.getElementById("receptTitel");
+    const container = document.getElementById("receptenContainer");
+    if (!container) return;
+
+    const html = sleutels
+        .map(sleutel => maakReceptkaart(sleutel, regioLabels[sleutel] || ""))
+        .join("");
+
+    if (!html.trim()) {
+        container.style.display = "none";
+        container.innerHTML = "";
+        if (titelElement) titelElement.style.display = "none";
+        return;
+    }
+
+    if (titelElement) {
+        titelElement.textContent = titel;
+        titelElement.style.display = "block";
+    }
+    container.innerHTML = html;
+    container.style.display = "grid";
+}
+
+function toonRecepten(regioNaam) {
+    receptenGereed.then(() => {
+        const regio = regioBeschrijving[regioNaam];
+        const namen = regioRecepten[regioNaam] || [];
+        toonReceptKaarten(namen, regio ? `Gerechten uit ${regio.titel}` : "Gerechten uit de wereld");
+    }).catch(() => {});
+}
+
+function toonWereldRecepten() {
+    // Vier bestaande recepten, elk uit een andere culinaire regio.
+    toonReceptKaarten(
+        ["rendang", "paella", "jollofRice", "ceviche"],
+        "Vier smaken uit de wereld",
+        {
+            rendang: "Maleis-Indonesisch",
+            paella: "Zuid-Europa",
+            jollofRice: "West-Afrika",
+            ceviche: "Andes"
+        }
+    );
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+    receptenGereed.then(() => {
+        const regio = new URLSearchParams(window.location.search).get('regio');
+        if (!regio || !Object.prototype.hasOwnProperty.call(continenten, regio)) {
+            toonWereldRecepten();
+        }
+    }).catch(() => {});
+});
+
+function pasSidebarHoogteAan() {
+    const kaart = document.getElementById("world-map");
+    const sidebar = document.querySelector(".sidebar");
+
+    if (!kaart || !sidebar) return;
+
+    if (window.innerWidth > 800) {
+        sidebar.style.height = `${kaart.offsetHeight}px`;
+    } else {
+        sidebar.style.height = "";
+    }
+}
+
+window.addEventListener("resize", pasSidebarHoogteAan);

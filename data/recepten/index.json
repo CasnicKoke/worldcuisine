@@ -1412,8 +1412,8 @@
       "bestand": "data/recepten/caldeirada.json"
     },
     "asado": {
-      "titel": "Asado",
-      "korteBeschrijving": "Argentijnse en Uruguayaanse barbecue van verschillende stukken vlees, langzaam boven vuur gegrild.",
+      "titel": "Asado Argentino – Argentinië",
+      "korteBeschrijving": "Argentijnse parrilla met langzaam gegrilde runderribben, malse bavette en verse grillworst, geserveerd met chimichurri en een frisse salade.",
       "afbeelding": "images/recepten/AsadoAI.webp",
       "url": "recepten.html?id=asado",
       "regios": [
@@ -1421,35 +1421,35 @@
       ],
       "bestand": "data/recepten/asado.json"
     },
-    "choripan": {
-      "titel": "Choripán",
-      "korteBeschrijving": "Gegrilde chorizo in knapperig brood, vaak geserveerd met frisse chimichurri.",
-      "afbeelding": "images/recepten/ChoripanAI.webp",
-      "url": "recepten.html?id=choripan",
+    "pascualina": {
+      "titel": "Pascualina – Uruguay",
+      "korteBeschrijving": "Uruguayaanse hartige taart met spinazie, ricotta, Parmezaanse kaas en hele eieren, gebakken tussen twee dunne lagen zelfgemaakt deeg.",
+      "afbeelding": "images/recepten/PascualinaAI.webp",
+      "url": "recepten.html?id=pascualina",
       "regios": [
         "pampas"
       ],
-      "bestand": "data/recepten/choripan.json"
+      "bestand": "data/recepten/pascualina.json"
     },
-    "milanesa": {
-      "titel": "Milanesa",
-      "korteBeschrijving": "Dun stuk vlees, gepaneerd en goudbruin gebakken, een geliefde klassieker in de Río de la Plata.",
-      "afbeelding": "images/recepten/MilanesaAI.webp",
-      "url": "recepten.html?id=milanesa",
+    "voriVori": {
+      "titel": "Vori Vori de Gallina – Paraguay",
+      "korteBeschrijving": "Paraguayaanse maaltijdsoep van kip, pompoen en groenten met kleine zachte balletjes van maïsmeel en kaas, afgewerkt met verse koriander.",
+      "afbeelding": "images/recepten/VoriVoriAI.webp",
+      "url": "recepten.html?id=voriVori",
       "regios": [
         "pampas"
       ],
-      "bestand": "data/recepten/milanesa.json"
+      "bestand": "data/recepten/voriVori.json"
     },
-    "empanadas": {
-      "titel": "Empanadas",
-      "korteBeschrijving": "Goudbruine deegpasteitjes gevuld met gekruid vlees, ui, kaas of andere hartige vullingen.",
-      "afbeelding": "images/recepten/EmpanadasAI.webp",
-      "url": "recepten.html?id=empanadas",
+    "empanadasTucumanas": {
+      "titel": "Empanadas Tucumanas – Argentinië",
+      "korteBeschrijving": "Goudbruine Argentijnse ovenpasteitjes met sappig, met het mes gesneden rundvlees, ui, lente-ui, komijn en hardgekookt ei, geserveerd met limoen en salade.",
+      "afbeelding": "images/recepten/EmpanadasTucumanasAI.webp",
+      "url": "recepten.html?id=empanadasTucumanas",
       "regios": [
         "pampas"
       ],
-      "bestand": "data/recepten/empanadas.json"
+      "bestand": "data/recepten/empanadasTucumanas.json"
     },
     "meatPie": {
       "titel": "Australian Meat Pie – Australische rundvleespastei",
@@ -1880,6 +1880,46 @@
         "nieuw-zeeland"
       ],
       "bestand": "data/recepten/southlandCheeseRolls.json"
+    },
+    "pastelDeChoclo": {
+      "titel": "Pastel de Choclo – Chili",
+      "korteBeschrijving": "Chileense ovenschotel met kruidig rundergehakt, kip, ei en olijven onder een goudbruine laag romige maïs en basilicum, met een frisse tomatensalade.",
+      "afbeelding": "images/recepten/PastelDeChocloAI.webp",
+      "url": "recepten.html?id=pastelDeChoclo",
+      "regios": [
+        "chili-patagonie"
+      ],
+      "bestand": "data/recepten/pastelDeChoclo.json"
+    },
+    "curantoEnOlla": {
+      "titel": "Curanto en Olla (Pulmay) – Chiloé, Chili",
+      "korteBeschrijving": "Traditionele Chileense stoofpot uit Chiloé met mosselen, venusschelpen, kip, varkensvlees, worst en aardappelen, afgedekt met koolbladeren en gestoomde chapaleles.",
+      "afbeelding": "images/recepten/CurantoEnOllaAI.webp",
+      "url": "recepten.html?id=curantoEnOlla",
+      "regios": [
+        "chili-patagonie"
+      ],
+      "bestand": "data/recepten/curantoEnOlla.json"
+    },
+    "corderoPatagonico": {
+      "titel": "Cordero Patagónico – Chileens Patagonisch lamsgebraad",
+      "korteBeschrijving": "Langzaam in de oven gegaarde Patagonische lamsschouder met een eenvoudige salmuera van knoflook en oregano, geserveerd met warme krieltjes, Chileense pebre en groene sla.",
+      "afbeelding": "images/recepten/CorderoPatagonicoAI.webp",
+      "url": "recepten.html?id=corderoPatagonico",
+      "regios": [
+        "chili-patagonie"
+      ],
+      "bestand": "data/recepten/corderoPatagonico.json"
+    },
+    "porotosGranados": {
+      "titel": "Porotos Granados con Mazamorra – Chili",
+      "korteBeschrijving": "Chileense vegetarische bonenstoofpot met pompoen, maïs en basilicum, romig gebonden met gemalen maïs en afgewerkt met een beetje paprikaolie.",
+      "afbeelding": "images/recepten/PorotosGranadosAI.webp",
+      "url": "recepten.html?id=porotosGranados",
+      "regios": [
+        "chili-patagonie"
+      ],
+      "bestand": "data/recepten/porotosGranados.json"
     }
   }
 }

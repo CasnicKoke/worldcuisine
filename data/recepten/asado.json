@@ -3,8 +3,9 @@
   "regios": [
     "pampas"
   ],
-  "titel": "Asado",
-  "korteBeschrijving": "Argentijnse en Uruguayaanse barbecue van verschillende stukken vlees, langzaam boven vuur gegrild.",
+  "titel": "Asado Argentino – Argentinië",
+  "korteBeschrijving": "Argentijnse parrilla met langzaam gegrilde runderribben, malse bavette en verse grillworst, geserveerd met chimichurri en een frisse salade.",
+  "beschrijving": "Asado Argentino is meer dan een barbecue: op de traditionele parrilla garen verschillende stukken vlees rustig boven een gelijkmatig houtskoolvuur. Voor deze praktische versie combineren we asado de tira, dwars door het bot gesneden runderribben, met sappige bavette en verse chorizo criollo. De ribben liggen eerst langdurig met de botzijde naar de warmte, terwijl bavette en worst later worden toegevoegd. We serveren het vlees eenvoudig, met verse chimichurri van peterselie, oregano, knoflook en rodewijnazijn, en een salade van tomaat en sla. De saus komt pas aan tafel over het vlees, zodat de pure grillsmaak behouden blijft.",
   "afbeelding": "images/recepten/AsadoAI.webp",
   "url": "recepten.html?id=asado",
   "volgorde": 143,
@@ -12,14 +13,77 @@
     "pampas": 0
   },
   "porties": 4,
-  "bereidingstijdMinuten": null,
-  "moeilijkheid": null,
-  "ingredienten": [],
-  "bereiding": [],
+  "bereidingstijdMinuten": 150,
+  "moeilijkheid": "Gemiddeld",
+  "ingredienten": [
+    "Voor de parrilla:",
+    "600 g asado de tira (runderribben dwars op het bot gezaagd, circa 2–3 cm dik; vraag de slager)",
+    "350 g bavette (flank steak), in één stuk",
+    "2 verse chorizo criollo of milde rauwe varkensgrillworsten (samen circa 180 g; geen droge Spaanse chorizo)",
+    "1½ tl grof zeezout",
+    "Houtskool of briketten, voor een barbecue met deksel",
+    "Voor de chimichurri:",
+    "25 g platte peterselie",
+    "2 tenen knoflook",
+    "1 tl gedroogde oregano",
+    "½ tl chilivlokken (optioneel)",
+    "3 el rodewijnazijn",
+    "75 ml olijfolie",
+    "2 el lauwwarm water",
+    "Zout en zwarte peper, naar smaak",
+    "Voor de salade:",
+    "150 g gemengde sla",
+    "3 rijpe tomaten",
+    "1 kleine rode ui",
+    "1 el olijfolie",
+    "1 el citroensap",
+    "Zout, naar smaak"
+  ],
+  "bereiding": [
+    "Bereid de chimichurri minstens 30 minuten van tevoren. Hak de peterselie heel fijn. Pel de knoflook en hak deze fijn.",
+    "Meng de peterselie en knoflook met de oregano, eventueel de chilivlokken, rodewijnazijn, olijfolie en het lauwwarme water. Breng op smaak met zout en zwarte peper. Zet afgedekt weg op kamertemperatuur zolang je de barbecue voorbereidt; zet de saus bij langere wachttijd in de koelkast.",
+    "Haal de runderribben en bavette ongeveer 30 minuten voor het grillen uit de koelkast. Dep het vlees droog. Bewaar de verse grillworsten tot gebruik koel.",
+    "Steek de barbecue aan en richt deze in met twee zones: een matig hete zone boven houtskool en een zone zonder directe kolen. Laat de barbecue met deksel stabiliseren rond 160–180 °C. Zorg dat de grillroosters schoon zijn.",
+    "Bestrooi de runderribben met ongeveer de helft van het grove zeezout. Leg ze eerst met de botzijde naar beneden op de matig hete zone, niet pal boven vlammen. Sluit het deksel.",
+    "Gril de ribben afhankelijk van de dikte ongeveer 60–90 minuten. Keer ze na ongeveer 45 minuten en daarna zo nodig nog eenmaal. Het vet moet rustig uitbakken en het vlees een diepbruine korst krijgen, zonder zwart te verbranden. Verplaats naar de koelere zone als het te snel kleurt.",
+    "Was ondertussen de sla en laat deze goed uitlekken. Snijd de tomaten in parten en de rode ui in dunne halve ringen. Meng de olijfolie en het citroensap voor de salade en houd de dressing apart.",
+    "Leg wanneer de ribben nog ongeveer 20 minuten nodig hebben de verse grillworsten op het rooster, op matige indirecte hitte. Gril ze 15–20 minuten, keer regelmatig en controleer of ze binnenin minstens 72 °C bereiken. Haal ze van de barbecue en houd warm.",
+    "Bestrooi de bavette vlak voor het grillen met het resterende grove zeezout. Schuif indien nodig de ribben naar de indirecte zone en maak de directe zone heter.",
+    "Gril de bavette op directe hoge hitte ongeveer 3–5 minuten per kant, afhankelijk van de dikte, tot circa 54–57 °C kerntemperatuur voor medium-rare. Meet in het dikste deel met een kernthermometer. Voor wie het vlees verder doorbakken wil, laat het langer garen.",
+    "Leg de bavette op een snijplank, dek losjes af en laat ongeveer 8–10 minuten rusten. Haal ondertussen de ribben van het rooster wanneer ze voldoende bruin en gaar zijn en laat ze enkele minuten rusten.",
+    "Schep de saladedressing door de sla, tomaat en rode ui en breng op smaak met zout.",
+    "Snijd de bavette met een scherp mes dwars op de draad in dunne plakken. Snijd de runderribben tussen de botstukken en halveer eventueel de gegrilde worsten.",
+    "Leg alle vleessoorten op een grote houten plank of schaal. Serveer direct met de chimichurri in een kommetje en de frisse salade apart. De chimichurri wordt pas aan tafel over het vlees geschept."
+  ],
+  "weetje": "Asado is een van de bekendste rituelen van Argentinië, en het ontstond niet simpelweg als een moderne barbecue. Toen runderen zich na de Spaanse kolonisatie over de uitgestrekte graslanden van de Pampas verspreidden, werd rundvlees een belangrijk onderdeel van het voedsel van de *gauchos*. Deze ruiters en veedrijvers bereidden vlees buiten boven houtvuur of gloeiende houtskool. Later kreeg het ritueel een vaste plaats in de steden, waar de *parrilla* – het metalen grillrooster – de open vuren op het platteland aanvulde. Vandaag gaat een asado evenzeer om urenlang samenzijn als om het bereiden van vlees.\n\nDe asado heeft ook een eigen vocabulaire. *Asado de tira* zijn ribben die dwars door het bot in stroken zijn gezaagd, terwijl *vacío* en *entraña* andere geliefde stukken uit de flank zijn. Een traditionele maaltijd begint vaak met *chorizo criollo*, een verse grillworst die soms in brood als *choripán* wordt gegeten. Daarna verschijnen de grotere stukken rundvlees. De grillmeester, *asador*, beheerst de hitte door kolen te verplaatsen in plaats van met hoge vlammen te werken. Het vlees wordt meestal eenvoudig met zout op smaak gebracht.\n\nDe kenmerkende saus, *chimichurri*, bestaat doorgaans uit peterselie, oregano, knoflook, azijn, olie en soms chilipeper. Anders dan bij veel barbecuemarinades wordt zij vaak pas bij het serveren toegevoegd. Over de herkomst van de naam bestaan verschillende volksverhalen, waaronder een verhaal over een Engelse uitdrukking, maar geen daarvan is overtuigend bewezen. De combinatie van kruidensaus en langzaam geroosterd vlees groeide uit tot een nationaal herkenbare smaak.\n\nZelfs in het huidige Argentinië blijft de asado verbonden met de Pampas en de gauchocultuur. De Argentijnse overheid noemt de pampavlakte de bakermat van deze traditie, terwijl ook in Buenos Aires de zondagse asado met familie of vrienden een geliefde gewoonte is. Bij sommige bijeenkomsten wordt het vlees aan een kruis naast het vuur bereid; in de stad overheerst de parrilla. Onze versie met runderribben, bavette en verse grillworst is kleiner en praktisch uitvoerbaar voor vier personen, maar behoudt het belangrijkste principe: verschillende stukken vlees krijgen ieder hun eigen rustige bereiding boven houtskool.",
   "bron": {
-    "receptTitel": null,
-    "auteur": null,
-    "kookboek": null,
-    "url": null
-  }
+    "receptTitel": "Asado – een Argentijns ritueel (geïnspireerd op)",
+    "auteur": "Visit Argentina",
+    "kookboek": "Ministerio de Turismo y Deportes / Argentina Travel",
+    "jaar": null,
+    "url": "https://www.argentina.travel/en/news/el-asado-guia-para-vivir-el-ritual-mas-sabroso"
+  },
+  "extraBronnen": [
+    {
+      "receptTitel": "Asado – nationale culinaire traditie",
+      "auteur": "Gobierno de Argentina",
+      "kookboek": "Argentina.gob.ar",
+      "jaar": null,
+      "url": "https://www.argentina.gob.ar/jefatura/turismo/viaja-por-argentina/asado"
+    },
+    {
+      "receptTitel": "Asado – an Argentine ritual",
+      "auteur": "Turismo Buenos Aires",
+      "kookboek": "Buenos Aires Ciudad",
+      "jaar": null,
+      "url": "https://turismo.buenosaires.gob.ar/es/node/68492"
+    },
+    {
+      "receptTitel": "Tiempos de cocción de la carne",
+      "auteur": null,
+      "kookboek": "Hacer Asado",
+      "jaar": null,
+      "url": "https://hacerasado.com.ar/tiempos-de-coccion-de-la-carne/"
+    }
+  ]
 }

@@ -223,9 +223,9 @@
   ],
   "pampas": [
     "asado",
-    "choripan",
-    "milanesa",
-    "empanadas"
+    "pascualina",
+    "voriVori",
+    "empanadasTucumanas"
   ],
   "australie": [
     "meatPie",
@@ -280,5 +280,11 @@
     "arcticCharBannock",
     "salmonPerok",
     "caribouStew"
+  ],
+  "chili-patagonie": [
+    "pastelDeChoclo",
+    "curantoEnOlla",
+    "corderoPatagonico",
+    "porotosGranados"
   ]
 }
